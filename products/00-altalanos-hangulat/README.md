@@ -3,7 +3,7 @@
 | | |
 | --- | --- |
 | **Helyiség** | — |
-| **Termékek** | 65 db |
+| **Termékek** | 66 db |
 | **Áradatok dátuma** | 2026-09-20 |
 | **Inspirációs képek** | [`../../inpiration/00-altalanos-hangulat/`](../../inpiration/00-altalanos-hangulat/README.md) |
 
@@ -29,6 +29,7 @@
 
 | Tételkör | Miért / milyen feltétellel? |
 | --- | --- |
+| Fehér mennyezeti függönysín | A használt alvóhely két textilrétegének mennyezeti rögzítése P1. **Feltétel:** A használt helyiséghez szükséges függöny és karnis együtt P1. A darabszám itt csak 1 áregység, nem rendelési mennyiség. |
 | Babavédelem – sarokvédő | A használatba vett gyerekzónában szükséges élvédelem ne maradjon későbbre. **Feltétel:** A helyszínen szükséges és a bútorhoz/szerelvényhez megfelelő védelem P1; nem automatikusan minden listázott darab. |
 | Babavédelem – szekrény-/fiókzár | A gyerek számára hozzáférhető, elzárandó tartalmak védelme induláskor szükséges. **Feltétel:** A helyszínen szükséges és a bútorhoz/szerelvényhez megfelelő védelem P1; nem automatikusan minden listázott darab. |
 | Babavédelem – bútorrögzítő | A beköltözéskor használt, rögzítést igénylő bútorokat használat előtt rögzíteni kell. **Feltétel:** A helyszínen szükséges és a bútorhoz/szerelvényhez megfelelő védelem P1; nem automatikusan minden listázott darab. |
@@ -63,23 +64,21 @@
 
 ⭐ = ezt venném · 💰 = olcsóbb, még vállalható · 💎 = jobb minőség, még észszerű áron
 
-### Fehér mennyezeti függönysín — Prio 1 / Prio 2
+### Fehér mennyezeti függönysín — Prio 1
 
 | Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Prio 1** | Alternatíva | [VIDGA egysín mennyezeti szerelvényekkel, 204.929.16](https://www.ikea.com/hu/hu/p/vidga-karnis-szimpla-mennyezeti-szerelvenyekkel-feher-20492916/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | alumínium, epoxi/poliészter bevonat, fehér | 140 cm/db; 2 mennyezeti tartó, 2 összekötő és 2 végzáró; csúszka/horog külön | **3 990 Ft** <br>*/sín; nem teljes kétpályás készlet* | 1 |
 | **Prio 1** | Alternatíva | [2 soros alumínium mennyezeti sín tartozékokkal, 120 cm](https://karnisstudio.hu/2-soros-aluminium-mennyezeti-sin-tartozekokkal) | **Karnisstúdió** – karnisstudio.hu; bemutatóterem: 1162 Budapest, Rákosi út 207. | fehér alumíniumsín, műanyag végzárók és csúszkák | 120 cm; két pálya; profil 44×12 mm | **6 120 Ft** <br>*/készlet; 7 200 Ft helyett, kifutó a készlet erejéig* <br>*Kivezetés alatt; csak aktuális készlet és kompatibilitás ellenőrzése után.* | 1 |
 | **Prio 1** | Alternatíva | [Basic kétsoros fehér alumíniumsín 2DM200](https://karnisshop.hu/egy-es-dupla-soros-basic-aluminium-karnis/5120-basic-ketsoros-aluminium-karnis-szett-feher-.html#/37-meret_fuggonysin-200cm) | **Karnisshop** – karnisshop.hu | fehér alumínium; két külön sín közös mennyezeti tartón | 2×200 cm sín | **11 012 Ft** <br>*/szett; a 250 cm-es változat 13 318 Ft, fuvar és további csúszkák külön* | 1 |
-| **Prio 2** | Alternatíva | [VIDGA Egyes sín készlet, fehér](https://www.ikea.com/hu/hu/p/vidga-egyes-sin-keszlet-feher-s49428232/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | eloxált/epoxi bevonatú alumínium sín, acetál csúsztatók, fehér | 140 cm/db (sín + 2 mennyezeti konzol + 2x24 db csúsztató-horog) | **5 990 Ft** <br>*/készlet* | 1 |
 
-**Prio 1:** Az első naptól használt alvóhely függönyös sötétítése a karnissal együtt P1. Feltétel: Áregység-referencia; nyílásonkénti mérés és termékpróba szükséges. A többi ablak P2 lehet.
+**Prio 1:** A használt alvóhely két textilrétegének mennyezeti rögzítése P1. Feltétel: A használt helyiséghez szükséges függöny és karnis együtt P1. A darabszám itt csak 1 áregység, nem rendelési mennyiség. Az első naptól használt alvóhely függönyös sötétítése a karnissal együtt P1. Feltétel: Áregység-referencia; nyílásonkénti mérés és termékpróba szükséges. A többi ablak P2 lehet.
 
-**Prio 2:** A ház további függönyei ütemezhetők; az első naptól szükséges alvási sötétítés és belátásvédelem P1. Feltétel: A használt helyiséghez szükséges függöny és karnis együtt P1. A darabszám itt csak 1 áregység, nem rendelési mennyiség.
+> **A beszerzési összegből kizárva:** Nyílásonkénti mérés és egységes két rétegű rendszerkiosztás hiányzik; a szobai és házszintű becsléseket nem összegezzük. Nincs kész méretezés, igazolt szín-/rendszerilleszkedés és teljes csomagár; nem rendelési mennyiség.
 
-> **A beszerzési összegből kizárva:** Nincs kész méretezés, igazolt szín-/rendszerilleszkedés és teljes csomagár; nem rendelési mennyiség. Nyílásonkénti mérés és egységes két rétegű rendszerkiosztás hiányzik; a szobai és házszintű becsléseket nem összegezzük.
-
+- **VIDGA egysín mennyezeti szerelvényekkel, 204.929.16** – Fehér, mennyezetre szerelhető sínreferencia. Két külön mozgó függönyréteghez két sínpálya szükséges; ez egyes sínkészlet. ⚠️ *Gyártói maximális terhelés 5 kg. Két 200 cm-es pályához 4 darab 140 cm-es sín, vágás/toldás és külön csúszka/horog kell. Mennyezeti kötőelemek és szerelés külön; pályatávolság a helyszín és redőzés szerint.*
 - **2 soros alumínium mennyezeti sín tartozékokkal, 120 cm** – Két textilréteghez vizsgálható, visszafogott fehér sín; feltételes árreferencia. ⚠️ *Vastag sötétítőhöz a kereskedő nem ajánlja a pályák közelsége miatt. Végzáró, csavar/tipli és csúszka szerepel a csomagban; a mellékelt rögzítő alkalmasságát a mennyezethez ellenőrizni kell. Kifutó készlet.*
 - **Basic kétsoros fehér alumíniumsín 2DM200** – A kiválasztott fehér mennyezeti kialakítás megfelelő kiindulása két textilréteghez. ⚠️ *Nem kész ablakcsomag. Sínköz, teherbírás, textilhorog-illeszkedés és a mennyezet csavarjai ellenőrizendők. Ugyanaz a 2DM200 modell ANRO-nál is, nem független termék.*
-- **VIDGA Egyes sín készlet, fehér** – Fehér, mennyezetre szerelhető sínreferencia. Két külön mozgó függönyréteghez két sínpálya szükséges; ez egyes sínkészlet. ⚠️ *A csomag rögzítéshez szükséges csavarokat/tipliket nem tartalmazza; 140 cm-nél szélesebb ablakhoz VIDGA toldóelem vagy második sín (VIDGA fali/mennyezeti alkatrészek, ~700-1500 Ft/db) szükséges.*
 
 ### Babavédelem – sarokvédő — Prio 1
 
@@ -156,12 +155,14 @@
 | Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Prio 1** | Alternatíva | [GINSTMOTT függönypár fehér, 605.971.67](https://www.ikea.com/hu/hu/p/ginstmott-fueggoenypar-feher-fueggoenyrancolo-szalaggal-60597167/) | **IKEA** – ikea.com/hu | 100% poliészter, legalább 90% újrahasznosított; fehér | 2×145×300 cm; egy pár összesen 290 cm sík szélesség | **9 990 Ft** <br>*/pár; sín, horgok és méretre igazítás külön* | 1 |
+| **Prio 1** | Alternatíva | [GOLMA fehér voile függöny, 5080042](https://jysk.hu/fuggonyok/keszfuggonyok/voile-fuggonyok/fuggony-golma-140x300-feher) | **JYSK** – jysk.hu; helyi áruházi és kiszállítási készlet ellenőrizendő | 100% poliészter (50% újrahasznosított), fehér, 50 g/m² | 140×300 cm/db; egy darab, nem pár | **3 000 Ft** <br>*/db, élő oldalon október 13-ig jelzett akció; normál ár 4 990 Ft/db* | 1 |
 
 **Prio 1:** Az első naptól használt alvóhely függönyös sötétítése a karnissal együtt P1. Feltétel: Áregység-referencia; nyílásonkénti mérés és termékpróba szükséges. A többi ablak P2 lehet.
 
 > **A beszerzési összegből kizárva:** Nincs kész méretezés, igazolt szín-/rendszerilleszkedés és teljes csomagár; nem rendelési mennyiség.
 
 - **GINSTMOTT függönypár fehér, 605.971.67** – Kedvező árú fényszűrő próba a fehér sínhez; könnyen kezelhető műszálas kompromisszum. ⚠️ *Nem len. Legfeljebb 4% zsugorodás: a méretre igazítás előtt mosandó. Kétszáz cm sínre egy pár csak 1,45-szörös bőség; a dúsabb redőzés többletanyag.*
+- **GOLMA fehér voile függöny, 5080042** – Olcsó fehér fényszűrő próba; behúzószalaggal és kampós felfüggesztéssel. ⚠️ *Műszálas voile, felület és sínhez illeszkedő kampó próbálandó. Két darab 200 cm sínre csak 1,4-szeres bőség; esti belátásvédelmet a zárt blackout ad. Mosás 30 °C kímélő; rövidítés előtt mosni/szárítani.*
 
 ### Fényszűrő len függöny — Prio 2
 

@@ -146,5 +146,30 @@
     "url": "https://www.ikea.com/hu/hu/p/ginstmott-fueggoenypar-feher-fueggoenyrancolo-szalaggal-60597167/",
     "why": "Kedvező árú fényszűrő próba a fehér sínhez; könnyen kezelhető műszálas kompromisszum.",
     "caveat": "Nem len. Legfeljebb 4% zsugorodás: a méretre igazítás előtt mosandó. Kétszáz cm sínre egy pár csak 1,45-szörös bőség; a dúsabb redőzés többletanyag."
+  },
+  {
+    "room": "00-altalanos-hangulat",
+    "tier": "alternatíva",
+    "qty": 1,
+    "verified": "product_page",
+    "checked": "2026-09-20",
+    "priority": 1,
+    "priority_reason": "Az első naptól használt alvóhely függönyös sötétítése a karnissal együtt P1.",
+    "priority_condition": "Áregység-referencia; nyílásonkénti mérés és termékpróba szükséges. A többi ablak P2 lehet.",
+    "budget_include": false,
+    "budget_exclusion_reason": "Nincs kész méretezés, igazolt szín-/rendszerilleszkedés és teljes csomagár; nem rendelési mennyiség.",
+    "availability": "verify",
+    "category": "Fényszűrő függöny",
+    "name": "GOLMA fehér voile függöny, 5080042",
+    "store": "JYSK",
+    "where": "jysk.hu; helyi áruházi és kiszállítási készlet ellenőrizendő",
+    "material_color": "100% poliészter (50% újrahasznosított), fehér, 50 g/m²",
+    "size": "140×300 cm/db; egy darab, nem pár",
+    "price_huf": 3000,
+    "price_note": "/db, élő oldalon október 13-ig jelzett akció; normál ár 4 990 Ft/db",
+    "url": "https://jysk.hu/fuggonyok/keszfuggonyok/voile-fuggonyok/fuggony-golma-140x300-feher",
+    "why": "Olcsó fehér fényszűrő próba; behúzószalaggal és kampós felfüggesztéssel.",
+    "caveat": "Műszálas voile, felület és sínhez illeszkedő kampó próbálandó. Két darab 200 cm sínre csak 1,4-szeres bőség; esti belátásvédelmet a zárt blackout ad. Mosás 30 °C kímélő; rövidítés előtt mosni/szárítani.",
+    "verification_note": "2026-09-20: élő böngészőben 3 000 Ft; a webes kivonat 3 250 Ft-os eltérő árat is mutatott. Élő ár alapján rögzítve, rendelés előtt újraellenőrizendő."
   }
 ]

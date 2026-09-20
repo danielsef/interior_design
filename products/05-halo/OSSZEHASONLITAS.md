@@ -4,7 +4,7 @@
 
 **Megerősítve: egy közös 180×200-as matrac. Az ágyneműtartó jó lenne, de nem kötelező.** Nem használunk előre rögzített kategóriaárplafont; a megfelelő teljes csomagok közül keressük a legkedvezőbb árúakat. Beköltözés: október 30. A keret önmagában nem teljes fekhely: ágyrács, alátámasztás, matrac és szállítás együtt szükséges.
 
-**Elsőként az OLSKER 180-as változatát vizsgálnám tovább; rövidebb ágyhoz a STUBBERUP az érdemi alternatíva.** A Kave Home Alguema más gyártótól származó, ágyráccsal együtt árazott összevetési pont. Ez előzetes rangsor, nem lezárt csomagajánlás. A két JYSK-modell két eltérő szerkezet, de egy beszerzési forrás.
+**A legalacsonyabb árazott keret–rács referencia most az Ada; az OLSKER/STUBBERUP marad az első tölgy irány, az Anikó pedig a tárolós alternatíva.** Az Ada szállítási határideje miatt még nem biztos P1 megoldás. A Kave Home Alguema további összevetési pont, érdemi igazolt előny nélkül nem indokolt a felára. Ez előzetes rangsor, nem lezárt csomagajánlás. A két JYSK-modell két eltérő szerkezet, de egy beszerzési forrás.
 
 ## Ellenőrzött, megfelelő fekvőméretű alternatívák
 
@@ -24,7 +24,20 @@ A terméklinkek a 2026-09-20-án megnyitott konkrét változatokra mutatnak. Az 
 | STUBBERUP | A valódi furnér megfelel a fő bútorokra elfogadott anyagelvnek; natúr felület és szabad lábazat. | Magasabb, 103 cm-es fejvég; nem tömörfa egészében. Az OLSKER-nél 9 cm-rel rövidebb, de 3 cm-rel szélesebb. A szín egyezése itt sem igazolt mintából. |
 | Alguema | Natúr tölgy/furnér, visszafogott faanyag, az adatlap szerinti minimalista kialakítás. | Jelentős felár; nem teljesen tömörfa. A lakkozás/olajozás pontos módja, a szabad lábmagasság és a színminta megerősítendő. Nem minősítjük jobb vételnek pusztán a márka vagy ár alapján. |
 
-## További források: miért nem kerültek az első három közé?
+## Új, kedvezőbb és tárolós hazai kereskedői alternatívák
+
+Az alábbi árakat és tartalmat az élő webáruházban is ellenőriztük 2026-09-20-án.
+
+| Jelölt | Méret és tartalom | Termékár / fuvar / P1 feltétel |
+| --- | --- | --- |
+| [Ada natúr 180×200](https://fenyobutor24.hu/Ada-agykeret-180039) | 189×209×82 cm, tömör fenyő; saját ágyrács, hosszirányú merevítő és támaszlábak a leírásban. Matrac és tárolófiók külön. | **92 990 Ft**, jelzett fuvar **3 990 Ft**. A „raktáron” mellett **30 munkanapon belül** szerepel: az október 30-i beköltözéshez korábbi, konkrét vállalás kell. |
+| [Anikó tárolós 180×200](https://fenyobutor24.hu/Aniko-agynemutartos-agy-180) | 190×209×89 cm, lakkozott tömör borovi fenyő; gázrugós tároló és saját fa ágyrács benne. Matrac külön. | **257 900 Ft**, jelzett fuvar **9 990 Ft**. Raktáron / 10 munkanapon belül; pontos kézbesítés megerősítendő. |
+
+A valódi fenyő megfelel az anyagkövetelménynek; a csomósság, sárgás tónus és a lakkozás fénye közös mintával ellenőrizendő. Az Anikó zártabb alja a tárolásért vállalt formai kompromisszum. A szabad lábas, nyugodt tölgy megjelenéshez továbbra is az OLSKER áll közelebb; ez saját stílusértékelés, nem gyártói tény.
+
+Az Ada olcsóbb a 115 000 Ft-os JYSK kereteknél, ráadásul rácsot is tartalmaz, de **még nem bizonyított jobb vétel**: a két felnőttre megengedett terhelés, a lamellaköz, a matraccal való használat és a határidő hiányzik. Az Anikóhoz a kereskedő [egy közös 180×200-as Perfect Fusion matracos csomagot](https://fenyobutor24.hu/spd/10030_31893/Aniko-fenyo-agynemutartos-agy-180x200-premium-7-zo) is kínál **462 990 Ft-ért**; részletes összevetés a matracfejezetben.
+
+## További források és hátrébb sorolt jelöltek
 
 | Forrás / modell | Eredmény és indok |
 | --- | --- |
@@ -36,7 +49,7 @@ A terméklinkek a 2026-09-20-án megnyitott konkrét változatokra mutatnak. Az 
 
 ## Teljes csomag és következő döntés
 
-**Új részletes vizsgálat:** [matracok, két darabos ágyrácsárak és feltételes csomagszámítások](MATRAC-OSSZEHASONLITAS.md). A 233 900–299 900 Ft-os termékár-példák még nem igazoltan kompatibilis vagy szállítással teljes ajánlatok.
+**Részletes vizsgálat:** [három döntési út, matracok és ágyrácsok](MATRAC-OSSZEHASONLITAS.md). Az Ada + VALEVÅG 222 890 Ft-os termékár-példája feltételes párosítás; a 462 990 Ft-os Anikó + Perfect Fusion valóban együtt kínált csomag, de személyes próbája és terhelhetősége még nyitott.
 
 - **OLSKER / STUBBERUP:** 115 000 Ft + megfelelő ágyrács/alátámasztás + egy közös 180×200-as matrac + szállítás/szükséges szerelés.
 - **Alguema:** 443 700 Ft + matrac + szállítás/szükséges szerelés; a benne lévő rácsot nem számoljuk még egyszer.
@@ -46,4 +59,4 @@ A terméklinkek a 2026-09-20-án megnyitott konkrét változatokra mutatnak. Az 
 
 A [JYSK szállítási tájékoztatója](https://jysk.hu/aszf) a díjat a csomag és cím alapján határozza meg; nincs hozzá automatikusan alkalmazható fix fuvardíjunk. Az Urban Home megnyitott [szállítási oldala](https://urbanhome.hu/en/pages/szallitas) nem adott kinyerhető konkrét díjat. Ezért egyikből sem gyártunk teljes szállított csomagárat.
 
-**Listakorrekció:** a három korábbi 140/160-as ágy kizárt referencia lett. Három 180-as alternatíva került be; az ágyfrissítés utáni állomány 318 sor volt. A matrac-/rácskör további négy kutatási sorával most 322 sor van. Egyelőre nincs ajánlott teljes fekhely, a keretek csak alternatívák. A régi ajánlott 100 000 Ft-os keret kivétele nem megtakarítás; az ajánlott összegből hiányzik az új ágy, matrac és szükséges alátámasztás költsége.
+**Listakorrekció:** a három korábbi 140/160-as ágy kizárt referencia. A 180-as keretek mellé az Ada és Anikó, valamint az Anikó–Perfect Fusion csomag is árazott, költségutakból kizárt kutatási jelöltként bekerült. Egyelőre nincs ajánlott teljes fekhely, a keretek csak alternatívák. A régi ajánlott 100 000 Ft-os keret kivétele nem megtakarítás; az ajánlott összegből hiányzik az új ágy, matrac és szükséges alátámasztás költsége.

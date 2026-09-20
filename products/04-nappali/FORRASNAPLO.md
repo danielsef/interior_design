@@ -28,3 +28,7 @@ Az RS [ágyazható kanapé kategóriája](https://www.rs.hu/otthon/nappali_butor
 | [Bood Las Palmas](https://bood.hu/butorok/sarokgarnitura/las-palmas-sarok-ulogarnitura/) / [Bútorváros Las Palmas](https://butorvaros.com/tipus/sarokgarnitura-kanizsa-trend-las-palmas) | Kiegészítő keresési előszűrés a Comfort oldalán szereplő gyártói modellnév alapján: 559 900 Ft-tól, illetve 594 900 Ft. Ár alapján nem kizártak; a változatok azonossága, megfelelő szövet és teljes fuvar még nincs igazolva. Nem két független gyártói alternatíva. |
 
 A puha szövet nem bizonyít puha ülést. A termékcsalád tetszőleges méretéhez megjelenő induló ár nem a szükséges konfiguráció ajánlata. A bemutatóterem létezése nem bizonyítja az adott modell kipróbálhatóságát. A negatív szűrési eredményeket is megtartjuk, hogy a következő kör ne ismételje meg ugyanazokat a kereséseket.
+
+## Új párhuzamos kör
+
+Tommy (Bega Outlet): 319 000 Ft, 180×200 cm ágy, de 6–8 hét miatt késői. Galaxy (Studio Object): élő bézs változat 849 990 Ft, 140×198 cm külön matracos ágy; fuvarszcenárió és készletbizonytalanság rögzítve. Abruzzo: 210 cm-es átalakítható kanapé, nem megfelelő méretű L. A részletek és közvetlen források az [összehasonlításban](OSSZEHASONLITAS.md).

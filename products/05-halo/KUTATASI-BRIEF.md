@@ -21,9 +21,9 @@ Fő bútor: tömörfa vagy valódi furnér; a szerkezetet és a felületi réteg
 
 Az éjjeliszekrény, pad, tükör, dekor és külön komód P2. A gardrób alap ruhatárolása és a hálókomód ugyanazt az induló szükségletet is kiválthatja; ne legyen kétszer kötelezőként számolva.
 
-Az [ágy-összehasonlítás](OSSZEHASONLITAS.md) három megfelelő fekvőméretű alternatívát tartalmaz. Nincs kategóriaárplafon: a követelményeket teljesítő legkedvezőbb teljes csomagárat keressük; a korábbi keretkérdés tárgytalan.
+Az [ágy-összehasonlítás](OSSZEHASONLITAS.md) a tölgy/furnér keretek mellett az olcsóbb Ada saját ágyrácsos és a tárolós Anikó fenyő alternatívát is tartalmazza. Nincs kategóriaárplafon: a követelményeket teljesítő legkedvezőbb teljes csomagárat keressük; a korábbi keretkérdés tárgytalan.
 
-A [matrac- és ágyrács-összehasonlítás](MATRAC-OSSZEHASONLITAS.md) két matracot és két rácsot áraz. Ezek a kompatibilitási/komfortellenőrzésig kimaradnak a költségutakból; a rács mennyisége két darab, ha nincs eleve az ágyhoz mellékelve.
+A [matrac- és ágyrács-összehasonlítás](MATRAC-OSSZEHASONLITAS.md) három konkrét költségutat mutat: Ada + matrac, JYSK keret + rácspár + matrac, illetve Anikó–Perfect Fusion tárolós csomag. A komfort, terhelhetőség és szállítás ellenőrzéséig az új jelöltek kimaradnak a költségutakból. A külön rács két darab, ha nincs eleve az ágyhoz mellékelve; a csomagban lévő elemet nem számoljuk duplán.
 
 ## Függöny és ruhatárolás – tulajdonosi pontosítás
 

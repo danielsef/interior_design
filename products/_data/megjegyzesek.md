@@ -51,9 +51,11 @@
 - A GUNNEMOR helyes anyaga 100% újrahasznosított poliészter. A DVALA ágypárnahuzat méret- és terméktípus-korlátja jelölve.
 - Részletek és további kompromisszumok: [vásárlási felülvizsgálat](vasarlasi-felulvizsgalat-2026-09-20.md).
 
-- **Háló új fekhelye:** egy közös 180×200-as matrac; tároló opcionális. Három új ágyalternatíva szerepel az [összehasonlításban](05-halo/OSSZEHASONLITAS.md), de még nincs ajánlott teljes csomag. A régi 100 000 Ft-os, 160-as keret kizárása nem megtakarítás.
+- **Háló új fekhelye:** egy közös 180×200-as matrac; tároló opcionális. Tölgy/furnér és saját ágyrácsos fenyő alternatívák szerepelnek az [összehasonlításban](05-halo/OSSZEHASONLITAS.md), de még nincs ajánlott teljes csomag. A régi 100 000 Ft-os, 160-as keret kizárása nem megtakarítás.
 
-- **Matrac és ágyrács:** [két matrac és két rács vizsgálata](05-halo/MATRAC-OSSZEHASONLITAS.md), külön páros rácsárakkal és próba-/cserefeltételekkel. Árazott, de még nem igazoltan megfelelő P1 jelöltek, ezért kimaradnak a költségutakból; a 233 900 Ft-os számtani csomagpélda nem beköltözési minimum.
+- **Matrac és ágyrács:** [három fekhelyút és matracpróba-jelöltek](05-halo/MATRAC-OSSZEHASONLITAS.md), külön páros rácsárakkal és próba-/cserefeltételekkel. Árazott, de még nem igazoltan megfelelő P1 jelöltek, ezért kimaradnak a költségutakból; a számtani csomagpéldák nem igazolt beköltözési minimumok.
+
+- **Párhuzamos P1 kutatás:** [a háló, függöny, pult, kanapé és étkező friss eredményei és következő döntései](P1-KUTATASI-ALLAPOT.md). Az új jelöltek teljes csomagár és megfelelőség ellenőrzéséig kutatási alternatívák.
 
 - **Kőminták a RAL 1019 mellé:** [Avorio, Nebbia és Albarium mintagyűjtemény](komintak-ral1019.md). Preferált az Avorio jellegű világos, enyhén meleg mészkőhatás; a konkrét felület mintapróbával véglegesítendő.
 

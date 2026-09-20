@@ -40,3 +40,13 @@ A [Mirek Eva Enjoy 10 green](https://www.butormirek.hu/etkezoszek/1575-modern-to
 | [Kave Home Evera](https://kavehome.com/hu/en/p/evera-chair-in-oak-veneer-with-natural-finish) | Új megnyitása hibázott; a korábban rögzített fa/furnér ülés miatt az új igény szerint kizárt referencia. A többi Kave-modell nem kapott friss ár/készletigazolást ebben a körben. |
 
 Az Eva drevo és Evera kizárása követelményváltozás, nem ármegtakarítás. A régi AGEN fonott változat anyagkompromisszumát külön jelezzük; a bambusz/rattan nem tömör tölgy vagy valódi fafurnér, ezért nem tekintjük automatikusan egyenértékűnek a három próbajelölttel. A három új párnázott jelölt hozzáadása nem növeli a megvásárolandó székmennyiséget.
+
+## P1-folytatás: konkrét próbahely és élő szállításjelzés
+
+2026-09-20: a zöld Carryhome pontos termékoldalán **2080 Pilisjászfalu** kiválasztásával **10 900 Ft** szállítás és **kb. 1–2 hét** jelent meg. A **budaörsi XXXLutz, Kinizsi u. 5.** mellett az oldal „kiállítva és elérhető készleten” jelzést mutatott; a hatdarabos készlet és kosárfuvar nincs ellenőrizve. Ez már konkrét kiinduló próbahely a zöld kárpit, bükk tónus és üléskomfort vizsgálatához.
+
+A 24 990 Ft-os listaár változatlan. Az élő oldal a **SZULINAP20** kupont erre a termékre beválthatónak jelzi; a [promóció feltételei](https://www.xxxlutz.hu/c/reklamunkbol) szerint **2026. szeptember 20-ig** érvényes. Elméleti kedvezményes ár 19 992 Ft/db, hat darab 119 952 Ft; kosárban nem ellenőriztük, ezért nem írja felül a tartós listaárreferenciát, és nem indokol próba nélküli vásárlást. A korábbi XXXL20 kód történeti megfigyelés, nem a mostani kód.
+
+A korábbi hat székes összevetés mellé a kezdeti négyszékes változat termékára: TONSTAD asztal + 4 Carryhome **219 860 Ft**, + 4 TONSTAD szék **239 860 Ft**, + 4 ISLEV **273 900 Ft**. Hat szék cél továbbra is megmarad, az induló négy/hat darab kérdés nyitott. A hátrahagyott két szék későbbi ára/készlete nem garantált. Az asztal alapállapotban hat főre kell.
+
+**Javasolt döntési menet:** Carryhome ülés- és mintapróba Budaörsön, majd TONSTAD huzat/felület összevetése. A TONSTAD felára hat széknél 30 000 Ft a Carryhome listaárához képest; ezért a levehető, mosható huzat konkrét funkcionális előny, nem pusztán márkafelár. A hat szék asztal alatti elhelyezése és a helyszíni székkihúzás továbbra is ellenőrzendő. Az asztal 119 900 Ft-os és a TONSTAD szék 29 990 Ft-os ára ismét megerősítve; az IKEA-fuvar nincs hozzáadva.

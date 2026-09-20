@@ -3,7 +3,7 @@
 | | |
 | --- | --- |
 | **Helyiség** | 20,99 m² · Norwich Arena |
-| **Termékek** | 28 db |
+| **Termékek** | 30 db |
 | **Áradatok dátuma** | 2026-09-20 |
 | **Inspirációs képek** | [`../../inpiration/04-nappali/`](../../inpiration/04-nappali/README.md) |
 
@@ -65,14 +65,18 @@
 | **Prio 1** | Figyelőlista | [EKTORP 3 személyes kanapé, Blekinge fehér](https://www.ikea.com/hu/hu/p/ektorp-3-szemelyes-kanape-blekinge-feher-s79633759/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | 100% pamut huzat, levehető és mosógépben mosható, törtfehér | 218x88 cm, ülésmagasság 45 cm | **169 900 Ft** | 1 |
 | **Prio 1** | Figyelőlista | [VIMLE 3 személyes kanapé, Gunnared bézs](https://www.ikea.com/hu/hu/p/vimle-3-szemelyes-kanape-gunnared-bezs-s19399033/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | poliészter huzat (min. 90% újrahasznosított), levehető, mosógépben mosható 40°C-on, bézs | 241x98 cm, ülésmagasság 48 cm, 6 cm szabad tér a lábaknál | **267 900 Ft** | 1 |
 | **Prio 1** | Figyelőlista | [ROCKY ágyazható sarokkanapé, szürke, jobbos (0812007402)](https://www.moemax.hu/p/sarokkanape-rocky-000812007402) | **Mömax** – moemax.hu; a III. kerületi üzletnél nem jelzett kiállított példányt | 100% poliészter, szürke; hideghab/hab + hullámrugó; teljes vázanyag ellenőrizendő | 293×195×93 cm; ágy 128×241 cm; ülésmagasság 44 cm; láb 4,5 cm | **369 900 Ft** <br>*2080 Pilisjászfalu: +31 900 Ft szállítás = 401 800 Ft. Opcionális szerelés +65 900 Ft; együtt 467 700 Ft.* <br>*Élő oldalon 2080 Pilisjászfalut kiválasztva kb. 1–2 hét; becslés, nem lefoglalt időpont. Szerelés külön időpont-egyeztetéssel.* | 1 |
+| **Prio 1** | Figyelőlista | [Tommy ágyazható sarokkanapé, bézs – határidős tartalék](https://begaoutlet.hu/termek/tommy-sarokkanape-krem/) | **Bega Outlet** – begaoutlet.hu; konkrét próbadarab/készlet egyeztetendő | bézs síkszövet; krómozott műanyag láb; váz és kárpitápolás nem igazolt | 310×210 cm; ágy 180×200 cm; ülésmagasság 45 cm | **319 000 Ft** <br>*Fuvar nem igazolt: oldalon 15 000 Ft-tól és 30 000 Ft is szerepel; színfüggő ár lehet.* <br>*Fő jelzés 6–8 hét rendelésre: szeptember 20-tól kb. november 1–15.; október 30-ra nem igazolt.* | 1 |
+| **Prio 1** | Figyelőlista | [Galaxy ágygépes sarokkanapé, Rhapsody 5 Beige, balos árreferencia](https://studioobject.hu/products/galaxy-agyazhato-sarokkanape) | **Studio Object** – studioobject.hu; szövetminta bemutatóteremben, konkrét üléspróba egyeztetendő | bézs Rhapsody 5 szövet; fa ágyrács; teljes váz és szálösszetétel ellenőrizendő | 280×195 cm; ágy 140×198 cm, matrac 12 cm; ülésmagasság 46 cm | **849 990 Ft** <br>*Fuvar-szcenárió +24 990 vagy +34 990 Ft; teljes 874 980–884 980 Ft szerelés nélkül, konkrét alkalmazás ellenőrizendő.* <br>*Általános átvételi jelzés mellett rendelésre 6–8 hét is szerepel; konkrét bézs darabszám/érkezés nincs igazolva.* | 1 |
 
 **Prio 1:** Egy alap közös ülő- és pihenőhely kell; meglévő kanapéval az új vásárlás halasztható. Egy alap közös ülő- és pihenőhely kell; meglévő kanapéval az új vásárlás halasztható. Feltétel: A funkció Prio 1; ez a konkrét jelölt csak vendégágy- és komfortellenőrzés után választható.
 
-> **A beszerzési összegből kizárva:** Ez a konkrét egyenes, nem ágyazható összeállítás nem teljesíti az új L alakú, két felnőtt alkalmi vendégágyaként használható kanapé igényét. A két felnőttes vendégágy 128 cm-es kompromisszuma és a puhaság nincs elfogadva; nem számolható megfelelő minimummegoldásként.
+> **A beszerzési összegből kizárva:** Ez a konkrét egyenes, nem ágyazható összeállítás nem teljesíti az új L alakú, két felnőtt alkalmi vendégágyaként használható kanapé igényét. A két felnőttes vendégágy 128 cm-es kompromisszuma és a puhaság nincs elfogadva; nem számolható megfelelő minimummegoldásként. Határidő, méret, komfort és tisztítás nincs igazolva. Komfort, készlet, határidő és végleges teljes ár nincs igazolva.
 
 - **EKTORP 3 személyes kanapé, Blekinge fehér** – Korábbi referencia; az új követelmény alapján nem vásárlási ajánlás. ⚠️ *A kb. 300×200 cm-es, L alakú ágyazható konfigurációt külön kell kiválasztani. A család más változatának ára és funkciója nem azonos ezzel a sorral.*
 - **VIMLE 3 személyes kanapé, Gunnared bézs** – Korábbi referencia; az új követelmény alapján nem vásárlási ajánlás. ⚠️ *A kb. 300×200 cm-es, L alakú ágyazható konfigurációt külön kell kiválasztani. A család más változatának ára és funkciója nem azonos ezzel a sorral.*
 - **ROCKY ágyazható sarokkanapé, szürke, jobbos (0812007402)** – Illeszkedés: célhoz közeli méret, ellenőrzött szállított ár. Csak kutatási tartalék: szürke kárpit és alacsony láb eltér a preferált homok–bézs, légies iránytól. ⚠️ *A 128 cm-es fekvőszélesség két felnőttnek szűk kompromisszum; puhaság, oldalirány és szürke színminta nem jóváhagyott. Porszívózás/száraz törlés szerepel; moshatóság és folttisztíthatóság nem igazolt.*
+- **Tommy ágyazható sarokkanapé, bézs – határidős tartalék** – Nagy kétszemélyes vendégágy, kedvező termékár és bézs irány; csak tartalék, nem kész P1 választás. ⚠️ *Kb. 10 cm-rel nagyobb mindkét célméretnél; puhaság, folttisztítás és vázanyag hiányzik. Krómozott láb stíluskompromisszum.*
+- **Galaxy ágygépes sarokkanapé, Rhapsody 5 Beige, balos árreferencia** – Külön matracos vendégágy, bézs és bal/jobb kivitel; magasabb árú funkcionális összehasonlítás. ⚠️ *140×198 cm két felnőttre próbálandó. A kereskedő puha párnázatot ír, ez nem üléspróba; tisztítás, váz és határidő hiányzik.*
 
 ### Kandalló védőrács — Prio 1
 

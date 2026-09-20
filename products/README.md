@@ -4,7 +4,7 @@
 
 2026-09-20 · Termékjelöltek magyarországi beszerzéshez: név, link, ár, anyag, méret és beszerzési feltételek. A készlethiányos tételek figyelőlistán szerepelnek. A mappaszerkezet megegyezik az [inspirációs mappáéval](../inpiration/README.md), a válogatás a [belsőépítészeti irányelveket](../principles/Wooden%20coastal%20%E2%80%93%20erdei%20hat%C3%A1s%C3%BA%20bels%C5%91%C3%A9p%C3%ADt%C3%A9szeti%20ir%C3%A1nyelvek%20a%20h%C3%A1zhoz.md) követi.
 
-> **Állapot: mind a 16 helyiségcsoport listázva, 347 termékjelölt.**
+> **Állapot: mind a 16 helyiségcsoport listázva, 354 termékjelölt.**
 
 > **Beépített vásárlási felülvizsgálat:** [XXXLutz, Kave Home, H&M Home, JYSK és Mömax – összehasonlítás](vasarlasi-felulvizsgalat-2026-09-20.md). Ajánlott csere: ISLEV szék próba után és Cantus asztal készletellenőrzés után. Az EUR-os és készlethiányos alternatívák kimaradnak a forintos költségutakból.
 
@@ -44,12 +44,12 @@
 
 | Mappa | Helyiség | Termék | ⭐ Ajánlott csomag | 💰 Kategóriaösszeg, alsó | 💎 Kategóriaösszeg, felső |
 | --- | --- | --- | --- | --- | --- |
-| [`00-altalanos-hangulat`](00-altalanos-hangulat/README.md) | Az egész házra (függöny, karnis, kosár, növény, képkeret, babavédelem) | 65 | **317 251 Ft** | 249 976 Ft | 399 479 Ft |
+| [`00-altalanos-hangulat`](00-altalanos-hangulat/README.md) | Az egész házra (függöny, karnis, kosár, növény, képkeret, babavédelem) | 66 | **317 251 Ft** | 249 976 Ft | 399 479 Ft |
 | [`01-eloszoba`](01-eloszoba/README.md) | Előszoba | 24 | **307 552 Ft** | 177 462 Ft | 476 522 Ft |
 | [`02-konyha`](02-konyha/README.md) | Konyha | 17 | **417 660 Ft** | 275 180 Ft | 474 512 Ft |
 | [`03-etkezo`](03-etkezo/README.md) | Étkező | 26 | **574 570 Ft** | 425 500 Ft | 1 187 030 Ft |
-| [`04-nappali`](04-nappali/README.md) | Nappali | 28 | **590 090 Ft** | 430 655 Ft | 739 000 Ft |
-| [`05-halo`](05-halo/README.md) | Háló | 29 | **316 900 Ft** | 357 900 Ft | 764 600 Ft |
+| [`04-nappali`](04-nappali/README.md) | Nappali | 30 | **590 090 Ft** | 430 655 Ft | 739 000 Ft |
+| [`05-halo`](05-halo/README.md) | Háló | 33 | **316 900 Ft** | 357 900 Ft | 764 600 Ft |
 | [`06-szoba`](06-szoba/README.md) | Szoba (babaszoba) | 24 | **379 470 Ft** | 223 390 Ft | 589 260 Ft |
 | [`07-dolgozo`](07-dolgozo/README.md) | Dolgozó | 18 | **153 710 Ft** | 82 710 Ft | 213 620 Ft |
 | [`08-szoba`](08-szoba/README.md) | Szoba (gyerek / vendég) | 14 | **261 360 Ft** | 163 380 Ft | 403 070 Ft |
@@ -60,7 +60,7 @@
 | [`13-kozlekedo`](13-kozlekedo/README.md) | Közlekedő | 1 | **7 990 Ft** | 7 990 Ft | 7 990 Ft |
 | [`14-gardrob`](14-gardrob/README.md) | Gardrób | 7 | **104 930 Ft** | 104 930 Ft | 104 930 Ft |
 | [`16-17-terasz`](16-17-terasz/README.md) | Terasz | 23 | **780 670 Ft** | 666 620 Ft | 935 630 Ft |
-| | **Összesen (listázott helyiségcsoportok)** | **347** | **5 230 907 Ft** | 4 182 767 Ft | 7 798 467 Ft |
+| | **Összesen (listázott helyiségcsoportok)** | **354** | **5 230 907 Ft** | 4 182 767 Ft | 7 798 467 Ft |
 
 > Az összegek **tájékoztató jellegűek**: a javasolt darabszámmal számolnak, de nem tartalmazzák a még fel nem vett szükségleteket, a már rendezett világítást, konyhabútort, kádas fürdőszobai mosdóösszeállítást és párkányokat, továbbá a burkolást, gépeket és szállítást. Egy-egy kategóriában több alternatíva van – nem kell mindet megvenni. Az alsó/felső kategóriaösszeg nem kész bevásárlócsomag: a házszintű és helyiségenkénti tételek ugyanazt a szükségletet is fedhetik. Az ajánlott összeg is tartalmaz házszintű/helyiségenkénti átfedéseket; nem teljes házköltségvetés.
 
@@ -90,7 +90,7 @@
 | --- | --- |
 | IKEA | 221 |
 | Bonami | 18 |
-| JYSK | 15 |
+| JYSK | 16 |
 | szaniteronline.hu | 8 |
 | Bútor Mirek | 7 |
 | OBI | 6 |
@@ -99,6 +99,7 @@
 | vidaXL | 5 |
 | Kave Home | 5 |
 | Westwing | 4 |
+| Fenyőbútor24 / Komforttéka | 4 |
 | H&M Home | 4 |
 | SzaniterOnline.hu | 4 |
 | AREZZO design (arezzodesign.hu) | 3 |
@@ -125,6 +126,8 @@
 | MatracGuru | 1 |
 | Urban Home (Kave Home) | 1 |
 | Mömax | 1 |
+| Bega Outlet | 1 |
+| Studio Object | 1 |
 | Bonami (Rowico) | 1 |
 | Designmarket (Umbra) | 1 |
 | eMAG (eladó: Czinege Manufaktúra Kft.) | 1 |
@@ -136,7 +139,7 @@ Az új válogatás az XXXLutz, Kave Home, H&M Home és JYSK termékoldalait is f
 ## Hogyan lettek ellenőrizve
 
 - Az alaplista és a célzott bolti felülvizsgálat adatainak dátuma **2026-09-20**. A mostani fájlfrissítés a már elvégzett kutatást építi be; nem új teljes piaci ár- vagy készletellenőrzés.
-- 313 tétel ára a termékoldalról, 34 tételé listaoldalról / az IKEA keresőjéből származik (ezeket a helyiség-README *(ár listaoldalról)* megjegyzéssel jelöli).
+- 320 tétel ára a termékoldalról, 34 tételé listaoldalról / az IKEA keresőjéből származik (ezeket a helyiség-README *(ár listaoldalról)* megjegyzéssel jelöli).
 - **Korábbi gépi linkellenőrzés:** 316 / 316 URL adott 200-as választ. Ez a mentett ellenőrzés nem fedi le az újonnan felvett termékeket; azoknál megnyitott termékoldal volt a forrás.
 - **Mentett második árellenőrzés (2026-09-20):** a korábbi 350 tételből 350 ára egyezett. Ez történeti eredmény, nem a most kibővített lista új ellenőrzése.
 - A készlet és az akciós ár naponta változhat. Szezonális tételeknél (terasz, szeptember vége) ez fokozottan igaz.
@@ -195,9 +198,11 @@ Az új válogatás az XXXLutz, Kave Home, H&M Home és JYSK termékoldalait is f
 - A GUNNEMOR helyes anyaga 100% újrahasznosított poliészter. A DVALA ágypárnahuzat méret- és terméktípus-korlátja jelölve.
 - Részletek és további kompromisszumok: [vásárlási felülvizsgálat](vasarlasi-felulvizsgalat-2026-09-20.md).
 
-- **Háló új fekhelye:** egy közös 180×200-as matrac; tároló opcionális. Három új ágyalternatíva szerepel az [összehasonlításban](05-halo/OSSZEHASONLITAS.md), de még nincs ajánlott teljes csomag. A régi 100 000 Ft-os, 160-as keret kizárása nem megtakarítás.
+- **Háló új fekhelye:** egy közös 180×200-as matrac; tároló opcionális. Tölgy/furnér és saját ágyrácsos fenyő alternatívák szerepelnek az [összehasonlításban](05-halo/OSSZEHASONLITAS.md), de még nincs ajánlott teljes csomag. A régi 100 000 Ft-os, 160-as keret kizárása nem megtakarítás.
 
-- **Matrac és ágyrács:** [két matrac és két rács vizsgálata](05-halo/MATRAC-OSSZEHASONLITAS.md), külön páros rácsárakkal és próba-/cserefeltételekkel. Árazott, de még nem igazoltan megfelelő P1 jelöltek, ezért kimaradnak a költségutakból; a 233 900 Ft-os számtani csomagpélda nem beköltözési minimum.
+- **Matrac és ágyrács:** [három fekhelyút és matracpróba-jelöltek](05-halo/MATRAC-OSSZEHASONLITAS.md), külön páros rácsárakkal és próba-/cserefeltételekkel. Árazott, de még nem igazoltan megfelelő P1 jelöltek, ezért kimaradnak a költségutakból; a számtani csomagpéldák nem igazolt beköltözési minimumok.
+
+- **Párhuzamos P1 kutatás:** [a háló, függöny, pult, kanapé és étkező friss eredményei és következő döntései](P1-KUTATASI-ALLAPOT.md). Az új jelöltek teljes csomagár és megfelelőség ellenőrzéséig kutatási alternatívák.
 
 - **Kőminták a RAL 1019 mellé:** [Avorio, Nebbia és Albarium mintagyűjtemény](komintak-ral1019.md). Preferált az Avorio jellegű világos, enyhén meleg mészkőhatás; a konkrét felület mintapróbával véglegesítendő.
 

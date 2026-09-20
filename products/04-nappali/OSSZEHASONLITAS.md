@@ -39,3 +39,20 @@ Az oldalon a település kiválasztása után külön megnyitott szállítási t
 1. Oldalirány és bejuttatás ellenőrzése az elrendezéssel. A kb. 3×2 m-es cél nem helyszíni méretigazolás.
 2. Elsőként a **Corano 290-es konfigurációjának teljes ára**, illetve a **Hamburg modell/méret ellentmondása** tisztázandó. Beszállítói megkeresést nem küldtünk; ehhez külön megbízás kell. Ezek hiányában a jelöltek nem rendelésre készek.
 3. Azonosítható, funkcióban és stílusban megfelelő változatnál érdemes ülés- és kétszemélyes fekvéspróbát szervezni; a Las Vegas / Las Palmas irány is vizsgálandó, majd teljes ár szerint rangsorolható. A 140–150 cm körüli vagy szélesebb ágyat előnyben részesítjük a 128 cm-rel szemben; ez összehasonlítási preferencia, nem utólag kitalált kötelező méret.
+
+## Párhuzamos P1-kör – új források és próbálási sorrend
+
+2026-09-20: a korábbi árjelöltek mellé két további, konkrét ágyfunkciójú termék került. Egyik sem igazolt végleges nyertes.
+
+| Jelölt | Ellenőrzött adatok | Döntési szerep |
+| --- | --- | --- |
+| [Bega Outlet Tommy](https://begaoutlet.hu/termek/tommy-sarokkanape-krem/) | **319 000 Ft**, 310×210 cm, **180×200 cm** vendégágy; bézs síkszövet, 45 cm ülés, 60 cm ülőmélység párnával, krómozott műanyag láb. A fő készletjelzés rendelésre **6–8 hét**. | Kedvező termékár és nagy fekvőfelület, de a célhoz képest +10/+10 cm. A szeptember 20-tól számított 6–8 hét kb. november 1–15., ezért a jelenlegi jelzés alapján **nem beköltözési megoldás**. Korábbi érkezést csak konkrét készlet/vállalás igazolhat. |
+| [Studio Object Galaxy, Rhapsody 5 Beige](https://studioobject.hu/products/galaxy-agyazhato-sarokkanape) | Élő kiválasztott bézs/balos változat **849 990 Ft**, 280×195 cm; **140×198 cm** ágy, 12 cm matrac, fa ágyrács, bal/jobb kivitel. 46 cm ülésmagasság, 56 cm mélység. | Drágább komfort-összehasonlítás: külön matracos ágy, szövetminta bemutatóteremben. A 140 cm két felnőttnek próbálandó. A puhaság kereskedői állítás, a folttisztítás, teljes vázanyag és aktuális készlet nincs igazolva. |
+
+A Tommy oldalán több szállítási díj szerepel (15 000 Ft-tól, illetve 30 000 Ft), továbbá eltérő 4–8/6–8 hetes szövegek; ezért nincs egyetlen igazolt teljes ára. A síkszövet kopásállósági állítása nem tisztítási útmutató. A krómozott láb a sárgarézhez/fa felületekhez képest külön stíluskompromisszum.
+
+A Galaxy [szállítási szabályzata](https://studioobject.hu/policies/shipping-policy) 30 kg felett HDT-vel 24 990 Ft-ot, saját fuvarral vidékre 34 990 Ft-ot közöl. Ha valamelyik alkalmazható, az előzetes termék+fuvar **874 980–884 980 Ft**, szerelés nélkül; a konkrét kosár/csomagszám nincs ellenőrizve. A termékoldali általános átvételi szöveg nem bizonyít készleten lévő darabot; a rendelésre készülő termékeknél 6–8 hét is megjelenik. A kínált 50 000 Ft-os későbbi vásárlási utalványt nem vonjuk le a kanapé árából. A bézs a palettához vizsgálható, de fizikai szövetmintával kell RAL 1019 és a padló mellé tenni.
+
+**Praktikus sorrend:** az olcsó Hamburg/Corano modelleknél a korábbi adat-/változatárhiány továbbra is fennáll. Ezek tisztázása mellett a Las Vegas üléspróbája, valamint a Galaxy konkrét próbadarabjának/készletének ellenőrzése vihet közelebb a döntéshez. A Tommy az októberi határidő miatt tartalék; a Rocky a 128 cm-es ágy miatt nem válik automatikusan elsővé. Az oldalirányra újra feltett kérdés még nyitott, ezért egyik oldalt sem rögzítjük tulajdonosi döntésként.
+
+További szűrés: [Abruzzo / Kanapé Budapest](https://kanapebudapest.hu/uzlet/abruzzo-kanape-sarokkanape/) 389 900 Ft, 150×200 ágy, de 210 cm-es, kihúzható ülőlapos kanapé, nem a kért kb. 300×200-as állandó L. Nem új döntős. Az MH Angel megnyitott oldala továbbra is 300×230 cm és keményebb ülés; a keresőben megjelenő 300×200 cm nem írja ezt felül.
