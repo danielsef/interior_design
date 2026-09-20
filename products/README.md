@@ -8,7 +8,7 @@
 
 > **Beépített vásárlási felülvizsgálat:** [XXXLutz, Kave Home, H&M Home, JYSK és Mömax – összehasonlítás](vasarlasi-felulvizsgalat-2026-09-20.md). Ajánlott csere: ISLEV szék próba után és Cantus asztal készletellenőrzés után. Az EUR-os és készlethiányos alternatívák kimaradnak a forintos költségutakból.
 
-> **Beszerzési kör pontosítva:** a világítás megvan; a tömörfa konyhabútor és mindkét fürdő szekrénye/mosdója megrendelve / megvan, a kádas fürdő pultjával együtt. A fa párkányok cream beige színben készülnek. A konyhai fogantyúk megmaradnak; a front, konyhai kőpult, kandallóburkolat és a hiányzó zuhanyzós fürdőpult [külön anyagjavaslatot](anyagvalasztas-konyha-kandallo-furdopult.md) kapott, utóbbi felületek ára még nincs az összegben. A 4,75 m²-es kádas és az ismeretlen méretű zuhanyzós fürdőt a `12-furdo` mappa külön nevezi meg.
+> **Beszerzési kör pontosítva:** a világítás megvan; a tömörfa konyhabútor és mindkét fürdő szekrénye/mosdója megrendelve / megvan, a kádas fürdő pultjával együtt. A fa párkányok RAL 1019 grey beige színben készülnek. A konyhai fogantyúk megmaradnak; a front, konyhai kőpult, kandallóburkolat és a hiányzó zuhanyzós fürdőpult [külön anyagjavaslatot](anyagvalasztas-konyha-kandallo-furdopult.md) kapott, utóbbi felületek ára még nincs az összegben. A 4,75 m²-es kádas és az ismeretlen méretű zuhanyzós fürdőt a `12-furdo` mappa külön nevezi meg.
 
 ## Beköltözési ütemezés
 
@@ -76,7 +76,7 @@
 
 | Szempont | Szabály |
 | --- | --- |
-| Fa | világos–közép fa preferencia; tömörfa / furnér / dekor külön jelölve, a fal–cream beige–padló–megrendelt bútor közös mintasorához illesztve |
+| Fa | világos–közép fa preferencia; tömörfa / furnér / dekor külön jelölve, a fal–RAL 1019 grey beige–padló–megrendelt bútor közös mintasorához illesztve |
 | Fonott | rattan, juta, tengerifű, bambusz, vízi jácint – beltérben nincs műanyag utánzat |
 | Textil | len, pamut, gyapjú előnyben; buklénál is külön szálösszetétel; műszálas kompromisszum jelölve; törtfehér–homok alap, **zsályazöld** akcentus, kék csak kis adagban |
 | Fém | **szálcsiszolt sárgaréz** a meglévő szerelvényeken; az új felületet közös mintával ellenőrizzük; aranyszínű bevonat / antik tónus, fa vagy fehér tudatos kompromisszum lehet |
@@ -137,7 +137,7 @@ Az új válogatás az XXXLutz, Kave Home, H&M Home és JYSK termékoldalait is f
 
 ## Rögzített döntések és beszerzési határ
 
-- **Fehér fal**, cream beige nyílászárók és velük azonos színű fa párkányok. A színeket közös fizikai mintasorral egyeztetjük: fal, nyílászáró, padló, parketta, megrendelt bútor, fém, textil.
+- **Fehér fal**, RAL 1019 grey beige nyílászárók és velük azonos színű fa párkányok. A színeket közös fizikai mintasorral egyeztetjük: fal, nyílászáró, padló, parketta, megrendelt bútor, fém, textil.
 - **A világítás megvan:** 46 világítási termékjelölt törölve az aktív forrásokból és exportokból; nincs további világítási specifikáció vagy izzóbeszerzés.
 - **A tömörfa konyhabútor megrendelve:** a négy fogantyútétel kérésre megmaradt; a front és kőpult megjelenése külön javaslatot kapott. A bárszékek, textilek és szabadon álló kiegészítők megmaradtak. A háztartási helyiség munkalapja külön feladat.
 - **Két fürdő és külön WC:** kádas fürdő 4,75 m²; zuhanyzós fürdő alapterülete még ismeretlen. A `12-furdo` közös mappa név szerint külön kezeli őket.
@@ -185,3 +185,5 @@ Az új válogatás az XXXLutz, Kave Home, H&M Home és JYSK termékoldalait is f
 - **Háló új fekhelye:** egy közös 180×200-as matrac; tároló opcionális. Három új ágyalternatíva szerepel az [összehasonlításban](05-halo/OSSZEHASONLITAS.md), de még nincs ajánlott teljes csomag. A régi 100 000 Ft-os, 160-as keret kizárása nem megtakarítás.
 
 - **Matrac és ágyrács:** [két matrac és két rács vizsgálata](05-halo/MATRAC-OSSZEHASONLITAS.md), külön páros rácsárakkal és próba-/cserefeltételekkel. Árazott, de még nem igazoltan megfelelő P1 jelöltek, ezért kimaradnak a költségutakból; a 233 900 Ft-os számtani csomagpélda nem beköltözési minimum.
+
+- **Kőminták a RAL 1019 mellé:** [Avorio, Nebbia és Albarium mintagyűjtemény](komintak-ral1019.md). Preferált az Avorio jellegű világos, enyhén meleg mészkőhatás; a konkrét felület mintapróbával véglegesítendő.

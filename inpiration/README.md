@@ -23,6 +23,10 @@ Helyiségenkénti almappák. A számozás megegyezik az **E-01 földszinti alapr
 
 A **15-ös gépészet** (2,76 m²) nem kapott mappát: nincs belsőépítészeti tartalma.
 
+## Grey beige színpontosítás
+
+A ház nyílászárói és beltéri ajtói **RAL 1019 – grey beige / szürkés bézs** színűek; a fa párkányok a korábbi döntés szerint azonos színűek. A régi krém bézs képek formai referenciaként maradnak, színmintaként nem érvényesek. A képállományt nem színeztük át és nem neveztük át; a fájlnevek nem új színigazolások. A korábbi 110 kép teljes színellenőrzése nincs megismételve.
+
 ## Mi van a mappákban
 
 **110 kép, mind a 16 mappa feltöltve** – 2026-09-20-án képenként átnézve és megszűrve.
@@ -47,8 +51,8 @@ Minden mappában van:
 
 | Jelzés | Db | Mit jelent |
 | --- | --- | --- |
-| ✅ | 62 | a brief szerint rendben |
-| ⚠️ | 48 | marad, de a README-ben leírt részletet ne vedd át (pl. padló, kilincs, egy bútor tónusa) |
+| ✅ | 61 | korábbi formai értékelés; grey beige színegyezést nem igazol |
+| ⚠️ | 49 | marad, de a README-ben leírt részletet ne vedd át (pl. padló, kilincs, egy bútor tónusa) |
 | 🆕 | 49 | a szűrés után pótolt, újonnan válogatott kép (a fenti kettő része) |
 
 ## Szűrés (2026-09-20)
@@ -64,8 +68,8 @@ Az eredeti 127 képből **66 kikerült**, mert nem felelt meg a rögzített dön
 
 - A kiszűrt képek **törölve lettek** – ami nem illik a stílusba, azt nem őrizzük.
 - A kiürült mappákba **49 új kép** került, ugyanazzal a szigorú szűrővel válogatva (fehér fal kötelező).
-- **A ház kulcsreferenciája:** [`13-kozlekedo/feher-fal-krem-bezs-ajtok-homok-lap.jpg`](13-kozlekedo/feher-fal-krem-bezs-ajtok-homok-lap.jpg) – fehér fal, sík krém bézs ajtók tokkal egy színben, nagyformátumú homokszínű lap, tölgy konzol.
-- **Kilincs-döntéshez:** matt fekete → [`00-altalanos-hangulat/krem-bezs-ajto-feher-fal-matt-fekete-kilincs.jpg`](00-altalanos-hangulat/krem-bezs-ajto-feher-fal-matt-fekete-kilincs.jpg), antikolt sárgaréz → [`09-eloter/krem-bezs-ajto-sargarez-kilincs-tolgy-konzol.jpg`](09-eloter/krem-bezs-ajto-sargarez-kilincs-tolgy-konzol.jpg).
+- **Korábbi formai referencia, nem grey beige színminta:** [`13-kozlekedo/feher-fal-krem-bezs-ajtok-homok-lap.jpg`](13-kozlekedo/feher-fal-krem-bezs-ajtok-homok-lap.jpg) – fehér fal, sík krém bézs ajtók tokkal egy színben, nagyformátumú homokszínű lap, tölgy konzol.
+- **Korábbi kilincs-/formareferenciák (a meglévő szálcsiszolt sárgaréz döntés marad):** matt fekete → [`00-altalanos-hangulat/krem-bezs-ajto-feher-fal-matt-fekete-kilincs.jpg`](00-altalanos-hangulat/krem-bezs-ajto-feher-fal-matt-fekete-kilincs.jpg), antikolt sárgaréz → [`09-eloter/krem-bezs-ajto-sargarez-kilincs-tolgy-konzol.jpg`](09-eloter/krem-bezs-ajto-sargarez-kilincs-tolgy-konzol.jpg).
 - Két zsályazöld falú babaszoba-kép is kikerült a szigorú „fehér fal” szabály miatt (az irányelv egy zsálya akcentusfalat gyerekszobában megengedne, de a ház falai fehérek).
 
 > **Padló a képeken.** Fa parketta csak a 4 szobában lesz (háló, 2 szoba, dolgozó); minden más lakótér Norwich Arena lapot kap. Ahol egy előszoba-, konyha-, étkező-, nappali- vagy folyosóképen fa padló látszik, ott a padlót ne vedd mintának – a README ⚠️ megjegyzései ezt jelzik.

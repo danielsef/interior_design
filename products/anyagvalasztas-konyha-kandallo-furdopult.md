@@ -1,10 +1,23 @@
 # Anyagjavaslat – konyha, kandalló és zuhanyzós fürdőpult
 
-2026-09-20 · A tulajdonosi pontosításokhoz igazított javaslat. A konyhabútor tömörfa és megrendelve; mindkét fürdő szekrénye és mosdója megvan. **A zuhanyzós fürdő pultja még hiányzik.** A világítás és a cream beige színű fa párkányok lezárt tételek.
+2026-09-20 · A tulajdonosi pontosításokhoz igazított javaslat. A konyhabútor tömörfa és megrendelve; mindkét fürdő szekrénye és mosdója megvan. **A zuhanyzós fürdő pultja még hiányzik.** A világítás és a grey beige színű fa párkányok lezárt tételek.
 
 **Ezt az összeállítást választanám első mintapróbára:** matt, natúr hatású fafront, azonos finom rajzolatú világos konyhai és szigetpult, vékony szálcsiszolt sárgaréz fogantyú és a pulttal azonos vagy közeli kőmegjelenésű kandallóburkolat. A fürdőpult ugyanebből a visszafogott kőcsaládból indulhat, ha a meglévő szekrénnyel is harmonizál.
 
 Ez anyag- és formaválasztási javaslat; nem végleges műhelyrajz vagy beárazott rendelés. A felületek és az egyedi megmunkálás ára még nincs a terméklisták összesítésében.
+
+**Összegyűjtött mintaképek:** [Avorio, Nebbia és Albarium – gyártói képek, összevetés és fizikai mintalista](komintak-ral1019.md). Avorio az első mintajelölt; a kő konkrét árnyalata még nincs véglegesítve.
+
+## Grey beige pontosítás – mely döntések nyílnak újra?
+
+A nyílászárók és beltéri ajtók javított színe **RAL 1019 – grey beige / szürkés bézs**; a párkányok a korábbi döntés szerint azonosak. A kódot a tulajdonos megerősítette, és a [RAL hivatalos színoldala](https://www.ral-farben.de/en/colour/ral-classic/ral-1019/9099) is ezt a megnevezést használja. A fizikai RAL-minta mellett a nyílászáró tényleges felülete is szükséges a mintapróbához.
+
+A natúr matt fa és szálcsiszolt sárgaréz irányát megtartanám. A konyhai és szigetpult, valamint a magas kandallótest nagy felülete miatt **a konkrét kő árnyalatát közös mintapróbával kell véglegesíteni**. A tulajdonos a Forest Wood Coastal stílushoz legjobban illő irány kiválasztását ránk bízta; **az A irányt választom elsődlegesnek**, a B ellenminta marad a RAL 1019 és Norwich Arena mellett:
+
+- **A – preferált: enyhén meleg, világos homok-/mészkőhatás:** a fa és a len természetes hatásával a világos, meleg Forest Wood Coastal hangulatot erősíti; erős sárgásság nélkül.
+- **B – összevetési minta: világos, semlegesebb szürkés bézs kőhatás:** visszafogottabb színkülönbség lehet a nyílászáróhoz képest, ha a valós minták ezt igazolják.
+
+A színirány tehát kijelölt preferencia; a konkrét termék, árnyalat és felület még nem végleges rendelési döntés. A korábbi Avorio-jelölt marad összevetési minta, **a színilleszkedése nincs jóváhagyva**. A kőnek nem kell pontosan az ajtószínnel egyeznie; a felületek együtt alkossanak nyugodt összképet. A kandalló és a konyha rokon kőmegjelenése továbbra is javasolt.
 
 ## 1. Konyhafront
 
@@ -15,7 +28,7 @@ Ez anyag- és formaválasztási javaslat; nem végleges műhelyrajz vagy beáraz
 - **Alternatíva:** finom, egyenes keretezésű front, ha otthonosabb, kissé klasszikusabb megjelenést szeretnétek. Erős profilozást ehhez a házhoz nem választanék.
 - Felületkezelésből a natúr hatású, matt, konyhai igénybevételre megfelelő mintát kérném. A konkrét bevonatrendszert a gyártóval kell kiválasztani; az olajozást nem tekinteném automatikusan praktikusabbnak a lakknál.
 
-A fehér fal és a cream beige ajtó/párkány maradjon külön, olvasható felület. A fafrontot nem festeném cream beige-re: a természetes fa adja a konyha karakterét. A megrendelt bútoron ténylegesen egyeztethető részleteket az asztalos igazolja vissza.
+A fehér fal és a grey beige ajtó/párkány maradjon külön, olvasható felület. A fafrontot nem festeném grey beige-re: a természetes fa adja a konyha karakterét. A megrendelt bútoron ténylegesen egyeztethető részleteket az asztalos igazolja vissza.
 
 ## 2. Konyhai fogantyú
 
@@ -27,7 +40,7 @@ A terméklistában lévő árak korábban ellenőrzött referenciaárak. A furat
 
 ## 3. Konyhai kőpult
 
-**Világos elefántcsont–homok tónust, matt felületet és finom mészkőszerű mintát választanék.** A fa erezete már ad elég rajzolatot; a pultnak nem kell erős szürke vagy arany márványérrel versenyeznie vele. Egyszerű, egyenes él, tompított élekkel illene ide. A tényleges vastagságot, alátámasztást és kivágásokat a kivitelező méretezi.
+**Első mintairányként enyhén meleg, világos homoktónust, matt felületet és finom mészkőszerű mintát vizsgálnék; mellé semlegesebb szürkés bézs ellenmintát kérnék.** A fa erezete már ad elég rajzolatot; a pultnak nem kell erős szürke vagy arany márványérrel versenyeznie vele. Egyszerű, egyenes él, tompított élekkel illene ide. A tényleges vastagságot, alátámasztást és kivágásokat a kivitelező méretezi.
 
 | Irány | Szerepe a választásban | Feltétel |
 | --- | --- | --- |
@@ -37,7 +50,7 @@ A terméklistában lévő árak korábban ellenőrzött referenciaárak. A furat
 
 A természetes mészkő/travertin korlátját a [Natural Stone Institute anyagismertetője](https://www.naturalstoneinstitute.org/consumers/varieties/limestone/) is kiemeli. Esztétikai mészkőhatást ezért itt elsőként egy erre alkalmas gyártott felülettel keresnék.
 
-**Konkrét mintareferencia: [Dekton Avorio](https://www.cosentino.com/usa/colors/dekton/avorio/).** A gyártó világos bézs, matt felületként írja le. Nem természetes mészkő, hanem ultrakompakt ásványi felület. Első összehasonlítási pont, nem már eldöntött márka: a Norwich Arena mellé tett nagyobb minta alapján kiderül, nem túl sárgás vagy mintás-e. Magyarországi szállítását, megmunkálását és egyedi árát külön kell igazolni; ezekre itt nincs ellenőrzött ajánlat.
+**Konkrét mintareferencia: [Dekton Avorio](https://www.cosentino.com/usa/colors/dekton/avorio/).** A gyártó világos bézs, matt felületként írja le. Nem természetes mészkő, hanem ultrakompakt ásványi felület. Első összehasonlítási pont, nem már eldöntött márka: a Norwich Arena és grey beige mellé tett nagyobb mintával ellenőrizendő, nem túl sárgás vagy mintás-e; semlegesebb szürkés bézs ellenmintával összevetve. Magyarországi szállítását, megmunkálását és egyedi árát külön kell igazolni; ezekre itt nincs ellenőrzött ajánlat.
 
 ## 4. Kandalló külső burkolata – pontosítás a helyszíni fotók alapján
 
@@ -49,14 +62,14 @@ A természetes mészkő/travertin korlátját a [Natural Stone Institute anyagis
 - A nagy felületek jelenleg szürke, befejezetlen állapotúak. Ezt nem tekintjük a végleges szürke színválasztásnak.
 - Az üveg mellett, alatt és a kiülő párkányon sötét, kőjellegű burkolat látszik. **Anyaga és megtartása még nincs megerősítve.** Ezt külön kell kezelni a fekete tűztérkerettől; egyikből sem következik automatikusan a másik cseréje.
 - A közös tér fotóján ferde mennyezet, felső háromszögablak és nagy üvegfelületek látszanak. A padló takart; annak tényleges színét ebből a képből nem lehet megítélni. A másik két szobafotón látható meleg, változatos parketta nem bizonyít parkettát a nappali–konyha zónában.
-- A fehér fal és cream beige nyílászáró rögzített döntés. A napfény és a fényképek színegyensúlya miatt a fotón látható sárgás/barnás tónusból nem határozunk meg új színt vagy festékkódot.
+- A fehér fal és grey beige nyílászáró rögzített döntés. A napfény és a fényképek színegyensúlya miatt a fotón látható sárgás/barnás tónusból nem határozunk meg új színt vagy festékkódot.
 
 ### Ezt javasolnám ebbe a térbe
 
 | Felület | Javasolt megjelenés | Miért |
 | --- | --- | --- |
 | Konyhafront | matt, natúr fa, nyugodt erezet | a fa maradjon a tér egyik fő anyaga, a kővel együtt se legyen túl sok minta |
-| Konyhai és szigetpult | azonos világos homok/elefántcsont kőmegjelenés, kevés kontraszttal | egyetlen anyagcsaláddá fogja össze a két konyhai felületet |
+| Konyhai és szigetpult | azonos, enyhén meleg világos homok-/mészkőhatás, a konkrét árnyalat mintával véglegesítve, kevés kontraszttal | egyetlen anyagcsaláddá fogja össze a két konyhai felületet |
 | Kandalló jelenleg szürke nagy külső síkjai | ugyanez a világos, matt kőmegjelenés vagy közeli változata, nagy táblákban, kevés látható osztással | a magas tömeg könnyedebb hatású marad, és kapcsolódik a konyhához |
 | Keskeny fülkék belseje | egyszínű, a világos külső felülethez közeli megjelenés | a mélyedések árnyéka már ad kontrasztot; ide nem kell új faminta vagy sötét kő |
 | Tűztérkeret | a meglévő fekete kerethez igazodás | a tűz és az üveg körül ez természetes, helyi kontraszt |
@@ -79,7 +92,7 @@ Fotóforrás: a tulajdonos által 2026-09-20-án megosztott IMG_5012, IMG_4977, 
 
 A szekrény és mosdó meglévő; **ezekhez kell a pultot igazítani**. Szélességet, mélységet vagy mosdókivágást egyelőre nem feltételezünk.
 
-**Első javaslat:** matt, világos homok/elefántcsont tónusú, finoman kőrajzolatú, fürdőszobai pulthoz alkalmas ultrakompakt vagy porcelán felület. A konyhai mintát is kipróbálnám a szürke csempe, fehér mosdó, sárgaréz csap és a meglévő szekrény mellett. A gyártó az Avorio felületcsalád alkalmazásai között fürdőszobai pultot is felsorol; a konkrét meglévő bútor teherbírása és kialakítása ettől még ellenőrizendő. [Termék- és alkalmazási adatok](https://www.cosentino.com/usa/colors/dekton/avorio/).
+**Első javaslat:** matt, világos homok vagy semleges szürkés bézs tónusú, finoman kőrajzolatú, fürdőszobai pulthoz alkalmas ultrakompakt vagy porcelán felület. A konyhai mintát is kipróbálnám a szürke csempe, fehér mosdó, sárgaréz csap és a meglévő szekrény mellett. A gyártó az Avorio felületcsalád alkalmazásai között fürdőszobai pultot is felsorol; a konkrét meglévő bútor teherbírása és kialakítása ettől még ellenőrizendő. [Termék- és alkalmazási adatok](https://www.cosentino.com/usa/colors/dekton/avorio/).
 
 Ha a konyhai pult is készül, érdemes egy ajánlatban megkérdezni, szabható-e a fürdőpult ugyanabból a táblából. Ez lehetséges költségelőny, nem garantált megtakarítás: a táblaméret, szabásterv és felületek döntenek.
 
@@ -94,6 +107,6 @@ A pontos ajánlathoz szükséges:
 
 ## Közös mintapróba és ajánlat
 
-Egymás mellé kerüljön a **fehér fal + cream beige + Norwich Arena + parketta + konyhafront + meglévő fürdőszekrény + kő + sárgaréz** mintája. Nappali és a meglévő esti fény mellett is nézzétek meg. A frontot függőlegesen, a pultmintát vízszintesen kell értékelni.
+Egymás mellé kerüljön a **fehér fal + grey beige + Norwich Arena + parketta + konyhafront + meglévő fürdőszekrény + kő + sárgaréz** mintája. Nappali és a meglévő esti fény mellett is nézzétek meg. A frontot függőlegesen, a pultmintát vízszintesen kell értékelni.
 
 Az egyedi árajánlat külön tartalmazza az anyagot, szabást, élmegmunkálást, kivágásokat, alátámasztást, szállítást és beépítést. A kandallóhoz külön rendszeralkalmassági visszaigazolás kell. Ezek hiányában nem adunk becsült árat bolti termékárként, és nem számoljuk a felületeket nullának.

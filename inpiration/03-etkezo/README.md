@@ -11,7 +11,7 @@
 - Rattan vagy fonott háttámlájú szék a fa asztalhoz
 - Szőnyeg csak akkor, ha minden oldalon +60 cm marad
 
-> **Cream beige nyílászárók és fa párkányok.** A meglévő szín és a szálcsiszolt sárgaréz kilincsek a referenciák; az új bútor- és textilszíneket a fehér fallal, padlóval és megrendelt bútorokkal közös mintasorban ellenőrizzük. A képek formai inspirációk, nem új beszerzési előírások.
+> **RAL 1019 – grey beige (szürkés bézs) nyílászárók, beltéri ajtók és velük azonos színű fa párkányok.** A meglévő szín és a szálcsiszolt sárgaréz kilincsek a referenciák; az új bútor- és textilszíneket a fehér fallal, padlóval és megrendelt bútorokkal közös mintasorban ellenőrizzük. A képek formai inspirációk, nem új beszerzési előírások.
 
 ## Mit kerülj
 
@@ -36,7 +36,7 @@
 <!-- ertekeles:start -->
 ## Képek értékelése (2026-09-20)
 
-Minden képet egyenként átnéztem a rögzített döntések szerint: **fehér fal**, krém bézs ajtó, világos–közép tölgy, zsályazöld akcentus, matt felületek.
+A korábbi képszűrés a fehér fal, világos–közép fa, zsályazöld akcentus és matt felületek mellett még a téves krém bézs ajtószínnel készült. **A javított szín RAL 1019 grey beige; az alábbi képek nem estek át új színellenőrzésen.** Formai inspirációként használhatók, a színegyezéshez a valós grey beige minta szükséges.
 
 - ✅ = a brief szerint rendben
 - ⚠️ = marad, de a megjegyzésben leírt részt **ne** vedd át
@@ -52,7 +52,7 @@ Minden képet egyenként átnéztem a rögzített döntések szerint: **fehér f
 | [`fa-asztal-fonott-szek-lenfuggony.jpg`](fa-asztal-fonott-szek-lenfuggony.jpg) | ⚠️ 🆕 | Tömörfa asztal, fonott hátú székek, fényszűrő lenfüggöny – az étkező textúrái. A székek fekete fémváza helyett nálatok fa váz. |
 | [`fa-asztal-minimal-feher.jpg`](fa-asztal-minimal-feher.jpg) | ⚠️ | Fehér fal, tömörfa asztallap. A fa tónusa itt sárgásabb a célnál (semleges, enyhén szürkés tölgy). |
 | [`minimal-feher-fa-etkezo.jpg`](minimal-feher-fa-etkezo.jpg) | ⚠️ | Általános 3D mockup fehér fallal; a fémlábas bútor nem cél. |
-| [`vilagos-fa-asztal-feher-fal.jpg`](vilagos-fa-asztal-feher-fal.jpg) | ⚠️ | Fehér fal, fa asztal, csíkos szőnyeg: jó. A sötétbarna ajtók és a vöröses padló nem (nálatok krém bézs ajtó, homokszínű lap). |
+| [`vilagos-fa-asztal-feher-fal.jpg`](vilagos-fa-asztal-feher-fal.jpg) | ⚠️ | Fehér fal, fa asztal, csíkos szőnyeg: jó. A sötétbarna ajtók és a vöröses padló nem (nálatok szürkés bézs ajtó, homokszínű lap). |
 
 **Kiszűrve és törölve innen: 3 kép** – nem feleltek meg a rögzített döntéseknek (leggyakrabban: a fal nem volt fehér).
 <!-- ertekeles:end -->

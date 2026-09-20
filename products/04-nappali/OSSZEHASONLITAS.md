@@ -21,7 +21,7 @@ A határidők az ellenőrzéskor megjelenő becslések, nem lefoglalt szállít�
 
 ## A Rocky teljes költsége és korlátai
 
-**Enteriőr-illeszkedés: kompromisszumos kutatási jelölt.** Szürke kárpitja eltér az elsődleges homok–bézs textilpalettától, a 4,5 cm-es láb pedig kevésbé hangsúlyozza a kívánt légies formát. A poliészter praktikus kompromisszum lehet, de itt a folttisztíthatóság még nincs igazolva. A fa váz megfelelősége sem bizonyított. A cream beige nyílászáró és Norwich Arena közös mintája mellett kell vizsgálni; az elfogadható méret és ár nem teszi önmagában stílusbeli ajánlássá.
+**Enteriőr-illeszkedés: kompromisszumos kutatási jelölt.** A RAL 1019 ajtók mellett a meleg greige kárpit is vizsgálható, de e szürke kárpit tényleges alaptónusa még nincs mintából igazolva; eltér az elsődleges homok–bézs textilpalettától, a 4,5 cm-es láb pedig kevésbé hangsúlyozza a kívánt légies formát. A poliészter praktikus kompromisszum lehet, de itt a folttisztíthatóság még nincs igazolva. A fa váz megfelelősége sem bizonyított. A grey beige nyílászáró és Norwich Arena közös mintája mellett kell vizsgálni; az elfogadható méret és ár nem teszi önmagában stílusbeli ajánlássá.
 
 Az oldalon a település kiválasztása után külön megnyitott szállítási tájékoztató **31 900 Ft** díjat mutatott. Az opcionális összeszerelés további **65 900 Ft**, így vele együtt **467 700 Ft** lenne. A szerelés időpontja külön egyeztetendő; nem bizonyított, hogy a kiszállítással egy napon történik. Kosárba helyezés és rendelés nem történt.
 

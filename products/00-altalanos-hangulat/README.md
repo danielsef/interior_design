@@ -113,7 +113,7 @@
 
 **Prio 1:** A ténylegesen szükséges ajtóvédelem a gyerek által használt terekhez tartozik. Feltétel: A helyszínen szükséges és a bútorhoz/szerelvényhez megfelelő védelem P1; nem automatikusan minden listázott darab.
 
-- **PATRULL ajtótámasz, fehér** – Megakadályozza, hogy az ajtó becsapódjon és becsípje a baba ujját; fehér, a krém bézs ajtó alján alig feltűnő, fúrás nélkül felrakható. ⚠️ *Csak akkor működik, ha az ajtó és a padló között 1,2–3,5 cm a hézag – a beltéri ajtóknál mérd le. A zsanér felőli rést nem védi.*
+- **PATRULL ajtótámasz, fehér** – Megakadályozza, hogy az ajtó becsapódjon és becsípje a baba ujját; fehér, ezért a RAL 1019 ajtótól elütő funkcionális részlet, fúrás nélkül felrakható. ⚠️ *Csak akkor működik, ha az ajtó és a padló között 1,2–3,5 cm a hézag – a beltéri ajtóknál mérd le. A zsanér felőli rést nem védi.*
 
 ### Fényszűrő len függöny — Prio 2
 
@@ -124,7 +124,7 @@
 
 **Prio 2:** Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük. Feltétel: Ahol már az első naptól belátásvédelem szükséges és más megoldás nincs, az adott ablak takarása P1.
 
-- **DYTÅG Függönypár, fehér** – Valódi 100% len, fényszűrő, 300 cm hosszú – pontosan az irányelv kérése (len/len hatású, törtfehér-bézs, a krém bézs nyílászáróhoz hangolva). A 11 ablakhoz 11 csomag (ablakonként 1 pár = 2x145 cm ≈ 2x a szokásos ablakszélesség) szükséges, szélesebb ablaknál 2 pár kombinálandó. ⚠️ *A név szerint 'fehér', a termékoldal szövege szerint a valódi len rostszíne miatt enyhén törtfehér árnyalatú – mintát érdemes kérni a krém bézs nyílászáróhoz illesztéshez.*
+- **DYTÅG Függönypár, fehér** – Valódi 100% len, fényszűrő, 300 cm hosszú – anyagában illeszkedő jelölt; törtfehér árnyalata a RAL 1019 nyílászáró mellett még mintával ellenőrizendő. A 11 ablakhoz 11 csomag (ablakonként 1 pár = 2x145 cm ≈ 2x a szokásos ablakszélesség) szükséges, szélesebb ablaknál 2 pár kombinálandó. ⚠️ *A név szerint 'fehér', a termékoldal szövege szerint a valódi len rostszíne miatt enyhén törtfehér árnyalatú – mintát érdemes kérni a szürkés bézs nyílászáróhoz illesztéshez.*
 - **Daytime len függöny (Linen Tales), bézs/natúr** – Kézzel készített, litvániai valódi len, tanúsított (European Flax, OEKO-TEX), előmosott – prémium tapintás és minőség a fő nappalikba/hálóba, ahol számít a textil súlya és esése. ⚠️ *Darabár – egy ablakhoz 2 db kell (≈60 380 Ft/ablak); a len természetéből adódóan darabonként lehet apró színeltérés.*
 
 ### Fényszűrő len hatású függöny — Prio 2
@@ -156,7 +156,7 @@
 
 **Prio 2:** Indulásra a használt háló és babaszoba külön rolójával számolunk; a teljes házas függöny/karnis összeállítás későbbre maradhat. Feltétel: Ha az induló sötétítést mégis függönnyel oldjátok meg, az ehhez kellő sín/karnis és bélés együtt P1; a szobai rolót ilyenkor kiváltják.
 
-- **FRIDANS Sötétítő roló, fehér** – Önálló, olcsó sötétítő roló megoldás a háló + 2 gyerekszoba ablakára, ha bélés helyett rolót választunk; fehér színben illik a krém bézs nyílászáróhoz. ⚠️ *Alap kivitel, kézi behúzású; nem 100%-ban fényzáró a kávafogazás miatt (oldalt/alul szűrődhet be némi fény).*
+- **FRIDANS Sötétítő roló, fehér** – Önálló, olcsó sötétítő roló megoldás a háló + 2 gyerekszoba ablakára, ha bélés helyett rolót választunk; fehér színe a fehér falhoz kapcsolódhat; a RAL 1019 nyílászáró melletti kontraszt mintával ellenőrizendő. ⚠️ *Alap kivitel, kézi behúzású; nem 100%-ban fényzáró a kávafogazás miatt (oldalt/alul szűrődhet be némi fény).*
 - **TRETUR Sötétítő roló, világosszürke** – Vastagabb, jobb fényzáró anyag és minőségibb kivitel, mint a FRIDANS – halkabb, finoman gördülő mechanika, ami kisbabás szobában a délutáni altatáshoz fontos. ⚠️ *Világosszürke, nem törtfehér/bézs – takarásban (ablakmélyedésben) ez nem zavaró, de látható rolóként színben elüt a többi textiltől.*
 
 ### Mennyezeti karnissín (fehér, letisztult vonalú alternatíva) — Prio 2

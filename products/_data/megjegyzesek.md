@@ -1,6 +1,6 @@
 ## Rögzített döntések és beszerzési határ
 
-- **Fehér fal**, cream beige nyílászárók és velük azonos színű fa párkányok. A színeket közös fizikai mintasorral egyeztetjük: fal, nyílászáró, padló, parketta, megrendelt bútor, fém, textil.
+- **Fehér fal**, RAL 1019 grey beige nyílászárók és velük azonos színű fa párkányok. A színeket közös fizikai mintasorral egyeztetjük: fal, nyílászáró, padló, parketta, megrendelt bútor, fém, textil.
 - **A világítás megvan:** 46 világítási termékjelölt törölve az aktív forrásokból és exportokból; nincs további világítási specifikáció vagy izzóbeszerzés.
 - **A tömörfa konyhabútor megrendelve:** a négy fogantyútétel kérésre megmaradt; a front és kőpult megjelenése külön javaslatot kapott. A bárszékek, textilek és szabadon álló kiegészítők megmaradtak. A háztartási helyiség munkalapja külön feladat.
 - **Két fürdő és külön WC:** kádas fürdő 4,75 m²; zuhanyzós fürdő alapterülete még ismeretlen. A `12-furdo` közös mappa név szerint külön kezeli őket.
@@ -48,3 +48,5 @@
 - **Háló új fekhelye:** egy közös 180×200-as matrac; tároló opcionális. Három új ágyalternatíva szerepel az [összehasonlításban](05-halo/OSSZEHASONLITAS.md), de még nincs ajánlott teljes csomag. A régi 100 000 Ft-os, 160-as keret kizárása nem megtakarítás.
 
 - **Matrac és ágyrács:** [két matrac és két rács vizsgálata](05-halo/MATRAC-OSSZEHASONLITAS.md), külön páros rácsárakkal és próba-/cserefeltételekkel. Árazott, de még nem igazoltan megfelelő P1 jelöltek, ezért kimaradnak a költségutakból; a 233 900 Ft-os számtani csomagpélda nem beköltözési minimum.
+
+- **Kőminták a RAL 1019 mellé:** [Avorio, Nebbia és Albarium mintagyűjtemény](komintak-ral1019.md). Preferált az Avorio jellegű világos, enyhén meleg mészkőhatás; a konkrét felület mintapróbával véglegesítendő.

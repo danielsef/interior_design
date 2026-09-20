@@ -2,11 +2,17 @@
 
 2026-09-20 · Pilisjászfalu, földszintes családi ház · E-01 tervadatok és tulajdonosi pontosítások
 
-> **Aktuális keret:** fehér falak; két fürdő (kádas és zuhanyzós) és külön WC. A tömörfa konyhabútor megrendelve; a kádas fürdő szekrénye, mosdója és pultja, valamint a zuhanyzós fürdő szekrénye és mosdója megvan / megrendelve. **Nyitott javaslati kör: konyhafront, konyhai kőpult, fogantyúk, kandallóburkolat és a zuhanyzós fürdő még hiányzó pultja.** A fa párkányok a nyílászárókkal azonos **cream beige** színűek lesznek. A világítás megvan. A meglévő fürdőszobai bútorokat és mosdókat nem választjuk újra; a párkány és világítás lezárt téma, világítási specifikáció nem része ennek a dokumentumnak.
+> **Aktuális keret:** fehér falak; két fürdő (kádas és zuhanyzós) és külön WC. A tömörfa konyhabútor megrendelve; a kádas fürdő szekrénye, mosdója és pultja, valamint a zuhanyzós fürdő szekrénye és mosdója megvan / megrendelve. **Nyitott javaslati kör: konyhafront, konyhai kőpult, fogantyúk, kandallóburkolat és a zuhanyzós fürdő még hiányzó pultja.** A fa párkányok a nyílászárókkal azonos **grey beige** színűek lesznek. A világítás megvan. A meglévő fürdőszobai bútorokat és mosdókat nem választjuk újra; a párkány és világítás lezárt téma, világítási specifikáció nem része ennek a dokumentumnak.
+
+## Színpontosítás – grey beige
+
+**Tulajdonosi javítás: a nyílászárók és a beltéri ajtók színe RAL 1019 – grey beige, azaz szürkés bézs.** A korábbi cream beige / krém bézs megnevezés téves volt. A fa párkányokra is a javított színt vezetjük át a korábbi, nyílászárókkal azonos színre vonatkozó döntés alapján. A kódot a tulajdonos megerősítette; a [RAL hivatalos megnevezése](https://www.ral-farben.de/en/colour/ral-classic/ral-1019/9099) is Grey beige / Graubeige. Az egyeztetéshez RAL 1019 fizikai színminta és a tényleges nyílászáró felülete szükséges; a fényesség és textúra hatását a színkód nem helyettesíti.
+
+A Wooden coastal / Forest Wood Coastal irány megmarad. A tulajdonos a kő színirányának kiválasztását a stílusbeli illeszkedésre bízta: **világos, enyhén meleg homok-/mészkőhatás, matt felület és halk rajzolat az első választás**. Ez a natúr fával és lenhatású textilekkel a kívánt világos, természetközeli hangulatot támogatja; a szürkés bézs ajtó mellett szándékosan megőrizzük ezt a visszafogott melegséget. A színazonosító már rögzített; a tényleges felületet a helyszíni fényben, a padlóval és fával együtt értékeljük. A fa, sárgaréz és visszafogott zöldek továbbra is kiindulási preferenciák. A nagy kő- és textilfelületek végső árnyalata új közös mintapróbát igényel; az alábbi pontosítás javaslat, nem lezárt felületválasztás.
 
 ## Wooden coastal – az irány
 
-Világos, levegős otthon, természetes textúrákkal és visszafogott erdei színekkel. A fehér fal, a cream beige nyílászáró, a homokszínű padló és a fa adják az alapot; a zsálya- és eukaliptuszzöld kisebb textil- és dekorfelületeken jelenhet meg.
+Világos, levegős otthon, természetes textúrákkal és visszafogott erdei színekkel. A fehér fal, a grey beige nyílászáró, a homokszínű padló és a fa adják az alapot; a zsálya- és eukaliptuszzöld kisebb textil- és dekorfelületeken jelenhet meg.
 
 Az erdei környezet a kilátással és a változó természetes fénnyel kapcsolódik a belső térhez. A lombokról visszaverődő fény befolyásolhatja a színérzetet, de ennek mértéke helyiségenként és évszakonként változik. Egy árnyalat alkalmasságáról ezért a helyszíni minták döntenek, nem egy általános állítás arról, hogy erdőben melyik szín működik.
 
@@ -22,8 +28,8 @@ Ezek adottságok; a további válogatás ezekhez igazodik.
 | Elem | Döntés / állapot | Következmény |
 | --- | --- | --- |
 | Falszín | **fehér** az egész ház festett falfelületein | nincs színes akcentusfal; a már burkolt fürdő- és WC-falak megmaradnak |
-| Nyílászárók és beltéri ajtók | **cream beige**, a korábbi leírásokban krém bézs | a megnevezés nem pontos festékkód; a fizikai minta a referencia |
-| Párkányok | **fa, a nyílászárókkal azonos cream beige színben** | rendezett tétel, nincs új anyag- vagy termékkeresés |
+| Nyílászárók és beltéri ajtók | **RAL 1019 – grey beige (szürkés bézs)**, tulajdonos által megerősítve | RAL 1019 fizikai minta és a tényleges felület a referencia |
+| Párkányok | **fa, a nyílászárókkal azonos grey beige színben** | rendezett tétel, nincs új anyag- vagy termékkeresés |
 | Hidegburkolat | **Norwich Arena 60×60**, Ref. 0178690174451 | előszoba, előtér, közlekedő, nappali–konyha–étkező |
 | Melegburkolat | **fa parketta a négy szobában** | háló, két szoba, dolgozó |
 | Konyhabútor | **tömörfa, megrendelve** | a tömörfa bútor rendelése adottság; kérésre a front megjelenése, kőpult és fogantyú továbbra is kap javaslatot |
@@ -58,7 +64,7 @@ A tömörfa anyag, a valódi fafurnér és a faerezetes fólia/dekor nem azonos.
 Egy közös mintasorhoz hasonlítsuk a jelölteket:
 
 1. **Fehér falminta**, a tényleges festékkel és felülettel.
-2. **cream beige nyílászáró-/ajtóminta**, amelyhez a fa párkány is igazodik.
+2. **grey beige nyílászáró-/ajtóminta**, amelyhez a fa párkány is igazodik.
 3. **Norwich Arena padlólap és a parketta mintája.**
 4. **A megrendelt konyha és kádas fürdőszobabútor anyagmintája.**
 5. **Meglévő sárgaréz felület**, majd mellé a függöny, kárpit, fa bútor és akcentustextil jelöltje.
@@ -106,13 +112,24 @@ További tervadat: 2,80 m belmagasság; Pan-Tech zárt égésterű kandalló; 70
 | Réteg | Árnyalat / anyag | Szerep |
 | --- | --- | --- |
 | Alap | **fehér fal és mennyezet** | világos háttér |
-| Meleg semleges | cream beige, homok, bézs | nyílászáró, ajtó, párkány, padló, nagy textilek |
+| Rögzített szürkés bézs | **RAL 1019 grey beige**, fizikai mintával egyeztetve | nyílászáró, ajtó és azonos színű fa párkány |
+| Kiegészítő semleges | világos homok, natúr len, visszafogott törtfehér; greige/taupe csak közös mintával | textilek és kőfelületek; a meglévő Norwich Arena padlóhoz is egyeztetve |
 | Fa | a megrendelt konyha és a parketta mintáihoz hangolt tónusok | bútorok és burkolat kapcsolata |
 | Elsődleges akcentus | zsálya, eukaliptusz, tompa mohazöld | kisebb textil- és dekorfelületek |
 | Másodlagos akcentus | tompított porkék, ha a mintasorba illik | kevés párna vagy kerámia |
 | Élő zöld | a helyiség fényviszonyaihoz választott növény | a kert és a belső tér kapcsolata |
 
 Nincsenek kötelező százalékok: a fal, padló, bútor és textil felületei más-más nézetben más arányban látszanak. Egy térben maradjon kevés hangsúly, a zöldek pedig rokon színcsaládot alkossanak. A meglévő, esetleg mustársárga kanapét külön mintával kell beilleszteni, ha valóban megmarad; ezt nem tekintjük új vásárlási előírásnak.
+
+### A színpontosítás után követett irány és mintával véglegesítendő részletek
+
+| Felület | Javasolt következő lépés | Döntési állapot |
+| --- | --- | --- |
+| Konyhapult, sziget és kandalló | elsődlegesen enyhén meleg, világos homok/mészkőhatás, matt felület és halk rajzolat; semlegesebb szürkés bézs csak ellenminta | a tulajdonos a stílushoz illő irány kiválasztását ránk bízta; ez a preferált irány, a konkrét kő még mintával véglegesítendő |
+| Kanapé, függöny és nagy szőnyeg | homok/natúr len mellett meleg greige próbaminta; a kékesszürke és sárgás krém külön vizsgálandó | konkrét árnyalat nincs jóváhagyva; a szürke kanapé nem válik automatikusan megfelelővé |
+| Natúr fafront és nagy fabútor | a tényleges pácot a grey beige, padló és megrendelt bútor mintájához illeszteni | a faanyagigény megmarad; nincs automatikus szürkítés vagy új fafajválasztás |
+| Sárgaréz fogantyúk, kilincsek | a meglévő fémminta mellett ellenőrizni az új fogantyút | a meglévő fémcsalád rögzített; a színjavítás miatt nem szükséges lecserélni |
+| Zuhanyzós fürdőpult | a kiválasztandó kőmintát a saját szekrényhez, mosdóhoz és burkolathoz is odatenni | továbbra is külön illeszkedési ellenőrzés kell |
 
 ## Anyagok, felületek, textúra
 
@@ -126,16 +143,16 @@ A Norwich Arena fugája színben simuljon a laphoz; a pontos színt mintával v�
 
 ### Konyhafront, kőpult és kandalló – javasolt összeállítás
 
-**Első választásom:** nyugodt erezetű, natúr hatású, matt fafront + világos, meleg mészkőhatású pult + ugyanebbe a kőcsaládba illő kandallóburkolat + vékony szálcsiszolt sárgaréz rúdfogantyú. Ez a fehér fal és cream beige nyílászáró mellé illik, a fa pedig látható fő anyag marad. Ez javaslat, nem új rögzített döntés.
+**Első választásom:** nyugodt erezetű, natúr hatású, matt fafront + világos, meleg mészkőhatású pult + ugyanebbe a kőcsaládba illő kandallóburkolat + vékony szálcsiszolt sárgaréz rúdfogantyú. A grey beige mintával együtt először ezt vizsgálnám; a fa látható fő anyag marad. A harmonikus színegyezés még nem igazolt. Ez javaslat, nem új rögzített döntés.
 
 | Elem | Javaslat | Kerülendő ennél az összeállításnál |
 | --- | --- | --- |
 | Konyhafront | sík vagy nagyon finoman keretezett, visszafogott erezetű tömörfa front; matt, natúr hatású felület; tölgy esetén közepesen világos, kevéssé sárgító minta | erősen narancsos pác, nagyon rusztikus göcsök, többféle marás/lamella egyszerre |
 | Fogantyú | vékony, egyenes, finoman lekerekített szálcsiszolt sárgaréz rúd; a széles fiókokon arányosan hosszabb kivitel, egységes családból | fényes sárga arany, kevert fémtónus és a minta elfogadása előtti frontfúrás |
-| Konyhai kőpult | matt, világos bézs/elefántcsont, finom mészkőszerű rajzolattal; egyszerű egyenes él, tompított élekkel | erős szürke vagy arany márványerek, nagyon sárga krém, tükrös felület, rusztikus vastag perem |
+| Konyhai kőpult | matt, világos, enyhén meleg homok, finom mészkőszerű rajzolattal; semleges szürkés bézs csak összevetési minta; egyszerű egyenes él, tompított élekkel | erős szürke vagy arany márványerek, nagyon sárga krém, tükrös felület, rusztikus vastag perem |
 | Kandalló külső burkolata | nagyobb összefüggő, matt mészkőhatású felület, kevés osztással; a konyhapulttal rokon tónus | apró, rusztikus kőcsíkok és újabb erős erezet a már sok fa mellé |
 
-Konkrét mintareferencia a **Dekton Avorio**: a gyártó világos bézs, matt, természetes kő ihlette felületként írja le. Ezt először a Norwich Arena és a cream beige mellé tenném; a végső választást a közös minta dönti el. Ez iparilag előállított ultrakompakt felület, **nem természetes mészkő**. [Gyártói termékoldal](https://www.cosentino.com/usa/colors/dekton/avorio/).
+Konkrét mintareferencia a **Dekton Avorio**: a gyártó világos bézs, matt, természetes kő ihlette felületként írja le. A grey beige pontosítása után ez feltételes mintareferencia: a Norwich Arena és a tényleges nyílászáróminta mellett egy kevésbé sárgás, semleges szürkés bézs kőmintával is összevetendő. A végső választás nyitott. Ez iparilag előállított ultrakompakt felület, **nem természetes mészkő**. [Gyártói termékoldal](https://www.cosentino.com/usa/colors/dekton/avorio/).
 
 Konyhapultra elsőként ezt a kőhatású, könnyebben kezelhető felületcsaládot mérlegelném a valódi mészkő/travertin helyett. Utóbbiaknál a savérzékenység és nedvszívás külön gondozási kompromisszum; ha természetes kő a cél, azt tudatosan kell vállalni. [Natural Stone Institute](https://www.naturalstoneinstitute.org/consumers/varieties/limestone/).
 
@@ -146,6 +163,8 @@ A fogantyúk megmaradnak a [konyhai terméklistában](../products/02-konyha/READ
 **Helyszíni fotók alapján (2026-09-20):** a kandalló magas, saroküveges, fülkékkel tagolt tömeg. A konyhai és szigetpultot azonos felülettel, a kandalló jelenleg szürke nagy külső síkjait azonos vagy közeli, világos, matt, halk rajzolatú kőmegjelenéssel javaslom. A sok él és nyílás mellé nem indokolt újabb erős erezet vagy rusztikus kőcsíkozás. A fülkék belseje maradjon nyugodt, a külső világos tónushoz illő; a szellőző és szerelőnyílás működését meg kell őrizni.
 
 A képen látható sötét kőjellegű lábazat/párkány megtartása még nyitott. Ha marad, helyi kontrasztként kezeljük, az új mintát ahhoz is egyeztetjük; nem kell emiatt a magas kandallótestet vagy a konyhapultot is sötétre választani. A végleges burkolati kiosztás ennek eldöntése és a kandallórendszer műszaki ellenőrzése után készülhet. A szobafotók meleg parkettája nem változtatja meg a nappali–konyha rögzített hidegburkolatát; a közös tér padlója a képen takart.
+
+**Digitális mintagyűjtemény:** [Avorio, Nebbia és Albarium gyártói képei és fizikai mintalistája](../products/komintak-ral1019.md).
 
 Részletes anyagválasztási és ajánlatkérési szempontok: [konyha, kandalló és fürdőpult](../products/anyagvalasztas-konyha-kandallo-furdopult.md).
 
@@ -169,7 +188,7 @@ A nappaliban a kandalló, kilátás és tévé tényleges használata alapján v
 
 A függöny széthúzva lehetőleg az ablak mellé kerüljön. A karnis/sín helyét az ablak nyitása, a párkány és a teljes függönycsomag helyigénye szerint válasszuk. A párkány már rögzített, a textil ehhez alkalmazkodik.
 
-Fényszűrőnek törtfehér vagy bézs, len vagy len hatású anyag jó kiindulás. A cream beige mintával együtt nézzük meg, nem lesz-e túl sárgás vagy szürkés. Az anyagmennyiséget a sín hossza és a választott redőzés határozza meg; a kétszeres bőség gyakori kiindulás, nem minden rendszerre kötelező szabály.
+Fényszűrőnek semleges törtfehér vagy natúr lenhatású bézs jó kiindulás. A grey beige mintával együtt nézzük meg, hogy a textil sárgás vagy hűvös szürke alaptónusa hogyan viselkedik; a korábbi bézs jelöltek illeszkedése újraellenőrizendő. Az anyagmennyiséget a sín hossza és a választott redőzés határozza meg; a kétszeres bőség gyakori kiindulás, nem minden rendszerre kötelező szabály.
 
 A hálóban és gyerekszobákban külön sötétítő réteg szükséges. Kisgyerekes használatnál előny a padló fölött végződő, könnyen tisztítható függöny; a zsinórok ne legyenek elérhetők.
 
@@ -190,7 +209,7 @@ A törékeny és apró tárgyak kerüljenek a gyerek által nem elérhető helyr
 
 ## Egységesség a házon belül
 
-A közös alapot a fehér fal, cream beige nyílászárók és párkányok, a rögzített burkolatok és a sárgaréz részletek adják. A többi bútornál az összehangolt minták fontosabbak, mint hogy minden egyetlen sorozatból származzon.
+A közös alapot a fehér fal, grey beige nyílászárók és párkányok, a rögzített burkolatok és a sárgaréz részletek adják. A többi bútornál az összehangolt minták fontosabbak, mint hogy minden egyetlen sorozatból származzon.
 
 Szobánként változhat a zöld mennyisége, a textilek puhasága és a tárolás nyitottsága. A konyha–étkező–nappali **tulajdonos által megerősítve közös légtér**, a terv szerinti területük összesen 45,49 m²: az innen egyszerre látható nagy bútorokat együtt kell összevetni.
 
@@ -268,9 +287,9 @@ Minden mappában van egy **`README.md`** (helyiségre szabott brief + **képenk�
 
 **2026-09-20-i szűrés:** az eredeti 127 képből 66 kikerült, mert nem felelt meg a rögzített döntéseknek – 36 esetben azért, mert **a fal nem fehér** volt. A kiszűrt képek törölve lettek, a helyükre 49 új, egyenként ellenőrzött kép került.
 
-**A ház kulcsreferenciája:** [`13-kozlekedo/feher-fal-krem-bezs-ajtok-homok-lap.jpg`](../inpiration/13-kozlekedo/feher-fal-krem-bezs-ajtok-homok-lap.jpg) – fehér fal, sík krém bézs ajtók tokkal egy színben, homokszínű nagyformátumú lap, tölgy.
+**Korábbi formai referencia, nem grey beige színminta:** [`13-kozlekedo/feher-fal-krem-bezs-ajtok-homok-lap.jpg`](../inpiration/13-kozlekedo/feher-fal-krem-bezs-ajtok-homok-lap.jpg) – fehér fal, sík krém bézs ajtók tokkal egy színben, homokszínű nagyformátumú lap, tölgy.
 
-Kilincs-referencia (szálcsiszolt sárgaréz krém bézs ajtón, fehér fal előtt): [`09-eloter/krem-bezs-ajto-sargarez-kilincs-tolgy-konzol.jpg`](../inpiration/09-eloter/krem-bezs-ajto-sargarez-kilincs-tolgy-konzol.jpg).
+Kilincs-/formareferencia (a képen a korábbi leírás szerint krém bézs ajtó, ezért a grey beige színegyezést nem igazolja): [`09-eloter/krem-bezs-ajto-sargarez-kilincs-tolgy-konzol.jpg`](../inpiration/09-eloter/krem-bezs-ajto-sargarez-kilincs-tolgy-konzol.jpg).
 
 A korábbi inspirációs briefekben szereplő, azóta lezárt témákra e dokumentum aktuális rögzített döntései az irányadók; a képek nem jelentenek új beszerzési feladatot.
 
@@ -295,6 +314,8 @@ A helyiségenkénti prioritás, feltételek, árazatlan hiányok és ajánlott r
 | Kérdés | Miért számít |
 | --- | --- |
 | Zuhanyzós fürdő alapterülete, helye a terven és szabad bútorozási méretei | a régi helyiségjegyzék pontosítása, a meglévő szekrényhez és mosdóhoz szükséges pult illesztése |
+| RAL 1019 fizikai minta és tényleges nyílászárófelület közös mintasora | a kód megerősítve; a felületek együtt látható hatásának ellenőrzése szükséges |
+| A preferált világos homok-/mészkőhatáshoz konkrét kőminta | a stílusirány kiválasztva, a termék és felület véglegesítése közös mintapróbával |
 | Meglévő minták és a közös mintasor összeállítása | bútor-, textil- és fémfelületek összehangolása |
 | Kádas fürdő megrendelt bútorának méretei | csak a még szükséges tükör és kiegészítők illesztéséhez |
 | Gardrób burkolata | Norwich Arena vagy más kerámia, parketta nélkül |

@@ -143,7 +143,7 @@
 
 **Prio 2:** Az alap munkafelület és szék mellett későbbi tárolási vagy kényelmi/dekorációs fejlesztés.
 
-- **LENDA Függöny elkötővel, 1 pár, törtfehér** – Pamut, len-hatású fényszűrő függöny törtfehérben – a krém bézs ajtókhoz hangolt meleg alapszín, tompítja a fényt, de nem sötétít el. ⚠️ *Nem valódi len, hanem pamut; ellenőrizni kell, hogy az ablak szélességéhez elég anyagmennyiséget ad-e (a szabály szerint az ablak 2x szélessége ajánlott).*
+- **LENDA Függöny elkötővel, 1 pár, törtfehér** – Pamut, len-hatású fényszűrő függöny törtfehérben – a RAL 1019 ajtók mellé mintapróbára szánt világos alapszín, tompítja a fényt, de nem sötétít el. ⚠️ *Nem valódi len, hanem pamut; ellenőrizni kell, hogy az ablak szélességéhez elég anyagmennyiséget ad-e (a szabály szerint az ablak 2x szélessége ajánlott).*
 
 ### Asztali rendszerező (bambusz) — Prio 2
 

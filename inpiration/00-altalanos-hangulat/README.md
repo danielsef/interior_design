@@ -7,8 +7,8 @@
 
 ## Mit keress
 
-- Fehér fal + **krém bézs ajtó és nyílászáró** együtt egy képen – ez a ház alap-párosítása
-- Krém bézs **sík ajtólap** matt felülettel, matt fekete vagy antikolt sárgaréz kilinccsel
+- Fehér fal + **szürkés bézs ajtó és nyílászáró** együtt egy képen – ez a ház alap-párosítása
+- Szürkés bézs **sík ajtólap** matt felülettel, matt fekete vagy antikolt sárgaréz kilinccsel
 - Az ajtó, a tok és a szegélyléc azonos színben
 - Világos–közép tölgy matt felülettel, semleges (nem sárgás) altónussal
 - Len függöny padlóig, magasra tett karnissal, dupla anyagmennyiséggel
@@ -16,7 +16,7 @@
 - **Zsályazöld** textil és kerámia – ez az erdei akcentus, nem a kék
 - Matt, halk kőfelület (mészkő, homokkő hatás)
 
-> **Cream beige nyílászárók és fa párkányok.** A meglévő szín és a szálcsiszolt sárgaréz kilincsek a referenciák; az új bútor- és textilszíneket a fehér fallal, padlóval és megrendelt bútorokkal közös mintasorban ellenőrizzük. A képek formai inspirációk, nem új beszerzési előírások.
+> **RAL 1019 – grey beige (szürkés bézs) nyílászárók, beltéri ajtók és velük azonos színű fa párkányok.** A meglévő szín és a szálcsiszolt sárgaréz kilincsek a referenciák; az új bútor- és textilszíneket a fehér fallal, padlóval és megrendelt bútorokkal közös mintasorban ellenőrizzük. A képek formai inspirációk, nem új beszerzési előírások.
 
 ## Mit kerülj
 
@@ -44,7 +44,7 @@
 <!-- ertekeles:start -->
 ## Képek értékelése (2026-09-20)
 
-Minden képet egyenként átnéztem a rögzített döntések szerint: **fehér fal**, krém bézs ajtó, világos–közép tölgy, zsályazöld akcentus, matt felületek.
+A korábbi képszűrés a fehér fal, világos–közép fa, zsályazöld akcentus és matt felületek mellett még a téves krém bézs ajtószínnel készült. **A javított szín RAL 1019 grey beige; az alábbi képek nem estek át új színellenőrzésen.** Formai inspirációként használhatók, a színegyezéshez a valós grey beige minta szükséges.
 
 - ✅ = a brief szerint rendben
 - ⚠️ = marad, de a megjegyzésben leírt részt **ne** vedd át
@@ -66,7 +66,7 @@ Minden képet egyenként átnéztem a rögzített döntések szerint: **fehér f
 | [`zsalyazold-len-anyag-szinreferencia.jpg`](zsalyazold-len-anyag-szinreferencia.jpg) | ✅ 🆕 | Zsályazöld len közelről: ilyen tompított, szürkés zöld legyen a ház EGYETLEN akcentuszöldje – ehhez a képhez tartsd a textileket. |
 | [`kek-feher-csikos-parna.jpg`](kek-feher-csikos-parna.jpg) | ⚠️ | Tompított szürkéskék csík: csak másodlagos akcentusként (2–3%), a zöld mellett kisebb felületen. |
 | [`krem-bezs-ajto-feher-fal-matt-fekete-kilincs.jpg`](krem-bezs-ajto-feher-fal-matt-fekete-kilincs.jpg) | ⚠️ 🆕 | Matt fekete kilincs fehér–krém környezetben (jobbra), fehér fal, krém tok. Figyelem: itt az ajtólap világosabb a toknál – nálatok a lap, a tok és a szegélyléc EGY szín. A sötét dió fülke és a márványos padló nem cél. |
-| [`krem-bezs-sik-frontok-szinreferencia.jpg`](krem-bezs-sik-frontok-szinreferencia.jpg) | ⚠️ | Csak a krém bézs SZÍN referenciája. A keretes front és a nikkel fogantyú nem cél (sík lap, matt fekete vagy antikolt sárgaréz kell). |
+| [`krem-bezs-sik-frontok-szinreferencia.jpg`](krem-bezs-sik-frontok-szinreferencia.jpg) | ⚠️ | Korábbi krém bézs színreferencia, a grey beige pontosítás után színválasztásra nem használható. A keretes front és a nikkel fogantyú sem rögzített cél; a meglévő szálcsiszolt sárgaréz a fémreferencia. |
 | [`parna-harmas-krem-kek-csikos.jpg`](parna-harmas-krem-kek-csikos.jpg) | ⚠️ | A párna-képlet jó (nagy semleges + alapszín + akcentus), de nálatok az akcentus zsályazöld legyen, a kék csak kis adagban. |
 
 **Kiszűrve és törölve innen: 9 kép** – nem feleltek meg a rögzített döntéseknek (leggyakrabban: a fal nem volt fehér).

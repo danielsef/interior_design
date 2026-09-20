@@ -28,7 +28,7 @@ A mentett `pricecheck.json` és `linkcheck.json` történeti ellenőrzés. Nem s
 
 ## Beszerzési kör – tulajdonosi pontosítás
 
-A világítás megvan; a fa párkányok cream beige színben készülnek. Ezekhez ne adj új terméket vagy specifikációt. A tömörfa konyhabútor megrendelve, de kérésre a front, kőpult és fogantyúk megjelenésére továbbra is adunk javaslatot; a négy fogantyújelölt megmarad.
+A világítás megvan; a fa párkányok RAL 1019 grey beige színben készülnek. Ezekhez ne adj új terméket vagy specifikációt. A tömörfa konyhabútor megrendelve, de kérésre a front, kőpult és fogantyúk megjelenésére továbbra is adunk javaslatot; a négy fogantyújelölt megmarad.
 
 A kádas fürdő 4,75 m², szekrénye, mosdója és pultja megvan / megrendelve. A zuhanyzós fürdő szekrénye és mosdója is megvan, **pultja még nincs**, a bútor mérete/típusa és a helyiség területe még ismeretlen. A `12-furdo` mindkét fürdőt név szerint kezeli. Meglévő mosdó/szekrény helyett ne adj új jelöltet; a régi ÅLSKEN pult csak `budget_include: false` referenciaként marad az illeszkedés ellenőrzéséig.
 

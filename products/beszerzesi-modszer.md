@@ -21,7 +21,7 @@
 - **Háló:** egy közös 180×200 cm-es matrac. Az ágyneműtartó jó lenne, de nem kötelező.
 - **Kanapé:** kb. 300×200 cm-es, L alakú, ágyazható, inkább puha. A méret célérték; a helyszíni elrendezéssel ellenőrizendő. Árplafon nélküli összevetés, alkalmi vendégágy **két felnőttnek**; levehető/mosható vagy tisztítható fix kárpit egyaránt elfogadható. Az oldalirány még nyitott.
 - **Gyermek:** beköltözéskor 1 éves; az alvás helye még nincs eldöntve a beszélgetésben.
-- A korábban rögzített fehér falak, cream beige nyílászárók/párkányok, burkolatok és meglévő bútorok változatlan kiindulópontok. A dolgozóasztalt és széket hozzák; a 08-as szoba vendég-/tartalékszoba.
+- A korábban rögzített fehér falak, RAL 1019 grey beige nyílászárók/párkányok, burkolatok és meglévő bútorok változatlan kiindulópontok. A dolgozóasztalt és széket hozzák; a 08-as szoba vendég-/tartalékszoba.
 - Világítás, új konyhabútor, meglévő mosdók és fürdőszobai szekrények beszerzése lezárt. A konyhafront megjelenése, fogantyúk, konyhai kőpult, kandallóburkolat és zuhanyzós fürdőpult továbbra is nyitott tervezési kör.
 
 ## Milyen problémát oldunk meg?
@@ -67,7 +67,7 @@ Teljes, kategóriánkénti helyzetkép: [kategória-felülvizsgálat](kategoria-
 
 Minden új vagy felülvizsgált fő bútornál külön leírjuk: **illeszkedés** (szín, anyag, felület, forma), **kompromisszum** (konkrét eltérés és előnye), **ellenőrzési hiány** (például fizikai minta). A funkció, ár vagy márkanév önmagában nem elég az ajánláshoz. A követelményeknek megfelelő alternatíva, a még ellenőrizendő figyelőlistás darab és az ajánlott termék eltérő státusz.
 
-A látható fa és textil a fehér fal, cream beige nyílászáró, a helyiség saját padlója és a már megrendelt bútorok közös mintasorához igazodik. A hálóban parkettához, a nappaliban Norwich Arenához egyeztetünk. A rattan lehetséges réteg, nem minden bútor kötelező anyaga. A szürke vagy hangsúlyosan fekete részletet nem nevezzük automatikusan stílusazonosnak; a furnér és tömörfa megfelelőségét a tényleges anyagleírás igazolja. A korábbi teljes állomány még nem kapta meg ezt a termékenkénti felülvizsgálatot.
+A látható fa és textil a fehér fal, RAL 1019 grey beige nyílászáró, a helyiség saját padlója és a már megrendelt bútorok közös mintasorához igazodik. A hálóban parkettához, a nappaliban Norwich Arenához egyeztetünk. A rattan lehetséges réteg, nem minden bútor kötelező anyaga. A szürke vagy hangsúlyosan fekete részletet nem nevezzük automatikusan stílusazonosnak; a furnér és tömörfa megfelelőségét a tényleges anyagleírás igazolja. A korábbi teljes állomány még nem kapta meg ezt a termékenkénti felülvizsgálatot.
 
 Pontos modell és változat; gyártó és kereskedő külön; közvetlen terméklink; ellenőrzés dátuma; anyag és méret; ár és pénznem; csomag tartalma; darabszám; készlet/szállítás forrása; teljes bekerülési költség; kipróbálás vagy minta lehetősége; tisztítás/ápolás; visszaküldési feltételek forrása; az ajánlás indoka és korlátja.
 
@@ -120,3 +120,7 @@ Három megfelelő fekvőméretű alternatíva került az [összehasonlításba](
 ## Matrac és ágyrács – 2026-09-20
 
 A [háló új vizsgálata](05-halo/MATRAC-OSSZEHASONLITAS.md) két 180×200-as matrac és két, páronként számolt ágyrács termékárát tartalmazza. Az állomány **322 rekord / 188 helyiség–kategória**. Az alacsony ár még nem igazolt megfelelés: a négy új sor költségutakból kizárt a komfort/terhelhetőség és az összeillőség ellenőrzéséig. A feltételes csomagszámítások nem teljes szállított ajánlatok. Mireknél az október 30.–november 13. közötti készletjelzés a beköltözési határidő miatt hátrasorolást indokol; a bolti próba feltételei és a visszafizetés formája külön szerepel.
+
+## Színpontosítás – RAL 1019, 2026-09-20
+
+A tulajdonos megerősítette: nyílászárók és beltéri ajtók **RAL 1019 grey beige (szürkés bézs)**; a fa párkányok a korábbi döntés szerint velük azonos színűek. A stílushoz illő kőirány kiválasztását ránk bízta. Preferált irány: **enyhén meleg, világos homok-/mészkőhatás, matt felület, halk rajzolat** a konyhai/szigetpulton és rokon megjelenésben a kandallón. Konkrét termék még nincs véglegesítve; az Avorio feltételes mintareferencia. A RAL 1019, padló, fa és sárgaréz közös mintasora dönti el az illeszkedést. A függönyök és szürke/bézs kárpitok korábbi színérvelése feltételesre pontosítva; a színjavítás önmagában nem igazol termékcserét. [Részletes anyagjavaslat](anyagvalasztas-konyha-kandallo-furdopult.md).

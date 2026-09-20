@@ -12,10 +12,10 @@
 - **Fehér lambéria** (beadboard) a fogas mögötti falon
 - Zárt cipőtároló – erdős telken a sáros cipő nem maradhat kint
 - Nagyformátumú, homokszínű padlólap világos fugával
-- **Több krém bézs ajtó egy látómezőben** – az előszobából nyílik a legtöbb ajtó, itt derül ki leghamarabb, hogy jó-e a fehér–bézs párosítás
+- **Több szürkés bézs ajtó egy látómezőben** – az előszobából nyílik a legtöbb ajtó, itt derül ki leghamarabb, hogy jó-e a fehér–bézs párosítás
 - 10,60 m² – ez nem folyosó, hanem szoba: fér bele konzolasztal is
 
-> **Cream beige nyílászárók és fa párkányok.** A meglévő szín és a szálcsiszolt sárgaréz kilincsek a referenciák; az új bútor- és textilszíneket a fehér fallal, padlóval és megrendelt bútorokkal közös mintasorban ellenőrizzük. A képek formai inspirációk, nem új beszerzési előírások.
+> **RAL 1019 – grey beige (szürkés bézs) nyílászárók, beltéri ajtók és velük azonos színű fa párkányok.** A meglévő szín és a szálcsiszolt sárgaréz kilincsek a referenciák; az új bútor- és textilszíneket a fehér fallal, padlóval és megrendelt bútorokkal közös mintasorban ellenőrizzük. A képek formai inspirációk, nem új beszerzési előírások.
 
 ## Mit kerülj
 
@@ -41,7 +41,7 @@
 <!-- ertekeles:start -->
 ## Képek értékelése (2026-09-20)
 
-Minden képet egyenként átnéztem a rögzített döntések szerint: **fehér fal**, krém bézs ajtó, világos–közép tölgy, zsályazöld akcentus, matt felületek.
+A korábbi képszűrés a fehér fal, világos–közép fa, zsályazöld akcentus és matt felületek mellett még a téves krém bézs ajtószínnel készült. **A javított szín RAL 1019 grey beige; az alábbi képek nem estek át új színellenőrzésen.** Formai inspirációként használhatók, a színegyezéshez a valós grey beige minta szükséges.
 
 - ✅ = a brief szerint rendben
 - ⚠️ = marad, de a megjegyzésben leírt részt **ne** vedd át

@@ -15,7 +15,7 @@ Read the sections relevant to your rooms ("Helyiségenkénti alapelvek", "Mester
 - Ask only consequential missing questions interactively and continue independent source/requirements work. For major purchases compare 4–6 relevant sources, but do not require three finalists if fewer genuinely fit; small accessories can use a lighter comparison. Per-room `KUTATASI-BRIEF.md` files record the latest specific requirements.
 - WHITE walls; no coloured accent wall.
 - Solid-wood kitchen already ordered: do not source a replacement kitchen. The owner DOES request front finish, stone countertop and handle recommendations; retain existing handle options.
-- Wooden windowsills in the same cream beige colour as the windows: excluded from sourcing.
+- Wooden windowsills in the same RAL 1019 grey beige colour as the windows: excluded from sourcing.
 - ALL lighting obtained: no lamps, bulbs, lanterns, lighting accessories or technical lighting specification.
 - Bathtub bathroom 4.75 m²: cabinet, basin and countertop already ordered / obtained. Shower bathroom: cabinet and basin obtained, countertop missing; dimensions/model and room area unknown. Source only a compatible countertop once measured, not replacement furniture or basin.
 - Compare colours using joint physical samples of the wall, windows, flooring, ordered cabinetry, metal and textile.
@@ -23,7 +23,7 @@ Read the sections relevant to your rooms ("Helyiségenkénti alapelvek", "Mester
 - See [README.md](README.md) for EUR, out-of-stock, conditional recommendations and budget inclusion fields. Historical audit files do not establish current stock.
 
 ## Style preferences (fixed facts take precedence)
-FIXED facts of the house: walls matte WHITE everywhere; interior doors + windows cream beige (physical sample is the reference); floor tile = sand/beige 60x60
+FIXED facts of the house: walls matte WHITE everywhere; interior doors + windows RAL 1019 grey beige (physical sample is the reference); floor tile = sand/beige 60x60
 (Norwich Arena) in hall, kitchen, dining, living, corridors; wood parquet ONLY in bedroom(5), rooms(6,8), office(7);
 kitchen = solid wood, already ordered and excluded from sourcing; dining table = wood; coffee table = wood.
 

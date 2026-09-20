@@ -100,7 +100,7 @@
 
 **Prio 2:** Az alap fogas és cipőhely mellett ez kényelmi vagy végleges tárolási/dekorációs fejlesztés.
 
-- **SKOGSTA Pad tárolóval, akác/fekete** – Tömör fa pad látszó, matt fekete lábbal – pontosan a 'látszó láb + egy fémtípus, matt fekete' formaelvet hozza, alsó polca cipőnek/táskának való nyitott tárolás. ⚠️ *Az akác gazdag, melegebb barna, idővel tovább sötétedik – ez melegebb tónus, mint a rögzített világos-közép tölgy; helyszínen érdemes mintát nézni a krém bézs ajtó mellett.*
+- **SKOGSTA Pad tárolóval, akác/fekete** – Tömör fa pad látszó, matt fekete lábbal – pontosan a 'látszó láb + egy fémtípus, matt fekete' formaelvet hozza, alsó polca cipőnek/táskának való nyitott tárolás. ⚠️ *Az akác gazdag, melegebb barna, idővel tovább sötétedik – ez melegebb tónus, mint a rögzített világos-közép tölgy; helyszínen érdemes mintát nézni a szürkés bézs ajtó mellett.*
 - **Pad BADSTED tárolóval, világosszürke szövet/tölgyszínű** – Kedvezőbb árú, tölgy színű lábú, tárolós pad – jó belépő megoldás, ha a fa pad ára nem fér a keretbe, és így is jut zárt tárolóhely a huzat alá. ⚠️ *A láb gumifa, tölgy színben pácolva, nem valódi tölgy; a szövethuzat levehető/mosható volta a termékoldalon nincs feltüntetve – kisbabás háztartáshoz érdemes rákérdezni vásárlás előtt.*
 - **TOLKNING Pad tárolóval, kézzel készült rattan** – A shopping lista kifejezetten 'fonott üléses' padot kér – ez kézzel font rattannal hozza legjobban a ház 'a fonott rost minden helyiségben megjelenhet' elvét, és zárt tárolóval is jár. ⚠️ *Száraz, egyenletes hőmérsékletű helyre való, csak száraz ruhával tisztítható – nedves kabátot ne rá, hanem a zárt szekrénybe kell tenni.*
 
@@ -116,7 +116,7 @@
 
 - **FÅGELFJÄLLET Gardrób 2 ajtóval, törtfehér** – Törtfehér (nem hideg fehér) szín illik a ház meleg fehér falához; zárt, akasztórudas belső rejti a nedves kabátot és a sáros lábbelit – az erdős telek miatt ez fontosabb, mint egy nyitott fogas. ⚠️ *Falhoz kell rögzíteni (felborulás elleni szerelvénnyel); a fogantyú sárgaréz hatású – ha a ház végül a matt fekete vasalat mellett dönt, ezt érdemes lecserélni.*
 - **KLEPPSTAD Gardrób 2 ajtóval, fehér** – Legolcsóbb zárt, ajtós gardrób a listán – kisebb és sekélyebb, de teljesen elrejti a kabátot és a sáros cipőt, ha a büdzsé szűkebb. ⚠️ *Alacsonyabb (176 cm) és sekélyebb (55 cm) a másik kettőnél, kevesebb akasztott ruha fér el benne; falhoz rögzítendő.*
-- **PAX / FORSAND Gardrób, fehérre pácolt tölgy hatás** – Moduláris PAX rendszer fehérre pácolt tölgy hatású ajtóval – a 'fehér + tölgy' páros hozza a ház alaphangját (fehér fal, krém bézs ajtó, tölgy bútor) a legnagyobb egybefüggő zárt felületen; 150 cm szélesen elég hely több kabátnak és babakocsi-kiegészítőnek is. ⚠️ *Az ajtó papírfólia, nem valódi tölgy furnér; a PAX beltér (polc, rúd, fiók) külön tétel, ebbe az árba nincs beleszámolva. Falhoz rögzítendő.*
+- **PAX / FORSAND Gardrób, fehérre pácolt tölgy hatás** – Moduláris PAX rendszer fehérre pácolt tölgy hatású ajtóval – a fehér és tölgyhatású felület a ház világos/fa irányához kapcsolódhat, a RAL 1019 ajtó melletti színegyezés még mintával ellenőrizendő a legnagyobb egybefüggő zárt felületen; 150 cm szélesen elég hely több kabátnak és babakocsi-kiegészítőnek is. ⚠️ *Az ajtó papírfólia, nem valódi tölgy furnér; a PAX beltér (polc, rúd, fiók) külön tétel, ebbe az árba nincs beleszámolva. Falhoz rögzítendő.*
 
 ### Tükör — Prio 2
 

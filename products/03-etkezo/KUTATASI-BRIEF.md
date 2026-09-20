@@ -14,7 +14,7 @@ A jelenlegi [terméklista](README.md) összehasonlítási alap. A benne szerepl�
 
 ## Ismert kiindulópontok
 
-- Rögzített: fa étkezőasztal; fehér fal; cream beige nyílászárók és fa párkányok; Norwich Arena padló; a nappali, konyha és étkező közös légtér.
+- Rögzített: fa étkezőasztal; fehér fal; RAL 1019 grey beige nyílászárók és fa párkányok; Norwich Arena padló; a nappali, konyha és étkező közös légtér.
 - A konyhabútor tömörfa és már megrendelt. Az étkező fatónusát a tényleges konyhamintával kell összevetni; a konyha fafaját és végleges felületét nem feltételezzük.
 - Az étkező terv szerinti területe 10,93 m². Ez önmagában nem igazol asztalméretet: az asztal helye, a sziget, a székek és a közlekedés együtt ellenőrizendő.
 - Preferencia: visszafogott, matt fa megjelenés, kényelmes székek; a fonott textúra lehetséges irány. A fonat nem írja felül a kényelmet és a tisztíthatóságot.

@@ -20,7 +20,7 @@ A terméklinkek a 2026-09-20-án megnyitott konkrét változatokra mutatnak. Az 
 
 | Modell | Illeszkedés | Kompromisszum / helyszíni ellenőrzés |
 | --- | --- | --- |
-| OLSKER | A natúr, olajozott valódi fa, alacsony 80 cm-es fejvég és nyitott lábazat jó kiindulás a nyugodt erdei hangulathoz. | 216 cm hossz; kemény fa fejvég. A tölgy konkrét sárgásságát a parkettával és cream beige mintával kell összevetni. Rattan fejvég nem kötelező. |
+| OLSKER | A natúr, olajozott valódi fa, alacsony 80 cm-es fejvég és nyitott lábazat jó kiindulás a nyugodt erdei hangulathoz. | 216 cm hossz; kemény fa fejvég. A tölgy konkrét sárgásságát a parkettával és grey beige mintával kell összevetni. Rattan fejvég nem kötelező. |
 | STUBBERUP | A valódi furnér megfelel a fő bútorokra elfogadott anyagelvnek; natúr felület és szabad lábazat. | Magasabb, 103 cm-es fejvég; nem tömörfa egészében. Az OLSKER-nél 9 cm-rel rövidebb, de 3 cm-rel szélesebb. A szín egyezése itt sem igazolt mintából. |
 | Alguema | Natúr tölgy/furnér, visszafogott faanyag, az adatlap szerinti minimalista kialakítás. | Jelentős felár; nem teljesen tömörfa. A lakkozás/olajozás pontos módja, a szabad lábmagasság és a színminta megerősítendő. Nem minősítjük jobb vételnek pusztán a márka vagy ár alapján. |
 

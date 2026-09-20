@@ -76,7 +76,7 @@
 
 > **A beszerzési összegből kizárva:** A konkrét 140/160×200-as ágy nem fogadja a kért közös 180×200-as matracot.
 
-- **Ágykeret OLSKER 180×200 natúr tölgy** – Illeszkedés: valódi fa, natúr olajos felület, alacsony fejvég és szabad lábazat. A vizsgált megfelelő fekvőméretű keretek közül az egyik legalacsonyabb ellenőrzött termékár. ⚠️ *Kompromisszum: 216 cm külső hossz és kemény fa fejvég. A parkettával/cream beige mintával a tónus még egyeztetendő; 220 kg terhelhetőség. Rács és matrac költsége hiányzik.*
+- **Ágykeret OLSKER 180×200 natúr tölgy** – Illeszkedés: valódi fa, natúr olajos felület, alacsony fejvég és szabad lábazat. A vizsgált megfelelő fekvőméretű keretek közül az egyik legalacsonyabb ellenőrzött termékár. ⚠️ *Kompromisszum: 216 cm külső hossz és kemény fa fejvég. A parkettával/grey beige mintával a tónus még egyeztetendő; 220 kg terhelhetőség. Rács és matrac költsége hiányzik.*
 - **Ágykeret STUBBERUP 180×200 natúr tölgy** – Illeszkedés: valódi furnér és natúr felület, látszó lábazat. Az OLSKER-rel egyező ár, 9 cm-rel kisebb külső hossz. ⚠️ *Kompromisszum: nem teljesen tömörfa és magasabb fejvég; 220 kg terhelhetőség. A fa színe fizikai mintával, az ágyrács/matrac és szállítás külön ellenőrizendő.*
 - **Kave Home Alguema 180×200, natúr tölgy/furnér, ágyráccsal** – Illeszkedés: natúr tölgy/furnér és visszafogott fa megjelenés. Összevetési alternatíva mellékelt ágyráccsal; felára nem jelent automatikus minőségi előnyt. ⚠️ *Kompromisszum: vegyes faalapú szerkezet és jelentős felár. Pontos felületkezelés, lábmagasság és fizikai színminta ellenőrizendő; a webes lábmagasság-adat hibásnak tűnik, nem vettük át.*
 - **Ágykeret OLSKER 160x200 natúr tölgy** – Korábbi, méret miatt kizárt referencia; nem vásárlási ajánlás. ⚠️ *A megfelelő 180-as változatot külön termékként, saját árral és tartozékokkal kell ellenőrizni. A rattan fejvég preferencia, nem kötelező feltétel.*
@@ -175,7 +175,7 @@
 
 **Prio 2:** A fekhely, alap ágynemű és sötétítés mellett fél évig nélkülözhető vagy átmenetileg helyettesíthető.
 
-- **GINSTMOTT Függönypár, bézs** – Fényszűrő, len-hatású bézs függöny – megengedett 'linen-look' megoldás, ami a krém bézs nyílászáróhoz hangolható. ⚠️ *Nem valódi len, hanem újrahasznosított poliészter len-hatással. A karnisnál számoljunk az ablakszélesség kb. kétszeresével a sűrű redőzéshez.*
+- **GINSTMOTT Függönypár, bézs** – Fényszűrő, len-hatású bézs függöny – megengedett 'linen-look' megoldás, amelynek bézs tónusa a RAL 1019 nyílászáróval még mintapróbát igényel. ⚠️ *Nem valódi len, hanem újrahasznosított poliészter len-hatással. A karnisnál számoljunk az ablakszélesség kb. kétszeresével a sűrű redőzéshez.*
 
 ### Fiókos szekrény (komód) — Prio 2
 
