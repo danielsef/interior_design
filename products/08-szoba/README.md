@@ -7,6 +7,8 @@
 | **Áradatok dátuma** | 2026-09-20 |
 | **Inspirációs képek** | [`../../inpiration/08-szoba/`](../../inpiration/08-szoba/README.md) |
 
+> **Követelmények és források felülvizsgálata:** [a helyiség összes kategóriája](../kategoria-felulvizsgalat.md#08-szoba) · [közös beszerzési módszer és döntések](../beszerzesi-modszer.md). A követelményfelmérés nem jelent új teljes ár- vagy készletellenőrzést.
+
 ## Beköltözési prioritás
 
 **Prio 1:** a minimális beköltözéshez szükséges új beszerzés, a jelzett feltételekkel. **Prio 2:** körülbelül fél évig halasztható, vagy csak későbbi cserejelölt. Ez külön szempont az ajánlott/olcsóbb/prémium minősítéstől.

@@ -35,7 +35,7 @@
 
 - A zuhanyzós fürdő alapterülete, bútorozható falszélessége és kiállásainak mérete; a kádas fürdő megrendelt bútorának mérete a még szükséges tükörhöz.
 - A konyhai és háztartási csaptelepjelölt csak akkor kell, ha még nincs meg és nem része egy meglévő rendelésnek.
-- Költségkeret, ütemezés, gardróbburkolat, a 06/08 szobák használata és a közös anyagminták.
+- Költségkeretek, gardróbburkolat és közös anyagminták; a gyermek kezdeti alvásának helye. A beköltözés már rögzített: 2026-10-30; a gyermek ekkor 1 éves, a 08-as szoba vendég-/tartalékszoba.
 
 ## Beépített bolti felülvizsgálat (2026-09-20)
 

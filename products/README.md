@@ -1,8 +1,10 @@
 # Terméklista – wooden coastal
 
+> **Beköltözés: 2026. október 30.** [Beszerzési módszer és döntési napló](beszerzesi-modszer.md) · [Mind a 186 kategória követelmény- és forráslefedettségi áttekintése](kategoria-felulvizsgalat.md). Étkező: 6 szék férjen el; háló: 180×200 cm matrac; kanapé: kb. 300×200 cm, L alakú, ágyazható, inkább puha. A korábbi jelöltek új követelmények szerinti termékszintű felülvizsgálata folyamatban van.
+
 2026-09-20 · Termékjelöltek magyarországi beszerzéshez: név, link, ár, anyag, méret és beszerzési feltételek. A készlethiányos tételek figyelőlistán szerepelnek. A mappaszerkezet megegyezik az [inspirációs mappáéval](../inpiration/README.md), a válogatás a [belsőépítészeti irányelveket](../principles/Wooden%20coastal%20%E2%80%93%20erdei%20hat%C3%A1s%C3%BA%20bels%C5%91%C3%A9p%C3%ADt%C3%A9szeti%20ir%C3%A1nyelvek%20a%20h%C3%A1zhoz.md) követi.
 
-> **Állapot: mind a 16 helyiségcsoport listázva, 310 termékjelölt.**
+> **Állapot: mind a 16 helyiségcsoport listázva, 314 termékjelölt.**
 
 > **Beépített vásárlási felülvizsgálat:** [XXXLutz, Kave Home, H&M Home, JYSK és Mömax – összehasonlítás](vasarlasi-felulvizsgalat-2026-09-20.md). Ajánlott csere: ISLEV szék próba után és Cantus asztal készletellenőrzés után. Az EUR-os és készlethiányos alternatívák kimaradnak a forintos költségutakból.
 
@@ -45,7 +47,7 @@
 | [`00-altalanos-hangulat`](00-altalanos-hangulat/README.md) | Az egész házra (függöny, karnis, kosár, növény, képkeret, babavédelem) | 59 | **942 271 Ft** | 775 933 Ft | 1 379 546 Ft |
 | [`01-eloszoba`](01-eloszoba/README.md) | Előszoba | 21 | **311 053 Ft** | 180 963 Ft | 475 413 Ft |
 | [`02-konyha`](02-konyha/README.md) | Konyha | 17 | **417 660 Ft** | 275 180 Ft | 474 512 Ft |
-| [`03-etkezo`](03-etkezo/README.md) | Étkező | 18 | **564 570 Ft** | 400 590 Ft | 986 210 Ft |
+| [`03-etkezo`](03-etkezo/README.md) | Étkező | 22 | **564 570 Ft** | 415 500 Ft | 1 187 030 Ft |
 | [`04-nappali`](04-nappali/README.md) | Nappali | 27 | **759 990 Ft** | 600 555 Ft | 1 006 900 Ft |
 | [`05-halo`](05-halo/README.md) | Háló | 16 | **433 880 Ft** | 345 850 Ft | 912 870 Ft |
 | [`06-szoba`](06-szoba/README.md) | Szoba (babaszoba) | 18 | **386 460 Ft** | 230 380 Ft | 596 250 Ft |
@@ -58,7 +60,7 @@
 | [`13-kozlekedo`](13-kozlekedo/README.md) | Közlekedő | 1 | **7 990 Ft** | 7 990 Ft | 7 990 Ft |
 | [`14-gardrob`](14-gardrob/README.md) | Gardrób | 7 | **158 780 Ft** | 134 830 Ft | 265 930 Ft |
 | [`16-17-terasz`](16-17-terasz/README.md) | Terasz | 23 | **780 670 Ft** | 666 620 Ft | 935 630 Ft |
-| | **Összesen (listázott helyiségcsoportok)** | **310** | **6 248 258 Ft** | 4 929 175 Ft | 9 220 475 Ft |
+| | **Összesen (listázott helyiségcsoportok)** | **314** | **6 248 258 Ft** | 4 944 085 Ft | 9 421 295 Ft |
 
 > Az összegek **tájékoztató jellegűek**: a javasolt darabszámmal számolnak, de nem tartalmazzák a még fel nem vett szükségleteket, a már rendezett világítást, konyhabútort, kádas fürdőszobai mosdóösszeállítást és párkányokat, továbbá a burkolást, gépeket és szállítást. Egy-egy kategóriában több alternatíva van – nem kell mindet megvenni. Az alsó/felső kategóriaösszeg nem kész bevásárlócsomag: a házszintű és helyiségenkénti tételek ugyanazt a szükségletet is fedhetik. Az ajánlott összeg is tartalmaz házszintű/helyiségenkénti átfedéseket; nem teljes házköltségvetés.
 
@@ -99,6 +101,7 @@
 | H&M Home | 4 |
 | SzaniterOnline.hu | 4 |
 | AREZZO design (arezzodesign.hu) | 3 |
+| Bútor Mirek | 3 |
 | Árnyékolókweb (arnyekolokweb.hu) | 3 |
 | Gyerekbiztos.hu | 2 |
 | Bonami (Kave Home) | 2 |
@@ -112,6 +115,7 @@
 | Szabó Kandalló Bolt | 1 |
 | Mozaik Kerámia (mozaikkeramia.hu) | 1 |
 | Praktiker | 1 |
+| Bonami (Rowico) | 1 |
 | Designmarket (Umbra) | 1 |
 | eMAG (eladó: Czinege Manufaktúra Kft.) | 1 |
 | eMAG (eladó: NEXTLY) | 1 |
@@ -122,7 +126,7 @@ Az új válogatás az XXXLutz, Kave Home, H&M Home és JYSK termékoldalait is f
 ## Hogyan lettek ellenőrizve
 
 - Az alaplista és a célzott bolti felülvizsgálat adatainak dátuma **2026-09-20**. A mostani fájlfrissítés a már elvégzett kutatást építi be; nem új teljes piaci ár- vagy készletellenőrzés.
-- 276 tétel ára a termékoldalról, 34 tételé listaoldalról / az IKEA keresőjéből származik (ezeket a helyiség-README *(ár listaoldalról)* megjegyzéssel jelöli).
+- 280 tétel ára a termékoldalról, 34 tételé listaoldalról / az IKEA keresőjéből származik (ezeket a helyiség-README *(ár listaoldalról)* megjegyzéssel jelöli).
 - **Korábbi gépi linkellenőrzés:** 316 / 316 URL adott 200-as választ. Ez a mentett ellenőrzés nem fedi le az újonnan felvett termékeket; azoknál megnyitott termékoldal volt a forrás.
 - **Mentett második árellenőrzés (2026-09-20):** a korábbi 350 tételből 350 ára egyezett. Ez történeti eredmény, nem a most kibővített lista új ellenőrzése.
 - A készlet és az akciós ár naponta változhat. Szezonális tételeknél (terasz, szeptember vége) ez fokozottan igaz.
@@ -165,7 +169,7 @@ Az új válogatás az XXXLutz, Kave Home, H&M Home és JYSK termékoldalait is f
 
 - A zuhanyzós fürdő alapterülete, bútorozható falszélessége és kiállásainak mérete; a kádas fürdő megrendelt bútorának mérete a még szükséges tükörhöz.
 - A konyhai és háztartási csaptelepjelölt csak akkor kell, ha még nincs meg és nem része egy meglévő rendelésnek.
-- Költségkeret, ütemezés, gardróbburkolat, a 06/08 szobák használata és a közös anyagminták.
+- Költségkeretek, gardróbburkolat és közös anyagminták; a gyermek kezdeti alvásának helye. A beköltözés már rögzített: 2026-10-30; a gyermek ekkor 1 éves, a 08-as szoba vendég-/tartalékszoba.
 
 ## Beépített bolti felülvizsgálat (2026-09-20)
 

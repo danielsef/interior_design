@@ -1,5 +1,7 @@
 # A terméklisták frissítése
 
+A következő kutatási kör módszere és a tulajdonosi válaszok: [beszerzési döntési napló](../beszerzesi-modszer.md). Mind a 186 aktív kategória követelménye és forráslefedettsége: [kategória-felülvizsgálat](../kategoria-felulvizsgalat.md). Ez dátumozott áttekintés; új termék/kategória felvételekor a lefedettségi számokat is frissíteni kell. A helyiségenkénti `KUTATASI-BRIEF.md` fájlokat a generátor nem írja felül, csak hivatkozik rájuk.
+
 A helyiség-README-k, a fő README és a `termekek.csv` forrásai az itt lévő terméklistás JSON-fájlok. Újragenerálás a projekt gyökeréből: `python3 products/_data/generate.py`.
 
 A `98-vasarlasi-felulvizsgalat.json` a 2026-09-20-i bolti összehasonlítás 14 új jelöltjét tartalmazza. A részletes indoklás: [vásárlási felülvizsgálat](../vasarlasi-felulvizsgalat-2026-09-20.md).
@@ -30,7 +32,7 @@ A világítás megvan; a fa párkányok cream beige színben készülnek. Ezekhe
 
 A kádas fürdő 4,75 m², szekrénye, mosdója és pultja megvan / megrendelve. A zuhanyzós fürdő szekrénye és mosdója is megvan, **pultja még nincs**, a bútor mérete/típusa és a helyiség területe még ismeretlen. A `12-furdo` mindkét fürdőt név szerint kezeli. Meglévő mosdó/szekrény helyett ne adj új jelöltet; a régi ÅLSKEN pult csak `budget_include: false` referenciaként marad az illeszkedés ellenőrzéséig.
 
-Az aktív állomány 310 jelölt: 46 világítási, 2 kádas szekrény/pult, 2 zuhanyzós szekrény, 3 mosdó és 1 leeresztő jelölt kikerült a korábbi 364-ből. A külön magasszekrény opcionális. A régi ár-/linkellenőrzések változatlan történeti állományok, nem aktív beszerzési listák.
+Az első szűrés után 310 jelölt maradt: 46 világítási, 2 kádas szekrény/pult, 2 zuhanyzós szekrény, 3 mosdó és 1 leeresztő jelölt kikerült a korábbi 364-ből. A külön magasszekrény opcionális. A régi ár-/linkellenőrzések változatlan történeti állományok, nem aktív beszerzési listák.
 
 Az egyedi felületek [anyagválasztási briefje](../anyagvalasztas-konyha-kandallo-furdopult.md) külön dokumentum; az ár még nem ismert, ezért nem szabad nulla árú JSON-termékként vagy költségként felvenni. A kategóriánkénti alsó/felső összeg nem kész kosár; az ajánlott csomag darabszámait és átfedéseit rendelés előtt véglegesíteni kell.
 
@@ -43,3 +45,5 @@ A helyiségek induló minimumát, halasztható részét, feltételeit és áraza
 A CSV végére négy oszlop került: `Beköltözési prioritás`, `Prioritás indoka`, `Prioritás feltétele`, `Költségkizárás indoka`. Az előző 24 oszlop megmaradt. A P1/P2 összegek az ajánlott, költségbe számító HUF-sorok teljes tervezett darabszámával készülnek; összegük az ajánlott csomag. Ezek nem teljes minimálkosár-árak: a még árazatlan alapdarabok és a valódi induló mennyiségek külön pontosítandók.
 
 **Megerősített változás:** a dolgozóasztalt és széket hozzák. Az ezekhez tartozó új jelöltek P2 csereopciók, `budget_include: false` és `budget_exclusion_reason` mellett. Ez a mező a fürdőpult-referencia kizárásának okát is tárolja. A 08-as szoba megerősítve vendég-/tartalékszoba, teljes listája P2. A többi hozott darabról nincs tételes leltár; ne nevezz konkrét terméket meglévőnek pusztán abból, hogy a funkció már megoldott.
+
+A `97-etkezo-alternativak.json` négy új, 2026-09-20-án ellenőrzött alternatívát ad hozzá (összesen 314 aktív sor). Az étkező összehasonlítása a helyiség `OSSZEHASONLITAS.md` fájljában olvasható; a generátor ezt is belinkeli.

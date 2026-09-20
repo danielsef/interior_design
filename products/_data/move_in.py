@@ -19,23 +19,24 @@ ROOM_NOTES = {
     "03-etkezo": {
         "minimum": "Egy használható asztal és annyi ülőhely, ahányat naponta használtok; szükség esetén a baba megfelelő etetőszéke.",
         "later": "A hat székből a vendéghelyek, a tálaló, étkezőszőnyeg, asztali futó és váza ráérnek.",
-        "check": "A táblázat hat székkel számol a korábbi teljes terv szerint; beköltözéshez kevesebb is elég lehet. Az induló darabszám még nincs rögzítve. Az ISLEV ajánlása üléspróbához kötött.",
+        "check": "Megerősített követelmény: az asztalnál hat normál szék férjen el kényelmesen. Még nyitott, hogy alapméretben vagy bővítve; a beköltözéskor megvett székek száma sincs külön rögzítve. Az ISLEV ajánlása üléspróbához kötött.",
     },
     "04-nappali": {
         "minimum": "Egy közös ülő-/pihenőhely; a kandalló és a használatba vett berendezés szükséges védelme.",
         "later": "Dohányzóasztal, plusz fotel, TV-szekrény, tálaló, dekorációs szőnyegek, párnák és plédek. A játszóhelynek meglévő megfelelő megoldás is használható.",
-        "check": "A kandalló pusztán dekoratív burkolata halasztható, ha a berendezés használaton kívül vagy a kivitelező szerint kész, használható állapotban van. A működéshez szükséges befejezés nem Prio 2. A poros burkolási munkát célszerű a kanapé beköltöztetése előtt elvégezni, ha belefér.",
+        "check": "Új kanapéigény: kb. 300×200 cm, L alakú, ágyazható, inkább puha; a régi jelöltek újraszűrendők. A kandalló pusztán dekoratív burkolata halasztható, ha a berendezés használaton kívül vagy a kivitelező szerint kész, használható állapotban van. A működéshez szükséges befejezés nem Prio 2. A poros burkolási munkát célszerű a kanapé beköltöztetése előtt elvégezni, ha belefér.",
         "unpriced": "A kandalló burkolati/rendszerbefejezésének egyedi költsége nincs a termékösszegben.",
     },
     "05-halo": {
         "minimum": "Teljes, használható fekhely, megfelelő méretű alap ágynemű és sötétítés. Az alap ruhatárolással a gardróbban számolunk.",
+        "check": "Megerősített matracméret: 180×200 cm. Az ágykeret külső mérete, a szükséges ágyrács és az ágyneműtartó igénye külön ellenőrizendő.",
         "later": "Éjjeliszekrény, külön komód, ágyvégi pad, szőnyeg, tükör, díszpárnák és végleges fényszűrő függöny.",
         "unpriced": "Felnőtt matrac és az ágyhoz szükséges, esetleg külön árazott ágyrács; lepedő, paplan és párna. A listázott ágykeret/huzat nem automatikusan teljes alvási csomag.",
     },
     "06-szoba": {
         "minimum": "A baba ténylegesen használt fekhelye, hozzá illő matrac és lepedő, valamint az alvóhely sötétítése.",
         "later": "Külön szoptatós fotel, végleges polc/kosarak, dekorációs szőnyeg és külön pelenkázóbútor, ha a pelenkázás más megfelelő meglévő megoldással rendezett.",
-        "check": "Ha a baba fekhelye kezdetben a szülői hálóban lesz, ugyanazokat a szükséges darabokat oda kell ütemezni, nem második garnitúrát venni. Az Ágynemű/takaró kategórián belül a lepedő Prio 1, a külön muszlintakaró Prio 2.",
+        "check": "A gyermek beköltözéskor egyéves lesz. Az alvás helye még nyitott: ha kezdetben a szülői hálóban lesz, ugyanazokat a szükséges darabokat oda kell ütemezni, nem második garnitúrát venni. Az Ágynemű/takaró kategórián belül a lepedő Prio 1, a külön muszlintakaró Prio 2.",
         "unpriced": "A meglévő készlettől függő alap babaápolási és pelenkázási kellékek nem teljes körűen részei ennek a bútorlistának.",
     },
     "07-dolgozo": {

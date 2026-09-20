@@ -7,6 +7,10 @@
 | **Áradatok dátuma** | 2026-09-20 |
 | **Inspirációs képek** | [`../../inpiration/06-szoba/`](../../inpiration/06-szoba/README.md) |
 
+> **Követelmények és források felülvizsgálata:** [a helyiség összes kategóriája](../kategoria-felulvizsgalat.md#06-szoba) · [közös beszerzési módszer és döntések](../beszerzesi-modszer.md). A követelményfelmérés nem jelent új teljes ár- vagy készletellenőrzést.
+
+> **Aktuális kutatási brief:** [megerősített igények és nyitott kérdések](KUTATASI-BRIEF.md). Az új követelményekhez a korábbi termékjelöltek illeszkedését még ellenőrizni kell.
+
 ## Beköltözési prioritás
 
 **Prio 1:** a minimális beköltözéshez szükséges új beszerzés, a jelzett feltételekkel. **Prio 2:** körülbelül fél évig halasztható, vagy csak későbbi cserejelölt. Ez külön szempont az ajánlott/olcsóbb/prémium minősítéstől.
@@ -15,7 +19,7 @@
 
 **Ráér később:** Külön szoptatós fotel, végleges polc/kosarak, dekorációs szőnyeg és külön pelenkázóbútor, ha a pelenkázás más megfelelő meglévő megoldással rendezett.
 
-**Feltétel / kiváltás:** Ha a baba fekhelye kezdetben a szülői hálóban lesz, ugyanazokat a szükséges darabokat oda kell ütemezni, nem második garnitúrát venni. Az Ágynemű/takaró kategórián belül a lepedő Prio 1, a külön muszlintakaró Prio 2.
+**Feltétel / kiváltás:** A gyermek beköltözéskor egyéves lesz. Az alvás helye még nyitott: ha kezdetben a szülői hálóban lesz, ugyanazokat a szükséges darabokat oda kell ütemezni, nem második garnitúrát venni. Az Ágynemű/takaró kategórián belül a lepedő Prio 1, a külön muszlintakaró Prio 2.
 
 > **Még külön ellenőrizendő, nem árazott:** A meglévő készlettől függő alap babaápolási és pelenkázási kellékek nem teljes körűen részei ennek a bútorlistának.
 

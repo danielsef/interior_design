@@ -65,6 +65,11 @@ for key,name,meta in ROOMS:
     rows=by.get(key,[]); d=os.path.join(P,key); os.makedirs(d,exist_ok=True)
     out=[f"# {key} — {name}","","| | |","| --- | --- |",f"| **Helyiség** | {meta} |",f"| **Termékek** | {len(rows)} db |",f"| **Áradatok dátuma** | 2026-09-20 |",
          f"| **Inspirációs képek** | [{BT}../../inpiration/{key}/{BT}](../../inpiration/{key}/README.md) |",""]
+    out += [f"> **Követelmények és források felülvizsgálata:** [a helyiség összes kategóriája](../kategoria-felulvizsgalat.md#{key}) · [közös beszerzési módszer és döntések](../beszerzesi-modszer.md). A követelményfelmérés nem jelent új teljes ár- vagy készletellenőrzést.", ""]
+    if os.path.exists(os.path.join(d,"KUTATASI-BRIEF.md")):
+        out += ["> **Aktuális kutatási brief:** [megerősített igények és nyitott kérdések](KUTATASI-BRIEF.md). Az új követelményekhez a korábbi termékjelöltek illeszkedését még ellenőrizni kell.", ""]
+    if os.path.exists(os.path.join(d,"OSSZEHASONLITAS.md")):
+        out += ["> **Új termék-összehasonlítás:** [konkrét alternatívák, csomagárak és fennmaradó feltételek](OSSZEHASONLITAS.md).", ""]
     if key=="12-furdo":
         out += ["> **Két külön fürdő:** a kádas 4,75 m²; a zuhanyzós mérete még nincs megadva. A kádas fürdő szekrénye, mosdója és pultja megvan / megrendelve, ezért nincsenek a listában. A zuhanyzós fürdő szekrénye és mosdója is megvan; csak a pult hiányzik. A korábbi referenciapult illeszkedése nem igazolt, ezért kizártuk az összesítésből. Az egyedi pult ára hiányzó költség, nem nulla. [Anyagjavaslat](../anyagvalasztas-konyha-kandallo-furdopult.md). A közös kiegészítők darabszáma előzetes.", ""]
     if key=="02-konyha":
@@ -125,6 +130,7 @@ with open(os.path.join(P,"termekek.csv"),"w",newline="",encoding="utf-8-sig") as
 # README
 stores=collections.Counter(x["store"] for x in items); done=[s for s in summary if s[2]]; todo=[s for s in summary if not s[2]]
 R=["# Terméklista – wooden coastal","",
+"> **Beköltözés: 2026. október 30.** [Beszerzési módszer és döntési napló](beszerzesi-modszer.md) · [Mind a 186 kategória követelmény- és forráslefedettségi áttekintése](kategoria-felulvizsgalat.md). Étkező: 6 szék férjen el; háló: 180×200 cm matrac; kanapé: kb. 300×200 cm, L alakú, ágyazható, inkább puha. A korábbi jelöltek új követelmények szerinti termékszintű felülvizsgálata folyamatban van.","",
 "2026-09-20 · Termékjelöltek magyarországi beszerzéshez: név, link, ár, anyag, méret és beszerzési feltételek. A készlethiányos tételek figyelőlistán szerepelnek. A mappaszerkezet megegyezik az [inspirációs mappáéval](../inpiration/README.md), a válogatás a [belsőépítészeti irányelveket](../principles/Wooden%20coastal%20%E2%80%93%20erdei%20hat%C3%A1s%C3%BA%20bels%C5%91%C3%A9p%C3%ADt%C3%A9szeti%20ir%C3%A1nyelvek%20a%20h%C3%A1zhoz.md) követi.","",
 (f"> **Állapot: {len(done)} / {len(summary)} helyiségcsoport listázva, {len(items)} termékjelölt.** Hátravan: " + ", ".join(BT+t[0]+BT for t in todo) + (" – lásd [FOLYTATAS.md](FOLYTATAS.md)." if os.path.exists(os.path.join(P,"FOLYTATAS.md")) else ".")) if todo else f"> **Állapot: mind a {len(summary)} helyiségcsoport listázva, {len(items)} termékjelölt.**","",
 "> **Beépített vásárlási felülvizsgálat:** [XXXLutz, Kave Home, H&M Home, JYSK és Mömax – összehasonlítás](vasarlasi-felulvizsgalat-2026-09-20.md). Ajánlott csere: ISLEV szék próba után és Cantus asztal készletellenőrzés után. Az EUR-os és készlethiányos alternatívák kimaradnak a forintos költségutakból.","",

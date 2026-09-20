@@ -7,6 +7,10 @@
 | **Áradatok dátuma** | 2026-09-20 |
 | **Inspirációs képek** | [`../../inpiration/04-nappali/`](../../inpiration/04-nappali/README.md) |
 
+> **Követelmények és források felülvizsgálata:** [a helyiség összes kategóriája](../kategoria-felulvizsgalat.md#04-nappali) · [közös beszerzési módszer és döntések](../beszerzesi-modszer.md). A követelményfelmérés nem jelent új teljes ár- vagy készletellenőrzést.
+
+> **Aktuális kutatási brief:** [megerősített igények és nyitott kérdések](KUTATASI-BRIEF.md). Az új követelményekhez a korábbi termékjelöltek illeszkedését még ellenőrizni kell.
+
 ## Beköltözési prioritás
 
 **Prio 1:** a minimális beköltözéshez szükséges új beszerzés, a jelzett feltételekkel. **Prio 2:** körülbelül fél évig halasztható, vagy csak későbbi cserejelölt. Ez külön szempont az ajánlott/olcsóbb/prémium minősítéstől.
@@ -15,7 +19,7 @@
 
 **Ráér később:** Dohányzóasztal, plusz fotel, TV-szekrény, tálaló, dekorációs szőnyegek, párnák és plédek. A játszóhelynek meglévő megfelelő megoldás is használható.
 
-**Feltétel / kiváltás:** A kandalló pusztán dekoratív burkolata halasztható, ha a berendezés használaton kívül vagy a kivitelező szerint kész, használható állapotban van. A működéshez szükséges befejezés nem Prio 2. A poros burkolási munkát célszerű a kanapé beköltöztetése előtt elvégezni, ha belefér.
+**Feltétel / kiváltás:** Új kanapéigény: kb. 300×200 cm, L alakú, ágyazható, inkább puha; a régi jelöltek újraszűrendők. A kandalló pusztán dekoratív burkolata halasztható, ha a berendezés használaton kívül vagy a kivitelező szerint kész, használható állapotban van. A működéshez szükséges befejezés nem Prio 2. A poros burkolási munkát célszerű a kanapé beköltöztetése előtt elvégezni, ha belefér.
 
 > **Még külön ellenőrizendő, nem árazott:** A kandalló burkolati/rendszerbefejezésének egyedi költsége nincs a termékösszegben.
 

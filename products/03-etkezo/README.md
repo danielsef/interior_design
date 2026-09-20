@@ -3,9 +3,15 @@
 | | |
 | --- | --- |
 | **Helyiség** | 10,93 m² · Norwich Arena |
-| **Termékek** | 18 db |
+| **Termékek** | 22 db |
 | **Áradatok dátuma** | 2026-09-20 |
 | **Inspirációs képek** | [`../../inpiration/03-etkezo/`](../../inpiration/03-etkezo/README.md) |
+
+> **Követelmények és források felülvizsgálata:** [a helyiség összes kategóriája](../kategoria-felulvizsgalat.md#03-etkezo) · [közös beszerzési módszer és döntések](../beszerzesi-modszer.md). A követelményfelmérés nem jelent új teljes ár- vagy készletellenőrzést.
+
+> **Aktuális kutatási brief:** [megerősített igények és nyitott kérdések](KUTATASI-BRIEF.md). Az új követelményekhez a korábbi termékjelöltek illeszkedését még ellenőrizni kell.
+
+> **Új termék-összehasonlítás:** [konkrét alternatívák, csomagárak és fennmaradó feltételek](OSSZEHASONLITAS.md).
 
 ## Beköltözési prioritás
 
@@ -15,7 +21,7 @@
 
 **Ráér később:** A hat székből a vendéghelyek, a tálaló, étkezőszőnyeg, asztali futó és váza ráérnek.
 
-**Feltétel / kiváltás:** A táblázat hat székkel számol a korábbi teljes terv szerint; beköltözéshez kevesebb is elég lehet. Az induló darabszám még nincs rögzítve. Az ISLEV ajánlása üléspróbához kötött.
+**Feltétel / kiváltás:** Megerősített követelmény: az asztalnál hat normál szék férjen el kényelmesen. Még nyitott, hogy alapméretben vagy bővítve; a beköltözéskor megvett székek száma sincs külön rögzítve. Az ISLEV ajánlása üléspróbához kötött.
 
 ### Prio 1 – előre sorolt tételek
 
@@ -37,8 +43,8 @@
 | Számítás | Összeg |
 | --- | --- |
 | ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **564 570 Ft** |
-| 💰 Kategóriánként a legolcsóbb sor összege | 400 590 Ft |
-| 💎 Kategóriánként a legdrágább sor összege | 986 210 Ft |
+| 💰 Kategóriánként a legolcsóbb sor összege | 415 500 Ft |
+| 💎 Kategóriánként a legdrágább sor összege | 1 187 030 Ft |
 
 > A darabszám javaslat. A forintos költségutak az EUR-os, készlethiányos, meglévővel kiváltott és külön kizárt referenciatételeket kihagyják; ezek ára nem nulla. A feltételes ajánlások szerepelnek a tervezési összegben. A kategóriánkénti alsó/felső összeg nem összeillő bevásárlócsomag: az opcionális és egymást átfedő tételeket külön kell kiválasztani. A szállítás nincs benne; az ár és készlet rendelés előtt ellenőrizendő.
 
@@ -50,15 +56,23 @@
 
 | Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 1** | ⭐ ajánlott | [TONSTAD Meghosszabbítható asztal, tölgy furnér](https://www.ikea.com/hu/hu/p/tonstad-meghosszabbithato-asztal-toelgy-furner-40593882/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs, Örs vezér tere, Soroksár) | szálcsiszolt tölgy furnér, natúr | 140/196x85x75 cm | **109 900 Ft** | 1 |
-| **Prio 1** | 💰 olcsóbb | [TONSTAD Asztal, tölgy furnér, 150x80 cm](https://www.ikea.com/hu/hu/p/tonstad-asztal-toelgy-furner-00593879/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs, Örs vezér tere, Soroksár) | szálcsiszolt tölgy furnér, natúr | 150x80x75 cm | **94 990 Ft** | 1 |
-| **Prio 1** | 💎 prémium | [TONSTAD Asztal, tölgy furnér, 200x85 cm](https://www.ikea.com/hu/hu/p/tonstad-asztal-toelgy-furner-80593880/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs, Örs vezér tere, Soroksár) | szálcsiszolt tölgy furnér, natúr | 200x85x75 cm | **119 900 Ft** | 1 |
+| **Prio 1** | ⭐ ajánlott (Csak ha a hat férőhelyhez elfogadható a 196 cm-re nyitás, és a konkrét székekkel is megfelelő.) | [TONSTAD Meghosszabbítható asztal, tölgy furnér](https://www.ikea.com/hu/hu/p/tonstad-meghosszabbithato-asztal-toelgy-furner-40593882/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs, Örs vezér tere, Soroksár) | szálcsiszolt tölgy furnér, natúr | 140/196x85x75 cm | **109 900 Ft** <br>*A készlet/címre szállítás nem jelent meg az elért webes kivonatban.* | 1 |
+| **Prio 1** | Alternatíva | [TONSTAD Asztal, tölgy furnér, 200x85 cm](https://www.ikea.com/hu/hu/p/tonstad-asztal-toelgy-furner-80593880/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs, Örs vezér tere, Soroksár) | szálcsiszolt tölgy furnér, natúr | 200x85x75 cm | **119 900 Ft** | 1 |
+| **Prio 1** | Alternatíva | [Robi fix ovális asztal, 180×90 cm](https://www.butormirek.hu/etkezoasztalok/3393-dubovy-ovalny-jedalensky-stol-180x90-cm-prirodny-olejovany-povrch.html) | **Bútor Mirek** – butormirek.hu; magyarországi házhozszállítás | tömbösített vadtölgy lap és szerkezet; natúr, olajozott | 180×90×75 cm; 20 mm lap | **206 099 Ft** <br>*Szállítás külön tisztázandó: termékoldal szerint 200 000 Ft felett ingyenes, szállítási oldal szerint 12 900 Ft.* <br>*Termékoldal: kevesebb mint 5 db, 1–2 hét; más ajánlóblokk későbbi dátumot mutatott. Címre és rendelésre megerősítendő.* | 1 |
+| **Prio 1** | Alternatíva | [Allegro 160 XL bővíthető tölgyasztal](https://www.butormirek.hu/etkezoasztalok/2492-kihuzhato-tolgyfa-etkezoasztal-160-210-cm-matt-lakk-natur.html) | **Bútor Mirek** – butormirek.hu; magyarországi házhozszállítás | tömör vadtölgy, natúr; cím és paraméter szerint matt lakk | 160/210×90×76 cm; 25 mm lap | **245 701 Ft** <br>*A toldólap csomagtartalma és a szállítás díja megerősítendő.* <br>*Oldal szerint kevesebb mint 5 db, 1–2 hét. A 200 000 Ft feletti ingyenes szállítás és a 12 900 Ft-os szállítási táblázat eltér; címre ellenőrizendő.* | 1 |
+| **Prio 1** | Alternatíva | [Rowico Filippa 180×90, natúr olajozott tölgy](https://www.bonami.hu/p/mimi-natur-tolgyfa-etkezoasztal-180-x-90-cm-rowico) | **Bonami (Rowico)** – bonami.hu, ID 790970; URL régi neve: Mimi | hossztoldott tömör tölgy, olajozott; gyártói natúr változat: 113720 | 180×90×74 cm; külön vendéglapokkal legfeljebb 280 cm; 20 mm lap | **320 720 Ft** <br>*Vendéglap nélkül; szállítás 13 990 Ft-tól.* <br>*Bonami: 3 db azonnal szállítható, kézbesítés szeptember 23-tól; Pilisjászfalu címére nincs megerősítés.* | 1 |
+| **Prio 1** | Figyelőlista | [TONSTAD Asztal, tölgy furnér, 150x80 cm](https://www.ikea.com/hu/hu/p/tonstad-asztal-toelgy-furner-00593879/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs, Örs vezér tere, Soroksár) | szálcsiszolt tölgy furnér, natúr | 150x80x75 cm | **94 990 Ft** | 1 |
 
 **Prio 1:** Egy használható közös étkezési felület az induló berendezés része.
 
-- **TONSTAD Meghosszabbítható asztal, tölgy furnér** – Pontosan illeszkedik a rögzített „fa étkezőasztal” döntéshez: bővíthető 140-ről 196 cm-re (6 fő), lágyan lekerekített sarkok a babának, világos tölgy.
-- **TONSTAD Asztal, tölgy furnér, 150x80 cm** – Lekerekített sarkú, világos tölgy furnér – kisbabának biztonságosabb él, a legolcsóbb a TONSTAD családban. ⚠️ *Nem bővíthető, és 6 főre 150 cm szűkösebb lehet, mint a kért 160-200 cm.*
-- **TONSTAD Asztal, tölgy furnér, 200x85 cm** – A család legnagyobb, legmasszívabb fix darabja, kényelmesen ad helyet 6 főnek, ugyanaz a lekerekített sarkú tölgy dizájn. ⚠️ *Nem bővíthető; 200 cm hosszan ellenőrizni kell a 90-100 cm-es fal-/bútortávolságot az étkezőben.*
+> **A beszerzési összegből kizárva:** A fix 150×80-as asztal hat kényelmes székhelye nem igazolt; nem számolható megfelelő olcsó hatfős alternatívaként.
+
+- **TONSTAD Meghosszabbítható asztal, tölgy furnér** – Kedvező árú, valódi tölgyfurnéros viszonyítási alap; a gyártó szerint 140 cm-en 4, 196 cm-re nyitva 6 személyes. ⚠️ *Feltételes ajánlás: ha hat hely kell alapméretben is, ez a változat nem teljesíti. A kiválasztott székek lábtere, az elrendezés és a címre szállítás még ellenőrizendő.*
+- **TONSTAD Asztal, tölgy furnér, 200x85 cm** – Nagyobb fix, valódi tölgyfurnéros változat; a nagyobb méret önmagában nem jelent prémium minőséget. ⚠️ *Nem bővíthető; 200 cm hosszan ellenőrizni kell a 90-100 cm-es fal-/bútortávolságot az étkezőben.*
+- **Robi fix ovális asztal, 180×90 cm** – Kedvezőbb árú tömörfa irány, ovális lappal és fa lábakkal. Fix hatfős összeállításhoz továbbvizsgálandó. ⚠️ *A hat konkrét szék kényelme és a lábköz nincs igazolva. Nem bővíthető; olajozott felületet ápolni kell. A konyha famintájával összevetendő.*
+- **Allegro 160 XL bővíthető tölgyasztal** – Bővíthető, fa lábú tömörfa irány; a matt lakkozás érdekes alternatíva az olajozott felületek mellett. ⚠️ *A toldórészt külön kell tárolni. Lábköz és a hat szék zárt/nyitott állapotú helye ellenőrizendő. A leírás olajat is említ, ezért a pontos felületkezelés tisztázandó.*
+- **Rowico Filippa 180×90, natúr olajozott tölgy** – Független gyártói alternatíva, dokumentált lábközzel: 160/69 cm; hat székhez érdemes próbálni 2+2+1+1 elrendezésben. ⚠️ *Asztal alatti szabad magasság 65 cm. Olajozás használat előtt és évente 2–3-szor. A vendéglap külön vásárlás. A Bonami-változat és a gyártói cikkszám egyezése, üléspróba és faminta ellenőrizendő.*
+- **TONSTAD Asztal, tölgy furnér, 150x80 cm** – Kisebb méretű referencia; a hat kényelmes helyre vonatkozó feltételt még nem teljesíti igazoltan. ⚠️ *Nem bővíthető. A kisebb ár nem írja felül a hatfős használhatóságot.*
 
 ### Étkezőszék — Prio 1
 
@@ -66,6 +80,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Prio 1** | ⭐ ajánlott (próba után) | [ISLEV étkezőszék, natúr tölgy/natúr](https://jysk.hu/etkezo/etkezoszekek/etkezoszek-islev-natur-tolgy-natur) | **JYSK** – online, házhozszállítás; készlet a megadott állapot szerint | tömör tölgy váz és láb; tölgy- és nyárfurnéros háttámla; papírfonat ülés; áttetsző lakk | 48 × 46 × 80 cm; ülésmagasság 46 cm | **38 500 Ft** <br>*/db; akciós, normál 49 900 Ft; feltüntetett akció vége: 2026-10-13* <br>*Kiszállítással rendelhető, 2 db többszörösében; Click & Collect nem elérhető.* | 6 |
 | **Prio 1** | 💰 olcsóbb | [AGEN Szék, rattan/bambusz](https://www.ikea.com/hu/hu/p/agen-szek-rattan-bambusz-50058376/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs, Örs vezér tere, Soroksár) | bambusz váz, kézzel font rattan ülés/háttámla, natúr | 58x56x79 cm, ülésmagasság 44 cm | **19 990 Ft** <br>*/db* | 6 |
+| **Prio 1** | Alternatíva | [Eva drevo tölgy étkezőszék, fa ülőlappal](https://www.butormirek.hu/etkezoszek/2142-moderni-dubova-zidle-eva-s-prirodni-olejovanou-sedaci-plochou.html) | **Bútor Mirek** – butormirek.hu; magyarországi házhozszállítás | natúr vadtölgy, tömör tölgy ülőlap; olaj/viasz felület | 45×50×84 cm; ülésmagasság nincs megadva; 110 kg terhelhetőség | **41 399 Ft** <br>*6 db = 248 394 Ft; szállítási díj tisztázandó.* <br>*Az elért termékoldal szeptember 7–21-i becslést mutat, a lista raktáron jelzést. Ez nem igazolja hat darab aktuális elérhetőségét.* | 6 |
 | **Prio 1** | Alternatíva | [Evera étkezőszék, natúr tölgyfurnér](https://kavehome.com/hu/en/p/evera-chair-in-oak-veneer-with-natural-finish) | **Kave Home** – online, magyar régió (kavehome.com/hu), EUR-os ár | 68% gumifa, 25% rétegelt lemez, 5% tölgyfurnér, 2% fém; natúr, vízbázisú felületkezelés | 52 × 48 × 77 cm; ülésmagasság 45 cm | **119 €** <br>*EUR-os ár; a forintos költségútból kimarad, szállítás és átváltás külön* <br>*Rendelhetőként jelent meg, általános októberi szállítási becsléssel.* | 6 |
 | **Prio 1** | Alternatíva | [ISLEV karfás étkezőszék, natúr tölgy](https://jysk.hu/etkezo/etkezoszekek/etkezoszek-islev-karfakkal-natur-tolgy) | **JYSK** – online, házhozszállítás; készlet a megadott állapot szerint | tömör tölgy, tölgy-/nyárfurnér, papírfonat, natúr | 56 × 47 × 80 cm; ülés 46 cm; karfa 65 cm | **55 000 Ft** <br>*/db; akciós, normál 69 900 Ft; beolvasott akció vége: 2026-10-13* <br>*Ár webes termékoldalról; készlet és bemutatódarab ellenőrizendő.* | 6 |
 | **Prio 1** | 💎 prémium | [STOCKHOLM 2025 Szék, tölgy/rattan](https://www.ikea.com/hu/hu/p/stockholm-2025-szek-toelgy-rattan-60590142/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs, Örs vezér tere, Soroksár) | tömör tölgy váz, rattan háttámla, bőr ülőfelület | 47x45x80 cm, ülésmagasság 47 cm | **69 990 Ft** <br>*/db* | 6 |
@@ -77,6 +92,7 @@
 
 - **ISLEV étkezőszék, natúr tölgy/natúr** – Hat darab 231 000 Ft; a korábbi STOCKHOLM-csomagnál 188 940 Ft-tal olcsóbb. Természetes fa és fonat illeszkedik a stílushoz. ⚠️ *Üléspróba és stabilitásellenőrzés szükséges. A 27 nemzetközi értékelésben (4,1/5) kényelmi és stabilitási/repedési panasz is szerepel; ezek nem független tesztek. 110 kg terhelhetőség.*
 - **AGEN Szék, rattan/bambusz** – Teljesen fonott bambusz/rattan szék, minden darab egyedi – erős „fonott” hatás, a legolcsóbb 6 db-os megoldás az étkezőhöz. ⚠️ *Nem tölgyfa a váz (bambusz), és a lábak műanyagból vannak a nedvesség ellen – ez eltér a kért „tölgy váz” elvárástól.*
+- **Eva drevo tölgy étkezőszék, fa ülőlappal** – Fonat nélküli fa ülésű alternatíva, keskenyebb külső mérettel. Összeszerelve érkezik; kényelme üléspróbával dönthető el. ⚠️ *Hat azonos darab készlete és az ülésmagasság hiányzik. A kemény fa ülőlap kényelme nem bizonyított. A webes értékelések több kárpitozott változatot is összemosnak.*
 - **Evera étkezőszék, natúr tölgyfurnér** – Kárpit nélküli, letörölhető, egymásra rakható szék; visszafogott világos fa megjelenés. ⚠️ *Nem tömör tölgy, nincs fonott textúra. Hat darab 714 € + szállítás.*
 - **ISLEV karfás étkezőszék, natúr tölgy** – Karfás változat; külön elrendezési lehetőség négy karfa nélküli és két karfás szék. ⚠️ *A táblázat hat darabot hasonlít össze. A vegyes csomag 4×38 500 + 2×55 000 = 264 000 Ft. A székeket nem a másik hatdarabos szett mellé kell hozzáadni; ellenőrizd a helyigényt.*
 - **STOCKHOLM 2025 Szék, tölgy/rattan** – A korábbi ajánlott szék prémium alternatívaként marad: tömör tölgy váz, rattan háttámla és bőr ülés. Hat darab ára 419 940 Ft; az ISLEV más üléskialakítással olcsóbb. ⚠️ *Az ülőfelület valódi bőr, nem fonott – ha a kisbabás háztartáshoz mosható huzat kell, érdemes utólag levehető huzatot kérni.*

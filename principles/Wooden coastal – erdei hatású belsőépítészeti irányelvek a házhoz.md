@@ -203,16 +203,16 @@ Világos fa pad, tükör, kevés nyitott fogas és zárt cipőtárolás. Legyen 
 ### 2–4. Konyha, étkező, nappali — 45,49 m², Norwich Arena
 
 - **Konyha:** a tömörfa bútor megrendelve. Front-, kőpult- és fogantyújavaslat az anyagfejezetben; a bárszék, textil és kiegészítők illeszkedjenek ezekhez; egy külön csaptelepjelölt csak akkor releváns, ha az nincs a rendelésben és még szükséges.
-- **Étkező:** fa asztal, kényelmes székek. A fonott ülés csak üléspróba után legyen első választás; a hat darab férjen el az asztal lábai és egymás mellett.
-- **Nappali:** fa dohányzóasztal, kényelmes kanapé, tisztítható szőnyeg, kosaras/zárt tárolás. A zöld akcentus itt kaphat nagyobb felületet. A Cantus központi talpa tudatos formai kompromisszum lehet a látszó lábas preferenciához képest.
+- **Étkező:** fa asztal; megerősített követelmény, hogy hat normál szék kényelmesen elférjen az asztal lábai és egymás mellett. Még nyitott, hogy alapméretben vagy kibővítve. A fonott ülés csak üléspróba után legyen első választás.
+- **Nappali:** a kanapé megerősített célja kb. 300×200 cm-es, L alakú, ágyazható és inkább puha; az oldalirány és a pontos befoglaló méret az elrendezéssel ellenőrizendő. Fa dohányzóasztal, tisztítható szőnyeg, kosaras/zárt tárolás követheti. A zöld akcentus itt kaphat nagyobb felületet. A Cantus központi talpa tudatos formai kompromisszum lehet a látszó lábas preferenciához képest.
 
 ### 5. Háló — 16,22 m², fa parketta
 
-Kevés minta, puha textil, megfelelő sötétítés és használható éjjeliszekrény. Pad vagy fotel csak akkor kerüljön be, ha az ágy és szekrény körüli közlekedés megmarad.
+Megerősített matracméret: **180×200 cm**; az ágykeret külső mérete és az ágyneműtartó igénye külön ellenőrizendő. Kevés minta, puha textil, megfelelő sötétítés és használható éjjeliszekrény. Pad vagy fotel csak akkor kerüljön be, ha az ágy és szekrény körüli közlekedés megmarad.
 
 ### 6. és 8. Szoba — 10,63 m² és 11,55 m², fa parketta
 
-Fehér fal, textileken visszafogott akcentus, mosható játszófelület és zárt tároló. A terméklista a 06-os szobát babaszobának kezeli. A 08-as szoba a tulajdonos megerősítése szerint egyelőre vendég-/tartalékszoba, ezért berendezése Prio 2.
+Fehér fal, textileken visszafogott akcentus, mosható játszófelület és zárt tároló. A terméklista a 06-os szobát babaszobának kezeli; a gyermek beköltözéskor egyéves lesz, kezdeti alvásának helye még nyitott. A 08-as szoba a tulajdonos megerősítése szerint egyelőre vendég-/tartalékszoba, ezért berendezése Prio 2.
 
 ### 7. Dolgozó — 12,78 m², fa parketta
 
@@ -282,6 +282,8 @@ Az ajánlott csomag tervezési összeg, nem végleges rendelés: egyes házszint
 
 ## Beszerzési ütemezés
 
+**Beköltözés: 2026. október 30.** A fő bútoroknál tömörfa vagy valódi furnér a megerősített anyagigény; másutt praktikus kompromisszum elfogadható. Új, hazai gyártói/egyedi, bemutatódarab és jó állapotú használt forrás is vizsgálható. A szállítás és szükséges szerelés idejét a Prio 1 döntéseknél igazolni kell. [Részletes beszerzési módszer és döntési napló](../products/beszerzesi-modszer.md).
+
 A terméklisták minden helyiségben két fázist különböztetnek meg: **Prio 1 – minimális beköltözéshez szükséges**, **Prio 2 – körülbelül fél évig halasztható**. A meglévő darabbal megoldott funkció nem új beszerzés; az ajánlott/olcsóbb/prémium szint ettől független választási szempont.
 
 Előre sorolt az alvás, alap étkezés, megfelelő napi tárolás és legalább egy működő fürdő. Dekoráció, plusz ülőbútor, vendégszoba és teraszbútor később is elkészülhet. A szükséges beépítés és a pusztán dekoratív befejezés különválik: például a konyha használható pultja indulásra kell, a kandalló esztétikai burkolata csak akkor halasztható, ha ez nem érinti a szükséges műszaki befejezést/használhatóságot.
@@ -299,6 +301,6 @@ A helyiségenkénti prioritás, feltételek, árazatlan hiányok és ajánlott r
 | Tájolás és a szobák tényleges használata | függöny, sötétítés és bútorozás |
 | Kandalló meglévő sötét kőburkolatának megtartása | a világos új burkolat csatlakozásai és közös mintapróba |
 | Konyhafront mintája, kőpult és kandallóburkolat végleges felülete | a megrendelt bútorhoz és meglévő kandallórendszerhez illesztés |
-| Költségkeret és beszerzési ütemezés | a nyitott tételek rangsorolása |
+| Kategóriánkénti költségkeretek és rendelési határidők az október 30-i beköltözéshez | a nyitott tételek rangsorolása |
 
 A párkány és világítás lezárt téma. A konyha tömörfa alapanyaga és rendelése adottság; a kért front-, pult- és fogantyújavaslat a még egyeztethető részletekre vonatkozik.

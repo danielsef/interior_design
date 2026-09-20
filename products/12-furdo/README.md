@@ -7,6 +7,8 @@
 | **Áradatok dátuma** | 2026-09-20 |
 | **Inspirációs képek** | [`../../inpiration/12-furdo/`](../../inpiration/12-furdo/README.md) |
 
+> **Követelmények és források felülvizsgálata:** [a helyiség összes kategóriája](../kategoria-felulvizsgalat.md#12-furdo) · [közös beszerzési módszer és döntések](../beszerzesi-modszer.md). A követelményfelmérés nem jelent új teljes ár- vagy készletellenőrzést.
+
 > **Két külön fürdő:** a kádas 4,75 m²; a zuhanyzós mérete még nincs megadva. A kádas fürdő szekrénye, mosdója és pultja megvan / megrendelve, ezért nincsenek a listában. A zuhanyzós fürdő szekrénye és mosdója is megvan; csak a pult hiányzik. A korábbi referenciapult illeszkedése nem igazolt, ezért kizártuk az összesítésből. Az egyedi pult ára hiányzó költség, nem nulla. [Anyagjavaslat](../anyagvalasztas-konyha-kandallo-furdopult.md). A közös kiegészítők darabszáma előzetes.
 
 ## Beköltözési prioritás

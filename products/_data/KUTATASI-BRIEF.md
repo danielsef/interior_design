@@ -9,6 +9,10 @@ The full design guideline (Hungarian) is at:
 Read the sections relevant to your rooms ("Helyiségenkénti alapelvek", "Mesterpaletta", "Anyagok", "Textilek", "Kisbabás háztartás").
 
 ## Confirmed scope update (owner, 2026-09-20)
+- Latest iterative sourcing method: [beszerzesi-modszer.md](../beszerzesi-modszer.md); all 186 room/category pairs reviewed for requirements and source coverage in [kategoria-felulvizsgalat.md](../kategoria-felulvizsgalat.md). This is not a completed fresh product audit. Do not fill quotas with variants of one model or count the same manufacturer's model at two retailers as two independent alternatives.
+- Move-in: 2026-10-30. Key furniture must be solid wood or real veneer, with practical compromises allowed elsewhere. New retail, local manufacturer/custom, showroom and good-condition secondhand sources are authorized for research. No supplier messages or orders are authorized by research alone.
+- Dining: six normal chairs must fit comfortably; closed vs extended table remains unresolved. Bedroom mattress: 180x200 cm. Sofa: approximately 300x200 cm, L-shaped, sofa-bed function, softer seating; orientation and budget pending. Child will be one year old at move-in; sleeping room pending.
+- Ask only consequential missing questions interactively and continue independent source/requirements work. For major purchases compare 4–6 relevant sources, but do not require three finalists if fewer genuinely fit; small accessories can use a lighter comparison. Per-room `KUTATASI-BRIEF.md` files record the latest specific requirements.
 - WHITE walls; no coloured accent wall.
 - Solid-wood kitchen already ordered: do not source a replacement kitchen. The owner DOES request front finish, stone countertop and handle recommendations; retain existing handle options.
 - Wooden windowsills in the same cream beige colour as the windows: excluded from sourcing.
@@ -44,6 +48,8 @@ real natural fibres, well-reviewed items. Avoid the cheapest junk AND luxury pri
 Small accessories can have just one option.
 
 ## Where to look (must be buyable IN HUNGARY: HU webshop with delivery to Hungary, or physical HU store; EUR offers must be clearly marked and excluded from HUF totals)
+Owner-requested source: **Bútor Mirek — https://www.butormirek.hu/**. Include in relevant dining table/chair, solid-wood bed, storage, coffee-table and sofa searches. Homepage category coverage checked on 2026-09-20; individual materials, sizes, prices and delivery before 2026-10-30 remain to be verified per product. Do not infer that every listed product is solid wood from the shop's name.
+
 Known to work with WebFetch: ikea.com/hu, jysk.hu, bonami.hu, westwing.hu.
 IKEA search JSON (works via Bash curl):
   curl -s 'https://sik.search.blue.cdtapps.com/hu/hu/search-result-page?q=QUERY&size=24&types=PRODUCT' -H 'User-Agent: Mozilla/5.0'

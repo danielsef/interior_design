@@ -7,6 +7,10 @@
 | **Áradatok dátuma** | 2026-09-20 |
 | **Inspirációs képek** | [`../../inpiration/05-halo/`](../../inpiration/05-halo/README.md) |
 
+> **Követelmények és források felülvizsgálata:** [a helyiség összes kategóriája](../kategoria-felulvizsgalat.md#05-halo) · [közös beszerzési módszer és döntések](../beszerzesi-modszer.md). A követelményfelmérés nem jelent új teljes ár- vagy készletellenőrzést.
+
+> **Aktuális kutatási brief:** [megerősített igények és nyitott kérdések](KUTATASI-BRIEF.md). Az új követelményekhez a korábbi termékjelöltek illeszkedését még ellenőrizni kell.
+
 ## Beköltözési prioritás
 
 **Prio 1:** a minimális beköltözéshez szükséges új beszerzés, a jelzett feltételekkel. **Prio 2:** körülbelül fél évig halasztható, vagy csak későbbi cserejelölt. Ez külön szempont az ajánlott/olcsóbb/prémium minősítéstől.
@@ -14,6 +18,8 @@
 **Induló minimum:** Teljes, használható fekhely, megfelelő méretű alap ágynemű és sötétítés. Az alap ruhatárolással a gardróbban számolunk.
 
 **Ráér később:** Éjjeliszekrény, külön komód, ágyvégi pad, szőnyeg, tükör, díszpárnák és végleges fényszűrő függöny.
+
+**Feltétel / kiváltás:** Megerősített matracméret: 180×200 cm. Az ágykeret külső mérete, a szükséges ágyrács és az ágyneműtartó igénye külön ellenőrizendő.
 
 > **Még külön ellenőrizendő, nem árazott:** Felnőtt matrac és az ágyhoz szükséges, esetleg külön árazott ágyrács; lepedő, paplan és párna. A listázott ágykeret/huzat nem automatikusan teljes alvási csomag.
 

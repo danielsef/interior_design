@@ -7,6 +7,8 @@
 | **Áradatok dátuma** | 2026-09-20 |
 | **Inspirációs képek** | [`../../inpiration/02-konyha/`](../../inpiration/02-konyha/README.md) |
 
+> **Követelmények és források felülvizsgálata:** [a helyiség összes kategóriája](../kategoria-felulvizsgalat.md#02-konyha) · [közös beszerzési módszer és döntések](../beszerzesi-modszer.md). A követelményfelmérés nem jelent új teljes ár- vagy készletellenőrzést.
+
 > **A tömörfa konyhabútor meg van rendelve.** A fogantyúk kérésre megmaradtak. A front és kőpult megjelenésére külön [anyagjavaslat](../anyagvalasztas-konyha-kandallo-furdopult.md) készült. A bárszék és a szabadon álló kiegészítők illeszkedését a kész bútorhoz kell ellenőrizni. A csaptelep csak akkor releváns, ha külön még szükséges.
 
 ## Beköltözési prioritás
