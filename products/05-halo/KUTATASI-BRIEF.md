@@ -30,3 +30,5 @@ A [matrac- és ágyrács-összehasonlítás](MATRAC-OSSZEHASONLITAS.md) két mat
 Nincs és nem lesz külső árnyékoló; karnis, fényszűrő és sötétítő készül. A háló teljes szükséges rendszere P1, de a korábbi roló és a még méretezetlen függönyjelöltek kimaradnak az összegből. [Közös rendszer-összevetés](../00-altalanos-hangulat/OSSZEHASONLITAS.md). Fehér mennyezeti sín a rögzített választás. **Ajtós gardróbszekrény itt P1**, a konyhával közös fal mentén, a terven berajzolt helyen. [Szobai szekrény-összevetés](GARDROB-OSSZEHASONLITAS.md). A külön 14-es gardróbhelyiség P2; a korábbi teljesmagasság-preferencia ott lett megadva, a szobai szekrényeknél nem kizáró feltétel.
 
 **Gardrób anyagpontosítás:** tömörfa/furnér nem szükséges; praktikus bútorlapos korpusz és front elfogadott. Első irány az önszerelős modulrendszer vagy előre szabott, élzárt és fúrt elemekből helyszínen összeállított szekrény. A belső polcok/akasztók átrendezhetősége előny.
+
+**Megerősített belső igény (2026-09-20):** A szekrény belseje fele akasztós, fele polcos legyen; a pontos modulkiosztás és polcszám még javaslat. [Kiosztás és részletes PAX-elemjegyzék](../05-halo/GARDROB-OSSZEHASONLITAS.md).

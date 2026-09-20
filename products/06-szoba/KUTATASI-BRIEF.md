@@ -27,3 +27,5 @@ Az etetőszék az étkezővel közös döntés: a használathoz szükséges tart
 **Ajtós gardróbszekrény P1**, az alaprajzon a hálóval közös fal elé rajzolt, kb. 250 cm széles helyen. Ez új, egyértelmű döntés; a korábban kihagyott babaalvási egyeztetés nem vonatkozik rá. [Szekrények, méretpróba és árak](../05-halo/GARDROB-OSSZEHASONLITAS.md). Függönyhöz fehér mennyezeti sín; a textil végleges mennyisége külön mérendő.
 
 **Gardrób anyagpontosítás:** tömörfa/furnér nem szükséges; praktikus bútorlapos korpusz és front elfogadott. Első irány az önszerelős modulrendszer vagy előre szabott, élzárt és fúrt elemekből helyszínen összeállított szekrény. A belső polcok/akasztók átrendezhetősége előny.
+
+**Megerősített belső igény (2026-09-20):** A szekrény belseje főleg polcos legyen, kisebb akasztós résszel; a pontos modulkiosztás és polcszám még javaslat. [Kiosztás és részletes PAX-elemjegyzék](../05-halo/GARDROB-OSSZEHASONLITAS.md).

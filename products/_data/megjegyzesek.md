@@ -62,3 +62,7 @@
 - **Hazai pultajánlatok előkészítése:** [Campacampa, Multistone, Hungránit – elérhetőségek és ajánlatkérési vázlat](02-konyha/PULT-AJANLATKERES.md). Főzőlap a szigeten, mosogató az L pulton; típusok és végleges kivágások még hiányoznak. A vázlat nincs elküldve, teljes árajánlat még nem érkezett.
 
 - **Gardróbanyag pontosítva:** bútorlapos korpusz és front elfogadott; tömörfa/furnér itt nem szükséges. PAX/FORSAND a számolható modulreferencia; easybútor és Woodexpress a méretre előkészített önszerelős irányok. A két szobára javasolt 300/200 cm-es PAX-alap 515 000 Ft termékár, további szükséges tételek nélkül, még nem rendelési csomag.
+
+- **PAX–easybútor részletes összevetés:** 200 cm szélességre, négy polccal és két rúddal az alacsony PAX 186 000 Ft, a magas PAX 206 000 Ft, az easybútor konfigurált részösszege 232 800 Ft. Méretük és csomagtartalmuk eltér; egyik sem szállított/szerelt teljes ár. Az easybútor online rendelése jelenleg nem érhető el. [Adatok és hiányzó tételek](05-halo/GARDROB-OSSZEHASONLITAS.md).
+
+- **Gardrób belső használata rögzítve:** háló fele akasztós/fele polcos, babaszoba főleg polcos. Az ehhez készített első 300/200 cm-es magas PAX-terv 352 000 + 257 500 = 609 500 Ft termékár; ez a részletesebb, többpolcos javaslat, nem az 515 000 Ft-os egyszerű referencia. Fogantyú, fuvar, szerelés és helyszíni illeszkedés még nyitott. [Elemjegyzék](05-halo/GARDROB-OSSZEHASONLITAS.md).

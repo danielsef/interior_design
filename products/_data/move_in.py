@@ -29,13 +29,13 @@ ROOM_NOTES = {
         "unpriced": "A megfelelő kanapé költsége hiányzik az ajánlott összegből; ez nem nulla költség; nincs előre rögzített kategóriaárplafon. A korábbi ajánlott kanapé 169 900 Ft-os kizárása nem megtakarítás. A kandalló burkolati/rendszerbefejezésének egyedi költsége sincs a termékösszegben.",
     },
     "05-halo": {
-        "minimum": "Teljes, használható fekhely, megfelelő méretű alap ágynemű és sötétítés. Az alap ruhatárolást itt, ajtós gardróbszekrénnyel oldjuk meg (P1), a terven berajzolt helyen.",
+        "minimum": "Teljes, használható fekhely, megfelelő méretű alap ágynemű és sötétítés. Az alap ruhatárolást itt, ajtós gardróbszekrénnyel oldjuk meg (P1), a terven berajzolt helyen; fele akasztós, fele polcos belsővel.",
         "check": "Egy közös 180×200-as matrac; ágyneműtartó előny, de nem kötelező. A megfelelő csomagok közül a legalacsonyabb teljes árat keressük. A külső méret, kompatibilis ágyrács és matrackomfort ellenőrizendő. Két matrac- és két ágyrácsjelölt már árazott, de a komfort/kompatibilitás igazolásáig kimarad a költségutakból.",
         "later": "Éjjeliszekrény, külön komód, ágyvégi pad, szőnyeg, tükör és díszpárnák. A fényszűrő csak akkor halasztható, ha a szükséges belátásvédelem már megoldott.",
         "unpriced": "Az új ágykeret még alternatíva, nincs az ajánlott összegben; a régi 100 000 Ft-os keret kivétele nem megtakarítás. A kiválasztott csomag szállítása, matracvédő, lepedő, paplan és párna még hiányzik. A listázott ágykeret/huzat nem automatikusan teljes alvási csomag. A háló karnis–fényszűrő–sötétítő rendszere P1, nyílásonkénti mérésig még árazatlan.",
     },
     "06-szoba": {
-        "minimum": "A baba ténylegesen használt fekhelye, hozzá illő matrac és lepedő, valamint az alvóhely sötétítése. Külön megerősített P1: ajtós gardróbszekrény az alaprajzon kijelölt helyre.",
+        "minimum": "A baba ténylegesen használt fekhelye, hozzá illő matrac és lepedő, valamint az alvóhely sötétítése. Külön megerősített P1: ajtós gardróbszekrény az alaprajzon kijelölt helyre, főleg polcos belsővel és kisebb akasztós résszel.",
         "later": "Külön szoptatós fotel, végleges polc/kosarak, dekorációs szőnyeg és külön pelenkázóbútor, ha a pelenkázás más megfelelő meglévő megoldással rendezett.",
         "check": "A gyermek beköltözéskor egyéves lesz. A kezdeti alvóhely és meglévő felszerelés kérdését a tulajdonos most kihagyta, ezért a jelöltek nem végleges beszerzések. Az alvás helye még nyitott: ha kezdetben a szülői hálóban lesz, ugyanazokat a szükséges darabokat oda kell ütemezni, nem második garnitúrát venni. Az Ágynemű/takaró kategórián belül a lepedő Prio 1, a külön muszlintakaró Prio 2.",
         "unpriced": "A meglévő készlettől függő alap babaápolási és pelenkázási kellékek nem teljes körűen részei ennek a bútorlistának. Ha itt alszik a gyermek, a karnis és függönyös sötétítés P1; a rendszerár mérésig hiányzik, a roló kizárt.",

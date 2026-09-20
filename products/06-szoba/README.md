@@ -3,7 +3,7 @@
 | | |
 | --- | --- |
 | **Helyiség** | 10,63 m² · fa parketta |
-| **Termékek** | 22 db |
+| **Termékek** | 24 db |
 | **Áradatok dátuma** | 2026-09-20 |
 | **Inspirációs képek** | [`../../inpiration/06-szoba/`](../../inpiration/06-szoba/README.md) |
 
@@ -15,7 +15,7 @@
 
 **Prio 1:** a minimális beköltözéshez szükséges új beszerzés, a jelzett feltételekkel. **Prio 2:** körülbelül fél évig halasztható, vagy csak későbbi cserejelölt. Ez külön szempont az ajánlott/olcsóbb/prémium minősítéstől.
 
-**Induló minimum:** A baba ténylegesen használt fekhelye, hozzá illő matrac és lepedő, valamint az alvóhely sötétítése. Külön megerősített P1: ajtós gardróbszekrény az alaprajzon kijelölt helyre.
+**Induló minimum:** A baba ténylegesen használt fekhelye, hozzá illő matrac és lepedő, valamint az alvóhely sötétítése. Külön megerősített P1: ajtós gardróbszekrény az alaprajzon kijelölt helyre, főleg polcos belsővel és kisebb akasztós résszel.
 
 **Ráér később:** Külön szoptatós fotel, végleges polc/kosarak, dekorációs szőnyeg és külön pelenkázóbútor, ha a pelenkázás más megfelelő meglévő megoldással rendezett.
 
@@ -102,6 +102,8 @@
 | Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Prio 1** | Alternatíva | [PAX / FORSAND ajtós alapösszeállítás, fehér, 795.010.37](https://www.ikea.com/hu/hu/p/pax-forsand-gardrob-feher-feher-s79501037/) | **IKEA** – ikea.com/hu; magyar készlet és fuvar ellenőrizendő | fehér lapanyag korpusz; könnyített, méhsejt papírtöltetes ajtók; elfogadott gardróbanyag | 200×60×236,4 cm; a háló 300 cm-es javaslatának külön alkatrészlistája az összevetésben | **206 000 Ft** <br>*/200 cm-es összeállítás; fogantyú, további belső, fuvar és szerelés nélkül* | 1 |
+| **Prio 1** | Alternatíva | [easybútor fehér 100 cm-es ajtós konfiguráció, 2 polc + rúd + 80 mm lábazat](https://easybutor.hu/termekek/polcos-szekreny-200x100x56/) | **easybútor** – Online konfigurátor; online rendelés még nem érhető el, gyártói egyeztetés szükséges | 18 mm Egger bútorlap, W 960 fehér; 1 mm ABS élzárás, HDF hátfal | 100 széles × 200 magas × 56 cm mély korpusz; lábazat/front kész mérethez hozzáadódhat | **116 400 Ft** <br>*/1 konfigurált 100 cm-es elem; 200 cm: 232 800 Ft; nem teljes szállított ár* | 1 |
+| **Prio 1** | Alternatíva | [PAX / FORSAND fehér alacsony csomag, 695.010.33](https://www.ikea.com/hu/hu/p/pax-forsand-gardrob-feher-feher-s69501033/) | **IKEA** – ikea.com/hu; magyar készlet és fuvar ellenőrizendő | fehér lapanyag korpusz; könnyített, méhsejt papírtöltetes ajtók; elfogadott gardróbanyag | 200×60×201,2 cm | **174 000 Ft** <br>*/alapcsomag 2 polccal; 4 polcra kiegészítve 186 000 Ft, fuvar/szerelés nélkül* | 1 |
 | **Prio 1** | 💎 prémium | [Csanád 2 ajtós, 1 fiókos válaszfalas szekrény](https://fenyobutor24.hu/spd/10114010102010030553/Csanad-2-ajtos-1-fiokos-Valaszfalas-szekreny) | **Fenyőbútor24** – fenyobutor24.hu; egyben szállított bútor | tömör borovi fenyő; natúr fenyőszín, felületminta szükséges | 103×55×190 cm (szélesség×mélység×magasság) | **209 900 Ft** <br>*/db; élő böngészőár. Jelzett fuvar 9 990 Ft; több darabra és behordásra megerősítendő.* | 1 |
 | **Prio 1** | 💎 prémium | [PAX / TONSTAD gardrób kombináció 595.667.32](https://www.ikea.com/hu/hu/p/pax-tonstad-gardrob-komb-feher-toelgy-furner-s59566732/) | **IKEA** – ikea.com/hu; magyar készlet ellenőrizendő | valódi tölgyfurnér ajtó; fehér papírfóliás forgács-/farostlemez korpusz, nem tömörfa | 150×60×236,4 cm (szélesség×mélység×magasság) | **304 000 Ft** <br>*/kombináció; fuvar, szerelés és falcsavar külön* | 1 |
 | **Prio 1** | 💎 prémium | [Provence TYP 01 kétajtós ruhásszekrény fehér](https://www.butormirek.hu/ruhasszekrenyek/521-provence-ketajtos-ruhasszekreny-feher-tomor-fenyo.html) | **Bútor Mirek** – butormirek.hu; Magyarországra, összeszerelve szállítva | a kereskedő szerint tömör fenyő, fehér festés | 107×60×195 cm (szélesség×mélység×magasság) | **342 701 Ft** <br>*/db; az oldal 200 000 Ft fölött ingyenes szállítást jelez, behordás külön tisztázandó* | 1 |
@@ -111,6 +113,8 @@
 > **A beszerzési összegből kizárva:** Méret- és árreferencia, nem végleges szobai darabszám; teljes szállított csomag még nincs kiválasztva.
 
 - **PAX / FORSAND ajtós alapösszeállítás, fehér, 795.010.37** – Első racionális árreferencia: helyszínen összeszerelhető, átrendezhető belső; két váz, négy ajtó és pántcsomag, négy polc, két akasztórúd. ⚠️ *A külső méret nem fokozatmentesen állítható. A váz állítva szereléséhez legalább 237 cm magasság kell; falrögzítés szükséges. A 300 cm-es hálós sor ellenőrzött alkatrészára 309 000 Ft, nem ennek az egy darabos sornak az ára.*
+- **easybútor fehér 100 cm-es ajtós konfiguráció, 2 polc + rúd + 80 mm lábazat** – Élő konfigurátor: 66 000 korpusz + 36 000 ajtó + 4 000 két polc + 5 000 rúd + 4 200 lábazat + 1 200 lábcsomag. Méretre gyártható, helyszínen összeszerelhető. ⚠️ *Ajtólapszám, pánt/fogantyú tartalma és polcfuratsor nem igazolt. A webshop nem fogad online rendelést; fuvar, kész méret és október 30. előtti átadás megerősítendő. Qty 1 áregység, nem szobai rendelési darabszám.*
+- **PAX / FORSAND fehér alacsony csomag, 695.010.33** – Olcsóbb és alacsonyabb moduláris alternatíva: két váz, négy ajtó és pántcsomag, két polc, két akasztórúd. ⚠️ *A magas PAX négy polcához két további 6 000 Ft-os polc kell. Fogantyú és fuvar külön; falrögzítés szükséges, állítva szereléshez legalább 202 cm belmagasság. Helyi készlet nincs megerősítve.*
 - **Csanád 2 ajtós, 1 fiókos válaszfalas szekrény** – Opcionális fa/furnér referencia; a gardróbhoz a tulajdonos praktikus bútorlapot is elfogadott. Akasztós és polcos rész, egy fiók; a vizsgált három jelölt közül a legkisebb darabár. ⚠️ *Sárgás felület kizáró ok lehet mintapróbán. A webes kivonat régi ára eltért; 209 900 Ft az élő oldal ára. Egyben érkezik: beviteli út és falrögzítés tisztázandó.*
 - **PAX / TONSTAD gardrób kombináció 595.667.32** – Opcionális fa/furnér referencia; a gardróbhoz a tulajdonos praktikus bútorlapot is elfogadott. Magasabb, bővíthető rendszer valódi fa fronttal; a látható felület illeszkedik az anyagpreferenciához. ⚠️ *A fehér belső lapanyag jelölt kompromisszum. Tartalom: 100+50 cm váz, három ajtó és pántcsomag, egy rúd, nyolc polc, három kosár sínekkel. Rögzítés és a legalább 237 cm-es szerelési magasság ellenőrizendő.*
 - **Provence TYP 01 kétajtós ruhásszekrény fehér** – Opcionális fa/furnér referencia; a gardróbhoz a tulajdonos praktikus bútorlapot is elfogadott. Fehér tömörfa irány; egy akasztórúd, egy polc és két alsó fiók. ⚠️ *Díszesebb provence-i front, ezért a letisztult Forest Wood Coastal mellett stíluskompromisszum. Egyben érkezik; beviteli út ellenőrizendő. Látott jelzés: kevesebb mint öt darab, 1–2 hét; címre vállalt határidő nincs.*
