@@ -26,6 +26,8 @@ A nappali a konyhával és étkezővel közös légtér. A kb. 300×200 cm nem i
 
 ## További kategóriák
 
+A kandallóhoz elkészült a [kőpulttal összehangolt burkolatjelöltek árnaplója](../koalternativak-arosszehasonlitas.md). A 60×120-as lapok kedvezőbb egységárú megjelenési alternatívák; a konkrét kandallóhoz való rendszeralkalmasság és a kiosztás még nincs igazolva. Nem kerültek teljes kivitelezési árként a termékösszegbe.
+
 A fotel, dohányzóasztal, TV-szekrény, tálaló, lerakó és szőnyeg mérete a kanapé elrendezését kövesse. A dohányzóasztal fa; a többi fő bútor tömörfa vagy valódi furnér. A juta és a mosható szőnyeg nem automatikusan két kötelező vásárlás. A kandalló védelme a konkrét kialakításhoz igazítandó; a dekoratív burkolat és a használathoz szükséges befejezés külön tétel.
 
 A korábbi EKTORP és VIMLE konkrét egyenes, nem ágyazható változatai kizárt referenciák lettek. A Rocky feltételes tartalék. Még nincs minden igényt igazoltan teljesítő ajánlott kanapé; a költségösszesítésből való kimaradás nem nulla költség.

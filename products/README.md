@@ -187,3 +187,5 @@ Az új válogatás az XXXLutz, Kave Home, H&M Home és JYSK termékoldalait is f
 - **Matrac és ágyrács:** [két matrac és két rács vizsgálata](05-halo/MATRAC-OSSZEHASONLITAS.md), külön páros rácsárakkal és próba-/cserefeltételekkel. Árazott, de még nem igazoltan megfelelő P1 jelöltek, ezért kimaradnak a költségutakból; a 233 900 Ft-os számtani csomagpélda nem beköltözési minimum.
 
 - **Kőminták a RAL 1019 mellé:** [Avorio, Nebbia és Albarium mintagyűjtemény](komintak-ral1019.md). Preferált az Avorio jellegű világos, enyhén meleg mészkőhatás; a konkrét felület mintapróbával véglegesítendő.
+
+- **Kőpult és kandalló árversenye:** [Neolith, Laminam és kedvezőbb árú kandallólap-jelöltek](koalternativak-arosszehasonlitas.md). Megerősített konyhai/sziget felső pultfelület 4,59 m²; a sziget 160×90 cm, oldalsó kőlefordítás nélkül. A külföldi alapárak és a burkolólap-egységárak nem teljes kivitelezési összegek, ezért nem kerültek a forintos kosárba.

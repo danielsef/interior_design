@@ -9,6 +9,8 @@
 
 > **Követelmények és források felülvizsgálata:** [a helyiség összes kategóriája](../kategoria-felulvizsgalat.md#02-konyha) · [közös beszerzési módszer és döntések](../beszerzesi-modszer.md). A követelményfelmérés nem jelent új teljes ár- vagy készletellenőrzést.
 
+> **Aktuális kutatási brief:** [megerősített igények és nyitott kérdések](KUTATASI-BRIEF.md). Az új követelményekhez a korábbi termékjelöltek illeszkedését még ellenőrizni kell.
+
 > **A tömörfa konyhabútor meg van rendelve.** A fogantyúk kérésre megmaradtak. A front és kőpult megjelenésére külön [anyagjavaslat](../anyagvalasztas-konyha-kandallo-furdopult.md) készült. A bárszék és a szabadon álló kiegészítők illeszkedését a kész bútorhoz kell ellenőrizni. A csaptelep csak akkor releváns, ha külön még szükséges.
 
 ## Beköltözési prioritás

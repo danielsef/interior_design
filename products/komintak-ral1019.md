@@ -2,9 +2,9 @@
 
 2026-09-20 · [Anyagválasztási brief](anyagvalasztas-konyha-kandallo-furdopult.md) · [Terméklista](README.md)
 
-**Első választásom mintapróbára: Dekton Avorio, matt kivitelben.** A preferált irány világos, enyhén meleg homok-/mészkőhatás, halk rajzolattal. A konyhai és szigetpultra azonos felületet, a kandalló nagy külső síkjaira azonos vagy közeli megjelenést keresünk. A konkrét szín és beépíthető rendszer még nem végleges.
+**Első esztétikai referencia: Dekton Avorio, matt kivitelben; árversenyző mintapárja a Neolith Pietra di Osso Silk.** A preferált irány világos, enyhén meleg homok-/mészkőhatás, halk rajzolattal. A konyhai és szigetpultra azonos felületet, a kandalló nagy külső síkjaira azonos vagy közeli megjelenést keresünk. A konkrét szín és beépíthető rendszer még nem végleges.
 
-Az alábbi három **digitális mintajelölt**, gyártói termékoldallal és képhivatkozással. Itt egy felületcsaládon belül a színt hasonlítjuk össze; ez nem három független beszállító árversenye és nem márkaelköteleződés. A megfelelő színirányhoz később a teljes megmunkált/beépített ár alapján kell más forrásokat is összevetni. Magyar ár, készlet és fizikai mintakészlet nincs igazolva; ezek nem nulla költségek.
+Az alábbi három **Dekton digitális mintajelölt**, gyártói termékoldallal és képhivatkozással. A márkán belüli színpróbát az új [ár- és alternatíva-összevetés](koalternativak-arosszehasonlitas.md) egészíti ki: Neolith, Laminam és két kedvezőbb árú kandallóburkolat-jelölt szerepel benne. Avorio nem igazolt ár-érték győztes. Magyar teljes pultár és fizikai mintakészlet továbbra sincs igazolva.
 
 ## 1. Avorio – preferált mintajelölt
 
@@ -40,7 +40,10 @@ Az alábbi három **digitális mintajelölt**, gyártói termékoldallal és ké
 
 | Kérendő felületminta | Szerep |
 | --- | --- |
-| Dekton Avorio, matt | első választás |
+| [Neolith Pietra di Osso, Silk](https://neolithhungary.hu/featured_item/pietra-di-osso/) | Avorióval közös első mintapár; új árversenyző |
+| Dekton Avorio, matt | első esztétikai referencia, nem végleges beszerzés |
+| [Laminam Calce Avorio, 12+](https://www.laminam.com/it/prodotti/calce-avorio/) | vakolatjellegű, strukturált alternatíva; tapintás és tisztíthatóság próbája |
+| LAPIS NATURAL világos bézs / Johnstone Beige Mate | külön kandallóanyag lehetősége; [árak és közvetlen terméklinkek](koalternativak-arosszehasonlitas.md#3-kandalló-kedvezőbb-árú-megjelenési-jelöltek), beépíthetőség még igazolandó |
 | Dekton Nebbia, matt | taupe részletek és rajzolat összevetése |
 | Dekton Albarium, matt | törtfehér ellenminta, súrlófényben is megnézve |
 

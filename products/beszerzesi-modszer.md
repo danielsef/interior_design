@@ -124,3 +124,9 @@ A [háló új vizsgálata](05-halo/MATRAC-OSSZEHASONLITAS.md) két 180×200-as m
 ## Színpontosítás – RAL 1019, 2026-09-20
 
 A tulajdonos megerősítette: nyílászárók és beltéri ajtók **RAL 1019 grey beige (szürkés bézs)**; a fa párkányok a korábbi döntés szerint velük azonos színűek. A stílushoz illő kőirány kiválasztását ránk bízta. Preferált irány: **enyhén meleg, világos homok-/mészkőhatás, matt felület, halk rajzolat** a konyhai/szigetpulton és rokon megjelenésben a kandallón. Konkrét termék még nincs véglegesítve; az Avorio feltételes mintareferencia. A RAL 1019, padló, fa és sárgaréz közös mintasora dönti el az illeszkedést. A függönyök és szürke/bézs kárpitok korábbi színérvelése feltételesre pontosítva; a színjavítás önmagában nem igazol termékcserét. [Részletes anyagjavaslat](anyagvalasztas-konyha-kandallo-furdopult.md).
+
+## Kőfelületek árversenye és méretei – 2026-09-20
+
+Az [árnapló](koalternativak-arosszehasonlitas.md) az Avorio mellé Neolith Pietra di Osso és Laminam Calce Avorio jelölteket, a kandallóhoz két magyar burkolólap-egységárat rögzít. Azonos francia kereskedő két 12 mm-es matt pultalapára összevethető referencia; a lengyel nyerstábla és a magyar padlólap nem azonos szolgáltatási tartalom. Nincs még magyar teljesár-győztes. Avorio esztétikai szerepe megmarad, nem válik automatikusan ajánlott vásárlássá.
+
+A tulajdonos megerősítette: sziget 160×90 cm, oldalsó kőlefordítás nélkül; L pult 60 cm mély, 240 + 60 cm sarok és további 225 cm a sarok nélkül. Együttes felső felület **4,59 m²**. A 225 cm saroktartalmát külön tisztáztuk; a korábbi feltételes 4,23 m² nem alkalmazható. A kész pultterület nem beszerzési táblamennyiség. Az állomány 322 termékrekord marad, a hiányzó egyedi munkadíj és anyagár nem szerepel megtakarításként.

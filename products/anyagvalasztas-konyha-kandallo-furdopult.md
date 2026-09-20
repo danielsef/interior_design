@@ -6,7 +6,7 @@
 
 Ez anyag- és formaválasztási javaslat; nem végleges műhelyrajz vagy beárazott rendelés. A felületek és az egyedi megmunkálás ára még nincs a terméklisták összesítésében.
 
-**Összegyűjtött mintaképek:** [Avorio, Nebbia és Albarium – gyártói képek, összevetés és fizikai mintalista](komintak-ral1019.md). Avorio az első mintajelölt; a kő konkrét árnyalata még nincs véglegesítve.
+**Összegyűjtött mintaképek és kibővített mintalista:** [Dekton-referenciák, Neolith és Laminam alternatívák](komintak-ral1019.md). Avorio esztétikai referencia; a kő konkrét árnyalata még nincs véglegesítve. [Egységárak és méretek](koalternativak-arosszehasonlitas.md): a Pietra di Osso új árversenyző, a teljes beépített ár még hiányzik.
 
 ## Grey beige pontosítás – mely döntések nyílnak újra?
 
@@ -39,6 +39,8 @@ A négy korábbi jelölt megmaradt a [konyhai listában](02-konyha/README.md): B
 A terméklistában lévő árak korábban ellenőrzött referenciaárak. A furattáv és darabszám a végleges frontkiosztásból származzon; a frontokat a fogantyúminta és méret elfogadása után fúrják. A listázott csomagmennyiségek tervezési darabszámok, nem új rendelési utasítások.
 
 ## 3. Konyhai kőpult
+
+**Megerősített tervezési méretek:** 60 cm mély L pult, 240 cm + közös 60 cm sarok az egyik szár, 225 cm a közös sarkon kívül a másik. Felület **3,15 m²**. A sziget **160×90 cm = 1,44 m²**, oldalsó kőlefordítás nélkül; együtt **4,59 m²**, kivágások és szabási veszteség előtt. A teljes külső szárhosszak 300 és 285 cm. Rendeléshez felmérés és szabásterv kell; [részletes számítás és árreferenciák](koalternativak-arosszehasonlitas.md).
 
 **Első mintairányként enyhén meleg, világos homoktónust, matt felületet és finom mészkőszerű mintát vizsgálnék; mellé semlegesebb szürkés bézs ellenmintát kérnék.** A fa erezete már ad elég rajzolatot; a pultnak nem kell erős szürke vagy arany márványérrel versenyeznie vele. Egyszerű, egyenes él, tompított élekkel illene ide. A tényleges vastagságot, alátámasztást és kivágásokat a kivitelező méretezi.
 
