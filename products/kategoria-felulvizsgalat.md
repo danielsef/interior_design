@@ -333,12 +333,12 @@ Futószőnyeg P2; szabad közlekedés az első.
 <a id="14-gardrob"></a>
 ### [14-gardrob](14-gardrob/README.md)
 
-Alap ruhatárolás P1, de a hálókomóddal együtt nem két kötelező minimum.
+A külön gardróbhelyiség berendezése P2; a P1 alap ruhatárolást az 05 háló és 06 babaszoba ajtós szekrénye biztosítja.
 
 | Kategória | Prio | Jelölt / IKEA | Jelenlegi boltok | Következő ellenőrzés |
 | --- | --- | --- | --- | --- |
-| Nyitott gardróbrendszer | P1 | 3 / 3 | IKEA | Teljes belmagasság kihasználása preferált; kész méretek ismeretlenek. [Három rendszerirány](14-gardrob/OSSZEHASONLITAS.md); a régi csomagok mérésig kizárva a költségutakból. |
-| Fa vállfa | P1 | 1 / 1 | IKEA | [Kosár, doboz és vállfa](#csoport-kosar): A tartalomhoz és polchoz illő belső/külső méret, fedél és nedvesség; házszinten ne számoljuk kétszer. |
+| Nyitott gardróbrendszer | P2 | 3 / 3 | IKEA | Kb. 155×180×280 cm, kétajtós átjáró; nyitott belső elfogadott. Elsőként az 05 és 06 szoba ajtós szekrénye készül. [Későbbi rendszerirányok](14-gardrob/OSSZEHASONLITAS.md). |
+| Fa vállfa | P2 | 1 / 1 | IKEA | [Kosár, doboz és vállfa](#csoport-kosar): A külön gardróbhelyiség későbbi felszerelése; a szobai szekrények induló vállfaszükségletét házszinten egyszer számoljuk. |
 | Tárolókosár | P2 | 1 / 1 | IKEA | [Kosár, doboz és vállfa](#csoport-kosar): A tartalomhoz és polchoz illő belső/külső méret, fedél és nedvesség; házszinten ne számoljuk kétszer. |
 | Zsámoly / puff | P2 | 1 / 1 | IKEA | [Fotel, pad, puff](#csoport-fotel): Használat, ülésméret, stabilitás, helyigény és tisztíthatóság; a nagy bútorok után méretezendő. |
 | Álló tükör | P2 | 1 / 1 | IKEA | [Tükör](#csoport-tukor): Falfelület, használati magasság és rögzítés; fürdőben nedves környezetre alkalmasság; látható fém mintája. |
@@ -390,3 +390,7 @@ Az étkező új forrásainak konkrét megfigyelései: [forrásnapló](03-etkezo/
 - [RS gardróbok](https://www.rs.hu/otthon/haloszoba_butorok/gardrobok/akcios_gardrobok): további tárolóbútor-forrás.
 
 Ezeket a keresésben megtalált forrásokat a következő termékkörben konkrét modellekre kell bontani; anyag, ár, készlet és illeszkedés még nincs igazolva. A felsorolt cégek szolgáltatásminőségét ez a forrástérkép nem minősíti.
+
+## Új szobai ruhatárolás és sínválasztás
+
+Az 05 és 06 szobában új **Ajtós gardróbszekrény, P1** kategória szerepel, négy-négy árazott referenciával: Fenyőbútor24, IKEA, Bútor Mirek. Elsőként bútorlapos modulrendszert és önszerelős egyedi lapanyagot vizsgálunk; a fa/furnér itt nem követelmény. Az easybútor és Woodexpress irány még nem teljesen árazott. [Aktuális összevetés](05-halo/GARDROB-OSSZEHASONLITAS.md). A fenti korábbi kategóriaszámok történeti pillanatképek. A mennyezeti sín rögzített választás, a sárgaréz/arany rudak kizártak.

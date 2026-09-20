@@ -153,4 +153,12 @@ Párnázott vagy fonott ülés szükséges. A [három próbajelölt](03-etkezo/S
 
 A törölközők és összecsukható ruhaszárító meglévővel kiváltva, új áruk nem szerepel a költségekben. A tulajdonos karnis–függöny–sötétítő rendszert választott, külső árnyékoló nélkül. A [függönyös összevetés](00-altalanos-hangulat/OSSZEHASONLITAS.md) készterméket, méretre varrást és kétpályás sínreferenciát is vizsgál. Mérésig nincs összeadható teljes rendszerár, a régi rolók és feltételezett házcsomagok kizártak.
 
-A [gardrób három lehetséges kialakítása](14-gardrob/OSSZEHASONLITAS.md) a teljes belmagasság kihasználását vizsgálja. Méretre készülő megoldáshoz két forrás szerepel, mellettük ELVARLI és BOAXEL árreferencia; ez még nem azonos kapacitású végleges árverseny. Kész méretek és kiosztás kell a döntéshez. Külső megkeresés nem történt.
+A [gardrób három lehetséges kialakítása](14-gardrob/OSSZEHASONLITAS.md) a teljes belmagasság kihasználását vizsgálja. Méretre készülő megoldáshoz két forrás szerepel, mellettük ELVARLI és BOAXEL árreferencia; ez még nem azonos kapacitású végleges árverseny. A helyiség 155×180×280 cm-es mérete és átjáró jellege azóta megerősítve; a részletes kiosztás még szükséges, a külön gardrób P2. Külső megkeresés nem történt.
+
+## Két szobai szekrény és mennyezeti sín – megerősítve
+
+Elsőként **05 háló + 06 babaszoba, ajtós gardróbszekrény, P1**, az alaprajzon berajzolt helyekre. [Elhelyezés és három termékirány](05-halo/GARDROB-OSSZEHASONLITAS.md). A 14-es helyiség kb. 155×180×280 cm-es kétajtós átjáró; nyitott belső elfogadott, teljes kiépítése P2. A teljesmagasság-preferencia eredetileg erre a külön helyiségre vonatkozott.
+
+A függönyrögzítés **fehér mennyezeti sín**; két réteghez két pálya. A látható rúdkarnisok nem beszerzendők. Új árreferencia a Basic sín és a DIEGO Topshade; [rendszerköltség és feltételek](00-altalanos-hangulat/OSSZEHASONLITAS.md).
+
+**Gardróbanyag frissítés:** nem kell tömörfa vagy furnér; a praktikus bútorlapos megoldás a tulajdonos által elfogadott. A helyszínen összeállítható, belül alakítható rendszert keressük. PAX/FORSAND mellett easybútor és budapesti Woodexpress előkészített lapanyag vizsgálandó. A fa jelöltek opcionális referenciák. Az általános főbútor-anyagpreferencia más kategóriákban megmarad.

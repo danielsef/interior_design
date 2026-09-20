@@ -2,7 +2,7 @@
 
 2026-09-20 · Előzetes rendszer-összevetés, nem kész méretezett bevásárlócsomag.
 
-**Elsőként egy egyszerű, méretre kialakított polc–akasztó rendszert hasonlítanék össze az állítható ELVARLI-val.** A felső sávban ritkán használt ruhák/dobozok, alul jól hozzáférhető napi tárolás legyen. Ha a gardróbszobának van külön ajtaja, a belső bútorfrontok elhagyása is vizsgálható; ez még nem rögzített döntés. A legolcsóbb megoldást azonos polc-, akasztó- és fiókkapacitás mellett kell keresni.
+**Elsőként egy egyszerű, méretre kialakított polc–akasztó rendszert hasonlítanék össze az állítható ELVARLI-val.** A felső sávban ritkán használt ruhák/dobozok, alul jól hozzáférhető napi tárolás legyen. A nyitott belső elfogadott. A kb. 155×180×280 cm-es helyiség két ajtója között átjárás szükséges. Ez **P2 kutatás**; elsőként az [05 és 06 szobai ajtós szekrények](../05-halo/GARDROB-OSSZEHASONLITAS.md) készülnek. A legolcsóbb megoldást azonos polc-, akasztó- és fiókkapacitás mellett kell keresni.
 
 | Irány | Ellenőrzött kiindulás | Előny | Korlát / teljes ár |
 | --- | --- | --- | --- |
@@ -14,4 +14,4 @@ Az IKEA-árak a megnyitott termékoldalakon látható csomagárak, fuvar és hel
 
 **Árkéréshez közös műszaki tartalom:** kész méretek és ajtónyitás; ugyanannyi akasztórúd/polc/fiók; azonos felső tárolás; tételes anyagmegjelölés; fal-/mennyezeti rögzítés; helyszíni felmérés; szállítás Pilisjászfalura; szerelés; vállalt átadás. A látható front fa/furnér és a fehér laminált belső ára külön kérhető. Külső megkeresést nem küldtünk.
 
-Egyedi rendszerrel jó eséllyel pontosabban kihasználható a tér, de méretezett ajánlat nélkül nem állítjuk, hogy olcsóbb. A teljes gardrób ára hiányzó költség; az eddigi csomagok kizárása nem megtakarítás.
+Egyedi rendszerrel jó eséllyel pontosabban kihasználható a tér, de méretezett ajánlat nélkül nem állítjuk, hogy olcsóbb. A későbbi külön gardrób ára hiányzó P2 költség; az eddigi csomagok kizárása nem megtakarítás.

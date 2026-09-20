@@ -3,7 +3,7 @@
 | | |
 | --- | --- |
 | **Helyiség** | 10,63 m² · fa parketta |
-| **Termékek** | 18 db |
+| **Termékek** | 22 db |
 | **Áradatok dátuma** | 2026-09-20 |
 | **Inspirációs képek** | [`../../inpiration/06-szoba/`](../../inpiration/06-szoba/README.md) |
 
@@ -15,7 +15,7 @@
 
 **Prio 1:** a minimális beköltözéshez szükséges új beszerzés, a jelzett feltételekkel. **Prio 2:** körülbelül fél évig halasztható, vagy csak későbbi cserejelölt. Ez külön szempont az ajánlott/olcsóbb/prémium minősítéstől.
 
-**Induló minimum:** A baba ténylegesen használt fekhelye, hozzá illő matrac és lepedő, valamint az alvóhely sötétítése.
+**Induló minimum:** A baba ténylegesen használt fekhelye, hozzá illő matrac és lepedő, valamint az alvóhely sötétítése. Külön megerősített P1: ajtós gardróbszekrény az alaprajzon kijelölt helyre.
 
 **Ráér később:** Külön szoptatós fotel, végleges polc/kosarak, dekorációs szőnyeg és külön pelenkázóbútor, ha a pelenkázás más megfelelő meglévő megoldással rendezett.
 
@@ -30,6 +30,7 @@
 | Kiságy | A baba meglévő vagy új, megfelelő fekhelye az induló berendezés része. |
 | Kiságymatrac | A használt kiságyhoz illő matrac szükséges. |
 | Ágynemű/takaró | A használt kiságymatracra illő lepedő szükséges. |
+| Ajtós gardróbszekrény | Tulajdonosi kérés: elsőként az 05 hálóba és a 06 babaszobába ajtós ruhatároló kell. **Feltétel:** A terven berajzolt hely; kész méret, nyitás, szín és szükséges kapacitás ellenőrizendő. |
 
 | Ajánlott tételek fázisonként | Listázott összeg |
 | --- | --- |
@@ -37,6 +38,8 @@
 | Prio 2 – későbbi új beszerzés | **298 510 Ft** |
 
 > Ezek a korábbi teljes tervezett darabszámokkal számolt, feltételes részösszegek; nem a legolcsóbb beköltözési kosár árai. Egy szükséglethez egy megfelelő megoldást válassz. A meglevővel kiváltott cserejelölt, a kizárt referencia, EUR-os vagy elfogyott termék és az árazatlan hiány nem szerepel bennük. A szükséges induló darabszámok és az átfedések még pontosítandók.
+
+> **Prio 1 funkció, de nincs az ajánlott HUF-részösszegben számolható jelölt:** Ajtós gardróbszekrény. Ez nem nulla költség.
 
 ## Költség ebben a helyiségben
 
@@ -48,7 +51,7 @@
 
 > A darabszám javaslat. A forintos költségutak az EUR-os, készlethiányos, meglévővel kiváltott és külön kizárt referenciatételeket kihagyják; ezek ára nem nulla. A feltételes ajánlások szerepelnek a tervezési összegben. A kategóriánkénti alsó/felső összeg nem összeillő bevásárlócsomag: az opcionális és egymást átfedő tételeket külön kell kiválasztani. A szállítás nincs benne; az ár és készlet rendelés előtt ellenőrizendő.
 
-> A forintos költségutakból kimaradó kategória (nincs számolható tétel): **Sötétítés**.
+> A forintos költségutakból kimaradó kategória (nincs számolható tétel): **Ajtós gardróbszekrény, Sötétítés**.
 
 ## Termékek
 
@@ -93,6 +96,24 @@
 
 - **BARNDRÖM gumis lepedő gyerekágyhoz** – Egyszerű fehér pamut gumis lepedő – semleges alap, minden akcentushoz illik. ⚠️ *70x160-as méret a SNIGLAR kiságyhoz; a 60x120-as kiságyakhoz (SUNDVIK/ÄLSKVÄRD) külön, kisebb méretű lepedő kell.* *(ár listaoldalról)*
 - **LEN takaró, muszlin** – Off-white pöttyös pamut muszlin – pontosan a kért natúr, puha babatakaró. *(ár listaoldalról)*
+
+### Ajtós gardróbszekrény — Prio 1
+
+| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Prio 1** | Alternatíva | [PAX / FORSAND ajtós alapösszeállítás, fehér, 795.010.37](https://www.ikea.com/hu/hu/p/pax-forsand-gardrob-feher-feher-s79501037/) | **IKEA** – ikea.com/hu; magyar készlet és fuvar ellenőrizendő | fehér lapanyag korpusz; könnyített, méhsejt papírtöltetes ajtók; elfogadott gardróbanyag | 200×60×236,4 cm; a háló 300 cm-es javaslatának külön alkatrészlistája az összevetésben | **206 000 Ft** <br>*/200 cm-es összeállítás; fogantyú, további belső, fuvar és szerelés nélkül* | 1 |
+| **Prio 1** | 💎 prémium | [Csanád 2 ajtós, 1 fiókos válaszfalas szekrény](https://fenyobutor24.hu/spd/10114010102010030553/Csanad-2-ajtos-1-fiokos-Valaszfalas-szekreny) | **Fenyőbútor24** – fenyobutor24.hu; egyben szállított bútor | tömör borovi fenyő; natúr fenyőszín, felületminta szükséges | 103×55×190 cm (szélesség×mélység×magasság) | **209 900 Ft** <br>*/db; élő böngészőár. Jelzett fuvar 9 990 Ft; több darabra és behordásra megerősítendő.* | 1 |
+| **Prio 1** | 💎 prémium | [PAX / TONSTAD gardrób kombináció 595.667.32](https://www.ikea.com/hu/hu/p/pax-tonstad-gardrob-komb-feher-toelgy-furner-s59566732/) | **IKEA** – ikea.com/hu; magyar készlet ellenőrizendő | valódi tölgyfurnér ajtó; fehér papírfóliás forgács-/farostlemez korpusz, nem tömörfa | 150×60×236,4 cm (szélesség×mélység×magasság) | **304 000 Ft** <br>*/kombináció; fuvar, szerelés és falcsavar külön* | 1 |
+| **Prio 1** | 💎 prémium | [Provence TYP 01 kétajtós ruhásszekrény fehér](https://www.butormirek.hu/ruhasszekrenyek/521-provence-ketajtos-ruhasszekreny-feher-tomor-fenyo.html) | **Bútor Mirek** – butormirek.hu; Magyarországra, összeszerelve szállítva | a kereskedő szerint tömör fenyő, fehér festés | 107×60×195 cm (szélesség×mélység×magasság) | **342 701 Ft** <br>*/db; az oldal 200 000 Ft fölött ingyenes szállítást jelez, behordás külön tisztázandó* | 1 |
+
+**Prio 1:** Tulajdonosi kérés: elsőként az 05 hálóba és a 06 babaszobába ajtós ruhatároló kell. Feltétel: A terven berajzolt hely; kész méret, nyitás, szín és szükséges kapacitás ellenőrizendő.
+
+> **A beszerzési összegből kizárva:** Méret- és árreferencia, nem végleges szobai darabszám; teljes szállított csomag még nincs kiválasztva.
+
+- **PAX / FORSAND ajtós alapösszeállítás, fehér, 795.010.37** – Első racionális árreferencia: helyszínen összeszerelhető, átrendezhető belső; két váz, négy ajtó és pántcsomag, négy polc, két akasztórúd. ⚠️ *A külső méret nem fokozatmentesen állítható. A váz állítva szereléséhez legalább 237 cm magasság kell; falrögzítés szükséges. A 300 cm-es hálós sor ellenőrzött alkatrészára 309 000 Ft, nem ennek az egy darabos sornak az ára.*
+- **Csanád 2 ajtós, 1 fiókos válaszfalas szekrény** – Opcionális fa/furnér referencia; a gardróbhoz a tulajdonos praktikus bútorlapot is elfogadott. Akasztós és polcos rész, egy fiók; a vizsgált három jelölt közül a legkisebb darabár. ⚠️ *Sárgás felület kizáró ok lehet mintapróbán. A webes kivonat régi ára eltért; 209 900 Ft az élő oldal ára. Egyben érkezik: beviteli út és falrögzítés tisztázandó.*
+- **PAX / TONSTAD gardrób kombináció 595.667.32** – Opcionális fa/furnér referencia; a gardróbhoz a tulajdonos praktikus bútorlapot is elfogadott. Magasabb, bővíthető rendszer valódi fa fronttal; a látható felület illeszkedik az anyagpreferenciához. ⚠️ *A fehér belső lapanyag jelölt kompromisszum. Tartalom: 100+50 cm váz, három ajtó és pántcsomag, egy rúd, nyolc polc, három kosár sínekkel. Rögzítés és a legalább 237 cm-es szerelési magasság ellenőrizendő.*
+- **Provence TYP 01 kétajtós ruhásszekrény fehér** – Opcionális fa/furnér referencia; a gardróbhoz a tulajdonos praktikus bútorlapot is elfogadott. Fehér tömörfa irány; egy akasztórúd, egy polc és két alsó fiók. ⚠️ *Díszesebb provence-i front, ezért a letisztult Forest Wood Coastal mellett stíluskompromisszum. Egyben érkezik; beviteli út ellenőrizendő. Látott jelzés: kevesebb mint öt darab, 1–2 hét; címre vállalt határidő nincs.*
 
 ### Pelenkázó / komód — Prio 2
 

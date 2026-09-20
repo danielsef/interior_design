@@ -40,7 +40,7 @@ Ezek adottságok; a további válogatás ezekhez igazodik.
 | Meglévő szerelvények és szaniterek | szálcsiszolt sárgaréz/arany szerelvények, kád, zuhany, fali WC-k, a külön WC-ben kis Geberit kézmosó | a korábbi helyszíni dokumentáció szerinti meglévő elemekhez igazodunk |
 | Kádas fürdő bútorozása | **szekrény, mosdó és pult megvan / megrendelve** | ezek kikerülnek a beszerzési körből |
 | Zuhanyzós fürdő bútorozása | **szekrény és mosdó megvan; pult még nincs** | csak a meglévőkhöz illő pultot kell megtervezni |
-| Ablakok textilrendszere | **karnis, függöny és sötétítő; külső redőny/zsaluzia nincs és nem lesz** | függönyös rendszer méretezendő, roló nem beszerzendő |
+| Ablakok textilrendszere | **fehér mennyezeti sín, függöny és sötétítő; külső redőny/zsaluzia nincs és nem lesz** | függönyös rendszer méretezendő, roló nem beszerzendő |
 | Meglévő háztartási textilek és eszköz | **törölközőket és összecsukható ruhaszárítót hozzátok** | új darabok nem részei a beköltözési kosárnak |
 | Világítás | **megvan** | termékek és műszaki specifikációk törölve a további válogatásból |
 
@@ -51,6 +51,7 @@ A preferencia a jelöltek rangsorolását segíti. A kompromisszumot termékenk�
 | Szempont | Preferencia | Elfogadható kompromisszum |
 | --- | --- | --- |
 | Fa | világos–közép, nyugodt rajzolatú valódi fa; kulcsdarabnál tömörfa vagy furnér | eltérő fafaj és enyhén eltérő tónus, ha a közös mintasorral harmonizál; dekoros tároló kedvezőbb áron, egyértelmű anyagjelöléssel |
+| Gardróbszekrény | racionális ár, állítható belső, ajtós szobai tárolás | bútorlapos korpusz és front kifejezetten elfogadott; tömörfa/furnér nem szükséges |
 | Felület | matt vagy visszafogott fényű | selyemmatt, ha illik a meglévő felületekhez és praktikusabb |
 | Textil | len, pamut, gyapjú; kellemes tapintás és tisztíthatóság | szintetikus keverék vagy poliészter, ha a kezelhetőség/ár indokolja, az összetétel feltüntetésével |
 | Szín | törtfehér–homok textilek, visszafogott zöld akcentus | rokon bézs vagy tompa kék kisebb felületen, helyszíni mintával; a fal ettől továbbra is fehér |
@@ -188,7 +189,7 @@ A nappaliban a kandalló, kilátás és tévé tényleges használata alapján v
 
 ## Természetes fény és függöny
 
-**Rögzített döntés: karnis, függöny és sötétítő készül; külső redőny vagy zsaluzia nincs és nem lesz.** Rolót nem tervezünk. Első javaslat a két külön mozgatható réteg: törtfehér/natúr fényszűrő és matt homok/greige fényzáró. A fehér, mennyezethez közeli dupla sín visszafogott lehetőség; látható rúdnál a meglévő szálcsiszolt sárgarézhez illő mintát keressünk. A sín és rúd közötti választás még nyitott.
+**Rögzített döntés: karnis, függöny és sötétítő készül; külső redőny vagy zsaluzia nincs és nem lesz.** Rolót nem tervezünk. Első javaslat a két külön mozgatható réteg: törtfehér/natúr fényszűrő és matt homok/greige fényzáró. **Fehér mennyezeti sín a rögzített választás.** Két textilréteghez két pálya szükséges; látható rudas karnist nem választunk.
 
 A függöny széthúzva lehetőleg az ablak mellé kerüljön. A karnis/sín helyét az ablak nyitása, a párkány és a teljes függönycsomag helyigénye szerint válasszuk. A párkány már rögzített, a textil ehhez alkalmazkodik.
 
@@ -269,7 +270,7 @@ Zárt, könnyen tisztítható tárolás, használható munkafelület, szennyesgy
 
 ### 14. Gardrób — 2,79 m²
 
-**Tulajdonosi preferencia: lehetőleg a teljes belmagasság kihasználása**, nyitottság a rendszerjavaslatokra. A pontos magasság és használható falszélesség még ismeretlen. A napi ruhák elérhető magasságba, a ritkán használt darabok felülre kerüljenek. Elsőként egyedi polc–akasztó kialakítást és állítható oszlopos rendszert vessünk össze; olcsóbb kompromisszum a falisínes alap, külön tervezett felső tárolással. A rejtett belső részeknél fehér laminált lap elfogadható praktikus kompromisszumként jelölhető; a látható fa felületnél valódi fa/furnér az első irány. A tároló méretét az ajtónyitás, vállfaszélesség és használható közlekedősáv alapján válasszuk. [Rendszer-összehasonlítás](../products/14-gardrob/OSSZEHASONLITAS.md). A burkolat még nyitott; parketta itt nem lesz.
+**Tulajdonosi preferencia: lehetőleg a teljes belmagasság kihasználása**, nyitottság a rendszerjavaslatokra. A külön gardróbhelyiség megerősített mérete kb. 155×180 cm, belmagassága 280 cm; két ajtó között átjárás vezet a gépészethez. Nyitott belső elfogadott. **Első ütemben azonban az 05 háló és 06 babaszoba alaprajzon berajzolt helyére kerül ajtós gardróbszekrény (P1); a külön gardróbhelyiség P2.** **Gardróbszekrénynél a tömörfa/furnér nem követelmény:** a tulajdonos racionális bútorlapos megoldást is elfogadott. Egyszerű fehér vagy visszafogott dekorú front, tartós vasalat, állítható belső és helyszíni összeszerelhetőség az első irány. [Szobai szekrények](../products/05-halo/GARDROB-OSSZEHASONLITAS.md). A napi ruhák elérhető magasságba, a ritkán használt darabok felülre kerüljenek. Elsőként egyedi polc–akasztó kialakítást és állítható oszlopos rendszert vessünk össze; olcsóbb kompromisszum a falisínes alap, külön tervezett felső tárolással. A gardróbnál a belső és a látható front is készülhet bútorlapból; a felület matt vagy visszafogott fényű, a dekor mintával egyeztetendő. Más fő bútorok fa/furnér preferenciája ettől nem változik. A tároló méretét az ajtónyitás, vállfaszélesség és használható közlekedősáv alapján válasszuk. [Rendszer-összehasonlítás](../products/14-gardrob/OSSZEHASONLITAS.md). A burkolat még nyitott; parketta itt nem lesz.
 
 ### 16–17. Terasz — terv szerint összesen 41,65 m²
 

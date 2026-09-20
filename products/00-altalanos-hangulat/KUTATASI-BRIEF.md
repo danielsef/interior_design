@@ -4,7 +4,7 @@
 
 **Rögzített döntés:** nincs és nem lesz külső redőny/zsaluzia. Karnis, függöny és sötétítő készül. Rolót nem választunk.
 
-Első javaslat: két külön mozgatható réteg, natúr/törtfehér fényszűrő és matt homok/greige sötétítő. A hálóban fényzáró anyagot vizsgáljunk. Fehér mennyezeti dupla sín vagy a meglévő szálcsiszolt sárgarézhez illő dupla rúd; a kialakítás még nyitott, és a mennyezet rögzíthetőségét ellenőrizni kell.
+Első javaslat: két külön mozgatható réteg, natúr/törtfehér fényszűrő és matt homok/greige sötétítő. A hálóban fényzáró anyagot vizsgáljunk. A fehér mennyezeti sín rögzített tulajdonosi választás. Két réteghez két pálya kell; a mennyezet rögzíthetőségét és a szövetek közötti távolságot ellenőrizni kell. A látható rudak korábbi jelöltjei nem beszerzendők.
 
 | Helyiség / használat | Ütemezés |
 | --- | --- |

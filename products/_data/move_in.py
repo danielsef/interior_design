@@ -4,7 +4,7 @@ ROOM_NOTES = {
     "00-altalanos-hangulat": {
         "minimum": "A ténylegesen szükséges babavédelem és az első naptól használt alvóhelyek sötétítése/belátásvédelme. Rögzített megoldás: karnis, függöny és sötétítő; külső árnyékoló nincs és nem lesz. Az induláskor szükséges ablakok teljes függönyrendszere együtt P1.",
         "later": "A többi helyiség függönye használat és belátás szerint ütemezhető; dekor, növények, képkeretek és összehangolt kosárcsalád ráérnek.",
-        "check": "Két külön mozgatható textilréteghez két sínpályát vagy dupla rudat javaslunk. A rolóreferenciák kizárva. A használt szőnyeg szükséges alátétjét vele együtt kell beszerezni.",
+        "check": "Rögzített választás: fehér mennyezeti sín. Két külön mozgatható textilréteghez két sínpályát javaslunk; a rudas jelöltek kizártak. A rolóreferenciák kizárva. A használt szőnyeg szükséges alátétjét vele együtt kell beszerezni.",
         "unpriced": "A nyílásonként méretezett függöny, sötétítő, karnis, tartozék és szerelés teljes ára hiányzik. A korábbi 11 pár/3 garnitúra becslések helyett áregység-referenciák szerepelnek, kizárva minden költségútból.",
     },
     "01-eloszoba": {
@@ -29,13 +29,13 @@ ROOM_NOTES = {
         "unpriced": "A megfelelő kanapé költsége hiányzik az ajánlott összegből; ez nem nulla költség; nincs előre rögzített kategóriaárplafon. A korábbi ajánlott kanapé 169 900 Ft-os kizárása nem megtakarítás. A kandalló burkolati/rendszerbefejezésének egyedi költsége sincs a termékösszegben.",
     },
     "05-halo": {
-        "minimum": "Teljes, használható fekhely, megfelelő méretű alap ágynemű és sötétítés. Az alap ruhatárolással a gardróbban számolunk.",
+        "minimum": "Teljes, használható fekhely, megfelelő méretű alap ágynemű és sötétítés. Az alap ruhatárolást itt, ajtós gardróbszekrénnyel oldjuk meg (P1), a terven berajzolt helyen.",
         "check": "Egy közös 180×200-as matrac; ágyneműtartó előny, de nem kötelező. A megfelelő csomagok közül a legalacsonyabb teljes árat keressük. A külső méret, kompatibilis ágyrács és matrackomfort ellenőrizendő. Két matrac- és két ágyrácsjelölt már árazott, de a komfort/kompatibilitás igazolásáig kimarad a költségutakból.",
         "later": "Éjjeliszekrény, külön komód, ágyvégi pad, szőnyeg, tükör és díszpárnák. A fényszűrő csak akkor halasztható, ha a szükséges belátásvédelem már megoldott.",
         "unpriced": "Az új ágykeret még alternatíva, nincs az ajánlott összegben; a régi 100 000 Ft-os keret kivétele nem megtakarítás. A kiválasztott csomag szállítása, matracvédő, lepedő, paplan és párna még hiányzik. A listázott ágykeret/huzat nem automatikusan teljes alvási csomag. A háló karnis–fényszűrő–sötétítő rendszere P1, nyílásonkénti mérésig még árazatlan.",
     },
     "06-szoba": {
-        "minimum": "A baba ténylegesen használt fekhelye, hozzá illő matrac és lepedő, valamint az alvóhely sötétítése.",
+        "minimum": "A baba ténylegesen használt fekhelye, hozzá illő matrac és lepedő, valamint az alvóhely sötétítése. Külön megerősített P1: ajtós gardróbszekrény az alaprajzon kijelölt helyre.",
         "later": "Külön szoptatós fotel, végleges polc/kosarak, dekorációs szőnyeg és külön pelenkázóbútor, ha a pelenkázás más megfelelő meglévő megoldással rendezett.",
         "check": "A gyermek beköltözéskor egyéves lesz. A kezdeti alvóhely és meglévő felszerelés kérdését a tulajdonos most kihagyta, ezért a jelöltek nem végleges beszerzések. Az alvás helye még nyitott: ha kezdetben a szülői hálóban lesz, ugyanazokat a szükséges darabokat oda kell ütemezni, nem második garnitúrát venni. Az Ágynemű/takaró kategórián belül a lepedő Prio 1, a külön muszlintakaró Prio 2.",
         "unpriced": "A meglévő készlettől függő alap babaápolási és pelenkázási kellékek nem teljes körűen részei ennek a bútorlistának. Ha itt alszik a gyermek, a karnis és függönyös sötétítés P1; a rendszerár mérésig hiányzik, a roló kizárt.",
@@ -78,9 +78,9 @@ ROOM_NOTES = {
         "later": "A futószőnyeg fél év múlva is megvehető.",
     },
     "14-gardrob": {
-        "minimum": "Egy alap ruhatárolási megoldás és a szükséges vállfák, ha nincs más megfelelő tároló.",
-        "later": "Összehangolt kosarak, puff és állótükör; meglévő ruhatároló esetén a végleges gardróbrendszer is.",
-        "check": "Preferencia: lehetőleg a teljes belmagasság kihasználása; bármely megfelelő rendszer vizsgálható. A kész falszélesség, belmagasság, mélység és ajtónyitás még ismeretlen. Meglévő gardrób nem lett egyértelműen megerősítve. A hálókomód és gardrób nem egyszerre kötelező minimum.",
+        "minimum": "A két ajtó között szabad átjárás a gépészethez. Új P1 bútor ide nem kell: elsőként az 05 háló és 06 babaszoba ajtós szekrénye készül.",
+        "later": "A teljes külön gardróbrendszer, felső tárolás, kosarak, puff és tükör P2.",
+        "check": "Megerősített helyiség: kb. 155×180 cm, 280 cm belmagasság, két ajtó és átjárás. Nyitott belső elfogadott; a teljes magasság kihasználása preferencia. A kész szerelési hézagok és rögzítés külön ellenőrizendők.",
         "unpriced": "A teljes gardróbrendszer még nincs kiválasztva; a BOAXEL és ELVARLI méret-/árreferencia, kizárva az összegekből. A felső tárolás, rögzítés, szállítás és szerelés külön árazandó. Ez nem nulla ruhatárolási költség.",
     },
     "16-17-terasz": {

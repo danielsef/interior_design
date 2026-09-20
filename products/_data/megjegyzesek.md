@@ -26,7 +26,7 @@
 - **Bárszék:** a Kave Home Evera 149 €/db; nem tömör tölgy. Az EUR-os tételek ellenőrzött forintár híján kimaradnak a forintos összesítésből.
 - **Bolti lefedettség:** XXXLutz, Kave Home, H&M Home és JYSK célzott jelöltjei bekerültek. Az XXXLutz utolsó élő készletellenőrzése használati limit miatt nem fejeződött be; a webes termékoldal ára rendelés előtt megerősítendő.
 - **Zuhanyzós fürdőpult:** a meglévő szekrény és mosdó mérete/típusa szükséges. Első irány a matt, világos, finom kőrajzolatú felület; méret, teherbírás, mosdókivágás és kiállások együtt ellenőrizendők. [Konyha–kandalló–fürdőpult anyagjavaslat](anyagvalasztas-konyha-kandallo-furdopult.md).
-- **Karnis:** a listázott antik/matt arany változat tónusa eltérhet a szálcsiszolt sárgaréztől. Előbb egy minta/darab szükséges a meglévő kilincs mellé. A kutatáskor látott akció a bolt szerint 2026-09-21-ig szólt.
+- **Karnis:** fehér mennyezeti sín a rögzített választás. A korábbi arany/sárgaréz rudak és karikáik kizárt referenciák; két külön textilréteghez két sínpályát méretezünk.
 - **Terasz:** a szezonvégi tételek és árak rendelés előtt újra ellenőrizendők.
 
 ## Beköltözési prioritás és meglévő darabok
@@ -34,7 +34,7 @@
 - Minden terméknél Prio 1/Prio 2, indoklás és szükség esetén feltétel szerepel. Az ajánlott/olcsóbb/prémium besorolás ettől különálló.
 - A dolgozóasztalt és széket hozzátok: az új jelöltek későbbi csereopciók, a beszerzési összegekből kizárva. A 08-as szoba megerősítve vendég-/tartalékszoba, teljes berendezése halasztható.
 - A törölközőket és összecsukható ruhaszárítót hozzátok: hat régi termékreferencia kizárva, nincs új P1 vásárlás ezekre. A kilépő, törölközőtartó és konyharuha ettől külön szükséglet.
-- A gardróbnál teljes belmagasság kihasználása a preferencia; [három rendszerirány](14-gardrob/OSSZEHASONLITAS.md) összevetése készült. Méretek nélkül a korábbi három csomag sem szerepel a teljes költségben.
+- **05 háló és 06 babaszoba: ajtós gardróbszekrény P1**, az alaprajzon kijelölt helyen. [Moduláris és önszerelős irányok, elhelyezés és árak](05-halo/GARDROB-OSSZEHASONLITAS.md); a teljes két szobai költség még hiányzik. A külön gardrób kb. 155×180×280 cm, kétajtós átjáró, nyitott belsővel elfogadott, P2. A [rendszerreferenciái](14-gardrob/OSSZEHASONLITAS.md) kiosztásig kizárva maradnak.
 - Legalább egy kész fürdővel számolunk; a második fürdő pultja csak akkor halasztható, ha a kádas fürdő teljesen használható és elegendő.
 - A Prio 1 részösszeg nem teljes beköltözési költség: matrac/ágyrács, alap felszerelés, gépek és egyedi kivitelezés ára hiányozhat. A hat étkezőszék például teljes célmennyiség, nem rögzített induló minimum.
 
@@ -60,3 +60,5 @@
 - **Kőpult és kandalló árversenye:** [Neolith, Laminam és kedvezőbb árú kandallólap-jelöltek](koalternativak-arosszehasonlitas.md). Megerősített konyhai/sziget felső pultfelület 4,59 m²; a sziget 160×90 cm, oldalsó kőlefordítás nélkül. A külföldi alapárak és a burkolólap-egységárak nem teljes kivitelezési összegek, ezért nem kerültek a forintos kosárba.
 
 - **Hazai pultajánlatok előkészítése:** [Campacampa, Multistone, Hungránit – elérhetőségek és ajánlatkérési vázlat](02-konyha/PULT-AJANLATKERES.md). Főzőlap a szigeten, mosogató az L pulton; típusok és végleges kivágások még hiányoznak. A vázlat nincs elküldve, teljes árajánlat még nem érkezett.
+
+- **Gardróbanyag pontosítva:** bútorlapos korpusz és front elfogadott; tömörfa/furnér itt nem szükséges. PAX/FORSAND a számolható modulreferencia; easybútor és Woodexpress a méretre előkészített önszerelős irányok. A két szobára javasolt 300/200 cm-es PAX-alap 515 000 Ft termékár, további szükséges tételek nélkül, még nem rendelési csomag.

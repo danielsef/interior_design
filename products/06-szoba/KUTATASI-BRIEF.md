@@ -21,3 +21,9 @@ A tulajdonos a kezdeti alvóhelyre és a hozott kiságyra, matracra, etetőszék
 A korcsoportnak megfelelő használatot és a méretilleszkedést a konkrét gyártói dokumentáció alapján kell ellenőrizni. A szoptatós fotel és pelenkázókomód nem pusztán a kategórianév miatt szükséges; a napi rutin dönti el. A lepedőt és muszlintakarót a következő termékfrissítésnél külön kategóriaként kell kezelni.
 
 Az etetőszék az étkezővel közös döntés: a használathoz szükséges tartozékokkal és tényleges helyigénnyel kell számolni. Az asztalnál megerősített hat normál székhez képesti pluszhely még nincs rögzítve.
+
+## Külön megerősített ruhatárolás
+
+**Ajtós gardróbszekrény P1**, az alaprajzon a hálóval közös fal elé rajzolt, kb. 250 cm széles helyen. Ez új, egyértelmű döntés; a korábban kihagyott babaalvási egyeztetés nem vonatkozik rá. [Szekrények, méretpróba és árak](../05-halo/GARDROB-OSSZEHASONLITAS.md). Függönyhöz fehér mennyezeti sín; a textil végleges mennyisége külön mérendő.
+
+**Gardrób anyagpontosítás:** tömörfa/furnér nem szükséges; praktikus bútorlapos korpusz és front elfogadott. Első irány az önszerelős modulrendszer vagy előre szabott, élzárt és fúrt elemekből helyszínen összeállított szekrény. A belső polcok/akasztók átrendezhetősége előny.
