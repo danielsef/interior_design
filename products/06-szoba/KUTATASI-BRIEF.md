@@ -8,9 +8,13 @@
 
 Egy ténylegesen használt fekhely, a kiságyhoz méretben és gyártói előírás szerint illő matrac és lepedő, valamint az alvóhely sötétítése. A háló és a babaszoba fekhelyét nem számoljuk automatikusan két külön beszerzésnek.
 
-## Még nyitott
+## Most kihagyott egyeztetés
 
-- Saját szobában vagy szülői hálóban lesz a kezdeti alvóhely; interaktívan feltéve.
+A tulajdonos a kezdeti alvóhelyre és a hozott kiságyra, matracra, etetőszékre vonatkozó kérdést most kihagyta. Ebben a körben nem kérdezzük újra, nem feltételezünk választ és nem véglegesítünk új bababútor-beszerzést. A korábbi jelöltek előzetesek.
+
+## Még nem rögzített adatok
+
+- Saját szobában vagy szülői hálóban lesz a kezdeti alvóhely; egyeztetés most kihagyva.
 - Van-e konkrét meglévő kiságy, matrac, etetőszék vagy pelenkázási megoldás, és mi a mérete/típusa.
 - A szükséges fekhelyméret és a továbbhasználhatóság igénye.
 

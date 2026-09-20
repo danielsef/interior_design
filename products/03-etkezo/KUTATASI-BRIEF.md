@@ -1,12 +1,12 @@
 # Étkezőasztal és székek – összehasonlítási brief
 
-Állapot: követelményegyeztetés, 2026-09-20. A kutatási módszert a tulajdonos elfogadta; a lent jelzett nyitott kérdésekre még nincs válasz. Ez a dokumentum nem új vásárlási döntés és nem friss ár- vagy készletellenőrzés.
+Állapot: pontosított követelmények, 2026-09-20. Téglalap alakú asztal, alapállapotban hat kényelmes normál székhellyel. A termékellenőrzés részletei az összehasonlításban; végleges vásárlási döntés nincs.
 
 **Új házszintű keretek:** beköltözés 2026-10-30; fő bútorok tömörfából vagy valódi furnérral; új, gyártói/egyedi, bemutatódarab és jó állapotú használt forrás is vizsgálható. [Közös döntési napló](../beszerzesi-modszer.md). Az első tényleges forrásszűrés eredményei a [forrásnaplóban](FORRASNAPLO.md) szerepelnek; még nem végleges döntősök.
 
 ## Az első kutatási kör határa
 
-Tulajdonosi kérésre az asztalok és székek keresési forrásai között a [Bútor Mirek](https://www.butormirek.hu/) is szerepel. Az első ellenőrzött Mirek- és Rowico-jelöltek, valamint a hat székes csomagárak a [konkrét összehasonlításban](OSSZEHASONLITAS.md) szerepelnek. Négy új alternatíva bekerült az aktív listába; végleges választás nincs.
+Tulajdonosi kérésre az asztalok és székek keresési forrásai között a [Bútor Mirek](https://www.butormirek.hu/) is szerepel. Az ellenőrzött asztalok és hat székes csomagárak a [konkrét összehasonlításban](OSSZEHASONLITAS.md) szerepelnek; az új ülésigényhez külön szék-összevetés készült. A korábbi rangsort az alapállapotú hat férőhely és a téglalap forma alapján frissítettük; végleges választás nincs.
 
 Étkezőasztal és normál étkezőszékek, egy összeillő csomagként. Az etetőszék helyigényét figyelembe vesszük, de termékválasztása és költsége külön kör. A tálaló, szőnyeg és dekoráció Prio 2; most nem választjuk újra őket.
 
@@ -17,24 +17,26 @@ A jelenlegi [terméklista](README.md) összehasonlítási alap. A benne szerepl�
 - Rögzített: fa étkezőasztal; fehér fal; RAL 1019 grey beige nyílászárók és fa párkányok; Norwich Arena padló; a nappali, konyha és étkező közös légtér.
 - A konyhabútor tömörfa és már megrendelt. Az étkező fatónusát a tényleges konyhamintával kell összevetni; a konyha fafaját és végleges felületét nem feltételezzük.
 - Az étkező terv szerinti területe 10,93 m². Ez önmagában nem igazol asztalméretet: az asztal helye, a sziget, a székek és a közlekedés együtt ellenőrizendő.
-- Preferencia: visszafogott, matt fa megjelenés, kényelmes székek; a fonott textúra lehetséges irány. A fonat nem írja felül a kényelmet és a tisztíthatóságot.
+- Preferencia: visszafogott, matt fa megjelenés, kényelmes székek; a fonott textúra lehetséges irány. Megerősített követelmény: párnázott vagy fonott ülés; csupasz fa ülőlap nem megfelelő. A fonat nem írja felül a kényelmet és a tisztíthatóságot.
 - A tulajdonos fő bútorokhoz tömörfát vagy valódi furnért kért; a fa hatású dekor külön kategória és itt nem megfelelő helyettesítés.
 - Prio 1: egy használható asztal és a napi szükséges ülőhelyek. A vendégszékek halaszthatók, ha későbbi beszerzésük vállalható.
-- A tulajdonos megerősítette: **6 normál étkezőszék férjen el kényelmesen az asztalnál.** A férőhelyet a konkrét székek szélessége és az asztallábak elhelyezése alapján is ellenőrizni kell. Az induláskor megvásárolandó székek száma ettől külön, még nyitott kérdés.
+- A tulajdonos megerősítette: **Téglalap alakú asztalnál 6 normál étkezőszék férjen el kényelmesen, már alapállapotban.** A férőhelyet a konkrét székek szélessége és az asztallábak elhelyezése alapján is ellenőrizni kell. Az induláskor megvásárolandó székek száma ettől külön, még nyitott kérdés.
 
 ## Nyitott döntések
 
 A még nyitott kérdések:
 
-1. A megerősített 6 normál szék alapméretben vagy csak kibővített állapotban férjen el? A hétköznapi létszám és az etetőszék esetleges további helyigénye még pontosítandó.
-2. Asztalforma és bővíthetőség.
+1. Induló székdarabszám és a helyszíni szabad méretek. A hat férőhelyet alapállapotban ellenőrizzük.
+2. Bővíthetőség nem előírt feltétel; igazolt használati előny nélkül nem indokol felárat.
+
+A baba alvására és meglévő felszerelésére vonatkozó kérdést a tulajdonos kérésére kihagyjuk; az etetőszék pluszhelyéről nem feltételezünk döntést.
 
 A korábbi közös árkeretkérdés tárgytalan; teljes csomagár szerint hasonlítunk.
 
 A válaszok után, csak a még szükséges részletekre kérdezünk rá:
 
 - Vállalható felületápolás és a kisgyerekes használat követelményei; tömörfa vagy valódi furnér már elfogadott.
-- Fonott, fa vagy kárpitozott ülés; karfa és üléskomfort; kipróbálás lehetősége.
+- Párnázott vagy fonott ülés megerősítve; karfa, üléskomfort és kipróbálás még ellenőrizendő.
 - Elhelyezés és mérethatárok az alaprajzból, szükség esetén helyszíni méréssel.
 - Címre vállalt szállítás Pilisjászfalura október 30. előtt; személyes próba földrajzi kerete.
 - Az engedélyezett gyártói, egyedi, bemutatódarab és használt forrás konkrét feltételei, ha versenyképes jelöltet adnak.
@@ -59,3 +61,7 @@ A válaszok után, csak a még szükséges részletekre kérdezünk rá:
 A termékadatokat a `products/_data/` forrásfájlokban kell átvezetni, majd a generált README-t és CSV-t együtt frissíteni. E briefet a generátor nem írja felül.
 
 **Árkiválasztás frissítve:** nem kérünk kategóriaárplafont; az esetleges korábbi keretkérdés tárgytalan. A funkcióban, méretben, anyagban és színben megfelelő rövidlistát a teljes beszerzési ár és igazolt ár–érték arány szerint rangsoroljuk.
+
+## Párnázott vagy fonott ülés – új szűrés
+
+A [szék-összevetés](SZEK-OSSZEHASONLITAS.md) a Carryhome, TONSTAD és ISLEV próbajelölteket, valamint az Eva Enjoy tartalékot és kizárásokat tartalmazza. A fa ülésű Eva és Evera már nem számolható megfelelő alternatívának.

@@ -1,6 +1,6 @@
 # Étkező – forrásnapló
 
-2026-09-20 · Követelmény: fa asztal, hat kényelmes székhely; fő bútor tömörfa vagy valódi furnér. Beköltözés: 2026-10-30. A forma és a zárt/bővített állapot még nyitott. Előzetes árplafon helyett a megfelelő csomagok legalacsonyabb teljes árát keressük.
+2026-09-20 · Követelmény: fa asztal, hat kényelmes székhely; fő bútor tömörfa vagy valódi furnér. Beköltözés: 2026-10-30. Megerősítve: téglalap, alapállapotban hat férőhely. Előzetes árplafon helyett a megfelelő csomagok legalacsonyabb teljes árát keressük.
 
 **Az első kör alább előszűrés.** A későbbi [konkrét összehasonlítás](OSSZEHASONLITAS.md) már négy új aktív alternatívát tartalmaz. Az első kör sorai nem végleges bevásárlólista. Az alábbi sorok között kizárt és hiányos jelölt is van. Nem kerültek be az aktív ajánlott kosárba. Az árak a most elért oldalak megfigyelései, nem címre adott szállítási ajánlatok.
 
@@ -19,7 +19,7 @@
 
 A forrásbővítésnek van értelme, de a kedvezőnek tűnő tölgyszínű termék lehet utánzat, a megfelelő tömörfa pedig kicsúszhat a határidőből. Jelenleg egyetlen új asztal sem teljesíti igazoltan az összes feltételt; a fenti megfigyelésekből nem következik, hogy nincs megfelelő alternatíva az adott bolt teljes kínálatában.
 
-A következő szűrés az étkező keretének, formájának és alapméret/bővítés igényének ismeretében a jobb anyagú, világos fa lábú modellekre koncentrál. A székeket ugyanahhoz az asztalgeometriához kell párosítani, és a keretet asztal + 6 szék + szállítás alapján kell vizsgálni.
+Az új szűrés téglalap alakú, alapállapotban hatfős, valódi fa/furnér és lehetőleg fa lábú modellekre koncentrál. A székeket ugyanahhoz az asztalgeometriához kell párosítani, és a keretet asztal + 6 szék + szállítás alapján kell vizsgálni.
 
 ## Második kör – konkrét alternatívák
 
@@ -28,3 +28,13 @@ A Bútor Mirek Robi, Allegro 160 XL és Eva drevo, valamint a Bonami/Rowico Fili
 A TONSTAD 140/196 és az ISLEV árát ismét ellenőriztük. A kisebb, fix TONSTAD nem maradt megfelelő olcsó hatfős alternatíva; a 200 cm-es változat pusztán mérete miatt nem prémium. A konyhamintához illeszkedés, üléspróba és címre szállítás egyik jelöltnél sem kész.
 
 **Árkiválasztás frissítve:** nem kérünk kategóriaárplafont; az esetleges korábbi keretkérdés tárgytalan. A funkcióban, méretben, anyagban és színben megfelelő rövidlistát a teljes beszerzési ár és igazolt ár–érték arány szerint rangsoroljuk.
+
+## Harmadik kör – a megerősített forma és férőhely alkalmazása
+
+A [friss összehasonlítás](OSSZEHASONLITAS.md) felülírja a korábbi rangsort. Robi forma miatt kizárva; TONSTAD 140/196 alapmérete nem elég; Allegro 160-as alapmérete nem igazolt. A fix TONSTAD 200×85, Mirek Košice 180×90 és Rowico Filippa 180×90 marad a rövidlistán. A korábbi sorok kutatási előzmények.
+
+A [Košice közvetlen oldala](https://www.butormirek.hu/etkezoasztalok/1648-tomor-vad-tolgy-etkezoasztal-180x90-cm-termeszetes-olajozott-felulet.html) 199 200 Ft-os tömörfa jelöltet adott. A Mirek Country 180×90 és York 180×90 oldalát is megnyitottuk; a rusztikusabb Country és a magasabb árú York nem kapott új aktív sort. A régebbi webes kivonatok ajánlóblokkjait nem tekintjük friss szállítási vállalásnak. Az IKEA fix asztal és JYSK ISLEV ára ismét ellenőrizve. A korábbi JYSK, XXXLutz, Mömax, Pfiffer és Kave források nem kaptak teljes újraellenőrzést ebben a célzott körben.
+
+## Negyedik kör – székülés pontosítása
+
+Párnázott vagy fonott ülés megerősítve. A [székek külön forrásnaplója és összevetése](SZEK-OSSZEHASONLITAS.md) IKEA, XXXLutz, JYSK, Bútor Mirek, Halmar/Gold Caffé és Kave forrásokat jelöl az ellenőrzés mélységével. Három új párnázott alternatíva bekerült, Eva drevo és Evera a költségutakból kizárva. Nem történt vásárlás vagy készletfoglalás.

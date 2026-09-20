@@ -1,49 +1,47 @@
-# Étkező – első konkrét alternatívák
+# Étkező – téglalap asztal, alapállapotban hat férőhely
 
-2026-09-20 · 6 normál szék · beköltözés: 2026-10-30.
+2026-09-20 · Beköltözés: 2026-10-30 · [Terméklista](README.md) · [Forrásnapló](FORRASNAPLO.md)
 
-**A legígéretesebb következő irány a Mirek Robi fix asztal, illetve bővíthető változatként az Allegro.** A Rowico Filippa drágább, viszont részletesebb gyártói méreteket ad. Még egyik csomag sem végleges választás: az alapméretben szükséges hat férőhely, a konkrét székek kényelme és a címre vállalt szállítás nyitott.
+**Pontosított követelmény: téglalap alakú asztal, alapállapotban 6 kényelmes normál székhellyel.** Az első kérdésre adott „igen” választ alapállapotú hat férőhelyként rögzítettük. A bővíthetőség nem kötelező; az induló székdarabszám ettől külön döntés. A baba alvóhelyére és meglévő felszerelésére vonatkozó kérdést a tulajdonos most kihagyta.
 
-## Asztalok: három új irány
+**Ár szerinti első jelölt a fix TONSTAD 200×85; tömörfa alternatíva a Mirek Košice 180×90.** A Filippa megmarad harmadik összehasonlításnak. Ezek előzetes jelöltek, nem igazoltan összeillő, címre árazott rendelési csomagok. A hat konkrét szék, a sziget és a közlekedés helyszíni ellenőrzése szükséges.
 
-| Jelölt / forrás | Ellenőrzött ár, anyag, méret | Döntést befolyásoló pont |
+## Három asztal
+
+| Jelölt | Ellenőrzött termékadat | Illeszkedés és kompromisszum |
 | --- | --- | --- |
-| [Mirek Robi](https://www.butormirek.hu/etkezoasztalok/3393-dubovy-ovalny-jedalensky-stol-180x90-cm-prirodny-olejovany-povrch.html) | **206 099 Ft**; tömbösített vadtölgy; olajozott; fix 180×90×75 cm, ovális, 20 mm lap. | Kedvezőbb tömörfa jelölt. Hat székhez a lábköz még hiányzik. Termékoldal: kevesebb mint 5 db, 1–2 hét; egy másik ajánlóblokk későbbi dátumot mutatott. |
-| [Mirek Allegro 160 XL](https://www.butormirek.hu/etkezoasztalok/2492-kihuzhato-tolgyfa-etkezoasztal-160-210-cm-matt-lakk-natur.html) | **245 701 Ft**; tömör tölgy; 160/210×90×76 cm; 25 mm lap, matt lakk a cím és paraméter szerint. | A toldólapot külön kell tárolni; csomagtartalma és lábköz tisztázandó. A leírás olajat is említ. Oldal: kevesebb mint 5 db, 1–2 hét. |
-| [Rowico Filippa / Bonami](https://www.bonami.hu/p/mimi-natur-tolgyfa-etkezoasztal-180-x-90-cm-rowico) | **320 720 Ft**; natúr olajozott tölgy; alapméret 180×90 cm. Bonami: 3 db, szeptember 23-tól jelzett kézbesítés. | A [gyártói 113720 változat](https://rowicohome.com/pl/furniture/tables/dining-tables/filippa-dining-table-oak-113720) tömör, hossztoldott tölgy; 74 cm magas, lábköz 160/69 cm, alatta 65 cm. Külön vendéglapokkal 280 cm-ig bővíthető. A kereskedői cikkszám-egyezést véglegesítés előtt ellenőrizzük. |
+| [IKEA TONSTAD 200×85](https://www.ikea.com/hu/hu/p/tonstad-asztal-toelgy-furner-80593880/) | **119 900 Ft**; 200×85×75 cm; gyártó szerint fix hatfős; valódi tölgyfurnér, forgácslap alapú lap; akrillakk | Visszafogott natúr fa megjelenés, könnyen kezelhető felület. Elfogadott furnérkompromisszum; nem tömörfa lap. A hosszabb asztal helyigényét ellenőrizni kell. **Feltételes első ajánlás.** |
+| [Bútor Mirek Košice 180×90](https://www.butormirek.hu/etkezoasztalok/1648-tomor-vad-tolgy-etkezoasztal-180x90-cm-termeszetes-olajozott-felulet.html) | **199 200 Ft**; 180×90×76 cm; tömör vadtölgy, olaj/viasz; kereskedő szerint 6–8 fő; alsó él 64 cm | Anyagban erős alternatíva, de csomósabb és vaskosabb a nyugodt coastal iránynál. Ápolást igényel; lábköz és székpróba hiányzik. Kevesebb mint 5 db, 1–2 hét jelzés; címre megerősítendő. |
+| [Rowico Filippa / Bonami](https://www.bonami.hu/p/mimi-natur-tolgyfa-etkezoasztal-180-x-90-cm-rowico) | **320 720 Ft**; alapméret 180×90 cm, hatfős; natúr olajozott tömör tölgy; külön vendéglapokkal bővíthető | A [gyártó 113720-as változatának](https://rowicohome.com/pl/furniture/tables/dining-tables/filippa-dining-table-oak-113720) lábköze 160/69 cm, szabad magassága 65 cm. A cikkszám-egyezés ellenőrizendő. Drágább; bővíthetősége csak tényleges igény esetén előny. |
 
-A hat széket először **2+2+1+1 elrendezésben** vizsgálnám. Ez tervezési javaslat, nem helyszíni férőhelyigazolás. Az étkező 10,93 m²-es alapterülete önmagában nem dönti el, melyik asztal fér el a sziget, a székkihúzás és az átjárók mellett. A famintát a megrendelt konyhához kell nézni; a „natúr tölgy” név nem garantál színegyezést.
+A konyha tömörfa mintája, a RAL 1019 nyílászáró és a Norwich Arena mellé kell tenni a famintákat; a „natúr tölgy” megnevezés önmagában nem színegyezés. A téglalap alaprajz mellett az élek enyhe lekerekítése illik a stílushoz. A 2+2+1+1 ülésrend kiinduló javaslat, nem helyszíni férőhelyigazolás. A 10,93 m²-es alapterület nem helyettesíti a szabad méreteket.
 
-## Székek és azonos darabszámú csomagok
+## Azonos hat székes csomagárak
 
-- [JYSK ISLEV](https://jysk.hu/etkezo/etkezoszekek/etkezoszek-islev-natur-tolgy-natur): **38 500 Ft/db**, 6 db **231 000 Ft**; a jelzett akció október 13-ig érvényes. Tölgy váz, furnéros háttámla, papírfonat ülés; 48×46×80 cm, ülésmagasság 46 cm. Házhoz szállítva párosával rendelhető. Üléspróba, tisztíthatóság és hat darab készlete ellenőrizendő.
-- [Mirek Eva drevo](https://www.butormirek.hu/etkezoszek/2142-moderni-dubova-zidle-eva-s-prirodni-olejovanou-sedaci-plochou.html): **41 399 Ft/db**, 6 db **248 394 Ft**. Fa ülőlap, olaj/viasz; 45×50×84 cm, 110 kg. Ülésmagasság és hat darab készlete hiányzik; a szeptember 7–21-i oldalbeli becslés nem biztos szállítási ígéret. A fa ülés kényelme kipróbálandó.
+Az összevetéshez a korábban kiválasztott [JYSK ISLEV](https://jysk.hu/etkezo/etkezoszekek/etkezoszek-islev-natur-tolgy-natur) árát ismét ellenőriztük: **38 500 Ft/db**, hat darab **231 000 Ft**, jelzett akció 2026-10-13-ig. Tömör tölgy váz, furnéros háttámla, papírfonat ülés; 48 cm szélesség, 46 cm ülésmagasság. Házhoz szállítva párosával rendelhető. Üléspróba, tisztíthatóság és hat darab készlete szükséges. Megerősítve: párnázott vagy fonott ülés. Az új, olcsóbb párnázott jelöltek és csomagáraik a [szék-összevetésben](SZEK-OSSZEHASONLITAS.md) szerepelnek; ez a táblázat az asztalok azonos székes viszonyítása.
 
-| Asztal + 6 szék | Termékek összege, szállítás nélkül | Szállítás / még hiányzó költség |
+| Asztal + 6 ISLEV | Termékösszeg | Még hozzáadandó |
 | --- | ---: | --- |
-| TONSTAD 140/196 + ISLEV – korábbi viszonyítás | **340 900 Ft** | IKEA és JYSK díja még nincs meg; 6 fő csak nyitott állapotban gyártói állítás szerint. |
-| Robi + Eva | **454 493 Ft** | Egy Mirek-rendelés; díjellentmondás miatt még nem végleges végösszeg. |
-| Allegro + Eva | **494 095 Ft** | Egy Mirek-rendelés; toldólap csomagtartalma és fuvardíj tisztázandó. |
-| Filippa + Eva | **569 114 Ft** | Bonami-fuvar legalább 13 990 Ft, plusz Mirek esetleges díja; vendéglap nincs az árban. |
+| TONSTAD 200×85 | **350 900 Ft** | IKEA- és JYSK-fuvar, szükség esetén szerelés |
+| Košice 180×90 | **430 200 Ft** | Mirek- és JYSK-fuvar, ápolószer, szükség esetén szerelés |
+| Filippa 180×90 | **551 720 Ft** | Bonami-fuvar 13 990 Ft-tól, JYSK-fuvar, ápolószer; vendéglap nincs benne |
 
-Az azonos Eva-székekkel számolt három új csomag az asztalok összehasonlítását segíti; **nem igazolja az asztal–szék párosítás kényelmét**. ISLEV-re váltva mindhárom új csomag termékára 17 394 Ft-tal csökken, de a Mirek-asztalos csomagok két boltból érkeznének. A szállítási különbség ezt a megtakarítást csökkentheti. Az etetőszék külön szükséglet és költség.
+A Košice asztal termékár-felára 79 300 Ft a TONSTAD-hoz képest; ez a tömörfa felárának összevetése, nem igazolt minőségi pontszám. A teljes szállított ár sorrendje a tényleges kosarak díjai nélkül nem végleges. A hat ISLEV itt közös számítási alap, nem a piac legolcsóbb megfelelő hat székének igazolása.
 
-A [TONSTAD termékoldala](https://www.ikea.com/hu/hu/p/tonstad-meghosszabbithato-asztal-toelgy-furner-40593882/) alapján az asztal 109 900 Ft; 140-ről 196 cm-re nyitva lesz 4 helyett 6 személyes. Ezért a korábbi ajánlást feltételessé tettük: ha hat hely kell alapméretben, másik asztal szükséges.
+A korábbi Eva drevo fa ülésű csomagok az új üléskövetelmény miatt kiesnek. Helyettük a párnázott Eva Enjoy változat külön tartalék a [szék-összevetésben](SZEK-OSSZEHASONLITAS.md).
 
-## Szállítás és ápolás
+## Szállítás és döntési feltételek
 
-A Mirek termékoldalai 200 000 Ft felett ingyenes szállítást jeleznek, a [szállítási táblázat](https://www.butormirek.hu/stranky/1-kiszallitas) viszont 12 900 Ft-ot ír felvitel nélkül. Ezért **nem írunk biztos ingyenes fuvart**. Ha a táblázat díja érvényes, Robi + Eva 467 393 Ft, Allegro + Eva 506 995 Ft; behordás/szerelés nincs ezekben. Mirek Magyarországon nem vállal szerelést.
+A [Mirek szállítási táblázata](https://www.butormirek.hu/stranky/1-kiszallitas) felvitel nélkül 12 900 Ft-ot mutat, a termékoldal 200 000 Ft felett ingyenességet jelez. Önálló Košice a táblázati díjjal **212 100 Ft**; a Košice + 6 párnázott Eva Enjoy csomag 12 900 Ft-os díj alkalmazásával **429 300 Ft** lenne. A nagyobb kosárra vonatkozó díjeltérést rendelés előtt tisztázni kell. Magyarországi szerelést a Mirek nem vállal.
 
-A készlet- és dátumadatok az elért webes kivonatok megfigyelései; nincs címre adott vállalás vagy foglalás. A Filippa esetén a magyar Bonami-oldal szállítását vizsgáljuk, a lengyel gyártói oldalét nem alkalmazzuk Magyarországra. A gyártó az olajozott Filippánál használat előtti és évi 2–3 ápolást ír elő; ezt tudatosan kell vállalni.
+A Bonami 3 db Filippát és szeptember 23-tól jelzett szállítást mutat; a tényleges címre vállalt időpont nincs megerősítve. Az IKEA készlete és szállítása cím alapján ellenőrizhető. A készletjelzések webes megfigyelések, nem foglalások. Mindhárom asztalnál szükséges a hat kiválasztott székkel végzett próba; a Filippa olajozása használat előtt és évi 2–3 alkalommal szerepel a termékleírásban.
 
-## Hátrébb sorolt változatok
+## Kizárt és visszatartott korábbi jelöltek
 
-- [Mirek Otawa 180×90](https://www.butormirek.hu/etkezoasztalok/1016-ovalis-tomor-tolgy-etkezoasztal-180x90-cm-termeszetes-vad-tolgy.html): 304 555 Ft, tömör tölgy, olaj/viasz. A közölt asztalfői lábköz felül 43, alul 72 cm. A 45–48 cm széles székek teljes betolhatósága és a térdhely emiatt kérdéses; a méretek különböző magasságokra vonatkoznak, ezért ez próba nélkül nem automatikus kizárás.
-- [Mirek Valencia Ø120–200](https://www.butormirek.hu/etkezoasztalok/3532-valencia-tolgy-kerek-kihuzhato-etkezoasztal-olajozott-tomorfa.html): 396 599 Ft, olajozott tömör tölgy; szeptember 26.–október 10. jelzés. Kör/ovális irányként megmarad a forrásnaplóban, de a hatfős alapméret, toldólapcsomag és elhelyezés nincs tisztázva.
-- [Filippa matt lakkozott változat](https://www.bonami.hu/p/filippa-matt-lakkozott-tolgyfa-etkezoasztal-180-x-90-cm-rowico): külön konfiguráció. Az oldal címe, „tölgyfa dekor” címkéje és tömörfát említő leírása nincs összhangban; kuponos ár és október 6-tól jelzett kézbesítés. A pontos gyártói cikkszám/felület nélkül nem keverjük az olajozott változattal.
+- **TONSTAD 140/196:** alapállapotban négyfős; kihúzva hatfős. Az új követelmény miatt figyelőlista, minden költségútból kizárva.
+- **TONSTAD fix 150×80:** hat kényelmes férőhely nem igazolt; továbbra is kizárt referencia.
+- **Mirek Robi 180×90:** ovális; a téglalap-forma miatt kiesett, költségutakból kizárva.
+- **Mirek Allegro 160 XL:** hat kényelmes hely 160 cm-es alapállapotban nincs igazolva. Figyelőlista, költségutakból kizárva; a 210 cm-re nyitás nem oldja fel az új feltételt. A lábköz és olaj/lakk leírás tisztázandó.
+- **Otawa, Valencia és Formland Selva:** ovális/kerek irányok, most nem döntősök. A korábbi forrásmegfigyelések a naplóban megmaradnak.
 
-## Átvezetés és következő döntés
-
-Három új asztal és egy új szék bekerült az [aktív listába](README.md) és a közös CSV-be **alternatívaként**. Nem adódnak hozzá az ajánlott kosárhoz. Az alapméretben szükséges férőhely tisztázása és a megfelelő csomagok teljes árának összevetése után egy asztalt és egy székcsaládot választunk tovább méretellenőrzésre, üléspróbára és szállítási pontosításra. Az induló székdarabszám továbbra is külön döntés.
-
-**Árkiválasztás frissítve:** nem kérünk kategóriaárplafont; az esetleges korábbi keretkérdés tárgytalan. A funkcióban, méretben, anyagban és színben megfelelő rövidlistát a teljes beszerzési ár és igazolt ár–érték arány szerint rangsoroljuk.
+A kisebb TONSTAD helyére a fix 200-as feltételes ajánlása került: az ajánlott asztal termékára **10 000 Ft-tal nő**. Ez a követelmény pontosításának költséghatása. A Košice új alternatíva; a régi referenciák megőrzése nem jelent több megvásárolandó asztalt.

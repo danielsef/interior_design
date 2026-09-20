@@ -163,7 +163,7 @@ f"- Az egész lista egyben, szűrhetően: [{BT}termekek.csv{BT}](termekek.csv) (
 "| Fém | **szálcsiszolt sárgaréz** a meglévő szerelvényeken; az új felületet közös mintával ellenőrizzük; aranyszínű bevonat / antik tónus, fa vagy fehér tudatos kompromisszum lehet |",
 "| Forma | könnyed forma, látszó lábak preferencia; stabil központi talp elfogadható; zárt tárolás szemmagasság alatt |",
 "| Kisbaba | mosható huzat és játszófelület előnyben; tisztítási kompromisszum jelölve; stabil, szükség szerint rögzített bútor |",
-"| Ár–érték | középkategória: kulcsdaraboknál tömörfa vagy valódi furnér előnyben; se a legolcsóbb, se luxus |","",
+"| Ár–érték | nincs előzetes kategóriaárplafon; a funkcióban, méretben, anyagban és színben megfelelő jelöltek legalacsonyabb teljes beszerzési árát keressük |","",
 "## Boltok","","| Bolt | Termék |","| --- | --- |"]+[f"| {s} | {c} |" for s,c in stores.most_common()]+["",
 "Az új válogatás az XXXLutz, Kave Home, H&M Home és JYSK termékoldalait is feldolgozza. A konkrét szállítási költség és határidő címfüggő; a készletkorlátokat az érintett sorok jelzik. A Mömax kompromisszumos jelöltje a felülvizsgálati jelentésben szerepel.","",
 "## Hogyan lettek ellenőrizve","",

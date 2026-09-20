@@ -3,11 +3,13 @@
 | | |
 | --- | --- |
 | **Helyiség** | 10,60 m² · Norwich Arena |
-| **Termékek** | 21 db |
+| **Termékek** | 24 db |
 | **Áradatok dátuma** | 2026-09-20 |
 | **Inspirációs képek** | [`../../inpiration/01-eloszoba/`](../../inpiration/01-eloszoba/README.md) |
 
 > **Követelmények és források felülvizsgálata:** [a helyiség összes kategóriája](../kategoria-felulvizsgalat.md#01-eloszoba) · [közös beszerzési módszer és döntések](../beszerzesi-modszer.md). A követelményfelmérés nem jelent új teljes ár- vagy készletellenőrzést.
+
+> **Új termék-összehasonlítás:** [konkrét alternatívák, csomagárak és fennmaradó feltételek](OSSZEHASONLITAS.md).
 
 ## Beköltözési prioritás
 
@@ -24,10 +26,13 @@
 | Fali akasztó / fogas | Egy alap fogas elég lehet a kabátok napi elhelyezésére. |
 | Lábtörlő (kültéri) | A bejárat napi használatához és a behordott sár csökkentéséhez kell. |
 | Csizmatálca | A nedves, sáros cipőnek már az első naptól legyen kijelölt helye. |
+| Lábtörlő (kültéri) | A beköltözéskor szükséges alap fogas, külső lábtörlő vagy nedvescipő-hely egyik alternatívája; kategóriánként egy megoldás kell. **Feltétel:** Külső elhelyezés és ajtónyitás ellenőrzésével. |
+| Csizmatálca | A beköltözéskor szükséges alap fogas, külső lábtörlő vagy nedvescipő-hely egyik alternatívája; kategóriánként egy megoldás kell. |
+| Fali akasztó / fogas | A beköltözéskor szükséges alap fogas, külső lábtörlő vagy nedvescipő-hely egyik alternatívája; kategóriánként egy megoldás kell. |
 
 | Ajánlott tételek fázisonként | Listázott összeg |
 | --- | --- |
-| Prio 1 – beköltözéshez előre sorolt | **13 280 Ft** |
+| Prio 1 – beköltözéshez előre sorolt | **9 779 Ft** |
 | Prio 2 – későbbi új beszerzés | **297 773 Ft** |
 
 > Ezek a korábbi teljes tervezett darabszámokkal számolt, feltételes részösszegek; nem a legolcsóbb beköltözési kosár árai. Egy szükséglethez egy megfelelő megoldást válassz. A meglevővel kiváltott cserejelölt, a kizárt referencia, EUR-os vagy elfogyott termék és az árazatlan hiány nem szerepel bennük. A szükséges induló darabszámok és az átfedések még pontosítandók.
@@ -36,9 +41,9 @@
 
 | Számítás | Összeg |
 | --- | --- |
-| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **311 053 Ft** |
-| 💰 Kategóriánként a legolcsóbb sor összege | 180 963 Ft |
-| 💎 Kategóriánként a legdrágább sor összege | 475 413 Ft |
+| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **307 552 Ft** |
+| 💰 Kategóriánként a legolcsóbb sor összege | 177 462 Ft |
+| 💎 Kategóriánként a legdrágább sor összege | 476 522 Ft |
 
 > A darabszám javaslat. A forintos költségutak az EUR-os, készlethiányos, meglévővel kiváltott és külön kizárt referenciatételeket kihagyják; ezek ára nem nulla. A feltételes ajánlások szerepelnek a tervezési összegben. A kategóriánkénti alsó/felső összeg nem összeillő bevásárlócsomag: az opcionális és egymást átfedő tételeket külön kell kiválasztani. A szállítás nincs benne; az ár és készlet rendelés előtt ellenőrizendő.
 
@@ -50,31 +55,37 @@
 
 | Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 1** | ⭐ ajánlott | [HÖVOLM Fogas+6 gombfogantyú, tölgy](https://www.ikea.com/hu/hu/p/hoevolm-fogas-6-gombfogantyu-toelgy-10500059/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | tömör tölgy, átlátszó poliuretán/akril lakkozás | 57x5x5 cm, 6 gombfogantyúval | **5 490 Ft** | 1 |
+| **Prio 1** | ⭐ ajánlott | [HÖVOLM Fogas+6 gombfogantyú, tölgy](https://www.ikea.com/hu/hu/p/hoevolm-fogas-6-gombfogantyu-toelgy-10500059/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | tömör tölgy, átlátszó poliuretán/akril lakkozás | 57x5x5 cm, 6 gombfogantyúval | **5 490 Ft** <br>*Az ár ellenőrizve; áruházi készlet és címre vállalt szállítás nincs igazolva.* | 1 |
+| **Prio 1** | Figyelőlista | [Umbra PICKET natúr, 5 lehajtható akasztó](https://mosdoshop.hu/webshop/umbra-picket-fogas-5-db-lehajthato-akasztoval-natur-szinu-lakkozott-tomor-fa/8441) | **Mosdoshop (Umbra)** – magyar webáruház; személyes átvétel és készlet ellenőrizendő | lakkozott tömör fa, natúr; fafaj nincs igazolva | 38,1×16,5×4,4 cm; 5 akasztó | **18 700 Ft** <br>*Közzétett ár; fuvar a kosárban. Készletellentmondás miatt kizárva az összegekből.* <br>*Webes termékadat; konkrét címre és dátumra nincs készlet-/szállítási visszaigazolás.* | 1 |
 
-**Prio 1:** Egy alap fogas elég lehet a kabátok napi elhelyezésére.
+**Prio 1:** Egy alap fogas elég lehet a kabátok napi elhelyezésére. A beköltözéskor szükséges alap fogas, külső lábtörlő vagy nedvescipő-hely egyik alternatívája; kategóriánként egy megoldás kell.
 
-- **HÖVOLM Fogas+6 gombfogantyú, tölgy** – Valódi tömör tölgy, 6 gombbal – a 'fogas tölgyben' igényt hozza, néhány vendégkabátnak elég egy szűkebb falszakaszon is. ⚠️ *Kis méretű (57 cm), nagyobb családi forgalomhoz érdemes a matt fekete TJUSIG-gal kiegészíteni.*
+- **HÖVOLM Fogas+6 gombfogantyú, tölgy** – Tömör tölgy, visszafogott forma; a vizsgált, igazolt anyagú fali fogasok közül kedvező termékár. A Forest Wood Coastal faanyag-preferenciáját követi. ⚠️ *Falhoz illő csavar és tipli külön szükséges. A rövid gombok kabátakasztó-hurokkal próbálandók; a napi kabátok helyigénye és a fal mérete ellenőrizendő. Nem szükséges automatikusan második fogas.*
+- **Umbra PICKET natúr, 5 lehajtható akasztó** – Lehajtható akasztós, természetes fa alternatíva, ha ez a funkció fontosabb a legalacsonyabb árnál. ⚠️ *Mozgalmasabb, bordás forma, kevesebb akasztó. Az oldal külső raktárt és 0 db-os akciós készletet is mutat; szállítás tisztázandó.*
 
 ### Lábtörlő (kültéri) — Prio 1
 
 | Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 1** | ⭐ ajánlott | [Lábtörlő NAVR 40x60x3, kókusz natúr/fekete](https://jysk.hu/lakberendezes/labtorlok/labtorlo-navr-40x60x3-kokusz-natur-fekete) | **JYSK** – online (jysk.hu) + áruház (Pilisvörösvár, Budaörs) | természetes kókuszrost, natúr/fekete | 40x60x3 cm | **6 500 Ft** | 1 |
+| **Prio 1** | ⭐ ajánlott | [Astra Kokosvelours natúr lábtörlő, 40×60 cm](https://www.obi.hu/labtoerlok-szennyfogok/astra-labtoerlo-kokosvelours-1-4-cm-x-40-cm-x-60-cm-natur/p/5329040) | **OBI** – magyar webáruház; személyes átvétel és készlet ellenőrizendő | kókuszrost, vinil hátlap; egyszínű natúr | 40×60 cm; 1,4 cm vastag | **2 999 Ft** <br>*Termékoldali fuvar 1 690 Ft; önálló rendelés 4 689 Ft. Áruházi átvétel díjmentes, készletfüggő.* <br>*Webes termékadat; konkrét címre és dátumra nincs készlet-/szállítási visszaigazolás.* | 1 |
+| **Prio 1** | Alternatíva | [Lábtörlő NAVR 40x60x3, kókusz natúr/fekete](https://jysk.hu/lakberendezes/labtorlok/labtorlo-navr-40x60x3-kokusz-natur-fekete) | **JYSK** – online (jysk.hu) + áruház (Pilisvörösvár, Budaörs) | természetes kókuszrost, natúr/fekete | 40x60x3 cm | **6 500 Ft** | 1 |
 
-**Prio 1:** A bejárat napi használatához és a behordott sár csökkentéséhez kell.
+**Prio 1:** A beköltözéskor szükséges alap fogas, külső lábtörlő vagy nedvescipő-hely egyik alternatívája; kategóriánként egy megoldás kell. Feltétel: Külső elhelyezés és ajtónyitás ellenőrzésével. A bejárat napi használatához és a behordott sár csökkentéséhez kell.
 
-- **Lábtörlő NAVR 40x60x3, kókusz natúr/fekete** – Valódi kókuszrost lábtörlő a bejárat külső oldalára – ez fogja fel a sarat és a nedvességet, mielőtt a homokszínű beltéri padlóra kerülne; jól bevált (4,6/5, 41 értékelés). ⚠️ *Csak kültérre/fedett bejáratra való, nem mosógépben mosható – rendszeres kirázást/porszívózást igényel.*
+- **Astra Kokosvelours natúr lábtörlő, 40×60 cm** – Természetes szálas, felirat nélküli megjelenés; kedvezőbb termékárú választás a NAVR helyett. ⚠️ *Bel-/kültéri a kereskedő szerint, de nem mosható és padlófűtésre nem alkalmas: a külső bejárati pontra javasolt. Ajtóhézag ellenőrizendő.*
+- **Lábtörlő NAVR 40x60x3, kókusz natúr/fekete** – Natúr kókusz és fekete részlet; a korábbi referencia megmarad. A kedvezőbb árú Astra mellé vastagabb változatként mérlegelhető. ⚠️ *A 3 cm-es magasságot az ajtónyitáshoz ellenőrizni kell. A magasabb árhoz nem találtunk olyan igazolt előnyt, amely a minimális induló csomagban indokolná az elsőséget.*
 
 ### Csizmatálca — Prio 1
 
 | Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 1** | ⭐ ajánlott | [BAGGMUCK Cipőtartó (csizma-/cipőtálca), bel/kültéri, szürke](https://www.ikea.com/hu/hu/p/baggmuck-cipotarto-bel-kuelter-szuerke-60329711/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | polipropilén műanyag (min. 20% újrahasznosított anyag), szürke | 71x35 cm | **1 290 Ft** <br>*/db* | 1 |
+| **Prio 1** | ⭐ ajánlott | [BAGGMUCK Cipőtartó (csizma-/cipőtálca), bel/kültéri, szürke](https://www.ikea.com/hu/hu/p/baggmuck-cipotarto-bel-kuelter-szuerke-60329711/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | polipropilén műanyag (min. 20% újrahasznosított anyag), szürke | 71x35 cm | **1 290 Ft** <br>*/db* <br>*Az ár ellenőrizve; áruházi készlet és címre vállalt szállítás nincs igazolva.* | 1 |
+| **Prio 1** | Alternatíva | [Cipőtartó tálca, fekete 78×38×2 cm](https://www.obi.hu/labtoerlok-szennyfogok/cipotarto-talca-fekete-78-cm-x-38-cm-x-2-cm/p/4957932) | **OBI** – magyar webáruház; személyes átvétel és készlet ellenőrizendő | műanyag, matt fekete | 78×38×2 cm | **2 399 Ft** <br>*Termékoldali fuvar 1 690 Ft; önálló rendelés 4 089 Ft. Áruházi átvétel készletfüggő.* <br>*Webes termékadat; konkrét címre és dátumra nincs készlet-/szállítási visszaigazolás.* | 1 |
 
-**Prio 1:** A nedves, sáros cipőnek már az első naptól legyen kijelölt helye.
+**Prio 1:** A nedves, sáros cipőnek már az első naptól legyen kijelölt helye. A beköltözéskor szükséges alap fogas, külső lábtörlő vagy nedvescipő-hely egyik alternatívája; kategóriánként egy megoldás kell.
 
-- **BAGGMUCK Cipőtartó (csizma-/cipőtálca), bel/kültéri, szürke** – Magas peremű tálca, ami a sáros/havas cipőről lecsöpögő vizet és sarat összegyűjti – erdős telken ez a zárt cipőszekrény elé/alá kerülve véd a padlótól. ⚠️ *Egyszerű műanyag tálca, nem dekoratív elem – a zárt szekrény elé vagy alá érdemes rejteni.*
+- **BAGGMUCK Cipőtartó (csizma-/cipőtálca), bel/kültéri, szürke** – Kedvező árú, magas peremű műanyag tálca a nedves cipők alá. A funkcionális kiegészítőnél elfogadott praktikus anyagkompromisszum; a megvizsgált OBI-változatnál olcsóbb. ⚠️ *A szürke műanyag nem dekorációs elem. A cipők és az elhelyezés méretét ellenőrizni kell; nedves cipőt szellőző helyen tartsunk, a tálcát ürítsük és tisztítsuk.*
+- **Cipőtartó tálca, fekete 78×38×2 cm** – A BAGGMUCK-nál nagyobb tálca; akkor indokolt, ha kell a többlethely vagy kedvezőbb a közös beszerzés. ⚠️ *Fekete műanyag, tudatos funkcionális kompromisszum. A nagyobb külső méret nem igazol konkrét cipődarabszámot.*
 
 ### Cipősszekrény — Prio 2
 

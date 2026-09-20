@@ -222,7 +222,7 @@ Világos fa pad, tükör, kevés nyitott fogas és zárt cipőtárolás. Legyen 
 ### 2–4. Konyha, étkező, nappali — 45,49 m², Norwich Arena
 
 - **Konyha:** a tömörfa bútor megrendelve. Front-, kőpult- és fogantyújavaslat az anyagfejezetben; a bárszék, textil és kiegészítők illeszkedjenek ezekhez; egy külön csaptelepjelölt csak akkor releváns, ha az nincs a rendelésben és még szükséges.
-- **Étkező:** fa asztal; megerősített követelmény, hogy hat normál szék kényelmesen elférjen az asztal lábai és egymás mellett. Még nyitott, hogy alapméretben vagy kibővítve. A fonott ülés csak üléspróba után legyen első választás.
+- **Étkező:** téglalap alakú fa asztal; megerősített követelmény, hogy alapállapotban hat normál szék kényelmesen elférjen az asztal lábai és egymás mellett. A bővíthetőség nem kötelező. A szék ülése párnázott vagy fonott legyen; csupasz fa ülőlap nem megfelelő. A kényelmet üléspróbával kell ellenőrizni.
 - **Nappali:** a kanapé megerősített célja kb. 300×200 cm-es, L alakú, ágyazható és inkább puha; alkalmi vendégágya két felnőttnek kell, a megfelelő jelöltek legalacsonyabb teljes árát keressük, kategóriaárplafon nélkül. Levehető/mosható vagy tisztítható fix kárpit egyaránt elfogadható. Az oldalirány és a pontos befoglaló méret az elrendezéssel ellenőrizendő. Fa dohányzóasztal, tisztítható szőnyeg, kosaras/zárt tárolás követheti. A zöld akcentus itt kaphat nagyobb felületet. A Cantus központi talpa tudatos formai kompromisszum lehet a látszó lábas preferenciához képest.
 
 ### 5. Háló — 16,22 m², fa parketta
@@ -231,7 +231,7 @@ Megerősítve: **egy közös 180×200 cm-es matrac**; ágyneműtartó jó lenne,
 
 ### 6. és 8. Szoba — 10,63 m² és 11,55 m², fa parketta
 
-Fehér fal, textileken visszafogott akcentus, mosható játszófelület és zárt tároló. A terméklista a 06-os szobát babaszobának kezeli; a gyermek beköltözéskor egyéves lesz, kezdeti alvásának helye még nyitott. A 08-as szoba a tulajdonos megerősítése szerint egyelőre vendég-/tartalékszoba, ezért berendezése Prio 2.
+Fehér fal, textileken visszafogott akcentus, mosható játszófelület és zárt tároló. A terméklista a 06-os szobát babaszobának kezeli; a gyermek beköltözéskor egyéves lesz, kezdeti alvásának helye még nyitott; ennek és a meglévő babafelszerelésnek az egyeztetését a tulajdonos most kihagyta. A 08-as szoba a tulajdonos megerősítése szerint egyelőre vendég-/tartalékszoba, ezért berendezése Prio 2.
 
 ### 7. Dolgozó — 12,78 m², fa parketta
 

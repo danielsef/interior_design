@@ -1,8 +1,8 @@
 # Teljes kategória-felülvizsgálat
 
-2026-09-20 · 16 helyiségcsoport · 188 helyiség–kategória · 322 termékjelölt (a kizárt referenciákkal együtt).
+2026-09-20 · 16 helyiségcsoport · 188 helyiség–kategória · 329 termékjelölt (a kizárt referenciákkal együtt).
 
-**Az áttekintés tárgya:** minden aktív kategória követelménye, jelenlegi forráslefedettsége és következő ellenőrzési lépése. A termékoldalak teljes körű újraellenőrzése még nincs kész; a lent szereplő boltok kutatási célpontok, nem új ajánlások. Az étkező első konkrét frissítése már megtörtént: [összehasonlítás](03-etkezo/OSSZEHASONLITAS.md); a [kanapék](04-nappali/OSSZEHASONLITAS.md), [ágyak](05-halo/OSSZEHASONLITAS.md), valamint [matracok és ágyrácsok](05-halo/MATRAC-OSSZEHASONLITAS.md) részleges termékvizsgálata is elkészült. Ezek még nem lezárt beszerzési döntések; a többi kategória állapota követelményfelmérés.
+**Az áttekintés tárgya:** minden aktív kategória követelménye, jelenlegi forráslefedettsége és következő ellenőrzési lépése. A termékoldalak teljes körű újraellenőrzése még nincs kész; a lent szereplő boltok kutatási célpontok, nem új ajánlások. Az étkező első konkrét frissítése már megtörtént: [összehasonlítás](03-etkezo/OSSZEHASONLITAS.md); a [kanapék](04-nappali/OSSZEHASONLITAS.md), [ágyak](05-halo/OSSZEHASONLITAS.md), valamint [matracok és ágyrácsok](05-halo/MATRAC-OSSZEHASONLITAS.md) részleges termékvizsgálata is elkészült. Ezek még nem lezárt beszerzési döntések; az előszobai [három Prio 1 alaptétel összevetése](01-eloszoba/OSSZEHASONLITAS.md) is elkészült. A további kategóriák állapota követelményfelmérés.
 
 Rögzített új válaszok és határidők: [beszerzési módszer és döntési napló](beszerzesi-modszer.md).
 
@@ -10,7 +10,7 @@ Rögzített új válaszok és határidők: [beszerzési módszer és döntési n
 
 - Háló: két matrac és két ágyrács már árazott; komfort, terhelhetőség és kompatibilitás, szállítás, matracvédő és alap ágynemű még hiányzik a teljes csomaghoz.
 - Kanapé: az [új szűrés](04-nappali/OSSZEHASONLITAS.md) elkészült; még nincs teljesen igazolt ajánlás. Az új módszer szerint árplafon nélkül vizsgáljuk tovább a megfelelő jelölteket.
-- Étkezőasztal: három új Mirek/Rowico alternatíva bekerült; a hat szék tényleges lábtere és alapméret/bővítés még nyitott.
+- Étkezőasztal: téglalap, alapállapotban hat férőhely; fix TONSTAD, új Mirek Košice és Rowico Filippa a rövidlista. Székpróba, elrendezés és szállítás még szükséges.
 - Vendégszoba: a gyermekasztal/-szék szükséglete nincs igazolva.
 - Háztartási gép magasító és összeépítő készlet külön funkció.
 - Monitorállvány és írószerrendszerező nem azonos kategória.
@@ -22,7 +22,7 @@ Rögzített új válaszok és határidők: [beszerzési módszer és döntési n
 
 | Csoport | Mit ellenőrzünk? | Milyen forrásokat vonunk be? |
 | --- | --- | --- |
-| <a id="csoport-etkezo"></a>**Étkezőasztal és szék** | Hat szék együttes helyigénye; lábköz, ülés- és karfamagasság; alapméret/bővítés; összevethető teljes csomagár. | JYSK, XXXLutz/Mömax, Kave Home; tömörfa-specialista vagy gyártó; IKEA viszonyítás.  Tulajdonosi kérésre: [Bútor Mirek](https://www.butormirek.hu/). |
+| <a id="csoport-etkezo"></a>**Étkezőasztal és szék** | Hat szék együttes helyigénye; lábköz, ülés- és karfamagasság; hat férőhely alapállapotban, téglalap; összevethető teljes csomagár. | JYSK, XXXLutz/Mömax, Kave Home; tömörfa-specialista vagy gyártó; IKEA viszonyítás.  Tulajdonosi kérésre: [Bútor Mirek](https://www.butormirek.hu/). |
 | <a id="csoport-kanape"></a>**Kanapé** | Kb. 300×200 cm; L alakú, ágyazható, inkább puha. Árplafon nélküli teljesár-összevetés; alkalmi vendégágy két felnőttnek; fix vagy mosható kárpit. Oldalirány, komfort, bejuttatás és októberi szállítás ellenőrizendő. | Kárpitos szaküzlet/gyártó, XXXLutz/Mömax, Kave Home/Bonami; IKEA viszonyítás; állapotellenőrzött bemutatódarab.  Tulajdonosi kérésre: [Bútor Mirek](https://www.butormirek.hu/). |
 | <a id="csoport-fotel"></a>**Fotel, pad, puff** | Használat, ülésméret, stabilitás, helyigény és tisztíthatóság; a nagy bútorok után méretezendő. | JYSK, Bonami, Kave Home, bútor- vagy kárpitos szaküzlet; bemutatódarab/használt is. |
 | <a id="csoport-agy"></a>**Felnőtt- és vendégfekhely** | Háló: 180×200 cm matrac; keret külső mérete, ágyrács és matrac külön ellenőrzendő. Vendégszoba külön használati igény. | Ágy-/matracszaküzlet és gyártó, JYSK, XXXLutz/Mömax; keretnél jó állapotú használt is.  Tulajdonosi kérésre: [Bútor Mirek](https://www.butormirek.hu/). |
@@ -103,10 +103,10 @@ Indulásra fogas, lábtörlő és nedves cipő helye; teljes tárolósor csak m�
 | Pad | P2 | 3 / 2 | IKEA, JYSK | [Fotel, pad, puff](#csoport-fotel): Használat, ülésméret, stabilitás, helyigény és tisztíthatóság; a nagy bútorok után méretezendő. |
 | Gardróbszekrény (kabátnak) | P2 | 3 / 3 | IKEA | [Tárolóbútor és polc](#csoport-tarolo): Kész helyszíni szélesség/mélység, ajtónyitás, szükséges tárolókapacitás és rögzítés; dekor/furnér/tömörfa külön. |
 | Tükör | P2 | 3 / 2 | Bonami, IKEA | [Tükör](#csoport-tukor): Falfelület, használati magasság és rögzítés; fürdőben nedves környezetre alkalmasság; látható fém mintája. |
-| Fali akasztó / fogas | P1 | 1 / 1 | IKEA | [Fogas és bútorfogantyú](#csoport-vasalat): Meglévő fémmintához illő felület; furattáv, kiállás, csavar és teher/rögzítés; fogantyúk darabszáma a frontkiosztásból. |
+| Fali akasztó / fogas | P1 | 2 / 1 | IKEA, Mosdoshop (Umbra) | [Fogas és bútorfogantyú](#csoport-vasalat): Meglévő fémmintához illő felület; furattáv, kiállás, csavar és teher/rögzítés; fogantyúk darabszáma a frontkiosztásból. |
 | Szőnyeg | P2 | 2 / 2 | IKEA | [Szőnyeg és alátét](#csoport-szonyeg): Tényleges bútorozási méret, ajtónyitás, tisztítás és a padlóval kompatibilis alátét; egy zónában az alternatívák kiváltják egymást. |
-| Lábtörlő (kültéri) | P1 | 1 / 0 | JYSK | [Háztartási és konyhai alapfelszerelés](#csoport-haztartas): Tényleges hiány és tárolási méret; géptartozéknál pontos géptípus; egyszerű napi funkció és későbbi kényelmi elem külön. |
-| Csizmatálca | P1 | 1 / 1 | IKEA | [Háztartási és konyhai alapfelszerelés](#csoport-haztartas): Tényleges hiány és tárolási méret; géptartozéknál pontos géptípus; egyszerű napi funkció és későbbi kényelmi elem külön. |
+| Lábtörlő (kültéri) | P1 | 2 / 0 | JYSK, OBI | [Háztartási és konyhai alapfelszerelés](#csoport-haztartas): Tényleges hiány és tárolási méret; géptartozéknál pontos géptípus; egyszerű napi funkció és későbbi kényelmi elem külön. |
+| Csizmatálca | P1 | 2 / 1 | IKEA, OBI | [Háztartási és konyhai alapfelszerelés](#csoport-haztartas): Tényleges hiány és tárolási méret; géptartozéknál pontos géptípus; egyszerű napi funkció és későbbi kényelmi elem külön. |
 | Fonott kosár | P2 | 1 / 1 | IKEA | [Kosár, doboz és vállfa](#csoport-kosar): A tartalomhoz és polchoz illő belső/külső méret, fedél és nedvesség; házszinten ne számoljuk kétszer. |
 | Kulcstartó polc | P2 | 1 / 1 | IKEA | [Tárolóbútor és polc](#csoport-tarolo): Kész helyszíni szélesség/mélység, ajtónyitás, szükséges tárolókapacitás és rögzítés; dekor/furnér/tömörfa külön. |
 | Nagy kaspó (olajfának) | P2 | 1 / 1 | IKEA | [Növény és kaspó](#csoport-noveny): Tényleges fényviszony, növényigény és gyermek melletti elhelyezés; kaspó belső méret és vízkezelés. |
@@ -131,12 +131,12 @@ A megrendelt konyha helyett nincs új bútorbeszerzés. A fogantyú/front/pult m
 <a id="03-etkezo"></a>
 ### [03-etkezo](03-etkezo/README.md)
 
-Első termékkutatási kör: fa asztal és hat szék. Forma és alapméret/bővítés még nyitott; nincs előzetes árplafon.
+Első termékkutatási kör: fa asztal és hat szék. Téglalap, alapállapotban hat férőhely; nincs előzetes árplafon.
 
 | Kategória | Prio | Jelölt / IKEA | Jelenlegi boltok | Következő ellenőrzés |
 | --- | --- | --- | --- | --- |
-| Étkezőasztal | P1 | 6 / 3 | Bútor Mirek, Bonami (Rowico), IKEA | [Konkrét összehasonlítás](03-etkezo/OSSZEHASONLITAS.md): Robi, Allegro, Filippa bekerült. Hat szék lábtere, alapméret/bővítés és szállítás még nyitott. |
-| Étkezőszék | P1 | 9 / 2 | Bonami (Kave Home), Bútor Mirek, IKEA, JYSK, Kave Home | [Étkezőasztal és szék](#csoport-etkezo): 6 szék együttes elhelyezése, üléspróba és tisztítás. A fonott háttámla nem azonos a fonott üléssel; a kettő igényét külön kezeljük. |
+| Étkezőasztal | P1 | 7 / 3 | Bútor Mirek, Bonami (Rowico), IKEA | [Konkrét összehasonlítás](03-etkezo/OSSZEHASONLITAS.md): TONSTAD 200×85, Košice és Filippa. Robi és kisebb TONSTAD kizárva; Allegro visszatartva. Lábhely, székpróba és szállítás még nyitott. |
+| Étkezőszék | P1 | 12 / 3 | Bonami (Kave Home), Bútor Mirek, IKEA, JYSK, Kave Home, XXXLutz | [Étkezőasztal és szék](#csoport-etkezo): Párnázott/fonott ülés megerősítve. [Szék-összevetés](03-etkezo/SZEK-OSSZEHASONLITAS.md): Carryhome, TONSTAD, ISLEV próbalista; Eva Enjoy tartalék, Eva drevo/Evera kizárva. |
 | Étkezőszőnyeg | P2 | 1 / 1 | IKEA | [Szőnyeg és alátét](#csoport-szonyeg): Tényleges bútorozási méret, ajtónyitás, tisztítás és a padlóval kompatibilis alátét; egy zónában az alternatívák kiváltják egymást. |
 | Etetőszék (baba) | P1 | 3 / 1 | Babakocsikháza, IKEA, bababoo.hu | [Gyermek fekhelye és gondozása](#csoport-baba): Beköltözéskor 1 éves gyermek; tényleges használat, gyártói kor-/terhelési feltételek, méretben illő matrac és tartozékok. |
 | Asztali futó | P2 | 1 / 1 | IKEA | [Párna, pléd és dekor textil](#csoport-textil): Méret és szálösszetétel; huzat és belső külön; ténylegesen mosható-e; bútor-/anyagmintához illesztés. |

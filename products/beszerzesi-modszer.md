@@ -17,10 +17,10 @@
 - **Beköltözés: 2026. október 30.** A szeptember 20-i kutatási állapothoz képest 40 nap áll rendelkezésre.
 - **Források:** új bolti termék, hazai gyártó, egyedi készítés, bemutatódarab és jó állapotú használt bútor is bevonható. Ez kutatási lehetőség, nem kapcsolatfelvételi vagy vásárlási megbízás.
 - **Anyag:** a fő bútoroknál tömörfa vagy valódi furnér; másutt praktikus kompromisszum elfogadható. A fa hatású dekor nem nevezhető furnérnak. A kárpitos bútoroknál külön ellenőrizzük a váz és a huzat anyagát.
-- **Étkező:** hat normál étkezőszéknek kell kényelmesen elférnie az asztalnál. Még nyitott, hogy alapméretben vagy csak bővítve, illetve mind a hat széket indulásra kell-e megvenni.
+- **Étkező:** téglalap alakú asztal, alapállapotban hat kényelmes normál székhellyel. A bővíthetőség nem kötelező; párnázott vagy fonott ülés szükséges. Az induló székdarabszám még nincs rögzítve.
 - **Háló:** egy közös 180×200 cm-es matrac. Az ágyneműtartó jó lenne, de nem kötelező.
 - **Kanapé:** kb. 300×200 cm-es, L alakú, ágyazható, inkább puha. A méret célérték; a helyszíni elrendezéssel ellenőrizendő. Árplafon nélküli összevetés, alkalmi vendégágy **két felnőttnek**; levehető/mosható vagy tisztítható fix kárpit egyaránt elfogadható. Az oldalirány még nyitott.
-- **Gyermek:** beköltözéskor 1 éves; az alvás helye még nincs eldöntve a beszélgetésben.
+- **Gyermek:** beköltözéskor 1 éves; a kezdeti alvóhely és a meglévő babafelszerelés kérdését a tulajdonos most kihagyta. Nem kérdezzük újra ebben a körben, és nem feltételezünk választ.
 - A korábban rögzített fehér falak, RAL 1019 grey beige nyílászárók/párkányok, burkolatok és meglévő bútorok változatlan kiindulópontok. A dolgozóasztalt és széket hozzák; a 08-as szoba vendég-/tartalékszoba.
 - Világítás, új konyhabútor, meglévő mosdók és fürdőszobai szekrények beszerzése lezárt. A konyhafront megjelenése, fogantyúk, konyhai kőpult, kandallóburkolat és zuhanyzós fürdőpult továbbra is nyitott tervezési kör.
 
@@ -91,15 +91,19 @@ A kizárt jelöltekhez egy rövid, konkrét okot mentünk. A megszüntetett vagy
 | Beköltözés | megválaszolva: 2026-10-30 |
 | Források | megválaszolva: új, gyártói/egyedi, bemutatódarab és jó állapotú használt is |
 | Anyagkompromisszum | megválaszolva: fő bútor tömörfa/valódi furnér; másutt praktikus kompromisszum |
-| Étkező férőhely | megválaszolva: 6 normál szék; alapméret/bővített állapot még nyitott |
-| Étkező forma / ár | a forma még nyitott; keretkérdés tárgytalan, a megfelelő csomagok legalacsonyabb teljes árát keressük |
+| Étkező férőhely | megválaszolva: alapállapotban 6 normál szék |
+| Étkező forma / ár | téglalap; keretkérdés tárgytalan, a megfelelő csomagok legalacsonyabb teljes árát keressük |
 | Háló matracméret és ágyneműtartó | egy közös 180×200-as matrac; ágyneműtartó előny, nem kötelező |
 | Kanapé használata | kb. 300×200 cm, L alakú, inkább puha; alkalmi ágy két felnőttnek; árplafon nélküli teljesár-összevetés; fix vagy mosható kárpit elfogadható; oldalirány nyitott |
-| Gyermek kora és alvás helye | 1 éves; az alvás helye interaktívan feltéve |
+| Gyermek kora és alvás helye | 1 éves; alvóhely és meglévő felszerelés kérdése tulajdonosi kérésre most kihagyva |
 | Helyszíni méretek | először az alaprajzból előkészítendő; rendeléshez kész méret szükséges |
 | Gépek és alapfelszerelések leltára | későbbi célzott kérdés; a teljes beköltözési összeg a megfelelő jelöltekből áll össze, a jelenlegi bútorlista nem teljes költözési költségvetés |
 
 ## Követés
+
+### Előszobai alaptételek – 2026-09-20
+
+A [fogas, külső lábtörlő és cipőtálca összevetése](01-eloszoba/OSSZEHASONLITAS.md) elkészült. IKEA, JYSK, OBI, Mosdoshop, Bonami, Praktiker és Alza forrásait eltérő mélységben ellenőriztük; a kizárások és hiányok a jelentésben szerepelnek. A NAVR helyett Astra Kokosvelours az első külső lábtörlő-jelölt; a HÖVOLM és BAGGMUCK marad. Az induló termékösszeg 13 280-ról 9 779 Ft-ra változik, fuvar és rögzítő nélkül. Három új sorral 325 rekord van; a PICKET készletellentmondás miatt kizárt a költségutakból. A generált főoldal régi, középkategóriát előíró mondatát az elfogadott, árplafon nélküli módszerre javítottuk.
 
 Külön mérjük a forrásfeltérképezett, a termékoldalon ellenőrzött, a méretileg megfelelő és a döntésre kész kategóriákat. A források száma önmagában nem készültségi mutató. A végleges ajánlott kosár boltonkénti értékét csak az azonos darabszámok, pénznemek és költségkizárások rendezése után hasonlítjuk össze.
 
@@ -136,3 +140,11 @@ A tulajdonos megerősítette: sziget 160×90 cm, oldalsó kőlefordítás nélk�
 A [helyi forráslista és ajánlatkérési vázlat](02-konyha/PULT-AJANLATKERES.md) elkészült. Campacampa / Neolith Pomázon; Multistone Budapesten és Hungránit Monoron az Avorio hazai összevetéséhez. Három ajánlati forrás, két konkrét felület: nem három igazolt Neolith-kereskedő. Laminam Calce hazai kollekcióforrás is található, de a 12+ pultkivitel és feldolgozás még nem igazolt. Nem küldtünk külső megkeresést.
 
 A tulajdonos megerősítette: **főzőlap a szigeten, mosogató az L pulton**. Pontos típus, kivágási mód/sablon és a bútor felmérhetőségének dátuma még hiányzik. Az előajánlat külön egységárakat kér az ismeretlen megmunkálásokra; a helyszíni felmérés előtti összeg feltételes. A végső rangsor azonos műszaki és szállítási tartalmú bruttó végösszegből készül.
+
+## Étkező pontosítása – 2026-09-20
+
+Téglalap alakú asztal, alapállapotban hat férőhellyel; a baba alvóhelyének és meglévő felszerelésének kérdését most kihagyjuk. Az [új étkező-összevetésben](03-etkezo/OSSZEHASONLITAS.md) a fix TONSTAD 200×85 lett a feltételes ár szerinti első jelölt, a Košice új tömörfa alternatíva, a Filippa harmadik összehasonlítás. Robi és kisebb TONSTAD kizárva, Allegro igazolásig visszatartva. Egy új sorral 326 rekord van; az ajánlott asztal ára 10 000 Ft-tal nőtt. A székek teljes újrarangsorolása és a szállított kosár még nincs lezárva.
+
+## Étkezőszékek – 2026-09-20
+
+Párnázott vagy fonott ülés szükséges. A [három próbajelölt](03-etkezo/SZEK-OSSZEHASONLITAS.md) Carryhome, TONSTAD és ISLEV; Eva Enjoy tartalék. A három új sorral 329 rekord van. Az ISLEV korábbi feltételes ajánlása egyelőre megmarad, de nem lezárt árnyertes: két olcsóbb jelölt anyag-, szín-, komfort- és szállítási ellenőrzésre vár. A csupasz fa ülésű Eva drevo és Evera kizárva.

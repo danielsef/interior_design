@@ -19,7 +19,7 @@ ROOM_NOTES = {
     "03-etkezo": {
         "minimum": "Egy használható asztal és annyi ülőhely, ahányat naponta használtok; szükség esetén a baba megfelelő etetőszéke.",
         "later": "A hat székből a vendéghelyek, a tálaló, étkezőszőnyeg, asztali futó és váza ráérnek.",
-        "check": "Megerősített követelmény: az asztalnál hat normál szék férjen el kényelmesen. Még nyitott, hogy alapméretben vagy bővítve; a beköltözéskor megvett székek száma sincs külön rögzítve. Az ISLEV ajánlása üléspróbához kötött.",
+        "check": "Megerősített követelmény: téglalap alakú asztalnál alapállapotban hat normál szék férjen el kényelmesen. A beköltözéskor megvett székek száma nincs külön rögzítve. Párnázott vagy fonott ülés szükséges. Az olcsóbb Carryhome és TONSTAD jelöltek szín-, méret- és komfortpróbája még hátravan; az ISLEV korábbi ajánlása is feltételes, nem lezárt árnyertes.",
     },
     "04-nappali": {
         "minimum": "Egy közös ülő-/pihenőhely; a kandalló és a használatba vett berendezés szükséges védelme.",
@@ -36,7 +36,7 @@ ROOM_NOTES = {
     "06-szoba": {
         "minimum": "A baba ténylegesen használt fekhelye, hozzá illő matrac és lepedő, valamint az alvóhely sötétítése.",
         "later": "Külön szoptatós fotel, végleges polc/kosarak, dekorációs szőnyeg és külön pelenkázóbútor, ha a pelenkázás más megfelelő meglévő megoldással rendezett.",
-        "check": "A gyermek beköltözéskor egyéves lesz. Az alvás helye még nyitott: ha kezdetben a szülői hálóban lesz, ugyanazokat a szükséges darabokat oda kell ütemezni, nem második garnitúrát venni. Az Ágynemű/takaró kategórián belül a lepedő Prio 1, a külön muszlintakaró Prio 2.",
+        "check": "A gyermek beköltözéskor egyéves lesz. A kezdeti alvóhely és meglévő felszerelés kérdését a tulajdonos most kihagyta, ezért a jelöltek nem végleges beszerzések. Az alvás helye még nyitott: ha kezdetben a szülői hálóban lesz, ugyanazokat a szükséges darabokat oda kell ütemezni, nem második garnitúrát venni. Az Ágynemű/takaró kategórián belül a lepedő Prio 1, a külön muszlintakaró Prio 2.",
         "unpriced": "A meglévő készlettől függő alap babaápolási és pelenkázási kellékek nem teljes körűen részei ennek a bútorlistának.",
     },
     "07-dolgozo": {

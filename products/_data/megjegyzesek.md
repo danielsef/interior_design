@@ -16,6 +16,10 @@
 
 ## Ismert hiányok és feltételek
 
+- **Étkező:** téglalap, alapállapotban hat férőhely. A fix TONSTAD 200×85 az ár szerinti feltételes első jelölt; a kisebb nyitható TONSTAD és az ovális Robi kizárva a költségutakból. [Aktuális összehasonlítás](03-etkezo/OSSZEHASONLITAS.md).
+
+- **Előszoba induló minimum:** [három kategória új összevetése](01-eloszoba/OSSZEHASONLITAS.md). HÖVOLM + Astra Kokosvelours + BAGGMUCK: 9 779 Ft termékösszeg, fuvar és rögzítő nélkül. A 3 501 Ft-os csökkenés termékár-különbség; a teljes szállított megtakarítás még nem igazolt.
+
 - **Kanapé:** az új igényhez nincs még számolható ajánlott jelölt. A korábbi 169 900 Ft-os EKTORP kizárása **nem megtakarítás**, hanem hiányzó kanapéköltség; az árplafon nélküli kutatás a megfelelő jelöltek legkedvezőbb teljes árát keresi. [Összehasonlítás és feltételes tartalék](04-nappali/OSSZEHASONLITAS.md).
 - **Len ágynemű:** a H&M 100% len bézs szettje 59 995 Ft; a tervezett 200×200 / 50×60 változat az ellenőrzéskor elfogyott. Figyelőlista, a forintos összegekből kizárva.
 - **Lenkeverék konyharuha:** a H&M bézs rojtos és olívazöld/bézs csíkos jelöltje szintén készlethiányos volt.
@@ -36,12 +40,12 @@
 
 - A zuhanyzós fürdő alapterülete, bútorozható falszélessége és kiállásainak mérete; a kádas fürdő megrendelt bútorának mérete a még szükséges tükörhöz.
 - A konyhai és háztartási csaptelepjelölt csak akkor kell, ha még nincs meg és nem része egy meglévő rendelésnek.
-- Gardróbburkolat és közös anyagminták; a gyermek kezdeti alvásának helye. A beköltözés már rögzített: 2026-10-30; a gyermek ekkor 1 éves, a 08-as szoba vendég-/tartalékszoba.
+- Gardróbburkolat és közös anyagminták; a gyermek kezdeti alvóhelyének és meglévő felszerelésének egyeztetése tulajdonosi kérésre most kihagyva. A beköltözés már rögzített: 2026-10-30; a gyermek ekkor 1 éves, a 08-as szoba vendég-/tartalékszoba.
 
 ## Beépített bolti felülvizsgálat (2026-09-20)
 
 - A 14 új termékjelölt megmaradt: 2 XXXLutz, 5 Kave Home, 4 H&M Home, 3 JYSK. Az 5 EUR-os és a 3 elfogyott tétel külön jelölve.
-- Az ISLEV szék próba után, a Cantus dohányzóasztal készletellenőrzés után ajánlott; a korábbi STOCKHOLM-modellek alternatívák.
+- Az ISLEV szék korábbi ajánlása feltételes; [olcsóbb párnázott alternatívák](03-etkezo/SZEK-OSSZEHASONLITAS.md) már szerepelnek, végleges árnyertes nincs. A Cantus dohányzóasztal készletellenőrzés után ajánlott; a korábbi STOCKHOLM-modellek alternatívák.
 - A GUNNEMOR helyes anyaga 100% újrahasznosított poliészter. A DVALA ágypárnahuzat méret- és terméktípus-korlátja jelölve.
 - Részletek és további kompromisszumok: [vásárlási felülvizsgálat](vasarlasi-felulvizsgalat-2026-09-20.md).
 

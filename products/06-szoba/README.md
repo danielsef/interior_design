@@ -19,7 +19,7 @@
 
 **Ráér később:** Külön szoptatós fotel, végleges polc/kosarak, dekorációs szőnyeg és külön pelenkázóbútor, ha a pelenkázás más megfelelő meglévő megoldással rendezett.
 
-**Feltétel / kiváltás:** A gyermek beköltözéskor egyéves lesz. Az alvás helye még nyitott: ha kezdetben a szülői hálóban lesz, ugyanazokat a szükséges darabokat oda kell ütemezni, nem második garnitúrát venni. Az Ágynemű/takaró kategórián belül a lepedő Prio 1, a külön muszlintakaró Prio 2.
+**Feltétel / kiváltás:** A gyermek beköltözéskor egyéves lesz. A kezdeti alvóhely és meglévő felszerelés kérdését a tulajdonos most kihagyta, ezért a jelöltek nem végleges beszerzések. Az alvás helye még nyitott: ha kezdetben a szülői hálóban lesz, ugyanazokat a szükséges darabokat oda kell ütemezni, nem második garnitúrát venni. Az Ágynemű/takaró kategórián belül a lepedő Prio 1, a külön muszlintakaró Prio 2.
 
 > **Még külön ellenőrizendő, nem árazott:** A meglévő készlettől függő alap babaápolási és pelenkázási kellékek nem teljes körűen részei ennek a bútorlistának.
 
