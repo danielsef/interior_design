@@ -36,6 +36,8 @@ A terméklinkek a 2026-09-20-án megnyitott konkrét változatokra mutatnak. Az 
 
 ## Teljes csomag és következő döntés
 
+**Új részletes vizsgálat:** [matracok, két darabos ágyrácsárak és feltételes csomagszámítások](MATRAC-OSSZEHASONLITAS.md). A 233 900–299 900 Ft-os termékár-példák még nem igazoltan kompatibilis vagy szállítással teljes ajánlatok.
+
 - **OLSKER / STUBBERUP:** 115 000 Ft + megfelelő ágyrács/alátámasztás + egy közös 180×200-as matrac + szállítás/szükséges szerelés.
 - **Alguema:** 443 700 Ft + matrac + szállítás/szükséges szerelés; a benne lévő rácsot nem számoljuk még egyszer.
 - Egy közös matrac alatt lehet két külön ágyrács, **ha a választott keret és matrac gyártói előírásai ezt megengedik**. A középgerenda, terhelhetőség, lamellaköz és befekvési mélység ellenőrizendő.
@@ -44,4 +46,4 @@ A terméklinkek a 2026-09-20-án megnyitott konkrét változatokra mutatnak. Az 
 
 A [JYSK szállítási tájékoztatója](https://jysk.hu/aszf) a díjat a csomag és cím alapján határozza meg; nincs hozzá automatikusan alkalmazható fix fuvardíjunk. Az Urban Home megnyitott [szállítási oldala](https://urbanhome.hu/en/pages/szallitas) nem adott kinyerhető konkrét díjat. Ezért egyikből sem gyártunk teljes szállított csomagárat.
 
-**Listakorrekció:** a három korábbi 140/160-as ágy kizárt referencia lett. Három 180-as alternatíva került be; a teljes állomány 318 sor. Egyelőre nincs ajánlott teljes fekhely, a keretek csak alternatívák. A régi ajánlott 100 000 Ft-os keret kivétele nem megtakarítás; az ajánlott összegből hiányzik az új ágy, matrac és szükséges alátámasztás költsége.
+**Listakorrekció:** a három korábbi 140/160-as ágy kizárt referencia lett. Három 180-as alternatíva került be; az ágyfrissítés utáni állomány 318 sor volt. A matrac-/rácskör további négy kutatási sorával most 322 sor van. Egyelőre nincs ajánlott teljes fekhely, a keretek csak alternatívák. A régi ajánlott 100 000 Ft-os keret kivétele nem megtakarítás; az ajánlott összegből hiányzik az új ágy, matrac és szükséges alátámasztás költsége.

@@ -1,14 +1,14 @@
 # Teljes kategória-felülvizsgálat
 
-2026-09-20 · 16 helyiségcsoport · 186 helyiség–kategória · 318 termékjelölt (a kizárt referenciákkal együtt).
+2026-09-20 · 16 helyiségcsoport · 188 helyiség–kategória · 322 termékjelölt (a kizárt referenciákkal együtt).
 
-**Az áttekintés tárgya:** minden aktív kategória követelménye, jelenlegi forráslefedettsége és következő ellenőrzési lépése. A termékoldalak teljes körű újraellenőrzése még nincs kész; a lent szereplő boltok kutatási célpontok, nem új ajánlások. Az étkező első konkrét frissítése már megtörtént: [összehasonlítás](03-etkezo/OSSZEHASONLITAS.md); a többi kategória állapota követelményfelmérés.
+**Az áttekintés tárgya:** minden aktív kategória követelménye, jelenlegi forráslefedettsége és következő ellenőrzési lépése. A termékoldalak teljes körű újraellenőrzése még nincs kész; a lent szereplő boltok kutatási célpontok, nem új ajánlások. Az étkező első konkrét frissítése már megtörtént: [összehasonlítás](03-etkezo/OSSZEHASONLITAS.md); a [kanapék](04-nappali/OSSZEHASONLITAS.md), [ágyak](05-halo/OSSZEHASONLITAS.md), valamint [matracok és ágyrácsok](05-halo/MATRAC-OSSZEHASONLITAS.md) részleges termékvizsgálata is elkészült. Ezek még nem lezárt beszerzési döntések; a többi kategória állapota követelményfelmérés.
 
 Rögzített új válaszok és határidők: [beszerzési módszer és döntési napló](beszerzesi-modszer.md).
 
 ## A következő termékfrissítés előtt javítandó pontok
 
-- Háló: 180×200-as matrac, kompatibilis ágyrács és alap ágynemű hiányzó teljes költsége.
+- Háló: két matrac és két ágyrács már árazott; komfort, terhelhetőség és kompatibilitás, szállítás, matracvédő és alap ágynemű még hiányzik a teljes csomaghoz.
 - Kanapé: az [új szűrés](04-nappali/OSSZEHASONLITAS.md) elkészült; még nincs teljesen igazolt ajánlás. Az új módszer szerint árplafon nélkül vizsgáljuk tovább a megfelelő jelölteket.
 - Étkezőasztal: három új Mirek/Rowico alternatíva bekerült; a hat szék tényleges lábtere és alapméret/bővítés még nyitott.
 - Vendégszoba: a gyermekasztal/-szék szükséglete nincs igazolva.
@@ -174,6 +174,8 @@ A kanapé új specifikációja meghatározza a kisbútorokat is. Közös légté
 | Kategória | Prio | Jelölt / IKEA | Jelenlegi boltok | Következő ellenőrzés |
 | --- | --- | --- | --- | --- |
 | Franciaágy | P1 | 6 / 1 | Bonami, IKEA, JYSK, Urban Home (Kave Home) | [Összehasonlítás](05-halo/OSSZEHASONLITAS.md): három új 180-as alternatíva és három kizárt méretű referencia. Egy közös matrac, tároló opcionális. Teljes csomagár és komfort ellenőrizendő. |
+| Matrac | P1 | 2 / 1 | IKEA, MatracGuru | [Összehasonlítás](05-halo/MATRAC-OSSZEHASONLITAS.md): egy közös 180×200, két kemény kutatási jelölt; komfort és terhelhetőség még nem igazolt, költségutakból kizárva. |
+| Ágyrács | P1 | 2 / 0 | JYSK | [Összehasonlítás](05-halo/MATRAC-OSSZEHASONLITAS.md): két darab 90-es ára; keret-/matracilleszkedés nyitott, költségutakból kizárva. Beépített rács esetén kiváltott tétel. |
 | Éjjeliszekrény | P2 | 2 / 2 | IKEA | [Tárolóbútor és polc](#csoport-tarolo): Kész helyszíni szélesség/mélység, ajtónyitás, szükséges tárolókapacitás és rögzítés; dekor/furnér/tömörfa külön. |
 | Ágyneműhuzat garnitúra | P1 | 3 / 2 | H&M Home, IKEA | [Ágynemű és alap textíliák](#csoport-agynemu): Matrac/paplan/párna tényleges mérete, szálösszetétel, mosás; huzat nem teljes alvási csomag. |
 | Szőnyeg | P2 | 1 / 1 | IKEA | [Szőnyeg és alátét](#csoport-szonyeg): Tényleges bútorozási méret, ajtónyitás, tisztítás és a padlóval kompatibilis alátét; egy zónában az alternatívák kiváltják egymást. |
@@ -373,7 +375,7 @@ Teljes kör P2. A téli tárolás és időjárási kitettség a későbbi válas
 | Konyhafront megjelenése | a meglévő rendelésben módosítható felületet egyeztetni; új konyhát nem keresünk |
 | Kandalló külső burkolata | meglévő sötét kő megtartása még nyitott; a kivitelező határozza meg az alkalmazható rendszert |
 | Zuhanyzós fürdőpult | mosdó/szekrény sablonja és kész falméretek; a kádas fürdő használhatósága dönti el a sürgősséget |
-| Felnőtt matrac, ágyrács, alap ágynemű | 180×200-as matrac mellett teljes alvási csomagot árazni |
+| Felnőtt fekhely véglegesítése és alap ágynemű | Matrac/rács már külön árazott kutatási kategória; kompatibilitás, komfort, szállítás és hiányzó alap textíliák még nyitottak |
 | Mosás, hűtés, főzés gépei | meglévő/megrendelt gépek leltára; ha van hiány, külön Prio 1 költség, nem nulla |
 | Alap konyhai és takarító felszerelés | hozott tételek után fennmaradó tényleges hiány; összevont funkcionális kosár |
 

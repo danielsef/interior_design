@@ -1,6 +1,6 @@
 # A terméklisták frissítése
 
-A következő kutatási kör módszere és a tulajdonosi válaszok: [beszerzési döntési napló](../beszerzesi-modszer.md). Mind a 186 aktív kategória követelménye és forráslefedettsége: [kategória-felülvizsgálat](../kategoria-felulvizsgalat.md). Ez dátumozott áttekintés; új termék/kategória felvételekor a lefedettségi számokat is frissíteni kell. A helyiségenkénti `KUTATASI-BRIEF.md` fájlokat a generátor nem írja felül, csak hivatkozik rájuk.
+A következő kutatási kör módszere és a tulajdonosi válaszok: [beszerzési döntési napló](../beszerzesi-modszer.md). Mind a 188 aktív kategória követelménye és forráslefedettsége: [kategória-felülvizsgálat](../kategoria-felulvizsgalat.md). Ez dátumozott áttekintés; új termék/kategória felvételekor a lefedettségi számokat is frissíteni kell. A helyiségenkénti `KUTATASI-BRIEF.md` fájlokat a generátor nem írja felül, csak hivatkozik rájuk.
 
 A helyiség-README-k, a fő README és a `termekek.csv` forrásai az itt lévő terméklistás JSON-fájlok. Újragenerálás a projekt gyökeréből: `python3 products/_data/generate.py`.
 
@@ -51,3 +51,5 @@ A `97-etkezo-alternativak.json` négy új, 2026-09-20-án ellenőrzött alternat
 A `96-kanape-alternativak.json` egy 2026-09-20-án ellenőrzött Rocky figyelőlistás sort ad hozzá: **315 rekord**. A Rocky és a két korábbi egyenes IKEA-kanapé `budget_include: false`; a kanapé funkció továbbra is P1, költsége hiányzó tétel. A [kanapé-összehasonlítás](../04-nappali/OSSZEHASONLITAS.md) a szállított árat és a kizárások okát is tartalmazza.
 
 A `95-halo-alternativak.json` három 180×200-as ágyalternatívát ad hozzá: **318 rekord**. A három régi 140/160-as ágy kizárt referencia; a teljes fekhely még nem ajánlott csomag. Az új tételek `why` és `caveat` mezője külön nevezi meg a stílusbeli illeszkedést, kompromisszumot és hiányzó ellenőrzést.
+
+A `94-halo-matrac-agyracs.json` két matracot és két ágyrácsot ad hozzá: **322 rekord, 188 helyiség–kategória**. Mind a négy P1, de `budget_include: false` a hiányzó komfort-/terhelhetőségi és kompatibilitási igazolás miatt. A rács egységára mellett `qty: 2`; az ágyba eleve foglalt rácsot nem kell újra hozzáadni. [Kutatási eredmény és feltételes csomagárak](../05-halo/MATRAC-OSSZEHASONLITAS.md).

@@ -14,7 +14,7 @@ Fő bútor: tömörfa vagy valódi furnér; a szerkezetet és a felületi réteg
 
 ## Még nyitott
 
-- Matrac komfortja és keménysége használónként, lehetőleg próba alapján.
+- Matrac komfortja és keménysége használónként, alvási helyzet és hozzávetőleges testsúlytartomány a terhelhetőség ellenőrzéséhez, lehetőleg próba alapján.
 - Meglévő paplan/párna/lepedő mérete és készlete; a matracméret nem határozza meg automatikusan a paplanét.
 - A baba kezdeti alvóhelye és a szükséges hely az ágy mellett.
 - Sötétítés kész nyílásméretei.
@@ -22,3 +22,5 @@ Fő bútor: tömörfa vagy valódi furnér; a szerkezetet és a felületi réteg
 Az éjjeliszekrény, pad, tükör, dekor és külön komód P2. A gardrób alap ruhatárolása és a hálókomód ugyanazt az induló szükségletet is kiválthatja; ne legyen kétszer kötelezőként számolva.
 
 Az [ágy-összehasonlítás](OSSZEHASONLITAS.md) három megfelelő fekvőméretű alternatívát tartalmaz. Nincs kategóriaárplafon: a követelményeket teljesítő legkedvezőbb teljes csomagárat keressük; a korábbi keretkérdés tárgytalan.
+
+A [matrac- és ágyrács-összehasonlítás](MATRAC-OSSZEHASONLITAS.md) két matracot és két rácsot áraz. Ezek a kompatibilitási/komfortellenőrzésig kimaradnak a költségutakból; a rács mennyisége két darab, ha nincs eleve az ágyhoz mellékelve.

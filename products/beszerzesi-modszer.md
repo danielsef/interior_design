@@ -116,3 +116,7 @@ A [nappali összehasonlítása](04-nappali/OSSZEHASONLITAS.md) több kereskedő 
 ## Hálószobai ágyak – 2026-09-20
 
 Három megfelelő fekvőméretű alternatíva került az [összehasonlításba](05-halo/OSSZEHASONLITAS.md), külön anyag-, szín- és formaértékeléssel; három régi 140/160-as referencia kimarad a költségutakból. 318 rekord van. A régi ajánlott keret 100 000 Ft-os kivétele hiányzó új ágyköltség, nem megtakarítás. Matrac és szállítás nélkül az ágyárak nem teljes csomagárak.
+
+## Matrac és ágyrács – 2026-09-20
+
+A [háló új vizsgálata](05-halo/MATRAC-OSSZEHASONLITAS.md) két 180×200-as matrac és két, páronként számolt ágyrács termékárát tartalmazza. Az állomány **322 rekord / 188 helyiség–kategória**. Az alacsony ár még nem igazolt megfelelés: a négy új sor költségutakból kizárt a komfort/terhelhetőség és az összeillőség ellenőrzéséig. A feltételes csomagszámítások nem teljes szállított ajánlatok. Mireknél az október 30.–november 13. közötti készletjelzés a beköltözési határidő miatt hátrasorolást indokol; a bolti próba feltételei és a visszafizetés formája külön szerepel.

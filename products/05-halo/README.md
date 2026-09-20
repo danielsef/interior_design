@@ -3,7 +3,7 @@
 | | |
 | --- | --- |
 | **Helyiség** | 16,22 m² · fa parketta |
-| **Termékek** | 19 db |
+| **Termékek** | 23 db |
 | **Áradatok dátuma** | 2026-09-20 |
 | **Inspirációs képek** | [`../../inpiration/05-halo/`](../../inpiration/05-halo/README.md) |
 
@@ -21,9 +21,9 @@
 
 **Ráér később:** Éjjeliszekrény, külön komód, ágyvégi pad, szőnyeg, tükör, díszpárnák és végleges fényszűrő függöny.
 
-**Feltétel / kiváltás:** Egy közös 180×200-as matrac; ágyneműtartó előny, de nem kötelező. A megfelelő csomagok közül a legalacsonyabb teljes árat keressük. A külső méret, kompatibilis ágyrács és matrackomfort ellenőrizendő.
+**Feltétel / kiváltás:** Egy közös 180×200-as matrac; ágyneműtartó előny, de nem kötelező. A megfelelő csomagok közül a legalacsonyabb teljes árat keressük. A külső méret, kompatibilis ágyrács és matrackomfort ellenőrizendő. Két matrac- és két ágyrácsjelölt már árazott, de a komfort/kompatibilitás igazolásáig kimarad a költségutakból.
 
-> **Még külön ellenőrizendő, nem árazott:** Az új ágykeret még alternatíva, nincs az ajánlott összegben; a régi 100 000 Ft-os keret kivétele nem megtakarítás. Felnőtt matrac és az ágyhoz szükséges, esetleg külön árazott ágyrács; lepedő, paplan és párna. A listázott ágykeret/huzat nem automatikusan teljes alvási csomag.
+> **Még külön ellenőrizendő, nem árazott:** Az új ágykeret még alternatíva, nincs az ajánlott összegben; a régi 100 000 Ft-os keret kivétele nem megtakarítás. A kiválasztott csomag szállítása, matracvédő, lepedő, paplan és párna még hiányzik. A listázott ágykeret/huzat nem automatikusan teljes alvási csomag.
 
 ### Prio 1 – előre sorolt tételek
 
@@ -32,6 +32,8 @@
 | Franciaágy | A mindennapi fekhely a beköltözési minimum része. |
 | Ágyneműhuzat garnitúra | Legalább egy használható, megfelelő méretű garnitúra szükséges. |
 | Sötétítő roló (fényzáró réteg) | Az első naptól használt háló sötétítése és belátásvédelme szükséges. |
+| Matrac | A mindennapi fekhely a beköltözési minimum része. **Feltétel:** Egy közös 180×200-as matrac, a kerettel és alátámasztással igazolt kompatibilitás; személyes komfortpróba és szállítás ellenőrizendő. |
+| Ágyrács | A mindennapi fekhely a beköltözési minimum része. **Feltétel:** Csak a külön rácsot igénylő, kompatibilis kerethez két darab; Alguema esetén a mellékelt rács kiváltja. |
 | Franciaágy | A mindennapi fekhely a beköltözési minimum része. **Feltétel:** Egy közös 180×200-as matraccal és kompatibilis alátámasztással; a teljes csomag és a helyszíni színminta ellenőrizendő. |
 
 | Ajánlott tételek fázisonként | Listázott összeg |
@@ -41,7 +43,7 @@
 
 > Ezek a korábbi teljes tervezett darabszámokkal számolt, feltételes részösszegek; nem a legolcsóbb beköltözési kosár árai. Egy szükséglethez egy megfelelő megoldást válassz. A meglevővel kiváltott cserejelölt, a kizárt referencia, EUR-os vagy elfogyott termék és az árazatlan hiány nem szerepel bennük. A szükséges induló darabszámok és az átfedések még pontosítandók.
 
-> **Prio 1 funkció, de nincs az ajánlott HUF-részösszegben számolható jelölt:** Franciaágy. Ez nem nulla költség.
+> **Prio 1 funkció, de nincs az ajánlott HUF-részösszegben számolható jelölt:** Franciaágy, Matrac, Ágyrács. Ez nem nulla költség.
 
 ## Költség ebben a helyiségben
 
@@ -52,6 +54,8 @@
 | 💎 Kategóriánként a legdrágább sor összege | 781 580 Ft |
 
 > A darabszám javaslat. A forintos költségutak az EUR-os, készlethiányos, meglévővel kiváltott és külön kizárt referenciatételeket kihagyják; ezek ára nem nulla. A feltételes ajánlások szerepelnek a tervezési összegben. A kategóriánkénti alsó/felső összeg nem összeillő bevásárlócsomag: az opcionális és egymást átfedő tételeket külön kell kiválasztani. A szállítás nincs benne; az ár és készlet rendelés előtt ellenőrizendő.
+
+> A forintos költségutakból kimaradó kategória (nincs számolható tétel): **Matrac, Ágyrács**.
 
 ## Termékek
 
@@ -102,6 +106,34 @@
 **Prio 1:** Az első naptól használt háló sötétítése és belátásvédelme szükséges.
 
 - **FÖNSTERBLAD Sötétítő roló, bézs** – Valódi fényzáró (nem csak fényszűrő) roló a len-hatású függöny mögé – ez adja a hálószobában elvárt alvási sötétítést, zsinór nélküli, gyerekbiztos kivitelben. ⚠️ *A méretet a tényleges ablakszélességhez kell választani (több méret közül); önmagában nem esztétikai, hanem funkcionális elem, a látható függöny mögé kerül.*
+
+### Matrac — Prio 1
+
+| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Prio 1** | Figyelőlista | [RelaXx Hard Comfort hideghab matrac 180×200](https://www.matracguru.hu/termek/hard_comfort_hideghab_matrac) | **MatracGuru** – matracguru.hu; modellre szóló bolti próba és készlet ellenőrizendő | Hideghab; levehető, 40 °C-on mosható huzat; pontos szálösszetétel ellenőrizendő | 180×200×16 cm; 14 cm-es habmag | **93 900 Ft** <br>*A konkrét 180-as változat webes ára; a keresőpéldány régebbi, friss ármegerősítés és fuvar szükséges.* <br>*Aktuális ár, konkrét 180-as készlet, október 30. előtti kézbesítés és fuvar nem igazolt.* | 1 |
+| **Prio 1** | Figyelőlista | [VALEVÅG zsákrugós matrac, kemény, 180×200](https://www.ikea.com/hu/hu/p/valevag-zsakrugos-matrac-kemeny-vilagoskek-20470009/) | **IKEA** – ikea.com/hu; próba és helyi készlet ellenőrizendő | Acél zsákrugók, poliuretán hab; poliészter felső/oldalsó huzat, világoskék oldal | 180×200×24 cm | **129 900 Ft** <br>*2026-09-01-től jelzett ár; szállítás és matracvédő külön.* <br>*Címre szóló készlet, fuvar és kézbesítési dátum még nincs ellenőrizve.* | 1 |
+
+**Prio 1:** A mindennapi fekhely a beköltözési minimum része. Feltétel: Egy közös 180×200-as matrac, a kerettel és alátámasztással igazolt kompatibilitás; személyes komfortpróba és szállítás ellenőrizendő.
+
+> **A beszerzési összegből kizárva:** A két felnőttre megadott terhelhetőség, komfort és alátámasztás nem igazolt; árazott kutatási jelölt. Személyes komfort és az ágy–rács–matrac összeállítás alkalmassága még nyitott; nem kiválasztott csomag.
+
+- **RelaXx Hard Comfort hideghab matrac 180×200** – Illeszkedés: takart funkcionális elem, mosható huzattal. A két árazott matrac közül alacsonyabb termékár; nem igazolt legolcsóbb megfelelő csomag. ⚠️ *Kemény komfort; a 100 kg-os súlykorlát személyenkénti vagy teljes értelmezése tisztázandó. Két felnőttre alkalmasság és rácselőírás nem igazolt.*
+- **VALEVÅG zsákrugós matrac, kemény, 180×200** – Illeszkedés: takart funkcionális elem; a szín az ágynemű alatt nem meghatározó. Zsákrugós alternatíva dokumentált 90 éjszakás próbával. ⚠️ *Kemény kivitel, 5 zóna; nem mosható huzat. Kibontott matrac próba utáni visszavétele jóváírókártyával, feltételekkel. Komfort, terhelhetőség és rácselőírás ellenőrizendő.*
+
+### Ágyrács — Prio 1
+
+| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Prio 1** | Figyelőlista | [BALKJOSEN ágyrács 90×200 – két darab szükséges](https://jysk.hu/haloszoba/agyak/agyalapok-agyracsok-agykeretek/agyracsok/hagyomanyos-agyracsok/agyracs-90x200-cm) | **JYSK** – jysk.hu; ágykerethez és matrachoz párosítás ellenőrizendő | Nyírfurnér, 22 léc; takart szerkezeti elem | 90×195×1 cm; névleges fekvőméret 90×200 | **12 500 Ft** <br>*Egységár; két darab együtt 25 000 Ft, szállítás külön.* <br>*Konkrét készlet és címre szállítás nem igazolt.* | 2 |
+| **Prio 1** | Figyelőlista | [HEMSIL FIX ágyrács 90×200 – két darab szükséges](https://jysk.hu/haloszoba/agyak/agyalapok-agyracsok-agykeretek/agyracsok/hagyomanyos-agyracsok/keretes-agyracs-5) | **JYSK** – jysk.hu; ágykerethez és matrachoz párosítás ellenőrizendő | Nyírfurnér, 26 léc; takart szerkezeti elem | 90×200×7,5 cm | **27 500 Ft** <br>*Egységár; két darab együtt 55 000 Ft, szállítás külön.* <br>*Konkrét készlet és címre szállítás nem igazolt.* | 2 |
+
+**Prio 1:** A mindennapi fekhely a beköltözési minimum része. Feltétel: Csak a külön rácsot igénylő, kompatibilis kerethez két darab; Alguema esetén a mellékelt rács kiváltja.
+
+> **A beszerzési összegből kizárva:** A választott kerettel és matraccal nem igazolt párosítás. Alguema mellé nem kell külön rács, mert azt tartalmazza.
+
+- **BALKJOSEN ágyrács 90×200 – két darab szükséges** – Illeszkedés: takart faalapú alátámasztás; a szerkezeti alkalmasság fontosabb a színnél. Kedvező páros termékár, még nem igazolt megfelelő megoldás. ⚠️ *Terhelhetőség, lamellaköz, középtámasz és keretbefogadás ellenőrizendő. Rögzítés tisztázandó; a termékoldal értékelései zaj-/stabilitási panaszokat is jeleznek, nem igazolt általános hibát.*
+- **HEMSIL FIX ágyrács 90×200 – két darab szükséges** – Illeszkedés: takart faalapú alátámasztás; a szerkezeti alkalmasság fontosabb a színnél. Keretes alternatíva; felára csak igazolt szerkezeti vagy komfortelőnnyel indokolt. ⚠️ *Terhelhetőség, lamellaköz, középtámasz és keretbefogadás ellenőrizendő. 7,5 cm magassága miatt a befekvési mélység külön ellenőrizendő; szerelendő.*
 
 ### Éjjeliszekrény — Prio 2
 

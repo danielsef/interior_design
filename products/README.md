@@ -4,7 +4,7 @@
 
 2026-09-20 · Termékjelöltek magyarországi beszerzéshez: név, link, ár, anyag, méret és beszerzési feltételek. A készlethiányos tételek figyelőlistán szerepelnek. A mappaszerkezet megegyezik az [inspirációs mappáéval](../inpiration/README.md), a válogatás a [belsőépítészeti irányelveket](../principles/Wooden%20coastal%20%E2%80%93%20erdei%20hat%C3%A1s%C3%BA%20bels%C5%91%C3%A9p%C3%ADt%C3%A9szeti%20ir%C3%A1nyelvek%20a%20h%C3%A1zhoz.md) követi.
 
-> **Állapot: mind a 16 helyiségcsoport listázva, 318 termékjelölt.**
+> **Állapot: mind a 16 helyiségcsoport listázva, 322 termékjelölt.**
 
 > **Beépített vásárlási felülvizsgálat:** [XXXLutz, Kave Home, H&M Home, JYSK és Mömax – összehasonlítás](vasarlasi-felulvizsgalat-2026-09-20.md). Ajánlott csere: ISLEV szék próba után és Cantus asztal készletellenőrzés után. Az EUR-os és készlethiányos alternatívák kimaradnak a forintos költségutakból.
 
@@ -49,7 +49,7 @@
 | [`02-konyha`](02-konyha/README.md) | Konyha | 17 | **417 660 Ft** | 275 180 Ft | 474 512 Ft |
 | [`03-etkezo`](03-etkezo/README.md) | Étkező | 22 | **564 570 Ft** | 415 500 Ft | 1 187 030 Ft |
 | [`04-nappali`](04-nappali/README.md) | Nappali | 28 | **590 090 Ft** | 430 655 Ft | 739 000 Ft |
-| [`05-halo`](05-halo/README.md) | Háló | 19 | **333 880 Ft** | 374 880 Ft | 781 580 Ft |
+| [`05-halo`](05-halo/README.md) | Háló | 23 | **333 880 Ft** | 374 880 Ft | 781 580 Ft |
 | [`06-szoba`](06-szoba/README.md) | Szoba (babaszoba) | 18 | **386 460 Ft** | 230 380 Ft | 596 250 Ft |
 | [`07-dolgozo`](07-dolgozo/README.md) | Dolgozó | 18 | **176 690 Ft** | 105 690 Ft | 236 600 Ft |
 | [`08-szoba`](08-szoba/README.md) | Szoba (gyerek / vendég) | 14 | **270 350 Ft** | 172 370 Ft | 412 060 Ft |
@@ -60,7 +60,7 @@
 | [`13-kozlekedo`](13-kozlekedo/README.md) | Közlekedő | 1 | **7 990 Ft** | 7 990 Ft | 7 990 Ft |
 | [`14-gardrob`](14-gardrob/README.md) | Gardrób | 7 | **158 780 Ft** | 134 830 Ft | 265 930 Ft |
 | [`16-17-terasz`](16-17-terasz/README.md) | Terasz | 23 | **780 670 Ft** | 666 620 Ft | 935 630 Ft |
-| | **Összesen (listázott helyiségcsoportok)** | **318** | **5 978 358 Ft** | 4 803 215 Ft | 9 022 105 Ft |
+| | **Összesen (listázott helyiségcsoportok)** | **322** | **5 978 358 Ft** | 4 803 215 Ft | 9 022 105 Ft |
 
 > Az összegek **tájékoztató jellegűek**: a javasolt darabszámmal számolnak, de nem tartalmazzák a még fel nem vett szükségleteket, a már rendezett világítást, konyhabútort, kádas fürdőszobai mosdóösszeállítást és párkányokat, továbbá a burkolást, gépeket és szállítást. Egy-egy kategóriában több alternatíva van – nem kell mindet megvenni. Az alsó/felső kategóriaösszeg nem kész bevásárlócsomag: a házszintű és helyiségenkénti tételek ugyanazt a szükségletet is fedhetik. Az ajánlott összeg is tartalmaz házszintű/helyiségenkénti átfedéseket; nem teljes házköltségvetés.
 
@@ -88,9 +88,9 @@
 
 | Bolt | Termék |
 | --- | --- |
-| IKEA | 211 |
+| IKEA | 212 |
 | Bonami | 18 |
-| JYSK | 13 |
+| JYSK | 15 |
 | szaniteronline.hu | 8 |
 | Sanitino.hu | 6 |
 | Gallerix | 5 |
@@ -115,6 +115,7 @@
 | Szabó Kandalló Bolt | 1 |
 | Mozaik Kerámia (mozaikkeramia.hu) | 1 |
 | Praktiker | 1 |
+| MatracGuru | 1 |
 | Urban Home (Kave Home) | 1 |
 | Mömax | 1 |
 | Bonami (Rowico) | 1 |
@@ -128,7 +129,7 @@ Az új válogatás az XXXLutz, Kave Home, H&M Home és JYSK termékoldalait is f
 ## Hogyan lettek ellenőrizve
 
 - Az alaplista és a célzott bolti felülvizsgálat adatainak dátuma **2026-09-20**. A mostani fájlfrissítés a már elvégzett kutatást építi be; nem új teljes piaci ár- vagy készletellenőrzés.
-- 284 tétel ára a termékoldalról, 34 tételé listaoldalról / az IKEA keresőjéből származik (ezeket a helyiség-README *(ár listaoldalról)* megjegyzéssel jelöli).
+- 288 tétel ára a termékoldalról, 34 tételé listaoldalról / az IKEA keresőjéből származik (ezeket a helyiség-README *(ár listaoldalról)* megjegyzéssel jelöli).
 - **Korábbi gépi linkellenőrzés:** 316 / 316 URL adott 200-as választ. Ez a mentett ellenőrzés nem fedi le az újonnan felvett termékeket; azoknál megnyitott termékoldal volt a forrás.
 - **Mentett második árellenőrzés (2026-09-20):** a korábbi 350 tételből 350 ára egyezett. Ez történeti eredmény, nem a most kibővített lista új ellenőrzése.
 - A készlet és az akciós ár naponta változhat. Szezonális tételeknél (terasz, szeptember vége) ez fokozottan igaz.
@@ -182,3 +183,5 @@ Az új válogatás az XXXLutz, Kave Home, H&M Home és JYSK termékoldalait is f
 - Részletek és további kompromisszumok: [vásárlási felülvizsgálat](vasarlasi-felulvizsgalat-2026-09-20.md).
 
 - **Háló új fekhelye:** egy közös 180×200-as matrac; tároló opcionális. Három új ágyalternatíva szerepel az [összehasonlításban](05-halo/OSSZEHASONLITAS.md), de még nincs ajánlott teljes csomag. A régi 100 000 Ft-os, 160-as keret kizárása nem megtakarítás.
+
+- **Matrac és ágyrács:** [két matrac és két rács vizsgálata](05-halo/MATRAC-OSSZEHASONLITAS.md), külön páros rácsárakkal és próba-/cserefeltételekkel. Árazott, de még nem igazoltan megfelelő P1 jelöltek, ezért kimaradnak a költségutakból; a 233 900 Ft-os számtani csomagpélda nem beköltözési minimum.

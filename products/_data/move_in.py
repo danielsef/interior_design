@@ -29,9 +29,9 @@ ROOM_NOTES = {
     },
     "05-halo": {
         "minimum": "Teljes, használható fekhely, megfelelő méretű alap ágynemű és sötétítés. Az alap ruhatárolással a gardróbban számolunk.",
-        "check": "Egy közös 180×200-as matrac; ágyneműtartó előny, de nem kötelező. A megfelelő csomagok közül a legalacsonyabb teljes árat keressük. A külső méret, kompatibilis ágyrács és matrackomfort ellenőrizendő.",
+        "check": "Egy közös 180×200-as matrac; ágyneműtartó előny, de nem kötelező. A megfelelő csomagok közül a legalacsonyabb teljes árat keressük. A külső méret, kompatibilis ágyrács és matrackomfort ellenőrizendő. Két matrac- és két ágyrácsjelölt már árazott, de a komfort/kompatibilitás igazolásáig kimarad a költségutakból.",
         "later": "Éjjeliszekrény, külön komód, ágyvégi pad, szőnyeg, tükör, díszpárnák és végleges fényszűrő függöny.",
-        "unpriced": "Az új ágykeret még alternatíva, nincs az ajánlott összegben; a régi 100 000 Ft-os keret kivétele nem megtakarítás. Felnőtt matrac és az ágyhoz szükséges, esetleg külön árazott ágyrács; lepedő, paplan és párna. A listázott ágykeret/huzat nem automatikusan teljes alvási csomag.",
+        "unpriced": "Az új ágykeret még alternatíva, nincs az ajánlott összegben; a régi 100 000 Ft-os keret kivétele nem megtakarítás. A kiválasztott csomag szállítása, matracvédő, lepedő, paplan és párna még hiányzik. A listázott ágykeret/huzat nem automatikusan teljes alvási csomag.",
     },
     "06-szoba": {
         "minimum": "A baba ténylegesen használt fekhelye, hozzá illő matrac és lepedő, valamint az alvóhely sötétítése.",
