@@ -9,6 +9,10 @@
 
 > **Követelmények és források felülvizsgálata:** [a helyiség összes kategóriája](../kategoria-felulvizsgalat.md#14-gardrob) · [közös beszerzési módszer és döntések](../beszerzesi-modszer.md). A követelményfelmérés nem jelent új teljes ár- vagy készletellenőrzést.
 
+> **Aktuális kutatási brief:** [megerősített igények és nyitott kérdések](KUTATASI-BRIEF.md). Az új követelményekhez a korábbi termékjelöltek illeszkedését még ellenőrizni kell.
+
+> **Új termék-összehasonlítás:** [konkrét alternatívák, csomagárak és fennmaradó feltételek](OSSZEHASONLITAS.md).
+
 ## Beköltözési prioritás
 
 **Prio 1:** a minimális beköltözéshez szükséges új beszerzés, a jelzett feltételekkel. **Prio 2:** körülbelül fél évig halasztható, vagy csak későbbi cserejelölt. Ez külön szempont az ajánlott/olcsóbb/prémium minősítéstől.
@@ -17,31 +21,37 @@
 
 **Ráér később:** Összehangolt kosarak, puff és állótükör; meglévő ruhatároló esetén a végleges gardróbrendszer is.
 
-**Feltétel / kiváltás:** A hálószobai komód és a gardrób nem egyszerre kötelező minimum. Indulásra itt számolunk a ruhák tárolásával; a kiválasztott egy megoldás váltsa ki a másikat.
+**Feltétel / kiváltás:** Preferencia: lehetőleg a teljes belmagasság kihasználása; bármely megfelelő rendszer vizsgálható. A kész falszélesség, belmagasság, mélység és ajtónyitás még ismeretlen. Meglévő gardrób nem lett egyértelműen megerősítve. A hálókomód és gardrób nem egyszerre kötelező minimum.
+
+> **Még külön ellenőrizendő, nem árazott:** A teljes gardróbrendszer még nincs kiválasztva; a BOAXEL és ELVARLI méret-/árreferencia, kizárva az összegekből. A felső tárolás, rögzítés, szállítás és szerelés külön árazandó. Ez nem nulla ruhatárolási költség.
 
 ### Prio 1 – előre sorolt tételek
 
 | Tételkör | Miért / milyen feltétellel? |
 | --- | --- |
-| Nyitott gardróbrendszer | Legalább egy működő ruhatárolási megoldás kell, ha nincs áthozható szekrény/állvány. **Feltétel:** Ha meglévő szekrény/állvány vagy másik helyiség tárolója kiváltja, a végleges rendszer P2. |
+| Nyitott gardróbrendszer | Legalább egy működő ruhatárolási megoldás kell, ha nincs áthozható szekrény/állvány. **Feltétel:** A napi ruhatárolás P1; a végleges teljes magasságú kiépítés csak megfelelő átmeneti tárolás mellett halasztható. |
 | Fa vállfa | A napi ruhatároláshoz szükséges vállfák; nem kell meglévő használható darabokat lecserélni. |
 
 | Ajánlott tételek fázisonként | Listázott összeg |
 | --- | --- |
-| Prio 1 – beköltözéshez előre sorolt | **57 830 Ft** |
+| Prio 1 – beköltözéshez előre sorolt | **3 980 Ft** |
 | Prio 2 – későbbi új beszerzés | **100 950 Ft** |
 
 > Ezek a korábbi teljes tervezett darabszámokkal számolt, feltételes részösszegek; nem a legolcsóbb beköltözési kosár árai. Egy szükséglethez egy megfelelő megoldást válassz. A meglevővel kiváltott cserejelölt, a kizárt referencia, EUR-os vagy elfogyott termék és az árazatlan hiány nem szerepel bennük. A szükséges induló darabszámok és az átfedések még pontosítandók.
+
+> **Prio 1 funkció, de nincs az ajánlott HUF-részösszegben számolható jelölt:** Nyitott gardróbrendszer. Ez nem nulla költség.
 
 ## Költség ebben a helyiségben
 
 | Számítás | Összeg |
 | --- | --- |
-| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **158 780 Ft** |
-| 💰 Kategóriánként a legolcsóbb sor összege | 134 830 Ft |
-| 💎 Kategóriánként a legdrágább sor összege | 265 930 Ft |
+| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **104 930 Ft** |
+| 💰 Kategóriánként a legolcsóbb sor összege | 104 930 Ft |
+| 💎 Kategóriánként a legdrágább sor összege | 104 930 Ft |
 
 > A darabszám javaslat. A forintos költségutak az EUR-os, készlethiányos, meglévővel kiváltott és külön kizárt referenciatételeket kihagyják; ezek ára nem nulla. A feltételes ajánlások szerepelnek a tervezési összegben. A kategóriánkénti alsó/felső összeg nem összeillő bevásárlócsomag: az opcionális és egymást átfedő tételeket külön kell kiválasztani. A szállítás nincs benne; az ár és készlet rendelés előtt ellenőrizendő.
+
+> A forintos költségutakból kimaradó kategória (nincs számolható tétel): **Nyitott gardróbrendszer**.
 
 ## Termékek
 
@@ -51,15 +61,17 @@
 
 | Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 1** | ⭐ ajánlott | [BOAXEL Gardrób komb, fehér/tölgy](https://www.ikea.com/hu/hu/p/boaxel-gardrob-komb-feher-toelgy-s59575784/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | fehér porszórt acél váz, tölgyfa hatású polcok | 125x40x201 cm | **53 850 Ft** | 1 |
-| **Prio 1** | 💰 olcsóbb | [BOAXEL Gardrób komb, fehér](https://www.ikea.com/hu/hu/p/boaxel-gardrob-komb-feher-s49332362/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | fehér porszórt acél váz és polcok | 82x40x201 cm | **29 900 Ft** | 1 |
-| **Prio 1** | 💎 prémium | [ELVARLI Gardrób komb, fehér/bambusz](https://www.ikea.com/hu/hu/p/elvarli-gardrob-komb-feher-bambusz-s19158156/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | fehér alumínium váz, bambusz polcok | 135x50,8x221,5-350 cm (állítható magasság) | **161 000 Ft** | 1 |
+| **Prio 1** | Alternatíva | [BOAXEL Gardrób komb, fehér/tölgy](https://www.ikea.com/hu/hu/p/boaxel-gardrob-komb-feher-toelgy-s59575784/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | fehér porszórt acél váz, tölgyfa hatású polcok | 125x40x201 cm | **53 850 Ft** | 1 |
+| **Prio 1** | Alternatíva | [BOAXEL Gardrób komb, fehér](https://www.ikea.com/hu/hu/p/boaxel-gardrob-komb-feher-s49332362/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | fehér porszórt acél váz és polcok | 82x40x201 cm | **29 900 Ft** | 1 |
+| **Prio 1** | Alternatíva | [ELVARLI Gardrób komb, fehér/bambusz](https://www.ikea.com/hu/hu/p/elvarli-gardrob-komb-feher-bambusz-s19158156/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | fehér bevonatos alumínium oszlopok, bambusz felületű méhsejt-papírtöltetes polcok, lapanyag fiókok; nem tömörfa gardrób | 135x50,8x221,5-350 cm (állítható magasság) | **161 000 Ft** | 1 |
 
-**Prio 1:** Legalább egy működő ruhatárolási megoldás kell, ha nincs áthozható szekrény/állvány. Feltétel: Ha meglévő szekrény/állvány vagy másik helyiség tárolója kiváltja, a végleges rendszer P2.
+**Prio 1:** Legalább egy működő ruhatárolási megoldás kell, ha nincs áthozható szekrény/állvány. Feltétel: A napi ruhatárolás P1; a végleges teljes magasságú kiépítés csak megfelelő átmeneti tárolás mellett halasztható.
 
-- **BOAXEL Gardrób komb, fehér/tölgy** – Ajtó nélküli, nyitott rendszer, fehér+tölgy kombináció – ez illik a ház tölgy alaptónusához, és jól kihasználja a 2,79 m²-es teret polcokkal, rúddal és kosarakkal. ⚠️ *Falra kell rögzíteni (nem szabadon álló); a polcok fólia/papírbevonatú tölgyhatásúak, nem valódi furnér.*
-- **BOAXEL Gardrób komb, fehér** – Ugyanaz a moduláris, nyitott BOAXEL rendszer kisebb és olcsóbb kivitelben – jó belépő megoldás szűk térbe. ⚠️ *Nincs fa tónusú elem, csak fehér – a ház fa-egységéhez fa hatású polcok (pl. BOAXEL polc tölgyfa hatású, kb. 4500 Ft/db) utólag hozzáadhatók.* *(ár listaoldalról)*
-- **ELVARLI Gardrób komb, fehér/bambusz** – Nyitott polcos rendszer valódi bambusz polcokkal (fonott rost hatás) – vizuálisan a legmelegebb, legtermészetesebb tölgy-rokon tónus a három opció közül. ⚠️ *Mennyezeti rögzítést igényel (2 fő kell az összeszereléshez); 135 cm szélessége a 2,79 m²-es gardróbban helyszíni méréssel ellenőrizendő, mielőtt megrendelnéd.*
+> **A beszerzési összegből kizárva:** Teljes belmagasság kihasználása az új preferencia; méretek, kapacitás és rögzíthetőség nélkül nincs kiválasztott teljes gardróbrendszer.
+
+- **BOAXEL Gardrób komb, fehér/tölgy** – Moduláris, falra rögzített belépő rendszer; 201 cm magas, önmagában nem teljes belmagasságú megoldás. ⚠️ *Az akasztott ruhák helyigénye meghaladhatja a 40 cm-es polcmélységet. Felső tárolás csak külön megtervezett, kompatibilis kiegészítéssel; ennek ára hiányzik. A tölgyhatású polc nem valódi furnér.*
+- **BOAXEL Gardrób komb, fehér** – Moduláris, falra rögzített belépő rendszer; 201 cm magas, önmagában nem teljes belmagasságú megoldás. ⚠️ *Az akasztott ruhák helyigénye meghaladhatja a 40 cm-es polcmélységet. Felső tárolás csak külön megtervezett, kompatibilis kiegészítéssel; ennek ára hiányzik. A fehér fémszerkezet praktikus kompromisszum.* *(ár listaoldalról)*
+- **ELVARLI Gardrób komb, fehér/bambusz** – Állítható oszlopos rendszer, 222–350 cm magasságtartománnyal; teljes magasságú szerkezetre alkalmas jelölt, a felső polckiosztás külön tervezendő. ⚠️ *Mennyezethez rögzítendő, megfelelő rögzítőelemek külön szükségesek. A födém, kész belmagasság, ajtónyitás és ruhakapacitás ellenőrizendő. A bambusz tónusához közös minta kell.*
 
 ### Fa vállfa — Prio 1
 
@@ -79,7 +91,7 @@
 
 **Prio 2:** Az alap ruhatárolás mellett kényelmi vagy esztétikai kiegészítő.
 
-- **KNIPSA Kosár, tengerifű** – Természetes fonott rost (tengerifű) tárolókosár a polcokra – az irányelv 'fonott rost minden helyiségben' elve, itt kifejezetten tárolásra. *(ár listaoldalról)*
+- **KNIPSA Kosár, tengerifű** – Opcionális tengerifű kosár természetes textúrával, csak a kiválasztott polchoz illő méretben; nem kötelező minden helyiségbe fonott rost. *(ár listaoldalról)*
 
 ### Zsámoly / puff — Prio 2
 

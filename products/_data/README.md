@@ -53,3 +53,7 @@ A `96-kanape-alternativak.json` egy 2026-09-20-án ellenőrzött Rocky figyelől
 A `95-halo-alternativak.json` három 180×200-as ágyalternatívát ad hozzá: **318 rekord**. A három régi 140/160-as ágy kizárt referencia; a teljes fekhely még nem ajánlott csomag. Az új tételek `why` és `caveat` mezője külön nevezi meg a stílusbeli illeszkedést, kompromisszumot és hiányzó ellenőrzést.
 
 A `94-halo-matrac-agyracs.json` két matracot és két ágyrácsot ad hozzá: **322 rekord, 188 helyiség–kategória**. Mind a négy P1, de `budget_include: false` a hiányzó komfort-/terhelhetőségi és kompatibilitási igazolás miatt. A rács egységára mellett `qty: 2`; az ágyba eleve foglalt rácsot nem kell újra hozzáadni. [Kutatási eredmény és feltételes csomagárak](../05-halo/MATRAC-OSSZEHASONLITAS.md).
+
+## Függöny és gardrób pontosítása, hozott textilek – 2026-09-20
+
+A `92-fuggony-alternativak.json` három kizárt áregység-referenciát ad hozzá: 332 rekord, 189 helyiség–kategória. A hozott törölközők és ruhaszárító cserejelöltként P2, `budget_include: false`. A rolóreferenciák kizártak; a korábbi függöny-/karnisbecslések és három gardróbcsomag mérésig ugyancsak kizártak. A függönyreferenciák `qty: 1` értéke egy áregységet jelent, nem rendelési darabszámot. A P1 funkció és hiányzó teljes költség a helyiségjegyzetekben is szerepel.

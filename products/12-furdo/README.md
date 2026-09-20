@@ -15,7 +15,7 @@
 
 **Prio 1:** a minimális beköltözéshez szükséges új beszerzés, a jelzett feltételekkel. **Prio 2:** körülbelül fél évig halasztható, vagy csak későbbi cserejelölt. Ez külön szempont az ajánlott/olcsóbb/prémium minősítéstől.
 
-**Induló minimum:** Legalább egy teljesen működő fürdő. A kádas fürdő szekrénye, mosdója és pultja megvan/megrendelve; ennek beépítésével, alap törölközőkkel, szükséges kilépővel/csúszásvédelemmel és egy használható mosdótükörrel számolunk.
+**Induló minimum:** Legalább egy teljesen működő fürdő. A kádas fürdő szekrénye, mosdója és pultja megvan/megrendelve; a törölközőket hozzátok. A szükséges kilépő/csúszásvédelem és egy használható mosdótükör ettől külön ellenőrizendő.
 
 **Ráér később:** A második fürdő pultja/tükre, külön magas tároló, végleges sárgaréz kiegészítők, szennyestartó, kádpolc és pad, ha a kész kádas fürdő elegendő.
 
@@ -27,15 +27,14 @@
 
 | Tételkör | Miért / milyen feltétellel? |
 | --- | --- |
-| Fürdőlepedő | Alap törölközők a beköltözőknek már az első naptól kellenek. |
 | Csúszásgátló kádbetét | A használatba vett kádban szükséges csúszásvédelem ne maradjon későbbre. |
 | Tükör (kádas fürdő, megrendelt bútorhoz igazítva) | Egy használható mosdótükör a napi készülődéshez kell; meglévővel helyettesíthető. |
 | Kádkilépő (pamut) | A használatba vett kád/zuhany mellé kell megfelelő kilépő; a három darab nem automatikus induló minimum. |
 
 | Ajánlott tételek fázisonként | Listázott összeg |
 | --- | --- |
-| Prio 1 – beköltözéshez előre sorolt | **48 030 Ft** |
-| Prio 2 – későbbi új beszerzés | **304 200 Ft** |
+| Prio 1 – beköltözéshez előre sorolt | **42 650 Ft** |
+| Prio 2 – későbbi új beszerzés | **299 620 Ft** |
 
 > Ezek a korábbi teljes tervezett darabszámokkal számolt, feltételes részösszegek; nem a legolcsóbb beköltözési kosár árai. Egy szükséglethez egy megfelelő megoldást válassz. A meglevővel kiváltott cserejelölt, a kizárt referencia, EUR-os vagy elfogyott termék és az árazatlan hiány nem szerepel bennük. A szükséges induló darabszámok és az átfedések még pontosítandók.
 
@@ -43,31 +42,17 @@
 
 | Számítás | Összeg |
 | --- | --- |
-| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **352 230 Ft** |
-| 💰 Kategóriánként a legolcsóbb sor összege | 521 510 Ft |
-| 💎 Kategóriánként a legdrágább sor összege | 611 900 Ft |
+| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **342 270 Ft** |
+| 💰 Kategóriánként a legolcsóbb sor összege | 515 540 Ft |
+| 💎 Kategóriánként a legdrágább sor összege | 593 340 Ft |
 
 > A darabszám javaslat. A forintos költségutak az EUR-os, készlethiányos, meglévővel kiváltott és külön kizárt referenciatételeket kihagyják; ezek ára nem nulla. A feltételes ajánlások szerepelnek a tervezési összegben. A kategóriánkénti alsó/felső összeg nem összeillő bevásárlócsomag: az opcionális és egymást átfedő tételeket külön kell kiválasztani. A szállítás nincs benne; az ár és készlet rendelés előtt ellenőrizendő.
 
-> A forintos költségutakból kimaradó kategória (nincs számolható tétel): **Pultreferencia – zuhanyzós fürdő (méretellenőrzésre vár)**.
+> A forintos költségutakból kimaradó kategória (nincs számolható tétel): **Fürdőlepedő, Pultreferencia – zuhanyzós fürdő (méretellenőrzésre vár), Zsályazöld törölköző (akcentus)**.
 
 ## Termékek
 
 ⭐ = ezt venném · 💰 = olcsóbb, még vállalható · 💎 = jobb minőség, még észszerű áron
-
-### Fürdőlepedő — Prio 1
-
-| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 1** | ⭐ ajánlott | [GULVIAL fürdőlepedő, bézs](https://www.ikea.com/hu/hu/p/gulvial-fuerdolepedo-bezs-70624491/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | 100% pamut, 500 g/m², bézs | 70x140 cm | **2 690 Ft** | 2 |
-| **Prio 1** | 💰 olcsóbb | [LUDDVIAL fürdőlepedő, fehér](https://www.ikea.com/hu/hu/p/luddvial-fuerdolepedo-feher-10579868/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | pamut, törtfehér | 55x120 cm | **695 Ft** | 2 |
-| **Prio 1** | 💎 prémium | [BROKGLIM fürdőlepedő, bézs](https://www.ikea.com/hu/hu/p/brokglim-fuerdolepedo-bezs-40612098/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | 100% GOTS-tanúsítványú biopamut, 650 g/m², bézs, szövött szegéllyel | 100x150 cm | **6 990 Ft** | 2 |
-
-**Prio 1:** Alap törölközők a beköltözőknek már az első naptól kellenek.
-
-- **GULVIAL fürdőlepedő, bézs** – 100%-ban pamut, 500 g/m²-es közepes-vastag anyag, homok/bézs színben – pontosan a rögzített törtfehér-homok fürdőtextil-palettához illik. ⚠️ *Hozzá illő GULVIAL kéztörölköző (30x50 cm, bézs, kb. 595 Ft/db) külön rendelhető ugyanabban a színben.*
-- **LUDDVIAL fürdőlepedő, fehér** – Nagyon olcsó, törtfehér alapszín – ha csak az egyik szín (törtfehér) kell a homok mellé, ez a legköltséghatékonyabb választás. ⚠️ *Vékonyabb anyag, mint a GULVIAL vagy a BROKGLIM; súlya (g/m²) nincs feltüntetve a termékoldalon.* *(ár listaoldalról)*
-- **BROKGLIM fürdőlepedő, bézs** – 650 g/m²-es, GOTS-minősítésű biopamut és nagy fürdőlepedő méret – ez a minőségi lépcsőfok a családi fürdőszobába.
 
 ### Csúszásgátló kádbetét — Prio 1
 
@@ -120,6 +105,22 @@
 **Prio 2:** Legalább egy teljesen működő fürdő mellett a második helyiség befejezése vagy a végleges kiegészítő későbbre ütemezhető.
 
 - **BRANÄS kosár, rattan** – Természetes rattan, meleg tónusú fonott tároló – a fürdő 'sok fehér, kevés fa' problémájára pontosan ez a tudatos melegítő elem. *(ár listaoldalról)*
+
+### Fürdőlepedő — Prio 2
+
+| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Prio 2** | Figyelőlista | [GULVIAL fürdőlepedő, bézs](https://www.ikea.com/hu/hu/p/gulvial-fuerdolepedo-bezs-70624491/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | 100% pamut, 500 g/m², bézs | 70x140 cm | **2 690 Ft** | 2 |
+| **Prio 2** | Figyelőlista | [LUDDVIAL fürdőlepedő, fehér](https://www.ikea.com/hu/hu/p/luddvial-fuerdolepedo-feher-10579868/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | pamut, törtfehér | 55x120 cm | **695 Ft** | 2 |
+| **Prio 2** | Figyelőlista | [BROKGLIM fürdőlepedő, bézs](https://www.ikea.com/hu/hu/p/brokglim-fuerdolepedo-bezs-40612098/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | 100% GOTS-tanúsítványú biopamut, 650 g/m², bézs, szövött szegéllyel | 100x150 cm | **6 990 Ft** | 2 |
+
+**Prio 2:** A meglévő darabokat hozzátok; új beszerzés nem szükséges, csak későbbi csereopció.
+
+> **A beszerzési összegből kizárva:** Tulajdonosi megerősítés: a törölközőket és az összecsukható ruhaszárítót hozzátok.
+
+- **GULVIAL fürdőlepedő, bézs** – Meglévővel kiváltott szükséglet; ez a termék csak későbbi csere referencia. ⚠️ *Hozzá illő GULVIAL kéztörölköző (30x50 cm, bézs, kb. 595 Ft/db) külön rendelhető ugyanabban a színben.*
+- **LUDDVIAL fürdőlepedő, fehér** – Meglévővel kiváltott szükséglet; ez a termék csak későbbi csere referencia. ⚠️ *Vékonyabb anyag, mint a GULVIAL vagy a BROKGLIM; súlya (g/m²) nincs feltüntetve a termékoldalon.* *(ár listaoldalról)*
+- **BROKGLIM fürdőlepedő, bézs** – Meglévővel kiváltott szükséglet; ez a termék csak későbbi csere referencia.
 
 ### Bambusz kiegészítő szett — Prio 2
 
@@ -235,11 +236,13 @@
 
 | Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 2** | ⭐ ajánlott | [VALLASÅN fürdőlepedő, világoszöld, 70x140 cm](https://www.ikea.com/hu/hu/p/vallasan-fuerdolepedo-vilagoszoeld-90531330/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | 80% pamut, 20% viszkóz, 285 g/m², tompa világoszöld (növényi hulladékból készült festék), rojtos szél | 70x140 cm | **2 290 Ft** <br>*/db, akciós, eredeti 3 290 Ft* | 2 |
+| **Prio 2** | Figyelőlista | [VALLASÅN fürdőlepedő, világoszöld, 70x140 cm](https://www.ikea.com/hu/hu/p/vallasan-fuerdolepedo-vilagoszoeld-90531330/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | 80% pamut, 20% viszkóz, 285 g/m², tompa világoszöld (növényi hulladékból készült festék), rojtos szél | 70x140 cm | **2 290 Ft** <br>*/db, akciós, eredeti 3 290 Ft* | 2 |
 
-**Prio 2:** Legalább egy teljesen működő fürdő mellett a második helyiség befejezése vagy a végleges kiegészítő későbbre ütemezhető.
+**Prio 2:** A meglévő darabokat hozzátok; új beszerzés nem szükséges, csak későbbi csereopció.
 
-- **VALLASÅN fürdőlepedő, világoszöld, 70x140 cm** – Az irányelv szerint a zsályazöld törölköző jól áll a meleg szürke csempéhez: ez a tompa, földes zöld visszafogott akcentus a bézs GULVIAL törölközők mellé. ⚠️ *Vékony, laposszövésű (285 g/m²) – gyorsan szárad, de nem bolyhos frottír. Az árnyalatot áruházban érdemes a bézs törölköző mellé tenni. 100x150 cm-es változat 3 490 Ft.*
+> **A beszerzési összegből kizárva:** Tulajdonosi megerősítés: a törölközőket és az összecsukható ruhaszárítót hozzátok.
+
+- **VALLASÅN fürdőlepedő, világoszöld, 70x140 cm** – Meglévővel kiváltott szükséglet; ez a termék csak későbbi csere referencia. ⚠️ *Vékony, laposszövésű (285 g/m²) – gyorsan szárad, de nem bolyhos frottír. Az árnyalatot áruházban érdemes a bézs törölköző mellé tenni. 100x150 cm-es változat 3 490 Ft.*
 
 ### Bambusz kádpolc — Prio 2
 

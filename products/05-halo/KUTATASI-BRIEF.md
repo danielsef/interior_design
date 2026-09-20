@@ -24,3 +24,7 @@ Az éjjeliszekrény, pad, tükör, dekor és külön komód P2. A gardrób alap 
 Az [ágy-összehasonlítás](OSSZEHASONLITAS.md) három megfelelő fekvőméretű alternatívát tartalmaz. Nincs kategóriaárplafon: a követelményeket teljesítő legkedvezőbb teljes csomagárat keressük; a korábbi keretkérdés tárgytalan.
 
 A [matrac- és ágyrács-összehasonlítás](MATRAC-OSSZEHASONLITAS.md) két matracot és két rácsot áraz. Ezek a kompatibilitási/komfortellenőrzésig kimaradnak a költségutakból; a rács mennyisége két darab, ha nincs eleve az ágyhoz mellékelve.
+
+## Függöny és ruhatárolás – tulajdonosi pontosítás
+
+Nincs és nem lesz külső árnyékoló; karnis, fényszűrő és sötétítő készül. A háló teljes szükséges rendszere P1, de a korábbi roló és a még méretezetlen függönyjelöltek kimaradnak az összegből. [Közös rendszer-összevetés](../00-altalanos-hangulat/OSSZEHASONLITAS.md). A gardróbnál a teljes belmagasság kihasználása preferált; [rendszerirányok](../14-gardrob/OSSZEHASONLITAS.md), méretezés még szükséges.

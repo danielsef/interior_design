@@ -24,7 +24,7 @@
 | Ajánlott tételek fázisonként | Listázott összeg |
 | --- | --- |
 | Prio 1 – beköltözéshez előre sorolt | **0 Ft** |
-| Prio 2 – későbbi új beszerzés | **270 350 Ft** |
+| Prio 2 – későbbi új beszerzés | **261 360 Ft** |
 
 > Ezek a korábbi teljes tervezett darabszámokkal számolt, feltételes részösszegek; nem a legolcsóbb beköltözési kosár árai. Egy szükséglethez egy megfelelő megoldást válassz. A meglevővel kiváltott cserejelölt, a kizárt referencia, EUR-os vagy elfogyott termék és az árazatlan hiány nem szerepel bennük. A szükséges induló darabszámok és az átfedések még pontosítandók.
 
@@ -32,11 +32,13 @@
 
 | Számítás | Összeg |
 | --- | --- |
-| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **270 350 Ft** |
-| 💰 Kategóriánként a legolcsóbb sor összege | 172 370 Ft |
-| 💎 Kategóriánként a legdrágább sor összege | 412 060 Ft |
+| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **261 360 Ft** |
+| 💰 Kategóriánként a legolcsóbb sor összege | 163 380 Ft |
+| 💎 Kategóriánként a legdrágább sor összege | 403 070 Ft |
 
 > A darabszám javaslat. A forintos költségutak az EUR-os, készlethiányos, meglévővel kiváltott és külön kizárt referenciatételeket kihagyják; ezek ára nem nulla. A feltételes ajánlások szerepelnek a tervezési összegben. A kategóriánkénti alsó/felső összeg nem összeillő bevásárlócsomag: az opcionális és egymást átfedő tételeket külön kell kiválasztani. A szállítás nincs benne; az ár és készlet rendelés előtt ellenőrizendő.
+
+> A forintos költségutakból kimaradó kategória (nincs számolható tétel): **Sötétítés**.
 
 ## Termékek
 
@@ -126,11 +128,13 @@
 
 | Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 2** | ⭐ ajánlott | [FÖNSTERBLAD sötétítő roló, bézs](https://www.ikea.com/hu/hu/p/foensterblad-soetetito-rolo-bezs-40538447/) | **IKEA** – online (ikea.com/hu) + IKEA Budaörs áruház | bézs textil, alumínium mechanika | 120x155 cm (ablakmérethez válaszd a szélességet) | **8 990 Ft** | 1 |
+| **Prio 2** | Figyelőlista | [FÖNSTERBLAD sötétítő roló, bézs](https://www.ikea.com/hu/hu/p/foensterblad-soetetito-rolo-bezs-40538447/) | **IKEA** – online (ikea.com/hu) + IKEA Budaörs áruház | bézs textil, alumínium mechanika | 120x155 cm (ablakmérethez válaszd a szélességet) | **8 990 Ft** | 1 |
 
-**Prio 2:** Megerősítve vendég-/tartalékszoba: az új berendezés fél évig halasztható. Feltétel: Ha beköltözéstől mindennapi hálószoba, a fekhely, ágynemű, sötétítés és alap ruhatárolás Prio 1-re vált.
+**Prio 2:** Kizárt korábbi rolóreferencia; a választott rendszer karnis, függöny és sötétítő.
 
-- **FÖNSTERBLAD sötétítő roló, bézs** – Ugyanaz a bézs sötétítő roló család, mint a 06-szobában – egységes megjelenés a két gyerekszoba között, kötelező elsötétítéssel. *(ár listaoldalról)*
+> **A beszerzési összegből kizárva:** A tulajdonos függönyös megoldást választott; nincs külső árnyékoló, rolót sem tervezünk.
+
+- **FÖNSTERBLAD sötétítő roló, bézs** – Korábbi referencia, a függönyös döntés után nem beszerzendő. ⚠️ *Az alvóhely sötétítési funkciója továbbra is P1, de függönnyel és hozzá illő karnissal kell biztosítani; ennek ára külön hiányzik.* *(ár listaoldalról)*
 
 ### Tárolódoboz — Prio 2
 

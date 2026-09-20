@@ -148,3 +148,9 @@ Téglalap alakú asztal, alapállapotban hat férőhellyel; a baba alvóhelyéne
 ## Étkezőszékek – 2026-09-20
 
 Párnázott vagy fonott ülés szükséges. A [három próbajelölt](03-etkezo/SZEK-OSSZEHASONLITAS.md) Carryhome, TONSTAD és ISLEV; Eva Enjoy tartalék. A három új sorral 329 rekord van. Az ISLEV korábbi feltételes ajánlása egyelőre megmarad, de nem lezárt árnyertes: két olcsóbb jelölt anyag-, szín-, komfort- és szállítási ellenőrzésre vár. A csupasz fa ülésű Eva drevo és Evera kizárva.
+
+## Függöny, gardrób és hozott háztartási tételek – 2026-09-20
+
+A törölközők és összecsukható ruhaszárító meglévővel kiváltva, új áruk nem szerepel a költségekben. A tulajdonos karnis–függöny–sötétítő rendszert választott, külső árnyékoló nélkül. A [függönyös összevetés](00-altalanos-hangulat/OSSZEHASONLITAS.md) készterméket, méretre varrást és kétpályás sínreferenciát is vizsgál. Mérésig nincs összeadható teljes rendszerár, a régi rolók és feltételezett házcsomagok kizártak.
+
+A [gardrób három lehetséges kialakítása](14-gardrob/OSSZEHASONLITAS.md) a teljes belmagasság kihasználását vizsgálja. Méretre készülő megoldáshoz két forrás szerepel, mellettük ELVARLI és BOAXEL árreferencia; ez még nem azonos kapacitású végleges árverseny. Kész méretek és kiosztás kell a döntéshez. Külső megkeresés nem történt.

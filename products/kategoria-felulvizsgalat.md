@@ -29,7 +29,7 @@ Rögzített új válaszok és határidők: [beszerzési módszer és döntési n
 | <a id="csoport-baba"></a>**Gyermek fekhelye és gondozása** | Beköltözéskor 1 éves gyermek; tényleges használat, gyártói kor-/terhelési feltételek, méretben illő matrac és tartozékok. | Babaáruház és gyártói dokumentáció, Brendon, meglévő Hauck/Stokke források; IKEA viszonyítás. |
 | <a id="csoport-tarolo"></a>**Tárolóbútor és polc** | Kész helyszíni szélesség/mélység, ajtónyitás, szükséges tárolókapacitás és rögzítés; dekor/furnér/tömörfa külön. | RS, JYSK, XXXLutz/Mömax, Bonami; moduláris rendszer és méretre készülő változat.  Tulajdonosi kérésre: [Bútor Mirek](https://www.butormirek.hu/). |
 | <a id="csoport-kis_asztal"></a>**Dohányzó-, lerakó- és konzolasztal** | A nagy ülőbútorhoz/elrendezéshez igazított méret; nappali dohányzóasztal fa; lábtér, stabilitás és faárnyalat. | XXXLutz, Kave Home, Bonami, JYSK, fa bútorokra szakosodott gyártó; használt is.  Tulajdonosi kérésre: [Bútor Mirek](https://www.butormirek.hu/). |
-| <a id="csoport-arnyekolas"></a>**Függöny, roló és rögzítés** | Nyílásonkénti méret, nyitás és funkció; szövet + sín/karnis + szerelés egy rendszer. Szobai és házszintű tételek átfedése. | DIEGO, árnyékolási szaküzlet/varroda, JYSK, Bonami; kész és méretre készülő csomag összevetése. |
+| <a id="csoport-arnyekolas"></a>**Függöny és rögzítés** | Nyílásonkénti méret, nyitás és funkció; szövet + sín/karnis + szerelés egy rendszer. Szobai és házszintű tételek átfedése. | DIEGO, árnyékolási szaküzlet/varroda, JYSK, Bonami; kész és méretre készülő csomag összevetése. |
 | <a id="csoport-szonyeg"></a>**Szőnyeg és alátét** | Tényleges bútorozási méret, ajtónyitás, tisztítás és a padlóval kompatibilis alátét; egy zónában az alternatívák kiváltják egymást. | DIEGO, JYSK, Bonami, szőnyegszaküzlet; IKEA viszonyítás. |
 | <a id="csoport-agynemu"></a>**Ágynemű és alap textíliák** | Matrac/paplan/párna tényleges mérete, szálösszetétel, mosás; huzat nem teljes alvási csomag. | JYSK, H&M Home, textilszaküzlet; IKEA viszonyítás, azonos készlettartalommal. |
 | <a id="csoport-textil"></a>**Párna, pléd és dekor textil** | Méret és szálösszetétel; huzat és belső külön; ténylegesen mosható-e; bútor-/anyagmintához illesztés. | H&M Home, JYSK, Bonami, textilszaküzlet/varroda; összevont kosár. |
@@ -54,16 +54,16 @@ A „jelölt / IKEA” a jelenlegi rekordszám. A boltok a tárolt kereskedőnev
 <a id="00-altalanos-hangulat"></a>
 ### [00-altalanos-hangulat](00-altalanos-hangulat/README.md)
 
-Házszintű készlet: a szobai kosár, függöny, roló és párna sorokkal összevezetendő. A teljes fényvédelmi rendszer nem egyszerre kötelező.
+Aktuális döntés: karnis, függöny és sötétítő; külső árnyékoló nincs. A rolók kizártak; a házszintű és szobai függönyreferenciák mérésig nem számolhatók. [Rendszer-összevetés](00-altalanos-hangulat/OSSZEHASONLITAS.md). A táblázat forrásszámai korábbi felmérési pillanatképek, nem aktuális készletadatok.
 
 | Kategória | Prio | Jelölt / IKEA | Jelenlegi boltok | Következő ellenőrzés |
 | --- | --- | --- | --- | --- |
-| Fényszűrő len függöny | P2 | 2 / 1 | Bonami, IKEA | [Függöny, roló és rögzítés](#csoport-arnyekolas): Nyílásonkénti méret, nyitás és funkció; szövet + sín/karnis + szerelés egy rendszer. Szobai és házszintű tételek átfedése. |
-| Fényszűrő len hatású függöny | P2 | 1 / 1 | IKEA | [Függöny, roló és rögzítés](#csoport-arnyekolas): A lenhatás nem len összetétel. A GUNNEMOR mentett adata 100% újrahasznosított poliészter; tudatos kompromisszumként hasonlítható. |
-| Sötétítő bélés a fényszűrő függöny mögé | P2 | 1 / 1 | IKEA | [Függöny, roló és rögzítés](#csoport-arnyekolas): Nyílásonkénti méret, nyitás és funkció; szövet + sín/karnis + szerelés egy rendszer. Szobai és házszintű tételek átfedése. |
-| Sötétítő roló | P2 | 2 / 2 | IKEA | [Függöny, roló és rögzítés](#csoport-arnyekolas): Nyílásonkénti méret, nyitás és funkció; szövet + sín/karnis + szerelés egy rendszer. Szobai és házszintű tételek átfedése. |
-| Mennyezeti karnissín (fehér, letisztult vonalú alternatíva) | P2 | 1 / 1 | IKEA | [Függöny, roló és rögzítés](#csoport-arnyekolas): Nyílásonkénti méret, nyitás és funkció; szövet + sín/karnis + szerelés egy rendszer. Szobai és házszintű tételek átfedése. |
-| Zsinórbiztonság (roló/függöny zsinórjához) | P1 | 1 / 0 | Függönymester | [Babavédelem és kandallóvédelem](#csoport-biztonsag): A tényleges helyhez és berendezéshez illő gyártói megoldás; rögzítés, kompatibilitás, használati útmutató. |
+| Fényszűrő len függöny | P2 | 2 / 1 | Bonami, IKEA | [Függöny és rögzítés](#csoport-arnyekolas): Nyílásonkénti méret, nyitás és funkció; szövet + sín/karnis + szerelés egy rendszer. Szobai és házszintű tételek átfedése. |
+| Fényszűrő len hatású függöny | P2 | 1 / 1 | IKEA | [Függöny és rögzítés](#csoport-arnyekolas): A lenhatás nem len összetétel. A GUNNEMOR mentett adata 100% újrahasznosított poliészter; tudatos kompromisszumként hasonlítható. |
+| Sötétítő bélés a fényszűrő függöny mögé | P2 | 1 / 1 | IKEA | [Függöny és rögzítés](#csoport-arnyekolas): Nyílásonkénti méret, nyitás és funkció; szövet + sín/karnis + szerelés egy rendszer. Szobai és házszintű tételek átfedése. |
+| Sötétítő roló | P2 – kizárt referencia | 2 / 2 | IKEA | A korábbi roló kizárt. A használt alvóhely karnis–függöny–sötétítő rendszere P1, külön mérendő és árazandó; vendégszobában P2. |
+| Mennyezeti karnissín (fehér, letisztult vonalú alternatíva) | P2 | 1 / 1 | IKEA | [Függöny és rögzítés](#csoport-arnyekolas): Nyílásonkénti méret, nyitás és funkció; szövet + sín/karnis + szerelés egy rendszer. Szobai és házszintű tételek átfedése. |
+| Zsinórbiztonság (roló/függöny zsinórjához) | P2 – feltételes | 1 / 0 | Függönymester | Nincs igazolt zsinóros rendszer; kézi/pálcás működtetés az első javaslat. A konkrét szerelvény megfelelősége nem igazolt, költségből kizárva. |
 | Fonott tárolókosár (kicsi, ~25 cm) | P2 | 1 / 1 | IKEA | [Kosár, doboz és vállfa](#csoport-kosar): A tartalomhoz és polchoz illő belső/külső méret, fedél és nedvesség; házszinten ne számoljuk kétszer. |
 | Fonott tárolókosár (közepes, ~32 cm) | P2 | 2 / 2 | IKEA | [Kosár, doboz és vállfa](#csoport-kosar): A tartalomhoz és polchoz illő belső/külső méret, fedél és nedvesség; házszinten ne számoljuk kétszer. |
 | Fonott tárolókosár (nagy, ~54 cm) | P2 | 1 / 1 | IKEA | [Kosár, doboz és vállfa](#csoport-kosar): A tartalomhoz és polchoz illő belső/külső méret, fedél és nedvesség; házszinten ne számoljuk kétszer. |
@@ -88,9 +88,9 @@ Házszintű készlet: a szobai kosár, függöny, roló és párna sorokkal öss
 | Babavédelem – konnektorvédő | P1 | 1 / 1 | IKEA | [Babavédelem és kandallóvédelem](#csoport-biztonsag): A tényleges helyhez és berendezéshez illő gyártói megoldás; rögzítés, kompatibilitás, használati útmutató. |
 | Babavédelem – ajtó-/ujjvédő | P1 | 1 / 1 | IKEA | [Babavédelem és kandallóvédelem](#csoport-biztonsag): A tényleges helyhez és berendezéshez illő gyártói megoldás; rögzítés, kompatibilitás, használati útmutató. |
 | Nagy padlókaspó olajfának (Ø 30+ cm) | P2 | 2 / 1 | Fitoland.hu, IKEA | [Növény és kaspó](#csoport-noveny): Tényleges fényviszony, növényigény és gyermek melletti elhelyezés; kaspó belső méret és vízkezelés. |
-| Karnis (szálcsiszolt sárgaréz / matt arany) | P2 | 4 / 0 | Designmarket (Umbra), OBI, Árnyékolókweb (arnyekolokweb.hu) | [Függöny, roló és rögzítés](#csoport-arnyekolas): Nyílásonkénti méret, nyitás és funkció; szövet + sín/karnis + szerelés egy rendszer. Szobai és házszintű tételek átfedése. |
-| Dupla karnis | P2 | 1 / 0 | Árnyékolókweb (arnyekolokweb.hu) | [Függöny, roló és rögzítés](#csoport-arnyekolas): Nyílásonkénti méret, nyitás és funkció; szövet + sín/karnis + szerelés egy rendszer. Szobai és házszintű tételek átfedése. |
-| Függönykarika (csak a karika nélküli karnisokhoz) | P2 | 1 / 0 | OBI | [Függöny, roló és rögzítés](#csoport-arnyekolas): Nyílásonkénti méret, nyitás és funkció; szövet + sín/karnis + szerelés egy rendszer. Szobai és házszintű tételek átfedése. |
+| Karnis (szálcsiszolt sárgaréz / matt arany) | P2 | 4 / 0 | Designmarket (Umbra), OBI, Árnyékolókweb (arnyekolokweb.hu) | [Függöny és rögzítés](#csoport-arnyekolas): Nyílásonkénti méret, nyitás és funkció; szövet + sín/karnis + szerelés egy rendszer. Szobai és házszintű tételek átfedése. |
+| Dupla karnis | P2 | 1 / 0 | Árnyékolókweb (arnyekolokweb.hu) | [Függöny és rögzítés](#csoport-arnyekolas): Nyílásonkénti méret, nyitás és funkció; szövet + sín/karnis + szerelés egy rendszer. Szobai és házszintű tételek átfedése. |
+| Függönykarika (csak a karika nélküli karnisokhoz) | P2 | 1 / 0 | OBI | [Függöny és rögzítés](#csoport-arnyekolas): Nyílásonkénti méret, nyitás és funkció; szövet + sín/karnis + szerelés egy rendszer. Szobai és házszintű tételek átfedése. |
 
 <a id="01-eloszoba"></a>
 ### [01-eloszoba](01-eloszoba/README.md)
@@ -180,8 +180,8 @@ A kanapé új specifikációja meghatározza a kisbútorokat is. Közös légté
 | Ágyneműhuzat garnitúra | P1 | 3 / 2 | H&M Home, IKEA | [Ágynemű és alap textíliák](#csoport-agynemu): Matrac/paplan/párna tényleges mérete, szálösszetétel, mosás; huzat nem teljes alvási csomag. |
 | Szőnyeg | P2 | 1 / 1 | IKEA | [Szőnyeg és alátét](#csoport-szonyeg): Tényleges bútorozási méret, ajtónyitás, tisztítás és a padlóval kompatibilis alátét; egy zónában az alternatívák kiváltják egymást. |
 | Pad az ágy végéhez | P2 | 1 / 1 | IKEA | [Fotel, pad, puff](#csoport-fotel): Használat, ülésméret, stabilitás, helyigény és tisztíthatóság; a nagy bútorok után méretezendő. |
-| Függöny | P2 | 1 / 1 | IKEA | [Függöny, roló és rögzítés](#csoport-arnyekolas): Nyílásonkénti méret, nyitás és funkció; szövet + sín/karnis + szerelés egy rendszer. Szobai és házszintű tételek átfedése. |
-| Sötétítő roló (fényzáró réteg) | P1 | 1 / 1 | IKEA | [Függöny, roló és rögzítés](#csoport-arnyekolas): Nyílásonkénti méret, nyitás és funkció; szövet + sín/karnis + szerelés egy rendszer. Szobai és házszintű tételek átfedése. |
+| Függöny | P2 | 1 / 1 | IKEA | [Függöny és rögzítés](#csoport-arnyekolas): Nyílásonkénti méret, nyitás és funkció; szövet + sín/karnis + szerelés egy rendszer. Szobai és házszintű tételek átfedése. |
+| Sötétítő roló (fényzáró réteg) | P2 – kizárt referencia | 1 / 1 | IKEA | A korábbi roló kizárt. A használt alvóhely karnis–függöny–sötétítő rendszere P1, külön mérendő és árazandó; vendégszobában P2. |
 | Fiókos szekrény (komód) | P2 | 1 / 1 | IKEA | [Tárolóbútor és polc](#csoport-tarolo): Kész helyszíni szélesség/mélység, ajtónyitás, szükséges tárolókapacitás és rögzítés; dekor/furnér/tömörfa külön. |
 | Fali tükör | P2 | 1 / 1 | IKEA | [Tükör](#csoport-tukor): Falfelület, használati magasság és rögzítés; fürdőben nedves környezetre alkalmasság; látható fém mintája. |
 | Ágytakaró / pléd | P2 | 1 / 1 | IKEA | [Párna, pléd és dekor textil](#csoport-textil): Méret és szálösszetétel; huzat és belső külön; ténylegesen mosható-e; bútor-/anyagmintához illesztés. |
@@ -200,7 +200,7 @@ Beköltözéskor egyéves gyermek. Alvás helye és a tényleges meglévő kell�
 | Mosható szőnyeg | P2 | 3 / 1 | Bonami, IKEA | [Szőnyeg és alátét](#csoport-szonyeg): Tényleges bútorozási méret, ajtónyitás, tisztítás és a padlóval kompatibilis alátét; egy zónában az alternatívák kiváltják egymást. |
 | Szoptatós/olvasó fotel | P2 | 2 / 1 | Bonami, IKEA | [Fotel, pad, puff](#csoport-fotel): Használat, ülésméret, stabilitás, helyigény és tisztíthatóság; a nagy bútorok után méretezendő. |
 | Tároló kosár | P2 | 1 / 1 | IKEA | [Kosár, doboz és vállfa](#csoport-kosar): A tartalomhoz és polchoz illő belső/külső méret, fedél és nedvesség; házszinten ne számoljuk kétszer. |
-| Sötétítés | P1 | 1 / 1 | IKEA | [Függöny, roló és rögzítés](#csoport-arnyekolas): Nyílásonkénti méret, nyitás és funkció; szövet + sín/karnis + szerelés egy rendszer. Szobai és házszintű tételek átfedése. |
+| Sötétítés | P2 – kizárt referencia | 1 / 1 | IKEA | A korábbi roló kizárt. A használt alvóhely karnis–függöny–sötétítő rendszere P1, külön mérendő és árazandó; vendégszobában P2. |
 | Ágynemű/takaró | P1/P2 | 2 / 2 | IKEA | [Ágynemű és alap textíliák](#csoport-agynemu): A lepedő és a muszlintakaró eltérő funkció és prioritás: a kategóriát a következő termékfrissítésnél szét kell választani. |
 | Nyitott polc | P2 | 1 / 1 | IKEA | [Tárolóbútor és polc](#csoport-tarolo): Kész helyszíni szélesség/mélység, ajtónyitás, szükséges tárolókapacitás és rögzítés; dekor/furnér/tömörfa külön. |
 
@@ -216,8 +216,8 @@ Asztal és szék hozott. A költséges újraválasztás helyett kompatibilis fé
 | Zárt tárolószekrény | P2 | 3 / 3 | IKEA | [Tárolóbútor és polc](#csoport-tarolo): Kész helyszíni szélesség/mélység, ajtónyitás, szükséges tárolókapacitás és rögzítés; dekor/furnér/tömörfa külön. |
 | Nyitott fali polc | P2 | 1 / 1 | IKEA | [Tárolóbútor és polc](#csoport-tarolo): Kész helyszíni szélesség/mélység, ajtónyitás, szükséges tárolókapacitás és rögzítés; dekor/furnér/tömörfa külön. |
 | Szőnyeg íróasztal alá | P2 | 1 / 1 | IKEA | [Szőnyeg és alátét](#csoport-szonyeg): Tényleges bútorozási méret, ajtónyitás, tisztítás és a padlóval kompatibilis alátét; egy zónában az alternatívák kiváltják egymást. |
-| Fényszűrő függöny | P2 | 1 / 1 | IKEA | [Függöny, roló és rögzítés](#csoport-arnyekolas): Nyílásonkénti méret, nyitás és funkció; szövet + sín/karnis + szerelés egy rendszer. Szobai és házszintű tételek átfedése. |
-| Roló (fényvédelem) | P1 | 1 / 1 | IKEA | [Függöny, roló és rögzítés](#csoport-arnyekolas): Nyílásonkénti méret, nyitás és funkció; szövet + sín/karnis + szerelés egy rendszer. Szobai és házszintű tételek átfedése. |
+| Fényszűrő függöny | P2 | 1 / 1 | IKEA | [Függöny és rögzítés](#csoport-arnyekolas): Nyílásonkénti méret, nyitás és funkció; szövet + sín/karnis + szerelés egy rendszer. Szobai és házszintű tételek átfedése. |
+| Roló (fényvédelem) | P2 – kizárt referencia | 1 / 1 | IKEA | A korábbi roló kizárt. A használt alvóhely karnis–függöny–sötétítő rendszere P1, külön mérendő és árazandó; vendégszobában P2. |
 | Kábelrendszerező | P1 | 1 / 1 | IKEA | [Dolgozó és asztali rendszerezés](#csoport-iroda): A hozott asztal/szék mérete és használata; kompatibilitás; új bútor csak későbbi csere, nem beköltözési költség. |
 | Asztali rendszerező (bambusz) | P2 | 1 / 1 | IKEA | [Dolgozó és asztali rendszerezés](#csoport-iroda): A jelölt SIGFINN monitorállvány, nem általános írószerrendszerező: a tényleges funkciót és kategórianevet pontosítani kell. |
 | Parafa üzenőtábla | P2 | 1 / 1 | IKEA | [Dolgozó és asztali rendszerezés](#csoport-iroda): A hozott asztal/szék mérete és használata; kompatibilitás; új bútor csak későbbi csere, nem beköltözési költség. |
@@ -238,7 +238,7 @@ Vendég-/tartalékszoba, egészében P2. A gyermekdolgozó funkció maradvány, 
 | Mosható szőnyeg | P2 | 2 / 1 | Bonami, IKEA | [Szőnyeg és alátét](#csoport-szonyeg): P2 vendégfunkció: Tényleges bútorozási méret, ajtónyitás, tisztítás és a padlóval kompatibilis alátét; egy zónában az alternatívák kiváltják egymást. |
 | Ágynemű | P2 | 1 / 1 | IKEA | [Ágynemű és alap textíliák](#csoport-agynemu): P2 vendégfunkció: Matrac/paplan/párna tényleges mérete, szálösszetétel, mosás; huzat nem teljes alvási csomag. |
 | Fali polc | P2 | 1 / 1 | IKEA | [Tárolóbútor és polc](#csoport-tarolo): P2 vendégfunkció: Kész helyszíni szélesség/mélység, ajtónyitás, szükséges tárolókapacitás és rögzítés; dekor/furnér/tömörfa külön. |
-| Sötétítés | P2 | 1 / 1 | IKEA | [Függöny, roló és rögzítés](#csoport-arnyekolas): P2 vendégfunkció: Nyílásonkénti méret, nyitás és funkció; szövet + sín/karnis + szerelés egy rendszer. Szobai és házszintű tételek átfedése. |
+| Sötétítés | P2 – kizárt referencia | 1 / 1 | IKEA | A korábbi roló kizárt. A használt alvóhely karnis–függöny–sötétítő rendszere P1, külön mérendő és árazandó; vendégszobában P2. |
 | Tárolódoboz | P2 | 1 / 1 | IKEA | [Kosár, doboz és vállfa](#csoport-kosar): P2 vendégfunkció: A tartalomhoz és polchoz illő belső/külső méret, fedél és nedvesség; házszinten ne számoljuk kétszer. |
 
 <a id="09-eloter"></a>
@@ -263,7 +263,7 @@ Működő szaniterekhez alap használati kellékek. A szifon/szelep szín miatti
 | --- | --- | --- | --- | --- |
 | Fonott kosár (tartalék WC-papírnak) | P2 | 1 / 1 | IKEA | [Fürdő/WC kiegészítő](#csoport-furdo_kieg): Két fürdő és külön WC helyiségenkénti darabszáma; fémminta, rögzítés és meglévő burkolat; funkcionális és dekorváltozat külön. |
 | Kis fapolc | P2 | 1 / 1 | IKEA | [Tárolóbútor és polc](#csoport-tarolo): Kész helyszíni szélesség/mélység, ajtónyitás, szükséges tárolókapacitás és rögzítés; dekor/furnér/tömörfa külön. |
-| Kéztörölköző | P1 | 1 / 1 | IKEA | [Fürdő- és kéztörlő textil](#csoport-furdotextil): Házszintű használói darabszám, méret, szálösszetétel, mosás/száradás; kilépőnél csúszás és helyigény. |
+| Kéztörölköző | P2 – csak csere | 1 / 1 | IKEA | Hozzátok; nincs új beköltözési vásárlás, a korábbi jelöltek minden költségútból kizárva. |
 | Design szifon (látszó műanyag szifon cseréje) | P2 | 2 / 0 | Sanitino.hu | [Csap, szifon, szelep](#csoport-szaniter): Valóban hiányzó funkció-e; meglévő csatlakozás, méret, szerelhetőség és fémminta. Működő darab szín miatti cseréje P2. |
 | Sarokszelep (a szifonhoz illő) | P2 | 1 / 0 | Sanitino.hu | [Csap, szifon, szelep](#csoport-szaniter): Valóban hiányzó funkció-e; meglévő csatlakozás, méret, szerelhetőség és fémminta. Működő darab szín miatti cseréje P2. |
 | WC-papír tartó | P2 | 3 / 0 | AREZZO design (arezzodesign.hu), Sanitino.hu, szaniteronline.hu | [Fürdő/WC kiegészítő](#csoport-furdo_kieg): Két fürdő és külön WC helyiségenkénti darabszáma; fémminta, rögzítés és meglévő burkolat; funkcionális és dekorváltozat külön. |
@@ -284,7 +284,7 @@ A gépek és alap takarítás leltára hiányzik. A szekrénysor és második mo
 | Munkalap (tölgy/bambusz hatású) | P2 | 2 / 2 | IKEA | [Egyedi pult és burkolat](#csoport-felulet): Kész méret, meglévő bútor/mosdó sablonja, anyagminta és kivitelezési tartalom; árajánlat és októberi vállalás külön. |
 | Mosógép-szárítógép magasító/összeépítő elem | P2 | 2 / 1 | IKEA, vidaXL | [Háztartási és konyhai alapfelszerelés](#csoport-haztartas): Két eltérő funkciót kell szétválasztani: kényelmi magasító P2; egymásra rakott gépekhez kompatibilis összeépítő elem a használat feltétele. |
 | Fonott szennyeskosár fedéllel (2 db, világos/sötét) | P2 | 2 / 0 | Westwing | [Kosár, doboz és vállfa](#csoport-kosar): A tartalomhoz és polchoz illő belső/külső méret, fedél és nedvesség; házszinten ne számoljuk kétszer. |
-| Összecsukható ruhaszárító | P1 | 1 / 1 | IKEA | [Háztartási és konyhai alapfelszerelés](#csoport-haztartas): Tényleges hiány és tárolási méret; géptartozéknál pontos géptípus; egyszerű napi funkció és későbbi kényelmi elem külön. |
+| Összecsukható ruhaszárító | P2 – csak csere | 1 / 1 | IKEA | Hozzátok; nincs új beköltözési vásárlás, a korábbi jelöltek minden költségútból kizárva. |
 | Vasalódeszka | P2 | 1 / 1 | IKEA | [Háztartási és konyhai alapfelszerelés](#csoport-haztartas): Tényleges hiány és tárolási méret; géptartozéknál pontos géptípus; egyszerű napi funkció és későbbi kényelmi elem külön. |
 | Fedeles tárolódoboz | P2 | 1 / 1 | IKEA | [Kosár, doboz és vállfa](#csoport-kosar): A tartalomhoz és polchoz illő belső/külső méret, fedél és nedvesség; házszinten ne számoljuk kétszer. |
 | Zárt szekrény/gardrób kerti-erdei felszereléshez | P2 | 2 / 2 | IKEA | [Tárolóbútor és polc](#csoport-tarolo): Kész helyszíni szélesség/mélység, ajtónyitás, szükséges tárolókapacitás és rögzítés; dekor/furnér/tömörfa külön. |
@@ -302,7 +302,7 @@ Kádas: 4,75 m², mosdó/szekrény/pult megvan. Zuhanyzós: mosdó/szekrény meg
 | --- | --- | --- | --- | --- |
 | Külön magas tárolószekrény (opcionális) | P2 | 1 / 1 | IKEA | [Tárolóbútor és polc](#csoport-tarolo): Kész helyszíni szélesség/mélység, ajtónyitás, szükséges tárolókapacitás és rögzítés; dekor/furnér/tömörfa külön. |
 | Fonott tároló kosár | P2 | 1 / 1 | IKEA | [Kosár, doboz és vállfa](#csoport-kosar): A tartalomhoz és polchoz illő belső/külső méret, fedél és nedvesség; házszinten ne számoljuk kétszer. |
-| Fürdőlepedő | P1 | 3 / 3 | IKEA | [Fürdő- és kéztörlő textil](#csoport-furdotextil): Házszintű használói darabszám, méret, szálösszetétel, mosás/száradás; kilépőnél csúszás és helyigény. |
+| Fürdőlepedő | P2 – csak csere | 3 / 3 | IKEA | Hozzátok; nincs új beköltözési vásárlás, a korábbi jelöltek minden költségútból kizárva. |
 | Bambusz kiegészítő szett | P2 | 1 / 1 | IKEA | [Fürdő/WC kiegészítő](#csoport-furdo_kieg): Két fürdő és külön WC helyiségenkénti darabszáma; fémminta, rögzítés és meglévő burkolat; funkcionális és dekorváltozat külön. |
 | Csúszásgátló kádbetét | P1 | 1 / 1 | IKEA | [Fürdő/WC kiegészítő](#csoport-furdo_kieg): Két fürdő és külön WC helyiségenkénti darabszáma; fémminta, rögzítés és meglévő burkolat; funkcionális és dekorváltozat külön. |
 | Fellépő | P2 | 1 / 1 | IKEA | [Háztartási és konyhai alapfelszerelés](#csoport-haztartas): Tényleges hiány és tárolási méret; géptartozéknál pontos géptípus; egyszerű napi funkció és későbbi kényelmi elem külön. |
@@ -316,7 +316,7 @@ Kádas: 4,75 m², mosdó/szekrény/pult megvan. Zuhanyzós: mosdó/szekrény meg
 | Zuhanylehúzó | P2 | 1 / 0 | szaniteronline.hu | [Fürdő/WC kiegészítő](#csoport-furdo_kieg): Két fürdő és külön WC helyiségenkénti darabszáma; fémminta, rögzítés és meglévő burkolat; funkcionális és dekorváltozat külön. |
 | Fedeles fonott szennyestartó | P2 | 1 / 1 | IKEA | [Kosár, doboz és vállfa](#csoport-kosar): A tartalomhoz és polchoz illő belső/külső méret, fedél és nedvesség; házszinten ne számoljuk kétszer. |
 | Kádkilépő (pamut) | P1 | 1 / 0 | JYSK | [Fürdő- és kéztörlő textil](#csoport-furdotextil): Házszintű használói darabszám, méret, szálösszetétel, mosás/száradás; kilépőnél csúszás és helyigény. |
-| Zsályazöld törölköző (akcentus) | P2 | 1 / 1 | IKEA | [Fürdő- és kéztörlő textil](#csoport-furdotextil): Házszintű használói darabszám, méret, szálösszetétel, mosás/száradás; kilépőnél csúszás és helyigény. |
+| Zsályazöld törölköző (akcentus) | P2 – csak csere | 1 / 1 | IKEA | Hozzátok; nincs új beköltözési vásárlás, a korábbi jelöltek minden költségútból kizárva. |
 | Bambusz kádpolc | P2 | 1 / 0 | Bonami | [Fürdő/WC kiegészítő](#csoport-furdo_kieg): Két fürdő és külön WC helyiségenkénti darabszáma; fémminta, rögzítés és meglévő burkolat; funkcionális és dekorváltozat külön. |
 | Bambusz pad | P2 | 1 / 1 | IKEA | [Fotel, pad, puff](#csoport-fotel): Használat, ülésméret, stabilitás, helyigény és tisztíthatóság; a nagy bútorok után méretezendő. |
 | Walk-in zuhanyfal (opcionális) | P2 | 1 / 0 | Mozaik Kerámia (mozaikkeramia.hu) | [Fürdő/WC kiegészítő](#csoport-furdo_kieg): Először tisztázandó, hogy van-e tényleges hiány a készülő zuhanynál. Üvegméretet vagy szükséges cserét fényképből nem feltételezünk. |
@@ -337,7 +337,7 @@ Alap ruhatárolás P1, de a hálókomóddal együtt nem két kötelező minimum.
 
 | Kategória | Prio | Jelölt / IKEA | Jelenlegi boltok | Következő ellenőrzés |
 | --- | --- | --- | --- | --- |
-| Nyitott gardróbrendszer | P1 | 3 / 3 | IKEA | [Tárolóbútor és polc](#csoport-tarolo): A tényleges falfelület, ajtónyitás, akasztós/polcos igény alapján. Egy alap ruhatároló kiválthatja a hálókomód beköltözési szükségletét. |
+| Nyitott gardróbrendszer | P1 | 3 / 3 | IKEA | Teljes belmagasság kihasználása preferált; kész méretek ismeretlenek. [Három rendszerirány](14-gardrob/OSSZEHASONLITAS.md); a régi csomagok mérésig kizárva a költségutakból. |
 | Fa vállfa | P1 | 1 / 1 | IKEA | [Kosár, doboz és vállfa](#csoport-kosar): A tartalomhoz és polchoz illő belső/külső méret, fedél és nedvesség; házszinten ne számoljuk kétszer. |
 | Tárolókosár | P2 | 1 / 1 | IKEA | [Kosár, doboz és vállfa](#csoport-kosar): A tartalomhoz és polchoz illő belső/külső méret, fedél és nedvesség; házszinten ne számoljuk kétszer. |
 | Zsámoly / puff | P2 | 1 / 1 | IKEA | [Fotel, pad, puff](#csoport-fotel): Használat, ülésméret, stabilitás, helyigény és tisztíthatóság; a nagy bútorok után méretezendő. |

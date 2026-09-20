@@ -40,6 +40,8 @@ Ezek adottságok; a további válogatás ezekhez igazodik.
 | Meglévő szerelvények és szaniterek | szálcsiszolt sárgaréz/arany szerelvények, kád, zuhany, fali WC-k, a külön WC-ben kis Geberit kézmosó | a korábbi helyszíni dokumentáció szerinti meglévő elemekhez igazodunk |
 | Kádas fürdő bútorozása | **szekrény, mosdó és pult megvan / megrendelve** | ezek kikerülnek a beszerzési körből |
 | Zuhanyzós fürdő bútorozása | **szekrény és mosdó megvan; pult még nincs** | csak a meglévőkhöz illő pultot kell megtervezni |
+| Ablakok textilrendszere | **karnis, függöny és sötétítő; külső redőny/zsaluzia nincs és nem lesz** | függönyös rendszer méretezendő, roló nem beszerzendő |
+| Meglévő háztartási textilek és eszköz | **törölközőket és összecsukható ruhaszárítót hozzátok** | új darabok nem részei a beköltözési kosárnak |
 | Világítás | **megvan** | termékek és műszaki specifikációk törölve a további válogatásból |
 
 ### Preferenciák és elfogadható kompromisszumok
@@ -186,11 +188,13 @@ A nappaliban a kandalló, kilátás és tévé tényleges használata alapján v
 
 ## Természetes fény és függöny
 
+**Rögzített döntés: karnis, függöny és sötétítő készül; külső redőny vagy zsaluzia nincs és nem lesz.** Rolót nem tervezünk. Első javaslat a két külön mozgatható réteg: törtfehér/natúr fényszűrő és matt homok/greige fényzáró. A fehér, mennyezethez közeli dupla sín visszafogott lehetőség; látható rúdnál a meglévő szálcsiszolt sárgarézhez illő mintát keressünk. A sín és rúd közötti választás még nyitott.
+
 A függöny széthúzva lehetőleg az ablak mellé kerüljön. A karnis/sín helyét az ablak nyitása, a párkány és a teljes függönycsomag helyigénye szerint válasszuk. A párkány már rögzített, a textil ehhez alkalmazkodik.
 
 Fényszűrőnek semleges törtfehér vagy natúr lenhatású bézs jó kiindulás. A grey beige mintával együtt nézzük meg, hogy a textil sárgás vagy hűvös szürke alaptónusa hogyan viselkedik; a korábbi bézs jelöltek illeszkedése újraellenőrizendő. Az anyagmennyiséget a sín hossza és a választott redőzés határozza meg; a kétszeres bőség gyakori kiindulás, nem minden rendszerre kötelező szabály.
 
-A hálóban és gyerekszobákban külön sötétítő réteg szükséges. Kisgyerekes használatnál előny a padló fölött végződő, könnyen tisztítható függöny; a zsinórok ne legyenek elérhetők.
+Az első naptól használt alvóhely teljes függönyös sötétítése a rögzítéssel együtt Prio 1; a vendégszobáé Prio 2. A fénytompító (dimout) szövet nem automatikusan fényzáró (blackout), és a fényzáró anyag mellett az oldalsó/felső rések is számítanak. A darabszámot a tényleges sín, magasság, redőzés és széthúzási hely határozza meg; nincs igazolt egész házas 11 páras rendelési mennyiség. [Függönyös összehasonlítás](../products/00-altalanos-hangulat/OSSZEHASONLITAS.md). Kisgyerekes használatnál előny a padló fölött végződő, könnyen tisztítható függöny; a zsinórok ne legyenek elérhetők.
 
 ## Textilek és rétegzés
 
@@ -247,7 +251,7 @@ A meglévő kis fali Geberit kézmosóhoz illő tükör, kéztörlőtartó és k
 
 ### 12. Kádas fürdő — 4,75 m²
 
-**A szekrény, mosdó és pult megvan / megrendelve, ezekhez nem keresünk alternatívát.** A még szükséges tükör, törölközőtartó, fürdőtextil és tárolók mérete a megrendelt összeállításhoz igazodjon. A korábbi dupla mosdós feltételezésből ne következzen automatikusan két új tükör: a tényleges bútor és mosdó kiosztása a mérvadó. Pad és kádpolc csak helyszíni méretpróba után indokolt ebben a kis térben.
+**A szekrény, mosdó és pult megvan / megrendelve, ezekhez nem keresünk alternatívát.** A törölközőket hozzátok; a még szükséges tükör, törölközőtartó, kilépő és tárolók mérete a megrendelt összeállításhoz igazodjon. A korábbi dupla mosdós feltételezésből ne következzen automatikusan két új tükör: a tényleges bútor és mosdó kiosztása a mérvadó. Pad és kádpolc csak helyszíni méretpróba után indokolt ebben a kis térben.
 
 ### Zuhanyzós fürdő — alapterület ellenőrizendő
 
@@ -261,11 +265,11 @@ Mindkét fürdőben a meglévő szürke burkolat és sárgaréz szerelvény mell
 
 ### 11. Háztartási helyiség — 5,01 m² · 15. Gépészet — 2,76 m²
 
-Zárt, könnyen tisztítható tárolás, használható munkafelület, szennyesgyűjtés. A háztartási munkalap külön tétel, nem része a már megrendelt konyhabútornak. A gépészeti elemek hozzáférése maradjon szabad.
+Zárt, könnyen tisztítható tárolás, használható munkafelület, szennyesgyűjtés. Az összecsukható ruhaszárítót hozzátok, új beszerzés nem szükséges. A háztartási munkalap külön tétel, nem része a már megrendelt konyhabútornak. A gépészeti elemek hozzáférése maradjon szabad.
 
 ### 14. Gardrób — 2,79 m²
 
-A tároló méretét az ajtónyitás, vállfaszélesség és használható közlekedősáv alapján válasszuk. A burkolat még nyitott; parketta itt nem lesz.
+**Tulajdonosi preferencia: lehetőleg a teljes belmagasság kihasználása**, nyitottság a rendszerjavaslatokra. A pontos magasság és használható falszélesség még ismeretlen. A napi ruhák elérhető magasságba, a ritkán használt darabok felülre kerüljenek. Elsőként egyedi polc–akasztó kialakítást és állítható oszlopos rendszert vessünk össze; olcsóbb kompromisszum a falisínes alap, külön tervezett felső tárolással. A rejtett belső részeknél fehér laminált lap elfogadható praktikus kompromisszumként jelölhető; a látható fa felületnél valódi fa/furnér az első irány. A tároló méretét az ajtónyitás, vállfaszélesség és használható közlekedősáv alapján válasszuk. [Rendszer-összehasonlítás](../products/14-gardrob/OSSZEHASONLITAS.md). A burkolat még nyitott; parketta itt nem lesz.
 
 ### 16–17. Terasz — terv szerint összesen 41,65 m²
 

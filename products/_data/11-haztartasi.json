@@ -241,15 +241,18 @@
   "price_huf": 7990,
   "price_note": "",
   "url": "https://www.ikea.com/hu/hu/p/mulig-ruhaszarito-bel-kuelteri-feher-50228755/",
-  "tier": "ajánlott",
+  "tier": "figyelőlista",
   "qty": 1,
-  "why": "Összecsukható, fehér száradóállvány – használaton kívül laposra hajtva alig foglal helyet az 5,01 m²-es helyiségben.",
+  "why": "Meglévővel kiváltott szükséglet; ez a termék csak későbbi csere referencia.",
   "caveat": "Nem falra szerelt, hanem önállóan álló modell; kifejezetten fali kart barkácsáruházban (OBI/Bauhaus) érdemes még keresni.",
   "verified": "product_page",
   "checked": "2026-09-20",
-  "priority": 1,
-  "priority_reason": "Működő mosási-szárítási megoldás kell; ha nincs más szárítás, ez az alap.",
-  "priority_condition": "Ha van megfelelő más szárítási lehetőség, az új állvány halasztható."
+  "priority": 2,
+  "priority_reason": "A meglévő darabokat hozzátok; új beszerzés nem szükséges, csak későbbi csereopció.",
+  "priority_condition": "",
+  "budget_include": false,
+  "budget_exclusion_reason": "Tulajdonosi megerősítés: a törölközőket és az összecsukható ruhaszárítót hozzátok.",
+  "verification_note": "2026-09-20: meglévő készlet megerősítve; az ár történeti referencia, nem új vásárlási ajánlat."
  },
  {
   "room": "11-haztartasi",

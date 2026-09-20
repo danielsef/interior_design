@@ -13,7 +13,7 @@
 
 **Prio 1:** a minimális beköltözéshez szükséges új beszerzés, a jelzett feltételekkel. **Prio 2:** körülbelül fél évig halasztható, vagy csak későbbi cserejelölt. Ez külön szempont az ajánlott/olcsóbb/prémium minősítéstől.
 
-**Induló minimum:** Működő mosás és szárítás, valamint megfelelően elzárt hely a tisztítószereknek/eszközöknek.
+**Induló minimum:** Működő mosás és szárítás, valamint megfelelően elzárt hely a tisztítószereknek/eszközöknek. Az összecsukható ruhaszárítót hozzátok, új darab nem szükséges.
 
 **Ráér később:** A teljes szekrénysor, második mosogató/csap, munkalap, design szennyeskosarak és kényelmi rendszerezők.
 
@@ -26,11 +26,10 @@
 | Tételkör | Miért / milyen feltétellel? |
 | --- | --- |
 | Magas szekrény (takarítóeszközöknek) | A tisztítószereknek és eszközöknek szükség szerint elzárt, megfelelő hely kell. **Feltétel:** Meglévő megfelelően elzárt tárolóval az új szekrény vásárlása P2. |
-| Összecsukható ruhaszárító | Működő mosási-szárítási megoldás kell; ha nincs más szárítás, ez az alap. **Feltétel:** Ha van megfelelő más szárítási lehetőség, az új állvány halasztható. |
 
 | Ajánlott tételek fázisonként | Listázott összeg |
 | --- | --- |
-| Prio 1 – beköltözéshez előre sorolt | **78 890 Ft** |
+| Prio 1 – beköltözéshez előre sorolt | **70 900 Ft** |
 | Prio 2 – későbbi új beszerzés | **327 934 Ft** |
 
 > Ezek a korábbi teljes tervezett darabszámokkal számolt, feltételes részösszegek; nem a legolcsóbb beköltözési kosár árai. Egy szükséglethez egy megfelelő megoldást válassz. A meglevővel kiváltott cserejelölt, a kizárt referencia, EUR-os vagy elfogyott termék és az árazatlan hiány nem szerepel bennük. A szükséges induló darabszámok és az átfedések még pontosítandók.
@@ -39,11 +38,13 @@
 
 | Számítás | Összeg |
 | --- | --- |
-| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **406 824 Ft** |
-| 💰 Kategóriánként a legolcsóbb sor összege | 319 584 Ft |
-| 💎 Kategóriánként a legdrágább sor összege | 597 774 Ft |
+| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **398 834 Ft** |
+| 💰 Kategóriánként a legolcsóbb sor összege | 311 594 Ft |
+| 💎 Kategóriánként a legdrágább sor összege | 589 784 Ft |
 
 > A darabszám javaslat. A forintos költségutak az EUR-os, készlethiányos, meglévővel kiváltott és külön kizárt referenciatételeket kihagyják; ezek ára nem nulla. A feltételes ajánlások szerepelnek a tervezési összegben. A kategóriánkénti alsó/felső összeg nem összeillő bevásárlócsomag: az opcionális és egymást átfedő tételeket külön kell kiválasztani. A szállítás nincs benne; az ár és készlet rendelés előtt ellenőrizendő.
+
+> A forintos költségutakból kimaradó kategória (nincs számolható tétel): **Összecsukható ruhaszárító**.
 
 ## Termékek
 
@@ -60,16 +61,6 @@
 
 - **METOD Magasszekrény polcokkal/2 ajtó, fehér Enköping** – A METOD rendszer erősebb korpusszal, lágyan záródó pántokkal és teljes belmagassággal (228 cm) készül – ide fér a vasalódeszka, felmosó és a magasabb flakonok is, ahogy az irányelv 'a szükségesnél is több zárt tárolót' javasol az erdős telek miatt. ⚠️ *Az Enköping front fólia, nem valódi fa; drágább, tömörfa hatású METOD front is választható, ha ez fontos szempont.*
 - **ENHET Állószkr+ajtóval, fehér** – Keskeny (30 cm), padlótól plafonig érő zárt fehér szekrény – ide fér a porszívó, felmosóvödör, tisztítószerek; megfelel a helyiségre előírt 'zárt, fehér frontok' elvnek. ⚠️ *Fóliázott forgácslemez, nem tömör fa vagy furnér – nedves törlőkendővel tisztítható, de tartós nedvességnek ne tegyék ki.*
-
-### Összecsukható ruhaszárító — Prio 1
-
-| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 1** | ⭐ ajánlott | [MULIG Ruhaszárító, bel/kültéri, fehér](https://www.ikea.com/hu/hu/p/mulig-ruhaszarito-bel-kuelteri-feher-50228755/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs, Örs vezér tere, Soroksár) | porszórt acél, fehér | 173 × 57 × 103 cm, 19 m szárítófelület | **7 990 Ft** | 1 |
-
-**Prio 1:** Működő mosási-szárítási megoldás kell; ha nincs más szárítás, ez az alap. Feltétel: Ha van megfelelő más szárítási lehetőség, az új állvány halasztható.
-
-- **MULIG Ruhaszárító, bel/kültéri, fehér** – Összecsukható, fehér száradóállvány – használaton kívül laposra hajtva alig foglal helyet az 5,01 m²-es helyiségben. ⚠️ *Nem falra szerelt, hanem önállóan álló modell; kifejezetten fali kart barkácsáruházban (OBI/Bauhaus) érdemes még keresni.*
 
 ### Faliszekrény (fehér, zárt) — Prio 2
 
@@ -128,6 +119,18 @@
 
 - **Lurdes fedeles szennyeskosár, 2 darabos készlet** – Valódi fonott rattan, fedeles kivitel – teljesíti az irányelv 'fonott kosár a szennyesnek' pontját, a fedél pedig elrejti a szennyest a nappaliból is látszó ajtó mögött. ⚠️ *Egy készleten belül mindkét kosár azonos színű; a világos+sötét párosításhoz két külön készletet (vagy egy másik gyártó sötét darabját) kell rendelni. Mosható belső zsák nincs mellékelve.*
 - **Passo fedeles szennyeskosár** – Kisebb, fonott, fedeles kosár textilbéléssel (ez lényegében a kért mosható betétet helyettesíti) – két darabbal olcsóbban kijön a szennyeskosár-pár, mint egy prémium szett. ⚠️ *Ezen az oldalon csak bézs (világos) színben elérhető – a 'sötét' párdarabhoz külön kell keresni egy sötét színű kosarat, pl. a Lurdes fekete változatából egyet.*
+
+### Összecsukható ruhaszárító — Prio 2
+
+| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Prio 2** | Figyelőlista | [MULIG Ruhaszárító, bel/kültéri, fehér](https://www.ikea.com/hu/hu/p/mulig-ruhaszarito-bel-kuelteri-feher-50228755/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs, Örs vezér tere, Soroksár) | porszórt acél, fehér | 173 × 57 × 103 cm, 19 m szárítófelület | **7 990 Ft** | 1 |
+
+**Prio 2:** A meglévő darabokat hozzátok; új beszerzés nem szükséges, csak későbbi csereopció.
+
+> **A beszerzési összegből kizárva:** Tulajdonosi megerősítés: a törölközőket és az összecsukható ruhaszárítót hozzátok.
+
+- **MULIG Ruhaszárító, bel/kültéri, fehér** – Meglévővel kiváltott szükséglet; ez a termék csak későbbi csere referencia. ⚠️ *Nem falra szerelt, hanem önállóan álló modell; kifejezetten fali kart barkácsáruházban (OBI/Bauhaus) érdemes még keresni.*
 
 ### Vasalódeszka — Prio 2
 

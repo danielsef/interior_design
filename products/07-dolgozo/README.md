@@ -17,19 +17,20 @@
 
 **Ráér később:** Új asztal/szék csak cserejelölt; tárolóbútor, polc, szőnyeg és dekor szintén halasztható.
 
-**Feltétel / kiváltás:** A napi munkavégzés indulása nincs külön rögzítve: a roló és kábelelrendezés akkor Prio 1, amikor használatba veszitek a munkahelyet. A hozott bútorok helyett listázott új jelöltek minden költségútból ki vannak véve.
+**Feltétel / kiváltás:** A napi munkavégzés indulása nincs külön rögzítve: a szükséges függönyös fényvédelem és kábelelrendezés akkor Prio 1, amikor használatba veszitek a munkahelyet. A hozott bútorok helyett listázott új jelöltek minden költségútból ki vannak véve.
+
+> **Még külön ellenőrizendő, nem árazott:** Az új függönyös fényvédelem teljes rendszerára mérésig hiányzik; a korábbi roló kizárása nem megtakarítás.
 
 ### Prio 1 – előre sorolt tételek
 
 | Tételkör | Miért / milyen feltétellel? |
 | --- | --- |
-| Roló (fényvédelem) | A képernyős munkát zavaró besütést a használatba vételkor kezelni kell. **Feltétel:** Prio 1, ha a dolgozó már beköltözéstől napi munkára kell; egyébként Prio 2. Használható meglévő eszköz kiváltja az új vásárlást. |
 | Kábelrendszerező | A használatba vett munkahely kábeleit rendezni kell; a konkrét tálca helyettesíthető. **Feltétel:** Prio 1, ha a dolgozó már beköltözéstől napi munkára kell; egyébként Prio 2. Használható meglévő eszköz kiváltja az új vásárlást. |
 
 | Ajánlott tételek fázisonként | Listázott összeg |
 | --- | --- |
-| Prio 1 – beköltözéshez előre sorolt | **13 980 Ft** |
-| Prio 2 – későbbi új beszerzés | **162 710 Ft** |
+| Prio 1 – beköltözéshez előre sorolt | **2 990 Ft** |
+| Prio 2 – későbbi új beszerzés | **150 720 Ft** |
 
 > Ezek a korábbi teljes tervezett darabszámokkal számolt, feltételes részösszegek; nem a legolcsóbb beköltözési kosár árai. Egy szükséglethez egy megfelelő megoldást válassz. A meglevővel kiváltott cserejelölt, a kizárt referencia, EUR-os vagy elfogyott termék és az árazatlan hiány nem szerepel bennük. A szükséges induló darabszámok és az átfedések még pontosítandók.
 
@@ -37,27 +38,17 @@
 
 | Számítás | Összeg |
 | --- | --- |
-| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **176 690 Ft** |
-| 💰 Kategóriánként a legolcsóbb sor összege | 105 690 Ft |
-| 💎 Kategóriánként a legdrágább sor összege | 236 600 Ft |
+| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **153 710 Ft** |
+| 💰 Kategóriánként a legolcsóbb sor összege | 82 710 Ft |
+| 💎 Kategóriánként a legdrágább sor összege | 213 620 Ft |
 
 > A darabszám javaslat. A forintos költségutak az EUR-os, készlethiányos, meglévővel kiváltott és külön kizárt referenciatételeket kihagyják; ezek ára nem nulla. A feltételes ajánlások szerepelnek a tervezési összegben. A kategóriánkénti alsó/felső összeg nem összeillő bevásárlócsomag: az opcionális és egymást átfedő tételeket külön kell kiválasztani. A szállítás nincs benne; az ár és készlet rendelés előtt ellenőrizendő.
 
-> A forintos költségutakból kimaradó kategória (nincs számolható tétel): **Íróasztal, Irodai szék**.
+> A forintos költségutakból kimaradó kategória (nincs számolható tétel): **Íróasztal, Irodai szék, Fényszűrő függöny, Roló (fényvédelem)**.
 
 ## Termékek
 
 ⭐ = ezt venném · 💰 = olcsóbb, még vállalható · 💎 = jobb minőség, még észszerű áron
-
-### Roló (fényvédelem) — Prio 1
-
-| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 1** | ⭐ ajánlott | [SANDVEDEL Roló, bézs](https://www.ikea.com/hu/hu/p/sandvedel-rolo-bezs-30471843/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | 100% poliészter (min. 80% újrahasznosított), világos bézs, áttetsző szövet | 80x250 cm | **10 990 Ft** | 1 |
-
-**Prio 1:** A képernyős munkát zavaró besütést a használatba vételkor kezelni kell. Feltétel: Prio 1, ha a dolgozó már beköltözéstől napi munkára kell; egyébként Prio 2. Használható meglévő eszköz kiváltja az új vásárlást.
-
-- **SANDVEDEL Roló, bézs** – Fényszűrő (nem sötétítő) roló a monitor mögötti ellenfény tompítására, miközben a kilátás és a nappali fény megmarad. ⚠️ *Áttetsző jellegű, nem ad teljes vakítás-mentességet erős, alacsony napállásnál; szükség esetén sötétítő rétegként a fényszűrő függöny mögé is felszerelhető.*
 
 ### Kábelrendszerező — Prio 1
 
@@ -139,11 +130,25 @@
 
 | Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 2** | ⭐ ajánlott | [LENDA Függöny elkötővel, 1 pár, törtfehér](https://www.ikea.com/hu/hu/p/lenda-fueggoeny-elkoetovel-1-par-toertfeher-fueggoenyrancolo-szalaggal-10633243/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | 100% pamut (min. 50% újrahasznosított), törtfehér | 140x250 cm / panel | **11 990 Ft** | 1 |
+| **Prio 2** | Alternatíva | [LENDA Függöny elkötővel, 1 pár, törtfehér](https://www.ikea.com/hu/hu/p/lenda-fueggoeny-elkoetovel-1-par-toertfeher-fueggoenyrancolo-szalaggal-10633243/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | 100% pamut (min. 50% újrahasznosított), törtfehér | 140x250 cm / panel | **11 990 Ft** | 1 |
 
-**Prio 2:** Az alap munkafelület és szék mellett későbbi tárolási vagy kényelmi/dekorációs fejlesztés.
+**Prio 2:** A ház további függönyei ütemezhetők; az első naptól szükséges alvási sötétítés és belátásvédelem P1. Feltétel: A használt helyiséghez szükséges függöny és karnis együtt P1. A darabszám itt csak 1 áregység, nem rendelési mennyiség.
 
-- **LENDA Függöny elkötővel, 1 pár, törtfehér** – Pamut, len-hatású fényszűrő függöny törtfehérben – a RAL 1019 ajtók mellé mintapróbára szánt világos alapszín, tompítja a fényt, de nem sötétít el. ⚠️ *Nem valódi len, hanem pamut; ellenőrizni kell, hogy az ablak szélességéhez elég anyagmennyiséget ad-e (a szabály szerint az ablak 2x szélessége ajánlott).*
+> **A beszerzési összegből kizárva:** Nyílásonkénti mérés és egységes két rétegű rendszerkiosztás hiányzik; a szobai és házszintű becsléseket nem összegezzük.
+
+- **LENDA Függöny elkötővel, 1 pár, törtfehér** – Pamut fényszűrő, kedvezőbb árú természetes szálas jelölt. A 250 cm-es hossz csak a kész sín–padló távolsággal együtt ítélhető meg; nem feltételezünk padlóra omlást. ⚠️ *Nem valódi len, hanem pamut; ellenőrizni kell, hogy az ablak szélességéhez elég anyagmennyiséget ad-e (a szabály szerint az ablak 2x szélessége ajánlott).*
+
+### Roló (fényvédelem) — Prio 2
+
+| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Prio 2** | Figyelőlista | [SANDVEDEL Roló, bézs](https://www.ikea.com/hu/hu/p/sandvedel-rolo-bezs-30471843/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | 100% poliészter (min. 80% újrahasznosított), világos bézs, áttetsző szövet | 80x250 cm | **10 990 Ft** | 1 |
+
+**Prio 2:** Kizárt korábbi rolóreferencia; a választott rendszer karnis, függöny és sötétítő.
+
+> **A beszerzési összegből kizárva:** A tulajdonos függönyös megoldást választott; nincs külső árnyékoló, rolót sem tervezünk.
+
+- **SANDVEDEL Roló, bézs** – Korábbi referencia, a függönyös döntés után nem beszerzendő. ⚠️ *Az alvóhely sötétítési funkciója továbbra is P1, de függönnyel és hozzá illő karnissal kell biztosítani; ennek ára külön hiányzik.*
 
 ### Asztali rendszerező (bambusz) — Prio 2
 

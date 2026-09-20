@@ -2,9 +2,10 @@
 
 ROOM_NOTES = {
     "00-altalanos-hangulat": {
-        "minimum": "A ténylegesen szükséges babavédelem és az első naptól használt alvóhelyek sötétítése/belátásvédelme. A sötétítéshez induláskor a háló és babaszoba saját rolójával számolunk, így nem kell a teljes házas függönycsomagot is megvenni.",
-        "later": "A végleges fényszűrők, teljes karnisrendszer, dekor, növények, képkeretek és összehangolt kosárcsalád ráérnek.",
-        "check": "Ha a beköltözési sötétítést függönnyel oldjátok meg, annak karnisa és bélése együtt Prio 1, a szobai roló helyett. A használt szőnyeg szükséges alátétjét vele együtt kell beszerezni.",
+        "minimum": "A ténylegesen szükséges babavédelem és az első naptól használt alvóhelyek sötétítése/belátásvédelme. Rögzített megoldás: karnis, függöny és sötétítő; külső árnyékoló nincs és nem lesz. Az induláskor szükséges ablakok teljes függönyrendszere együtt P1.",
+        "later": "A többi helyiség függönye használat és belátás szerint ütemezhető; dekor, növények, képkeretek és összehangolt kosárcsalád ráérnek.",
+        "check": "Két külön mozgatható textilréteghez két sínpályát vagy dupla rudat javaslunk. A rolóreferenciák kizárva. A használt szőnyeg szükséges alátétjét vele együtt kell beszerezni.",
+        "unpriced": "A nyílásonként méretezett függöny, sötétítő, karnis, tartozék és szerelés teljes ára hiányzik. A korábbi 11 pár/3 garnitúra becslések helyett áregység-referenciák szerepelnek, kizárva minden költségútból.",
     },
     "01-eloszoba": {
         "minimum": "Egy fogas, lábtörlő és kijelölt hely a nedves cipőknek; az előszoba teljes bútorozása nélkül is használható.",
@@ -30,19 +31,20 @@ ROOM_NOTES = {
     "05-halo": {
         "minimum": "Teljes, használható fekhely, megfelelő méretű alap ágynemű és sötétítés. Az alap ruhatárolással a gardróbban számolunk.",
         "check": "Egy közös 180×200-as matrac; ágyneműtartó előny, de nem kötelező. A megfelelő csomagok közül a legalacsonyabb teljes árat keressük. A külső méret, kompatibilis ágyrács és matrackomfort ellenőrizendő. Két matrac- és két ágyrácsjelölt már árazott, de a komfort/kompatibilitás igazolásáig kimarad a költségutakból.",
-        "later": "Éjjeliszekrény, külön komód, ágyvégi pad, szőnyeg, tükör, díszpárnák és végleges fényszűrő függöny.",
-        "unpriced": "Az új ágykeret még alternatíva, nincs az ajánlott összegben; a régi 100 000 Ft-os keret kivétele nem megtakarítás. A kiválasztott csomag szállítása, matracvédő, lepedő, paplan és párna még hiányzik. A listázott ágykeret/huzat nem automatikusan teljes alvási csomag.",
+        "later": "Éjjeliszekrény, külön komód, ágyvégi pad, szőnyeg, tükör és díszpárnák. A fényszűrő csak akkor halasztható, ha a szükséges belátásvédelem már megoldott.",
+        "unpriced": "Az új ágykeret még alternatíva, nincs az ajánlott összegben; a régi 100 000 Ft-os keret kivétele nem megtakarítás. A kiválasztott csomag szállítása, matracvédő, lepedő, paplan és párna még hiányzik. A listázott ágykeret/huzat nem automatikusan teljes alvási csomag. A háló karnis–fényszűrő–sötétítő rendszere P1, nyílásonkénti mérésig még árazatlan.",
     },
     "06-szoba": {
         "minimum": "A baba ténylegesen használt fekhelye, hozzá illő matrac és lepedő, valamint az alvóhely sötétítése.",
         "later": "Külön szoptatós fotel, végleges polc/kosarak, dekorációs szőnyeg és külön pelenkázóbútor, ha a pelenkázás más megfelelő meglévő megoldással rendezett.",
         "check": "A gyermek beköltözéskor egyéves lesz. A kezdeti alvóhely és meglévő felszerelés kérdését a tulajdonos most kihagyta, ezért a jelöltek nem végleges beszerzések. Az alvás helye még nyitott: ha kezdetben a szülői hálóban lesz, ugyanazokat a szükséges darabokat oda kell ütemezni, nem második garnitúrát venni. Az Ágynemű/takaró kategórián belül a lepedő Prio 1, a külön muszlintakaró Prio 2.",
-        "unpriced": "A meglévő készlettől függő alap babaápolási és pelenkázási kellékek nem teljes körűen részei ennek a bútorlistának.",
+        "unpriced": "A meglévő készlettől függő alap babaápolási és pelenkázási kellékek nem teljes körűen részei ennek a bútorlistának. Ha itt alszik a gyermek, a karnis és függönyös sötétítés P1; a rendszerár mérésig hiányzik, a roló kizárt.",
     },
     "07-dolgozo": {
         "minimum": "A dolgozóasztalt és a széket hozzátok, így ezekre nincs új beköltözési beszerzés. Használatkor a szükséges fényvédelem és kábelelrendezés marad előre sorolt feladat.",
         "later": "Új asztal/szék csak cserejelölt; tárolóbútor, polc, szőnyeg és dekor szintén halasztható.",
-        "check": "A napi munkavégzés indulása nincs külön rögzítve: a roló és kábelelrendezés akkor Prio 1, amikor használatba veszitek a munkahelyet. A hozott bútorok helyett listázott új jelöltek minden költségútból ki vannak véve.",
+        "check": "A napi munkavégzés indulása nincs külön rögzítve: a szükséges függönyös fényvédelem és kábelelrendezés akkor Prio 1, amikor használatba veszitek a munkahelyet. A hozott bútorok helyett listázott új jelöltek minden költségútból ki vannak véve.",
+        "unpriced": "Az új függönyös fényvédelem teljes rendszerára mérésig hiányzik; a korábbi roló kizárása nem megtakarítás.",
     },
     "08-szoba": {
         "minimum": "Megerősítve vendég-/tartalékszoba: új bútor nélkül is várhat, nincs önálló Prio 1 vásárlás.",
@@ -54,19 +56,19 @@ ROOM_NOTES = {
         "later": "Konzolasztal, tükör, kép, tálka és kosár: mind Prio 2.",
     },
     "10-wc": {
-        "minimum": "A meglévő WC/kézmosó működjön; legyen kéztörlő, szappan, WC-papír és tisztítóeszköz. A végleges falra szerelt tartók nem feltételek.",
+        "minimum": "A meglévő WC/kézmosó működjön; a kéztörlőt hozzátok. Szappan, WC-papír és tisztítóeszköz szükséges. A végleges falra szerelt tartók nem feltételek.",
         "later": "Design szifon és sarokszelep szín miatti cseréje, dekorpolc, külön tükör és végleges sárgaréz tartók.",
         "check": "A két WC-kefe a korábbi listában a külön WC-t és a kádas fürdő WC-jét együtt fedi. Csak a ténylegesen használt helyekhez szükséges darabszámot kell most megvenni; egyszerűbb megfelelő kefe is elég.",
         "unpriced": "A szappan, WC-papír és tisztítószer fogyóeszköz, ára nincs a terméklistában.",
     },
     "11-haztartasi": {
-        "minimum": "Működő mosás és szárítás, valamint megfelelően elzárt hely a tisztítószereknek/eszközöknek.",
+        "minimum": "Működő mosás és szárítás, valamint megfelelően elzárt hely a tisztítószereknek/eszközöknek. Az összecsukható ruhaszárítót hozzátok, új darab nem szükséges.",
         "later": "A teljes szekrénysor, második mosogató/csap, munkalap, design szennyeskosarak és kényelmi rendszerezők.",
         "check": "Az összeépítő készlet és a kényelmi magasító külön funkció: egymásra helyezett gépeknél a megfelelő összeépítő elem a használat előfeltétele. A konkrét géphez illeszkedését ellenőrizni kell.",
         "unpriced": "Ha nem hozzátok/nincs megrendelve, a mosógép és alap takarítóeszközök költsége külön hiányzik. A gépek nem részei a jelenlegi termékösszegnek.",
     },
     "12-furdo": {
-        "minimum": "Legalább egy teljesen működő fürdő. A kádas fürdő szekrénye, mosdója és pultja megvan/megrendelve; ennek beépítésével, alap törölközőkkel, szükséges kilépővel/csúszásvédelemmel és egy használható mosdótükörrel számolunk.",
+        "minimum": "Legalább egy teljesen működő fürdő. A kádas fürdő szekrénye, mosdója és pultja megvan/megrendelve; a törölközőket hozzátok. A szükséges kilépő/csúszásvédelem és egy használható mosdótükör ettől külön ellenőrizendő.",
         "later": "A második fürdő pultja/tükre, külön magas tároló, végleges sárgaréz kiegészítők, szennyestartó, kádpolc és pad, ha a kész kádas fürdő elegendő.",
         "check": "A zuhanyzós fürdő pultja csak akkor Prio 2, ha a kádas fürdő indulásra teljesen használható és elegendő. Ha ez nem teljesül, vagy mindkét fürdő napi használata szükséges, a hiányzó pultot előre kell venni. A működéshez szükséges elemeket a későbbi fürdő használata előtt be kell fejezni.",
         "unpriced": "A zuhanyzós fürdő egyedi pultjának ára továbbra is hiányzik; a nem igazoltan illeszkedő ÅLSKEN referencia nem része az összegnek.",
@@ -78,7 +80,8 @@ ROOM_NOTES = {
     "14-gardrob": {
         "minimum": "Egy alap ruhatárolási megoldás és a szükséges vállfák, ha nincs más megfelelő tároló.",
         "later": "Összehangolt kosarak, puff és állótükör; meglévő ruhatároló esetén a végleges gardróbrendszer is.",
-        "check": "A hálószobai komód és a gardrób nem egyszerre kötelező minimum. Indulásra itt számolunk a ruhák tárolásával; a kiválasztott egy megoldás váltsa ki a másikat.",
+        "check": "Preferencia: lehetőleg a teljes belmagasság kihasználása; bármely megfelelő rendszer vizsgálható. A kész falszélesség, belmagasság, mélység és ajtónyitás még ismeretlen. Meglévő gardrób nem lett egyértelműen megerősítve. A hálókomód és gardrób nem egyszerre kötelező minimum.",
+        "unpriced": "A teljes gardróbrendszer még nincs kiválasztva; a BOAXEL és ELVARLI méret-/árreferencia, kizárva az összegekből. A felső tárolás, rögzítés, szállítás és szerelés külön árazandó. Ez nem nulla ruhatárolási költség.",
     },
     "16-17-terasz": {
         "minimum": "Új kültéri bútor nem kell a minimális beköltözéshez; a kijárat és szükséges közlekedés legyen használható.",

@@ -9,7 +9,7 @@
 
 ## Átfedés az összesítőben
 
-- A **`00-altalanos-hangulat`** függöny-, karnis- és sötétítőtételei az egész házra terveznek. Néhány szobában külön is van függöny vagy roló: ezek ugyanarra az ablakra alternatívák, ezért az ajánlott főösszeg felfelé torzíthat. A házszintű csomagot és a helyiségenkénti megoldást ne rendeld meg egyszerre.
+- **Függönyös döntés:** külső árnyékoló nincs; karnis, fényszűrő és sötétítő készül. A rolókat kizártuk. A házszintű és szobai textil-/karnisreferenciák mérésig szintén kimaradnak minden összegből, így nincs dupla elszámolás. A feltételezett 11 pár/3 garnitúra helyett 1 áregység szerepel; ez nem rendelési mennyiség. [Összehasonlítás és mérési lista](00-altalanos-hangulat/OSSZEHASONLITAS.md).
 - A kosarak, csúszásgátló alátétek és kaspók között is lehet ilyen átfedés. A darabszámok tervezési javaslatok, helyszíni kiosztás után véglegesíthetők.
 - A zuhanyzós fürdő új pultjának ára még hiányzik; a régi 102×49 cm-es ÅLSKEN ára nem alkalmazható automatikusan a meglévő bútorra. A konyhai kőpult és kandallóburkolat szintén egyedi ajánlatot igényel, nincs benne az összegben.
 - A beszerzési kör szűkítése miatti összegcsökkenés **nem új megtakarítás**: részben már megrendelt vagy megvett elemek kerültek ki. A korábbi ellenőrzések és a bolti összehasonlítás történeti árait ettől nem írtuk felül.
@@ -33,6 +33,8 @@
 
 - Minden terméknél Prio 1/Prio 2, indoklás és szükség esetén feltétel szerepel. Az ajánlott/olcsóbb/prémium besorolás ettől különálló.
 - A dolgozóasztalt és széket hozzátok: az új jelöltek későbbi csereopciók, a beszerzési összegekből kizárva. A 08-as szoba megerősítve vendég-/tartalékszoba, teljes berendezése halasztható.
+- A törölközőket és összecsukható ruhaszárítót hozzátok: hat régi termékreferencia kizárva, nincs új P1 vásárlás ezekre. A kilépő, törölközőtartó és konyharuha ettől külön szükséglet.
+- A gardróbnál teljes belmagasság kihasználása a preferencia; [három rendszerirány](14-gardrob/OSSZEHASONLITAS.md) összevetése készült. Méretek nélkül a korábbi három csomag sem szerepel a teljes költségben.
 - Legalább egy kész fürdővel számolunk; a második fürdő pultja csak akkor halasztható, ha a kádas fürdő teljesen használható és elegendő.
 - A Prio 1 részösszeg nem teljes beköltözési költség: matrac/ágyrács, alap felszerelés, gépek és egyedi kivitelezés ára hiányozhat. A hat étkezőszék például teljes célmennyiség, nem rögzített induló minimum.
 

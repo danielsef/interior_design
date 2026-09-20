@@ -19,11 +19,11 @@
 
 **Induló minimum:** Teljes, használható fekhely, megfelelő méretű alap ágynemű és sötétítés. Az alap ruhatárolással a gardróbban számolunk.
 
-**Ráér később:** Éjjeliszekrény, külön komód, ágyvégi pad, szőnyeg, tükör, díszpárnák és végleges fényszűrő függöny.
+**Ráér később:** Éjjeliszekrény, külön komód, ágyvégi pad, szőnyeg, tükör és díszpárnák. A fényszűrő csak akkor halasztható, ha a szükséges belátásvédelem már megoldott.
 
 **Feltétel / kiváltás:** Egy közös 180×200-as matrac; ágyneműtartó előny, de nem kötelező. A megfelelő csomagok közül a legalacsonyabb teljes árat keressük. A külső méret, kompatibilis ágyrács és matrackomfort ellenőrizendő. Két matrac- és két ágyrácsjelölt már árazott, de a komfort/kompatibilitás igazolásáig kimarad a költségutakból.
 
-> **Még külön ellenőrizendő, nem árazott:** Az új ágykeret még alternatíva, nincs az ajánlott összegben; a régi 100 000 Ft-os keret kivétele nem megtakarítás. A kiválasztott csomag szállítása, matracvédő, lepedő, paplan és párna még hiányzik. A listázott ágykeret/huzat nem automatikusan teljes alvási csomag.
+> **Még külön ellenőrizendő, nem árazott:** Az új ágykeret még alternatíva, nincs az ajánlott összegben; a régi 100 000 Ft-os keret kivétele nem megtakarítás. A kiválasztott csomag szállítása, matracvédő, lepedő, paplan és párna még hiányzik. A listázott ágykeret/huzat nem automatikusan teljes alvási csomag. A háló karnis–fényszűrő–sötétítő rendszere P1, nyílásonkénti mérésig még árazatlan.
 
 ### Prio 1 – előre sorolt tételek
 
@@ -31,15 +31,14 @@
 | --- | --- |
 | Franciaágy | A mindennapi fekhely a beköltözési minimum része. |
 | Ágyneműhuzat garnitúra | Legalább egy használható, megfelelő méretű garnitúra szükséges. |
-| Sötétítő roló (fényzáró réteg) | Az első naptól használt háló sötétítése és belátásvédelme szükséges. |
 | Matrac | A mindennapi fekhely a beköltözési minimum része. **Feltétel:** Egy közös 180×200-as matrac, a kerettel és alátámasztással igazolt kompatibilitás; személyes komfortpróba és szállítás ellenőrizendő. |
 | Ágyrács | A mindennapi fekhely a beköltözési minimum része. **Feltétel:** Csak a külön rácsot igénylő, kompatibilis kerethez két darab; Alguema esetén a mellékelt rács kiváltja. |
 | Franciaágy | A mindennapi fekhely a beköltözési minimum része. **Feltétel:** Egy közös 180×200-as matraccal és kompatibilis alátámasztással; a teljes csomag és a helyszíni színminta ellenőrizendő. |
 
 | Ajánlott tételek fázisonként | Listázott összeg |
 | --- | --- |
-| Prio 1 – beköltözéshez előre sorolt | **15 980 Ft** |
-| Prio 2 – későbbi új beszerzés | **317 900 Ft** |
+| Prio 1 – beköltözéshez előre sorolt | **8 990 Ft** |
+| Prio 2 – későbbi új beszerzés | **307 910 Ft** |
 
 > Ezek a korábbi teljes tervezett darabszámokkal számolt, feltételes részösszegek; nem a legolcsóbb beköltözési kosár árai. Egy szükséglethez egy megfelelő megoldást válassz. A meglevővel kiváltott cserejelölt, a kizárt referencia, EUR-os vagy elfogyott termék és az árazatlan hiány nem szerepel bennük. A szükséges induló darabszámok és az átfedések még pontosítandók.
 
@@ -49,13 +48,13 @@
 
 | Számítás | Összeg |
 | --- | --- |
-| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **333 880 Ft** |
-| 💰 Kategóriánként a legolcsóbb sor összege | 374 880 Ft |
-| 💎 Kategóriánként a legdrágább sor összege | 781 580 Ft |
+| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **316 900 Ft** |
+| 💰 Kategóriánként a legolcsóbb sor összege | 357 900 Ft |
+| 💎 Kategóriánként a legdrágább sor összege | 764 600 Ft |
 
 > A darabszám javaslat. A forintos költségutak az EUR-os, készlethiányos, meglévővel kiváltott és külön kizárt referenciatételeket kihagyják; ezek ára nem nulla. A feltételes ajánlások szerepelnek a tervezési összegben. A kategóriánkénti alsó/felső összeg nem összeillő bevásárlócsomag: az opcionális és egymást átfedő tételeket külön kell kiválasztani. A szállítás nincs benne; az ár és készlet rendelés előtt ellenőrizendő.
 
-> A forintos költségutakból kimaradó kategória (nincs számolható tétel): **Matrac, Ágyrács**.
+> A forintos költségutakból kimaradó kategória (nincs számolható tétel): **Matrac, Ágyrács, Függöny, Sötétítő roló (fényzáró réteg)**.
 
 ## Termékek
 
@@ -96,16 +95,6 @@
 - **ÄNGSLILJA Paplanhuzat+2 párnahuzat, natúr** – Sima, mintátlan, előmosott pamut natúr színben – matt textúra, pontosan a 'mosott len vagy pamut, törtfehér' irányelvhez illik. ⚠️ *Pamut, nem len. A H&M 100% len alternatívája bekerült a figyelőlistába, de a 200×200 / 50×60 méret az ellenőrzéskor elfogyott.*
 - **NATTJASMIN Paplanhuzat+2 párnahuzat, világosbézs** – Puhább lyocell-pamut keverék, homok/bézs tónus – finomabb fogású felsőkategóriás választás a hálóba. ⚠️ *Szatén kötésű, enyhén fényes felület – az irányelv a fényes szatént nagy felületen kerülendőnek tartja, ágyneműnél ez kompromisszum.*
 - **Kétszemélyes len ágyneműhuzat szett, bézs** – Valódi len alternatíva a projekt pamut garnitúrájához. ⚠️ *A 160×200 / 70×80 és 200×220 / 70×80 változat elérhetőnek látszott, de nem azonos a terv méretével. Nem automatikus mérethelyettesítés.*
-
-### Sötétítő roló (fényzáró réteg) — Prio 1
-
-| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 1** | ⭐ ajánlott | [FÖNSTERBLAD Sötétítő roló, bézs](https://www.ikea.com/hu/hu/p/foensterblad-soetetito-rolo-bezs-50538456/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | 100% poliészter (újrahasznosított) előlap, bézs | 80x155 cm (60/100/120/140x155 cm is kapható) | **6 990 Ft** <br>*méret szerint változik* | 1 |
-
-**Prio 1:** Az első naptól használt háló sötétítése és belátásvédelme szükséges.
-
-- **FÖNSTERBLAD Sötétítő roló, bézs** – Valódi fényzáró (nem csak fényszűrő) roló a len-hatású függöny mögé – ez adja a hálószobában elvárt alvási sötétítést, zsinór nélküli, gyerekbiztos kivitelben. ⚠️ *A méretet a tényleges ablakszélességhez kell választani (több méret közül); önmagában nem esztétikai, hanem funkcionális elem, a látható függöny mögé kerül.*
 
 ### Matrac — Prio 1
 
@@ -171,11 +160,25 @@
 
 | Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 2** | ⭐ ajánlott | [GINSTMOTT Függönypár, bézs](https://www.ikea.com/hu/hu/p/ginstmott-fueggoenypar-bezs-fueggoenyrancolo-szalaggal-40597173/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | 100% poliészter (min. 90% újrahasznosított), len-hatású szövés, bézs | 145x300 cm/pár, ablakonként | **9 990 Ft** <br>*/pár* | 1 |
+| **Prio 2** | Alternatíva | [GINSTMOTT Függönypár, bézs](https://www.ikea.com/hu/hu/p/ginstmott-fueggoenypar-bezs-fueggoenyrancolo-szalaggal-40597173/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | 100% poliészter (min. 90% újrahasznosított), len-hatású szövés, bézs | 145×300 cm/db, 2 db/pár; a szükséges párok száma mérendő | **9 990 Ft** <br>*/pár* | 1 |
 
-**Prio 2:** A fekhely, alap ágynemű és sötétítés mellett fél évig nélkülözhető vagy átmenetileg helyettesíthető.
+**Prio 2:** A ház további függönyei ütemezhetők; az első naptól szükséges alvási sötétítés és belátásvédelem P1. Feltétel: A használt helyiséghez szükséges függöny és karnis együtt P1. A darabszám itt csak 1 áregység, nem rendelési mennyiség.
 
-- **GINSTMOTT Függönypár, bézs** – Fényszűrő, len-hatású bézs függöny – megengedett 'linen-look' megoldás, amelynek bézs tónusa a RAL 1019 nyílászáróval még mintapróbát igényel. ⚠️ *Nem valódi len, hanem újrahasznosított poliészter len-hatással. A karnisnál számoljunk az ablakszélesség kb. kétszeresével a sűrű redőzéshez.*
+> **A beszerzési összegből kizárva:** Nyílásonkénti mérés és egységes két rétegű rendszerkiosztás hiányzik; a szobai és házszintű becsléseket nem összegezzük.
+
+- **GINSTMOTT Függönypár, bézs** – Fényszűrő, len-hatású bézs függöny – megengedett 'linen-look' megoldás, amelynek bézs tónusa a RAL 1019 nyílászáróval még mintapróbát igényel. ⚠️ *Poliészter, nem len. A textil összszélességét a kiválasztott sín hossza és a redőzés szorzata adja; a karnis hosszát külön kell megtervezni.*
+
+### Sötétítő roló (fényzáró réteg) — Prio 2
+
+| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Prio 2** | Figyelőlista | [FÖNSTERBLAD Sötétítő roló, bézs](https://www.ikea.com/hu/hu/p/foensterblad-soetetito-rolo-bezs-50538456/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | 100% poliészter (újrahasznosított) előlap, bézs | 80x155 cm (60/100/120/140x155 cm is kapható) | **6 990 Ft** <br>*méret szerint változik* | 1 |
+
+**Prio 2:** Kizárt korábbi rolóreferencia; a választott rendszer karnis, függöny és sötétítő.
+
+> **A beszerzési összegből kizárva:** A tulajdonos függönyös megoldást választott; nincs külső árnyékoló, rolót sem tervezünk.
+
+- **FÖNSTERBLAD Sötétítő roló, bézs** – Korábbi referencia, a függönyös döntés után nem beszerzendő. ⚠️ *Az alvóhely sötétítési funkciója továbbra is P1, de függönnyel és hozzá illő karnissal kell biztosítani; ennek ára külön hiányzik.*
 
 ### Fiókos szekrény (komód) — Prio 2
 

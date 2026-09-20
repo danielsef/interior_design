@@ -13,7 +13,7 @@
 
 **Prio 1:** a minimális beköltözéshez szükséges új beszerzés, a jelzett feltételekkel. **Prio 2:** körülbelül fél évig halasztható, vagy csak későbbi cserejelölt. Ez külön szempont az ajánlott/olcsóbb/prémium minősítéstől.
 
-**Induló minimum:** A meglévő WC/kézmosó működjön; legyen kéztörlő, szappan, WC-papír és tisztítóeszköz. A végleges falra szerelt tartók nem feltételek.
+**Induló minimum:** A meglévő WC/kézmosó működjön; a kéztörlőt hozzátok. Szappan, WC-papír és tisztítóeszköz szükséges. A végleges falra szerelt tartók nem feltételek.
 
 **Ráér később:** Design szifon és sarokszelep szín miatti cseréje, dekorpolc, külön tükör és végleges sárgaréz tartók.
 
@@ -25,12 +25,11 @@
 
 | Tételkör | Miért / milyen feltétellel? |
 | --- | --- |
-| Kéztörölköző | Az alap kézmosás napi textilje szükséges. |
 | WC-kefe | Minden használatba vett WC-hez kell alap tisztítóeszköz; nem feltétel a drága fali változat. |
 
 | Ajánlott tételek fázisonként | Listázott összeg |
 | --- | --- |
-| Prio 1 – beköltözéshez előre sorolt | **41 370 Ft** |
+| Prio 1 – beköltözéshez előre sorolt | **40 180 Ft** |
 | Prio 2 – későbbi új beszerzés | **116 560 Ft** |
 
 > Ezek a korábbi teljes tervezett darabszámokkal számolt, feltételes részösszegek; nem a legolcsóbb beköltözési kosár árai. Egy szükséglethez egy megfelelő megoldást válassz. A meglevővel kiváltott cserejelölt, a kizárt referencia, EUR-os vagy elfogyott termék és az árazatlan hiány nem szerepel bennük. A szükséges induló darabszámok és az átfedések még pontosítandók.
@@ -39,25 +38,17 @@
 
 | Számítás | Összeg |
 | --- | --- |
-| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **157 930 Ft** |
-| 💰 Kategóriánként a legolcsóbb sor összege | 137 310 Ft |
-| 💎 Kategóriánként a legdrágább sor összege | 185 980 Ft |
+| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **156 740 Ft** |
+| 💰 Kategóriánként a legolcsóbb sor összege | 136 120 Ft |
+| 💎 Kategóriánként a legdrágább sor összege | 184 790 Ft |
 
 > A darabszám javaslat. A forintos költségutak az EUR-os, készlethiányos, meglévővel kiváltott és külön kizárt referenciatételeket kihagyják; ezek ára nem nulla. A feltételes ajánlások szerepelnek a tervezési összegben. A kategóriánkénti alsó/felső összeg nem összeillő bevásárlócsomag: az opcionális és egymást átfedő tételeket külön kell kiválasztani. A szállítás nincs benne; az ár és készlet rendelés előtt ellenőrizendő.
+
+> A forintos költségutakból kimaradó kategória (nincs számolható tétel): **Kéztörölköző**.
 
 ## Termékek
 
 ⭐ = ezt venném · 💰 = olcsóbb, még vállalható · 💎 = jobb minőség, még észszerű áron
-
-### Kéztörölköző — Prio 1
-
-| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 1** | ⭐ ajánlott | [GULVIAL törülköző, bézs](https://www.ikea.com/hu/hu/p/gulvial-toeruelkoezo-bezs-10624494/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | 100% pamut, bézs | 30x50 cm | **595 Ft** | 2 |
-
-**Prio 1:** Az alap kézmosás napi textilje szükséges.
-
-- **GULVIAL törülköző, bézs** – Ugyanaz a bézs pamut törölköző család, mint a nagy fürdőben – egységes textilpaletta a két helyiség között. *(ár listaoldalról)*
 
 ### WC-kefe — Prio 1
 
@@ -88,6 +79,18 @@
 **Prio 2:** A működő WC/kézmosó és alap kellékek mellett a végleges tartó vagy esztétikai csere halasztható.
 
 - **MOSSLANDA képtartó/polc, tölgyfa hatású** – Vékony tölgyfa hatású polcléc, amire a fonott kosár vagy egy kis dísznövény kerülhet – ugyanaz a fatónus, mint a mosdószekrényen. ⚠️ *Eredetileg képtartó polcnak készült (alacsony perem), nem mély tárolópolc.* *(ár listaoldalról)*
+
+### Kéztörölköző — Prio 2
+
+| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Prio 2** | Figyelőlista | [GULVIAL törülköző, bézs](https://www.ikea.com/hu/hu/p/gulvial-toeruelkoezo-bezs-10624494/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | 100% pamut, bézs | 30x50 cm | **595 Ft** | 2 |
+
+**Prio 2:** A meglévő darabokat hozzátok; új beszerzés nem szükséges, csak későbbi csereopció.
+
+> **A beszerzési összegből kizárva:** Tulajdonosi megerősítés: a törölközőket és az összecsukható ruhaszárítót hozzátok.
+
+- **GULVIAL törülköző, bézs** – Meglévővel kiváltott szükséglet; ez a termék csak későbbi csere referencia. *(ár listaoldalról)*
 
 ### Design szifon (látszó műanyag szifon cseréje) — Prio 2
 

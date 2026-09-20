@@ -3,63 +3,80 @@
 | | |
 | --- | --- |
 | **Helyiség** | — |
-| **Termékek** | 59 db |
+| **Termékek** | 62 db |
 | **Áradatok dátuma** | 2026-09-20 |
 | **Inspirációs képek** | [`../../inpiration/00-altalanos-hangulat/`](../../inpiration/00-altalanos-hangulat/README.md) |
 
 > **Követelmények és források felülvizsgálata:** [a helyiség összes kategóriája](../kategoria-felulvizsgalat.md#00-altalanos-hangulat) · [közös beszerzési módszer és döntések](../beszerzesi-modszer.md). A követelményfelmérés nem jelent új teljes ár- vagy készletellenőrzést.
 
+> **Aktuális kutatási brief:** [megerősített igények és nyitott kérdések](KUTATASI-BRIEF.md). Az új követelményekhez a korábbi termékjelöltek illeszkedését még ellenőrizni kell.
+
+> **Új termék-összehasonlítás:** [konkrét alternatívák, csomagárak és fennmaradó feltételek](OSSZEHASONLITAS.md).
+
 ## Beköltözési prioritás
 
 **Prio 1:** a minimális beköltözéshez szükséges új beszerzés, a jelzett feltételekkel. **Prio 2:** körülbelül fél évig halasztható, vagy csak későbbi cserejelölt. Ez külön szempont az ajánlott/olcsóbb/prémium minősítéstől.
 
-**Induló minimum:** A ténylegesen szükséges babavédelem és az első naptól használt alvóhelyek sötétítése/belátásvédelme. A sötétítéshez induláskor a háló és babaszoba saját rolójával számolunk, így nem kell a teljes házas függönycsomagot is megvenni.
+**Induló minimum:** A ténylegesen szükséges babavédelem és az első naptól használt alvóhelyek sötétítése/belátásvédelme. Rögzített megoldás: karnis, függöny és sötétítő; külső árnyékoló nincs és nem lesz. Az induláskor szükséges ablakok teljes függönyrendszere együtt P1.
 
-**Ráér később:** A végleges fényszűrők, teljes karnisrendszer, dekor, növények, képkeretek és összehangolt kosárcsalád ráérnek.
+**Ráér később:** A többi helyiség függönye használat és belátás szerint ütemezhető; dekor, növények, képkeretek és összehangolt kosárcsalád ráérnek.
 
-**Feltétel / kiváltás:** Ha a beköltözési sötétítést függönnyel oldjátok meg, annak karnisa és bélése együtt Prio 1, a szobai roló helyett. A használt szőnyeg szükséges alátétjét vele együtt kell beszerezni.
+**Feltétel / kiváltás:** Két külön mozgatható textilréteghez két sínpályát vagy dupla rudat javaslunk. A rolóreferenciák kizárva. A használt szőnyeg szükséges alátétjét vele együtt kell beszerezni.
+
+> **Még külön ellenőrizendő, nem árazott:** A nyílásonként méretezett függöny, sötétítő, karnis, tartozék és szerelés teljes ára hiányzik. A korábbi 11 pár/3 garnitúra becslések helyett áregység-referenciák szerepelnek, kizárva minden költségútból.
 
 ### Prio 1 – előre sorolt tételek
 
 | Tételkör | Miért / milyen feltétellel? |
 | --- | --- |
-| Zsinórbiztonság (roló/függöny zsinórjához) | A felszerelt árnyékoló elérhető zsinórját már használatba vételkor rendezni kell. **Feltétel:** Csak ha a választott árnyékolón van kezelendő zsinór; zsinórmentes rendszerhez ne vásárolj feleslegesen. |
 | Babavédelem – sarokvédő | A használatba vett gyerekzónában szükséges élvédelem ne maradjon későbbre. **Feltétel:** A helyszínen szükséges és a bútorhoz/szerelvényhez megfelelő védelem P1; nem automatikusan minden listázott darab. |
 | Babavédelem – szekrény-/fiókzár | A gyerek számára hozzáférhető, elzárandó tartalmak védelme induláskor szükséges. **Feltétel:** A helyszínen szükséges és a bútorhoz/szerelvényhez megfelelő védelem P1; nem automatikusan minden listázott darab. |
 | Babavédelem – bútorrögzítő | A beköltözéskor használt, rögzítést igénylő bútorokat használat előtt rögzíteni kell. **Feltétel:** A helyszínen szükséges és a bútorhoz/szerelvényhez megfelelő védelem P1; nem automatikusan minden listázott darab. |
 | Babavédelem – konnektorvédő | A hozzáférhető aljzatok megfelelő védelmét beköltözéskor kell rendezni. **Feltétel:** A helyszínen szükséges és a bútorhoz/szerelvényhez megfelelő védelem P1; nem automatikusan minden listázott darab. |
 | Babavédelem – ajtó-/ujjvédő | A ténylegesen szükséges ajtóvédelem a gyerek által használt terekhez tartozik. **Feltétel:** A helyszínen szükséges és a bútorhoz/szerelvényhez megfelelő védelem P1; nem automatikusan minden listázott darab. |
+| Fényzáró függöny | Az első naptól használt alvóhely függönyös sötétítése a karnissal együtt P1. **Feltétel:** Áregység-referencia; nyílásonkénti mérés és termékpróba szükséges. A többi ablak P2 lehet. |
+| Mennyezeti karnissín (fehér, letisztult vonalú alternatíva) | Az első naptól használt alvóhely függönyös sötétítése a karnissal együtt P1. **Feltétel:** Áregység-referencia; nyílásonkénti mérés és termékpróba szükséges. A többi ablak P2 lehet. |
 
 | Ajánlott tételek fázisonként | Listázott összeg |
 | --- | --- |
-| Prio 1 – beköltözéshez előre sorolt | **58 475 Ft** |
-| Prio 2 – későbbi új beszerzés | **883 796 Ft** |
+| Prio 1 – beköltözéshez előre sorolt | **47 675 Ft** |
+| Prio 2 – későbbi új beszerzés | **269 576 Ft** |
 
 > Ezek a korábbi teljes tervezett darabszámokkal számolt, feltételes részösszegek; nem a legolcsóbb beköltözési kosár árai. Egy szükséglethez egy megfelelő megoldást válassz. A meglevővel kiváltott cserejelölt, a kizárt referencia, EUR-os vagy elfogyott termék és az árazatlan hiány nem szerepel bennük. A szükséges induló darabszámok és az átfedések még pontosítandók.
+
+> **Prio 1 funkció, de nincs az ajánlott HUF-részösszegben számolható jelölt:** Fényzáró függöny, Mennyezeti karnissín (fehér, letisztult vonalú alternatíva). Ez nem nulla költség.
 
 ## Költség ebben a helyiségben
 
 | Számítás | Összeg |
 | --- | --- |
-| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **942 271 Ft** |
-| 💰 Kategóriánként a legolcsóbb sor összege | 775 933 Ft |
-| 💎 Kategóriánként a legdrágább sor összege | 1 379 546 Ft |
+| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **317 251 Ft** |
+| 💰 Kategóriánként a legolcsóbb sor összege | 249 976 Ft |
+| 💎 Kategóriánként a legdrágább sor összege | 399 479 Ft |
 
 > A darabszám javaslat. A forintos költségutak az EUR-os, készlethiányos, meglévővel kiváltott és külön kizárt referenciatételeket kihagyják; ezek ára nem nulla. A feltételes ajánlások szerepelnek a tervezési összegben. A kategóriánkénti alsó/felső összeg nem összeillő bevásárlócsomag: az opcionális és egymást átfedő tételeket külön kell kiválasztani. A szállítás nincs benne; az ár és készlet rendelés előtt ellenőrizendő.
+
+> A forintos költségutakból kimaradó kategória (nincs számolható tétel): **Mennyezeti karnissín (fehér, letisztult vonalú alternatíva), Fényzáró függöny, Fényszűrő len függöny, Fényszűrő len hatású függöny, Sötétítő bélés a fényszűrő függöny mögé, Sötétítő roló, Zsinórbiztonság (roló/függöny zsinórjához), Karnis (szálcsiszolt sárgaréz / matt arany), Dupla karnis, Függönykarika (csak a karika nélküli karnisokhoz)**.
 
 ## Termékek
 
 ⭐ = ezt venném · 💰 = olcsóbb, még vállalható · 💎 = jobb minőség, még észszerű áron
 
-### Zsinórbiztonság (roló/függöny zsinórjához) — Prio 1
+### Mennyezeti karnissín (fehér, letisztult vonalú alternatíva) — Prio 1 / Prio 2
 
 | Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 1** | ⭐ ajánlott | [Zsinórfeszítő (alumínium karnisokhoz)](https://fuggonymester.hu/termek/zsinorfeszito/) | **Függönymester** – online (fuggonymester.hu), házhoz szállítás Magyarországra | fém | falra szerelhető zsinórfeszítő szerelvény | **3 600 Ft** <br>*/db* | 3 |
+| **Prio 1** | Alternatíva | [2 soros alumínium mennyezeti sín tartozékokkal, 120 cm](https://karnisstudio.hu/2-soros-aluminium-mennyezeti-sin-tartozekokkal) | **Karnisstúdió** – karnisstudio.hu; bemutatóterem: 1162 Budapest, Rákosi út 207. | fehér alumíniumsín, műanyag végzárók és csúszkák | 120 cm; két pálya; profil 44×12 mm | **6 120 Ft** <br>*/készlet; 7 200 Ft helyett, kifutó a készlet erejéig* <br>*Kivezetés alatt; csak aktuális készlet és kompatibilitás ellenőrzése után.* | 1 |
+| **Prio 2** | Alternatíva | [VIDGA Egyes sín készlet, fehér](https://www.ikea.com/hu/hu/p/vidga-egyes-sin-keszlet-feher-s49428232/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | eloxált/epoxi bevonatú alumínium sín, acetál csúsztatók, fehér | 140 cm/db (sín + 2 mennyezeti konzol + 2x24 db csúsztató-horog) | **5 990 Ft** <br>*/készlet* | 1 |
 
-**Prio 1:** A felszerelt árnyékoló elérhető zsinórját már használatba vételkor rendezni kell. Feltétel: Csak ha a választott árnyékolón van kezelendő zsinór; zsinórmentes rendszerhez ne vásárolj feleslegesen.
+**Prio 1:** Az első naptól használt alvóhely függönyös sötétítése a karnissal együtt P1. Feltétel: Áregység-referencia; nyílásonkénti mérés és termékpróba szükséges. A többi ablak P2 lehet.
 
-- **Zsinórfeszítő (alumínium karnisokhoz)** – Falra rögzítve feszesen tartja és rendben tartja a húzózsinórt, így az nem lóg le hurokban gyerekmagasságba – ez a kisbabás háztartás 'kábelek és zsinórok rögzítve legyenek' szabályát szolgálja a redőnyös/zsinóros ablakoknál. ⚠️ *Nem kifejezetten bababiztonsági termékként hirdetve (nincs 'gyerekbiztonság' feliratozás a terméken), hanem általános zsinórfeszítő szerelvény – funkciója (zsinór rögzítése, nem lóg szabadon) viszont megfelel a célnak. Kifejezetten 'zsinórrövidítő' vagy CE-jelzett gyerekbiztonsági kalapocs/klip magyar webshopban nem került elő ellenőrizhető termékoldalon.*
+**Prio 2:** A ház további függönyei ütemezhetők; az első naptól szükséges alvási sötétítés és belátásvédelem P1. Feltétel: A használt helyiséghez szükséges függöny és karnis együtt P1. A darabszám itt csak 1 áregység, nem rendelési mennyiség.
+
+> **A beszerzési összegből kizárva:** Nincs kész méretezés, igazolt szín-/rendszerilleszkedés és teljes csomagár; nem rendelési mennyiség. Nyílásonkénti mérés és egységes két rétegű rendszerkiosztás hiányzik; a szobai és házszintű becsléseket nem összegezzük.
+
+- **2 soros alumínium mennyezeti sín tartozékokkal, 120 cm** – Két textilréteghez vizsgálható, visszafogott fehér sín; feltételes árreferencia. ⚠️ *Vastag sötétítőhöz a kereskedő nem ajánlja a pályák közelsége miatt. Végzáró, csavar/tipli és csúszka szerepel a csomagban; a mellékelt rögzítő alkalmasságát a mennyezethez ellenőrizni kell. Kifutó készlet.*
+- **VIDGA Egyes sín készlet, fehér** – Fehér, mennyezetre szerelhető sínreferencia. Két külön mozgó függönyréteghez két sínpálya szükséges; ez egyes sínkészlet. ⚠️ *A csomag rögzítéshez szükséges csavarokat/tipliket nem tartalmazza; 140 cm-nél szélesebb ablakhoz VIDGA toldóelem vagy második sín (VIDGA fali/mennyezeti alkatrészek, ~700-1500 Ft/db) szükséges.*
 
 ### Babavédelem – sarokvédő — Prio 1
 
@@ -115,59 +132,83 @@
 
 - **PATRULL ajtótámasz, fehér** – Megakadályozza, hogy az ajtó becsapódjon és becsípje a baba ujját; fehér, ezért a RAL 1019 ajtótól elütő funkcionális részlet, fúrás nélkül felrakható. ⚠️ *Csak akkor működik, ha az ajtó és a padló között 1,2–3,5 cm a hézag – a beltéri ajtóknál mérd le. A zsanér felőli rést nem védi.*
 
+### Fényzáró függöny — Prio 1
+
+| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Prio 1** | Alternatíva | [BENGTA Sötétítőfüggöny, 1 db, bézs](https://www.ikea.com/hu/hu/p/bengta-soetetitofueggoeny-1-db-bezs-fueggoenyrancolo-szalaggal-30602090/) | **IKEA** – ikea.com/hu; áruházi és kiszállítási készlet külön ellenőrizendő | poliészter szövet (min. 90% újrahasznosított), poliuretán hátoldal; bézs | 210×300 cm/db; nem pár | **4 990 Ft** <br>*/db; rögzítés és méretre igazítás külön* | 1 |
+| **Prio 1** | Alternatíva | [Super Blackout d2692c, barna/szürkésbézs méteráru](https://www.fuggonyfutar.hu/sotetito_fuggony/?cikkszam=d2692c) | **FüggönyFutár** – fuggonyfutar.hu; méteráru vagy méretre varrás, országos szállítás | 100% poliészter, 268 g/m², barna/szürkésbézs | 280 cm anyagszélesség; 1 fm referencia, nem készfüggöny | **10 900 Ft** <br>*/fm látott referencia; elavult dátumú oldalon, újra megerősítendő; varrás külön* | 1 |
+
+**Prio 1:** Az első naptól használt alvóhely függönyös sötétítése a karnissal együtt P1. Feltétel: Áregység-referencia; nyílásonkénti mérés és termékpróba szükséges. A többi ablak P2 lehet.
+
+> **A beszerzési összegből kizárva:** Nincs kész méretezés, igazolt szín-/rendszerilleszkedés és teljes csomagár; nem rendelési mennyiség.
+
+- **BENGTA Sötétítőfüggöny, 1 db, bézs** – Olcsó fényzáró készfüggöny-jelölt; a bézs árnyalatot a RAL 1019 és padló mellett kell próbálni. ⚠️ *Műszálas kompromisszum; 30 °C mosás, szárítógép nélkül. Az anyag fényzárása nem szünteti meg a szélső réseket. Felület és esés próbálandó.*
+- **Super Blackout d2692c, barna/szürkésbézs méteráru** – Méretre készülő alternatíva, anyagmintával ellenőrizhető szín és tapintás. ⚠️ *A megnyitott oldal június 11-i várható érkezést mutatott. Mai ár, készlet, varrás és szállítás megerősítendő. Sötétebb barna tónusa miatt nem automatikus stílusbeli döntős.*
+
 ### Fényszűrő len függöny — Prio 2
 
 | Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 2** | ⭐ ajánlott | [DYTÅG Függönypár, fehér](https://www.ikea.com/hu/hu/p/dytag-fueggoenypar-feher-fueggoenyrancolo-szalaggal-20466719/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | 100% lenvászon, fehér (törtfehérhez közeli) | 145x300 cm/db, párban (2 db/csomag) | **34 990 Ft** <br>*/pár* | 11 |
-| **Prio 2** | 💎 prémium | [Daytime len függöny (Linen Tales), bézs/natúr](https://www.bonami.hu/p/daytime-kozepen-elhuzhato-bezs-vaszonfuggony-275-x-140-cm-linen-tales) | **Bonami** – online (bonami.hu), házhoz szállítás Magyarországra | 100% lenvászon, natúr/bézs, European Flax + OEKO-TEX tanúsítvánnyal | 130x275 cm/db – párhoz 2 db szükséges (≈260 cm együttes szélesség) | **30 190 Ft** <br>*/db* | 2 |
+| **Prio 2** | Alternatíva | [DYTÅG Függönypár, fehér](https://www.ikea.com/hu/hu/p/dytag-fueggoenypar-feher-fueggoenyrancolo-szalaggal-20466719/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | 100% lenvászon, fehér (törtfehérhez közeli) | 145x300 cm/db, párban (2 db/csomag) | **34 990 Ft** <br>*/pár* | 1 |
+| **Prio 2** | Alternatíva | [Daytime len függöny (Linen Tales), bézs/natúr](https://www.bonami.hu/p/daytime-kozepen-elhuzhato-bezs-vaszonfuggony-275-x-140-cm-linen-tales) | **Bonami** – online (bonami.hu), házhoz szállítás Magyarországra | 100% lenvászon, natúr/bézs, European Flax + OEKO-TEX tanúsítvánnyal | 130x275 cm/db – párhoz 2 db szükséges (≈260 cm együttes szélesség) | **30 190 Ft** <br>*/db* | 1 |
 
-**Prio 2:** Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük. Feltétel: Ahol már az első naptól belátásvédelem szükséges és más megoldás nincs, az adott ablak takarása P1.
+**Prio 2:** A ház további függönyei ütemezhetők; az első naptól szükséges alvási sötétítés és belátásvédelem P1. Feltétel: A használt helyiséghez szükséges függöny és karnis együtt P1. A darabszám itt csak 1 áregység, nem rendelési mennyiség.
 
-- **DYTÅG Függönypár, fehér** – Valódi 100% len, fényszűrő, 300 cm hosszú – anyagában illeszkedő jelölt; törtfehér árnyalata a RAL 1019 nyílászáró mellett még mintával ellenőrizendő. A 11 ablakhoz 11 csomag (ablakonként 1 pár = 2x145 cm ≈ 2x a szokásos ablakszélesség) szükséges, szélesebb ablaknál 2 pár kombinálandó. ⚠️ *A név szerint 'fehér', a termékoldal szövege szerint a valódi len rostszíne miatt enyhén törtfehér árnyalatú – mintát érdemes kérni a szürkés bézs nyílászáróhoz illesztéshez.*
-- **Daytime len függöny (Linen Tales), bézs/natúr** – Kézzel készített, litvániai valódi len, tanúsított (European Flax, OEKO-TEX), előmosott – prémium tapintás és minőség a fő nappalikba/hálóba, ahol számít a textil súlya és esése. ⚠️ *Darabár – egy ablakhoz 2 db kell (≈60 380 Ft/ablak); a len természetéből adódóan darabonként lehet apró színeltérés.*
+> **A beszerzési összegből kizárva:** Nyílásonkénti mérés és egységes két rétegű rendszerkiosztás hiányzik; a szobai és házszintű becsléseket nem összegezzük.
+
+- **DYTÅG Függönypár, fehér** – Valódi len fényszűrő, természetes textúrával; fehér árnyalata RAL 1019 és padlóminta mellett ellenőrizendő. A szükséges párok száma a sín hosszától és redőzéstől függ. ⚠️ *A név szerint 'fehér', a termékoldal szövege szerint a valódi len rostszíne miatt enyhén törtfehér árnyalatú – mintát érdemes kérni a szürkés bézs nyílászáróhoz illesztéshez.*
+- **Daytime len függöny (Linen Tales), bézs/natúr** – Kézzel készített, litvániai valódi len, tanúsított (European Flax, OEKO-TEX), előmosott – prémium tapintás és minőség a fő nappalikba/hálóba, ahol számít a textil súlya és esése. ⚠️ *Darabár, nem pár. A szükséges mennyiség a sín hosszától és redőzéstől függ; a len árnyalata darabonként eltérhet. Korábbi méretadat és az URL méretjelölése eltér, rendelés előtt tisztázandó.*
 
 ### Fényszűrő len hatású függöny — Prio 2
 
 | Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 2** | 💰 olcsóbb | [LENDA Függöny elkötővel 1 pár, törtfehér](https://www.ikea.com/hu/hu/p/lenda-fueggoeny-elkoetovel-1-par-toertfeher-fueggoenyrancolo-szalaggal-10633243/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | 100% pamut (min. 50% újrahasznosított), törtfehér | 140x250 cm, párban | **11 990 Ft** <br>*/pár* | 11 |
+| **Prio 2** | Alternatíva | [LENDA Függöny elkötővel 1 pár, törtfehér](https://www.ikea.com/hu/hu/p/lenda-fueggoeny-elkoetovel-1-par-toertfeher-fueggoenyrancolo-szalaggal-10633243/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | 100% pamut (min. 50% újrahasznosított), törtfehér | 140x250 cm, párban | **11 990 Ft** <br>*/pár* | 1 |
 
-**Prio 2:** Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük. Feltétel: Ahol már az első naptól belátásvédelem szükséges és más megoldás nincs, az adott ablak takarása P1.
+**Prio 2:** A ház további függönyei ütemezhetők; az első naptól szükséges alvási sötétítés és belátásvédelem P1. Feltétel: A használt helyiséghez szükséges függöny és karnis együtt P1. A darabszám itt csak 1 áregység, nem rendelési mennyiség.
 
-- **LENDA Függöny elkötővel 1 pár, törtfehér** – Jóval olcsóbb fényszűrő alternatíva, törtfehér, elkötővel – 250 cm-es hossza még a hosszú, 'tócsázó' kategóriába esik. ⚠️ *Nem len, hanem pamut – az irányelv textúráját (len fonat) nem adja vissza, csak a színt és a fényszűrést; rövidebb is (250 cm), mint a DYTÅG.*
+> **A beszerzési összegből kizárva:** Nyílásonkénti mérés és egységes két rétegű rendszerkiosztás hiányzik; a szobai és házszintű becsléseket nem összegezzük.
+
+- **LENDA Függöny elkötővel 1 pár, törtfehér** – Pamut fényszűrő, kedvezőbb árú természetes szálas jelölt. A 250 cm-es hossz csak a kész sín–padló távolsággal együtt ítélhető meg; nem feltételezünk padlóra omlást. ⚠️ *Nem len, hanem pamut – az irányelv textúráját (len fonat) nem adja vissza, csak a színt és a fényszűrést; rövidebb is (250 cm), mint a DYTÅG.*
 
 ### Sötétítő bélés a fényszűrő függöny mögé — Prio 2
 
 | Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 2** | ⭐ ajánlott | [GLANSNÄVA Függönnybélés 1 pár, világosszürke](https://www.ikea.com/hu/hu/p/glansnaeva-fueggoennybeles-1-par-vilagosszuerke-70291289/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | 100% poliészter (min. 90% újrahasznosított), világosszürke | 143x290 cm, párban | **12 990 Ft** <br>*/pár* | 3 |
+| **Prio 2** | Alternatíva | [GLANSNÄVA Függönnybélés 1 pár, világosszürke](https://www.ikea.com/hu/hu/p/glansnaeva-fueggoennybeles-1-par-vilagosszuerke-70291289/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | 100% poliészter (min. 90% újrahasznosított), világosszürke | 143x290 cm, párban | **12 990 Ft** <br>*/pár* | 1 |
 
-**Prio 2:** Indulásra a használt háló és babaszoba külön rolójával számolunk; a teljes házas függöny/karnis összeállítás későbbre maradhat. Feltétel: Ha az induló sötétítést mégis függönnyel oldjátok meg, az ehhez kellő sín/karnis és bélés együtt P1; a szobai rolót ilyenkor kiváltják.
+**Prio 2:** A ház további függönyei ütemezhetők; az első naptól szükséges alvási sötétítés és belátásvédelem P1. Feltétel: A használt helyiséghez szükséges függöny és karnis együtt P1. A darabszám itt csak 1 áregység, nem rendelési mennyiség.
 
-- **GLANSNÄVA Függönnybélés 1 pár, világosszürke** – A fényszűrő len függöny mögé akasztható külön sötétítő réteg a hálóba és a 2 gyerekszobába (nem színes sötétítő függöny helyettesíti, ahogy az irányelv kéri) – dupla rúdon (l. HUGAD/RÄCKA dupla) a fő függönnyel együtt lóg. ⚠️ *Nem teljes fényzáró, csak jelentősen tompítja a fényt; színe világosszürke, nem törtfehér – mivel a fő függöny mögé kerül, kívülről nem látszik.*
+> **A beszerzési összegből kizárva:** Nyílásonkénti mérés és egységes két rétegű rendszerkiosztás hiányzik; a szobai és házszintű becsléseket nem összegezzük.
+
+- **GLANSNÄVA Függönnybélés 1 pár, világosszürke** – Korábbi fénytompító bélésreferencia; önmagában nem igazolt teljes alvási sötétítés. ⚠️ *A fényszűrőhöz kapcsolt bélés nem azonos két egymástól függetlenül mozgatható függönnyel. Felfüggesztését, fényzárását és kívülről látható színét ellenőrizni kell.*
 
 ### Sötétítő roló — Prio 2
 
 | Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 2** | 💰 olcsóbb | [FRIDANS Sötétítő roló, fehér](https://www.ikea.com/hu/hu/p/fridans-soetetito-rolo-feher-30396858/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | poliészter, fehér | 100x195 cm (60/80/100/120/140x195 cm méretekben is kapható) | **9 990 Ft** | 3 |
-| **Prio 2** | 💎 prémium | [TRETUR Sötétítő roló, világosszürke](https://www.ikea.com/hu/hu/p/tretur-soetetito-rolo-vilagosszuerke-40380989/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | poliészter (min. 90% újrahasznosított), alumínium sín, világosszürke | 120x195 cm (60/80/100/120/140x195 cm méretekben is kapható) | **17 990 Ft** | 3 |
+| **Prio 2** | Figyelőlista | [FRIDANS Sötétítő roló, fehér](https://www.ikea.com/hu/hu/p/fridans-soetetito-rolo-feher-30396858/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | poliészter, fehér | 100x195 cm (60/80/100/120/140x195 cm méretekben is kapható) | **9 990 Ft** | 3 |
+| **Prio 2** | Figyelőlista | [TRETUR Sötétítő roló, világosszürke](https://www.ikea.com/hu/hu/p/tretur-soetetito-rolo-vilagosszuerke-40380989/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | poliészter (min. 90% újrahasznosított), alumínium sín, világosszürke | 120x195 cm (60/80/100/120/140x195 cm méretekben is kapható) | **17 990 Ft** | 3 |
 
-**Prio 2:** Indulásra a használt háló és babaszoba külön rolójával számolunk; a teljes házas függöny/karnis összeállítás későbbre maradhat. Feltétel: Ha az induló sötétítést mégis függönnyel oldjátok meg, az ehhez kellő sín/karnis és bélés együtt P1; a szobai rolót ilyenkor kiváltják.
+**Prio 2:** Kizárt korábbi rolóreferencia; a választott rendszer karnis, függöny és sötétítő.
 
-- **FRIDANS Sötétítő roló, fehér** – Önálló, olcsó sötétítő roló megoldás a háló + 2 gyerekszoba ablakára, ha bélés helyett rolót választunk; fehér színe a fehér falhoz kapcsolódhat; a RAL 1019 nyílászáró melletti kontraszt mintával ellenőrizendő. ⚠️ *Alap kivitel, kézi behúzású; nem 100%-ban fényzáró a kávafogazás miatt (oldalt/alul szűrődhet be némi fény).*
-- **TRETUR Sötétítő roló, világosszürke** – Vastagabb, jobb fényzáró anyag és minőségibb kivitel, mint a FRIDANS – halkabb, finoman gördülő mechanika, ami kisbabás szobában a délutáni altatáshoz fontos. ⚠️ *Világosszürke, nem törtfehér/bézs – takarásban (ablakmélyedésben) ez nem zavaró, de látható rolóként színben elüt a többi textiltől.*
+> **A beszerzési összegből kizárva:** A tulajdonos függönyös megoldást választott; nincs külső árnyékoló, rolót sem tervezünk.
 
-### Mennyezeti karnissín (fehér, letisztult vonalú alternatíva) — Prio 2
+- **FRIDANS Sötétítő roló, fehér** – Korábbi referencia, a függönyös döntés után nem beszerzendő. ⚠️ *Az alvóhely sötétítési funkciója továbbra is P1, de függönnyel és hozzá illő karnissal kell biztosítani; ennek ára külön hiányzik.*
+- **TRETUR Sötétítő roló, világosszürke** – Korábbi referencia, a függönyös döntés után nem beszerzendő. ⚠️ *Az alvóhely sötétítési funkciója továbbra is P1, de függönnyel és hozzá illő karnissal kell biztosítani; ennek ára külön hiányzik.*
+
+### Zsinórbiztonság (roló/függöny zsinórjához) — Prio 2
 
 | Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 2** | 💎 prémium | [VIDGA Egyes sín készlet, fehér](https://www.ikea.com/hu/hu/p/vidga-egyes-sin-keszlet-feher-s49428232/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | eloxált/epoxi bevonatú alumínium sín, acetál csúsztatók, fehér | 140 cm/db (sín + 2 mennyezeti konzol + 2x24 db csúsztató-horog) | **5 990 Ft** <br>*/készlet* | 3 |
+| **Prio 2** | Figyelőlista | [Zsinórfeszítő (alumínium karnisokhoz)](https://fuggonymester.hu/termek/zsinorfeszito/) | **Függönymester** – online (fuggonymester.hu), házhoz szállítás Magyarországra | fém | falra szerelhető zsinórfeszítő szerelvény | **3 600 Ft** <br>*/db* | 3 |
 
-**Prio 2:** Indulásra a használt háló és babaszoba külön rolójával számolunk; a teljes házas függöny/karnis összeállítás későbbre maradhat. Feltétel: Ha az induló sötétítést mégis függönnyel oldjátok meg, az ehhez kellő sín/karnis és bélés együtt P1; a szobai rolót ilyenkor kiváltják.
+**Prio 2:** Csak ténylegesen zsinóros, kompatibilis rendszerhez lehet szükséges. Feltétel: Csak ha a választott árnyékolón van kezelendő zsinór; zsinórmentes rendszerhez ne vásárolj feleslegesen.
 
-- **VIDGA Egyes sín készlet, fehér** – Mennyezetbe rejtett fehér sín, amely eltűnik a fehér plafonon – letisztultabb megjelenés, mint a klasszikus rúd, jó választás a nappaliban/étkezőben, ahol a plafonhoz simuló, dekoratív rúd nélküli megoldást keresünk. ⚠️ *A csomag rögzítéshez szükséges csavarokat/tipliket nem tartalmazza; 140 cm-nél szélesebb ablakhoz VIDGA toldóelem vagy második sín (VIDGA fali/mennyezeti alkatrészek, ~700-1500 Ft/db) szükséges.*
+> **A beszerzési összegből kizárva:** Nincs kiválasztott zsinóros rendszer; a feltételezett 3 darab nem igazolt szükséglet.
+
+- **Zsinórfeszítő (alumínium karnisokhoz)** – Feltételes szerelvényreferencia, nem általános babavédelmi ajánlás. ⚠️ *A kompatibilitás és biztonsági megfelelőség nincs igazolva. Első javaslat a kézzel vagy húzópálcával mozgatott függöny; más működtetésnél a gyártó teljes előírt megoldását kell követni.*
 
 ### Fonott tárolókosár (kicsi, ~25 cm) — Prio 2
 
@@ -401,12 +442,14 @@
 
 | Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 2** | ⭐ ajánlott | [Egysoros 19mm karnis - CYLINDER - antik](https://arnyekolokweb.hu/egysoros-19mm-karnis-cylinder-antik/p-983375) | **Árnyékolókweb (arnyekolokweb.hu)** – online rendelés, házhoz szállítás (2–3 nap); a rudat kérésre ingyen méretre vágják | galvanizált fém, „antik (matt arany)” árnyalat – a fotón sötétebb, antikolt óarany tónus, matt – a termékoldal szó szerinti megnevezése; henger (cylinder) végzáró | Ø 19 mm; választható rúdhossz 1000–4800 mm (2400 mm-ig egy darab, 3200 mm-től 2 rúd + toldó + 3 konzol); ingyenes méretre vágás | **11 990 Ft** <br>*/szett, 3200 mm-es rúd karikákkal és csipeszekkel (30 db karika a szettben). Más hosszak ugyanígy karikával: 2400 mm 9 190 Ft (23 karika), 3600 mm 12 790 Ft, 4000 mm 13 490 Ft; karika nélkül 7 590 / 9 990 / 10 390 / 10 890 Ft. 30% akciós ár (listaár-alap 8 414 Ft helyett 5 890 Ft-tól). Az árakat a termékoldal változat-kalkulátora adta. 3 m feletti ablakra merevebb a Ø 25 mm-es testvérmodell (Egysoros 25mm karnis - PULLO - antik: 3200 mm karikával 12 590 Ft, 4000 mm 14 390 Ft – ugyanott). Az akció a bolt szerint 2026-09-21-ig érvényes – utána kb. 30%-kal drágább.* | 11 |
-| **Prio 2** | 💰 olcsóbb | [Egysoros 19mm karnis - PULLO - antik](https://arnyekolokweb.hu/egysoros-19mm-karnis-pullo-antik/p-983385) | **Árnyékolókweb (arnyekolokweb.hu)** – online rendelés, házhoz szállítás (2–3 nap); ingyenes méretre vágás | galvanizált fém, „antik (matt arany)” árnyalat – a fotón sötétebb, antikolt óarany tónus, matt; PULLO végzáró | Ø 19 mm; rúdhossz 1000–4800 mm (2400 mm-ig egy darab, 3200 mm-től 2 rúd + toldó + 3 konzol) | **11 190 Ft** <br>*/szett, 3200 mm karikákkal és csipeszekkel (30 db). 2400 mm: 8 290 Ft, 4000 mm: 12 690 Ft karikával; karika nélkül 6 690 / 9 090 / 9 990 Ft. 30% akció (alapár 7 271 Ft helyett 5 090 Ft-tól). Ár a termékoldal változat-kalkulátorából. Az akció a bolt szerint 2026-09-21-ig érvényes – utána kb. 30%-kal drágább.* | 11 |
-| **Prio 2** | 💎 prémium | [CAPPA matt arany 165-300cm-es állítható teleszkópos függönykarnis](https://designmarket.hu/CAPPA-matt-arany-165-300cm-es-allithato-teleszkopo) | **Designmarket (Umbra)** – online (GLS 1–2 nap) vagy személyes átvétel Fóton / Vecsésen; raktáron: több mint 5 db | matt arany acél, ABS műanyag (Umbra Cappa) | 165–300 cm között állítható (teleszkópos), terhelhetőség max. 10 kg középső konzollal | **20 790 Ft** <br>*/db; karika nincs a csomagban. Hasonló Umbra CLEO matt arany 168–305 cm (Ø 2,5 cm) ugyanitt 20 790 Ft, a Bonamin 20 920 Ft.* | 11 |
-| **Prio 2** | 💎 prémium | [Gardinia Thasos függönyrúdkészlet Ø 19/22 mm átmérő kihúzható 190-360 cm arany](https://www.obi.hu/karnisok-es-huzalos-fueggoenysinek/gardinia-thasos-fuggonyrudkeszlet-19-22-mm-atmero-kihuzhato-190-360-cm-arany/p/5387089) | **OBI** – online (házhoz szállítás 5 990 Ft) vagy lefoglalás és személyes átvétel OBI áruházban (pl. Budaörs) | alumínium, arany szín, felület: matt (OBI adatlap szerint) | Ø 19/22 mm, 190–360 cm között kihúzható, 1 soros; fémtartókkal, végzárókkal, rögzítőanyaggal | **17 999 Ft** <br>*/készlet; karika nélkül (OBI: „Függönykarikák csipeszekkel 10 db 19 mm sárgaréz” külön)* | 11 |
+| **Prio 2** | Alternatíva | [Egysoros 19mm karnis - CYLINDER - antik](https://arnyekolokweb.hu/egysoros-19mm-karnis-cylinder-antik/p-983375) | **Árnyékolókweb (arnyekolokweb.hu)** – online rendelés, házhoz szállítás (2–3 nap); a rudat kérésre ingyen méretre vágják | galvanizált fém, „antik (matt arany)” árnyalat – a fotón sötétebb, antikolt óarany tónus, matt – a termékoldal szó szerinti megnevezése; henger (cylinder) végzáró | Ø 19 mm; választható rúdhossz 1000–4800 mm (2400 mm-ig egy darab, 3200 mm-től 2 rúd + toldó + 3 konzol); ingyenes méretre vágás | **11 990 Ft** <br>*/szett, 3200 mm-es rúd karikákkal és csipeszekkel (30 db karika a szettben). Más hosszak ugyanígy karikával: 2400 mm 9 190 Ft (23 karika), 3600 mm 12 790 Ft, 4000 mm 13 490 Ft; karika nélkül 7 590 / 9 990 / 10 390 / 10 890 Ft. 30% akciós ár (listaár-alap 8 414 Ft helyett 5 890 Ft-tól). Az árakat a termékoldal változat-kalkulátora adta. 3 m feletti ablakra merevebb a Ø 25 mm-es testvérmodell (Egysoros 25mm karnis - PULLO - antik: 3200 mm karikával 12 590 Ft, 4000 mm 14 390 Ft – ugyanott). Az akció a bolt szerint 2026-09-21-ig érvényes – utána kb. 30%-kal drágább.* | 1 |
+| **Prio 2** | Alternatíva | [Egysoros 19mm karnis - PULLO - antik](https://arnyekolokweb.hu/egysoros-19mm-karnis-pullo-antik/p-983385) | **Árnyékolókweb (arnyekolokweb.hu)** – online rendelés, házhoz szállítás (2–3 nap); ingyenes méretre vágás | galvanizált fém, „antik (matt arany)” árnyalat – a fotón sötétebb, antikolt óarany tónus, matt; PULLO végzáró | Ø 19 mm; rúdhossz 1000–4800 mm (2400 mm-ig egy darab, 3200 mm-től 2 rúd + toldó + 3 konzol) | **11 190 Ft** <br>*/szett, 3200 mm karikákkal és csipeszekkel (30 db). 2400 mm: 8 290 Ft, 4000 mm: 12 690 Ft karikával; karika nélkül 6 690 / 9 090 / 9 990 Ft. 30% akció (alapár 7 271 Ft helyett 5 090 Ft-tól). Ár a termékoldal változat-kalkulátorából. Az akció a bolt szerint 2026-09-21-ig érvényes – utána kb. 30%-kal drágább.* | 1 |
+| **Prio 2** | Alternatíva | [CAPPA matt arany 165-300cm-es állítható teleszkópos függönykarnis](https://designmarket.hu/CAPPA-matt-arany-165-300cm-es-allithato-teleszkopo) | **Designmarket (Umbra)** – online (GLS 1–2 nap) vagy személyes átvétel Fóton / Vecsésen; raktáron: több mint 5 db | matt arany acél, ABS műanyag (Umbra Cappa) | 165–300 cm között állítható (teleszkópos), terhelhetőség max. 10 kg középső konzollal | **20 790 Ft** <br>*/db; karika nincs a csomagban. Hasonló Umbra CLEO matt arany 168–305 cm (Ø 2,5 cm) ugyanitt 20 790 Ft, a Bonamin 20 920 Ft.* | 1 |
+| **Prio 2** | Alternatíva | [Gardinia Thasos függönyrúdkészlet Ø 19/22 mm átmérő kihúzható 190-360 cm arany](https://www.obi.hu/karnisok-es-huzalos-fueggoenysinek/gardinia-thasos-fuggonyrudkeszlet-19-22-mm-atmero-kihuzhato-190-360-cm-arany/p/5387089) | **OBI** – online (házhoz szállítás 5 990 Ft) vagy lefoglalás és személyes átvétel OBI áruházban (pl. Budaörs) | alumínium, arany szín, felület: matt (OBI adatlap szerint) | Ø 19/22 mm, 190–360 cm között kihúzható, 1 soros; fémtartókkal, végzárókkal, rögzítőanyaggal | **17 999 Ft** <br>*/készlet; karika nélkül (OBI: „Függönykarikák csipeszekkel 10 db 19 mm sárgaréz” külön)* | 1 |
 
-**Prio 2:** Indulásra a használt háló és babaszoba külön rolójával számolunk; a teljes házas függöny/karnis összeállítás későbbre maradhat. Feltétel: Ha az induló sötétítést mégis függönnyel oldjátok meg, az ehhez kellő sín/karnis és bélés együtt P1; a szobai rolót ilyenkor kiváltják.
+**Prio 2:** A ház további függönyei ütemezhetők; az első naptól szükséges alvási sötétítés és belátásvédelem P1. Feltétel: A használt helyiséghez szükséges függöny és karnis együtt P1. A darabszám itt csak 1 áregység, nem rendelési mennyiség.
+
+> **A beszerzési összegből kizárva:** Nyílásonkénti mérés és egységes két rétegű rendszerkiosztás hiányzik; a szobai és házszintű becsléseket nem összegezzük.
 
 - **Egysoros 19mm karnis - CYLINDER - antik** – Matt arany, letisztult hengeres végzáróval – a ház egységes szálcsiszolt sárgaréz fémvilágához illő karnis; 210–385 cm között bármely méretre ingyen levágják, és a szett a konzolokat, végzárókat és a csipeszes karikákat is tartalmazza. ⚠️ *Az „antik” árnyalat kissé patinásabb lehet, mint a szálcsiszolt sárgaréz kilincs – 1 db-ot rendelni próbára és a kilincshez összenézni. 240 cm felett a rúd két darabból áll (toldóval, középső konzollal), a karika a toldásnál megakadhat. Ablakonként a pontos hosszt felmérés után kell kiválasztani, az ár a hossztól függ.*
 - **Egysoros 19mm karnis - PULLO - antik** – A sorozat legolcsóbb végzárójával ugyanaz a matt arany, méretre vágott Ø 19 mm-es rúd – 11 ablaknál érezhető a különbség, a fémtónus így is egységes marad a házban. ⚠️ *A PULLO végzáró formáját a termékképen ellenőrizni (a hengeres CYLINDER letisztultabb). „Antik” = kissé patinásabb arany – mintával összenézni a kilincsekkel. 240 cm felett toldott rúd.*
@@ -417,18 +460,22 @@
 
 | Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 2** | ⭐ ajánlott | [Kétsoros 19x19mm karnis - CYLINDER - antik](https://arnyekolokweb.hu/ketsoros-19x19mm-karnis-cylinder-antik/p-983426) | **Árnyékolókweb (arnyekolokweb.hu)** – online rendelés, házhoz szállítás (2–3 nap); ingyenes méretre vágás | galvanizált fém, „antik (matt arany)” árnyalat – a fotón sötétebb, antikolt óarany tónus, matt; hengeres végzáró | 2 × Ø 19 mm rúd; rúdhossz 1000–4800 mm (3200 mm-től toldott, 3 dupla konzollal) | **19 490 Ft** <br>*/szett, 3200 mm karikákkal és csipeszekkel. 2400 mm: 14 890 Ft, 3600 mm: 20 890 Ft, 4000 mm: 22 390 Ft; karika nélkül 11 890 / 15 590 / 16 590 / 17 490 Ft. 30% akció. Ár a termékoldal változat-kalkulátorából. Az akció a bolt szerint 2026-09-21-ig érvényes – utána kb. 30%-kal drágább.* | 3 |
+| **Prio 2** | Alternatíva | [Kétsoros 19x19mm karnis - CYLINDER - antik](https://arnyekolokweb.hu/ketsoros-19x19mm-karnis-cylinder-antik/p-983426) | **Árnyékolókweb (arnyekolokweb.hu)** – online rendelés, házhoz szállítás (2–3 nap); ingyenes méretre vágás | galvanizált fém, „antik (matt arany)” árnyalat – a fotón sötétebb, antikolt óarany tónus, matt; hengeres végzáró | 2 × Ø 19 mm rúd; rúdhossz 1000–4800 mm (3200 mm-től toldott, 3 dupla konzollal) | **19 490 Ft** <br>*/szett, 3200 mm karikákkal és csipeszekkel. 2400 mm: 14 890 Ft, 3600 mm: 20 890 Ft, 4000 mm: 22 390 Ft; karika nélkül 11 890 / 15 590 / 16 590 / 17 490 Ft. 30% akció. Ár a termékoldal változat-kalkulátorából. Az akció a bolt szerint 2026-09-21-ig érvényes – utána kb. 30%-kal drágább.* | 1 |
 
-**Prio 2:** Indulásra a használt háló és babaszoba külön rolójával számolunk; a teljes házas függöny/karnis összeállítás későbbre maradhat. Feltétel: Ha az induló sötétítést mégis függönnyel oldjátok meg, az ehhez kellő sín/karnis és bélés együtt P1; a szobai rolót ilyenkor kiváltják.
+**Prio 2:** A ház további függönyei ütemezhetők; az első naptól szükséges alvási sötétítés és belátásvédelem P1. Feltétel: A használt helyiséghez szükséges függöny és karnis együtt P1. A darabszám itt csak 1 áregység, nem rendelési mennyiség.
 
-- **Kétsoros 19x19mm karnis - CYLINDER - antik** – A 3 ablakhoz, ahol fényáteresztő + sötétítő függöny kell: ugyanaz a matt arany CYLINDER család, mint a szimpla karnis, így a ház minden ablakán azonos a fém és a végzáró. ⚠️ *Dupla konzol messzebb áll a faltól – radiátor/ablakpárkány felett ellenőrizni a kiállást. „Antik” tónust mintával összenézni. 240 cm felett toldott rudak.*
+> **A beszerzési összegből kizárva:** Nyílásonkénti mérés és egységes két rétegű rendszerkiosztás hiányzik; a szobai és házszintű becsléseket nem összegezzük.
+
+- **Kétsoros 19x19mm karnis - CYLINDER - antik** – Két külön textilréteghez használható rúdrendszer-referencia; az antik tónus a meglévő szálcsiszolt sárgarézhez mintázandó. A nyílások száma és rúdhossz még mérendő. ⚠️ *Dupla konzol messzebb áll a faltól – radiátor/ablakpárkány felett ellenőrizni a kiállást. „Antik” tónust mintával összenézni. 240 cm felett toldott rudak.*
 
 ### Függönykarika (csak a karika nélküli karnisokhoz) — Prio 2
 
 | Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 2** | 💎 prémium | [Függönykarikák csipeszekkel 10 db 19 mm sárgaréz](https://www.obi.hu/karnisok-es-huzalos-fueggoenysinek/fueggoenykarikak-csipeszekkel-10-db-19-mm-sargarez/p/4699609) | **OBI** – OBI áruház – csak lefoglalás és áruházi átvétel (házhoz szállítás most nincs) | fém, antikolt sárgaréz hatású, matt (a bolt fotója alapján; a leírás csak „sárgaréz”-nek nevezi) | 19 mm átmérőjű függönyrúdhoz; 10 db/csomag, csipesszel | **1 649 Ft** <br>*/10 db (165 Ft/db). 33 csomag ≈ 330 karika a 11 ablakra. CSAK akkor kell, ha karika nélküli karnis (OBI Thasos / Umbra) mellett döntenek – az Árnyékolókweb szettek ára már tartalmazza a csipeszes karikákat.* | 33 |
+| **Prio 2** | Alternatíva | [Függönykarikák csipeszekkel 10 db 19 mm sárgaréz](https://www.obi.hu/karnisok-es-huzalos-fueggoenysinek/fueggoenykarikak-csipeszekkel-10-db-19-mm-sargarez/p/4699609) | **OBI** – OBI áruház – csak lefoglalás és áruházi átvétel (házhoz szállítás most nincs) | fém, antikolt sárgaréz hatású, matt (a bolt fotója alapján; a leírás csak „sárgaréz”-nek nevezi) | 19 mm átmérőjű függönyrúdhoz; 10 db/csomag, csipesszel | **1 649 Ft** <br>*/10 db; csak karika nélküli, igazoltan kompatibilis rúdhoz. A régi 33 csomagos becslés nem rendelési mennyiség.* | 1 |
 
-**Prio 2:** Indulásra a használt háló és babaszoba külön rolójával számolunk; a teljes házas függöny/karnis összeállítás későbbre maradhat. Feltétel: Ha az induló sötétítést mégis függönnyel oldjátok meg, az ehhez kellő sín/karnis és bélés együtt P1; a szobai rolót ilyenkor kiváltják.
+**Prio 2:** A ház további függönyei ütemezhetők; az első naptól szükséges alvási sötétítés és belátásvédelem P1. Feltétel: A használt helyiséghez szükséges függöny és karnis együtt P1. A darabszám itt csak 1 áregység, nem rendelési mennyiség.
 
-- **Függönykarikák csipeszekkel 10 db 19 mm sárgaréz** – Matt, antikolt sárgaréz színű csipeszes karika a karika nélkül árult 19 mm-es karnisokhoz (OBI Thasos, Umbra) – a lenfüggöny varrás nélkül felcsíptethető. ⚠️ *Az ajánlott Árnyékolókweb karnis-szettekhez NEM kell, azok ára tartalmazza a karikákat. Sötétebb, antikolt tónus: a matt arany Thasos / Umbra rúdtól elüthet – 1 csomagot venni és a rúdon felpróbálni (a 19/22 mm-es teleszkópos rúd vastagabb szakaszán szorulhat).*
+> **A beszerzési összegből kizárva:** Nyílásonkénti mérés és egységes két rétegű rendszerkiosztás hiányzik; a szobai és házszintű becsléseket nem összegezzük.
+
+- **Függönykarikák csipeszekkel 10 db 19 mm sárgaréz** – Matt, antikolt sárgaréz színű csipeszes karika a karika nélkül árult 19 mm-es karnisokhoz (OBI Thasos, Umbra) – a lenfüggöny varrás nélkül felcsíptethető. ⚠️ *A karikát tartalmazó szetthez nem kell újra megvenni. Az antikolt tónus és a rúd vastagabb szakaszán a csúszás próbálandó; a teljes darabszám a függesztési módtól függ.*

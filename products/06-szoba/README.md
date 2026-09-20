@@ -21,7 +21,7 @@
 
 **Feltétel / kiváltás:** A gyermek beköltözéskor egyéves lesz. A kezdeti alvóhely és meglévő felszerelés kérdését a tulajdonos most kihagyta, ezért a jelöltek nem végleges beszerzések. Az alvás helye még nyitott: ha kezdetben a szülői hálóban lesz, ugyanazokat a szükséges darabokat oda kell ütemezni, nem második garnitúrát venni. Az Ágynemű/takaró kategórián belül a lepedő Prio 1, a külön muszlintakaró Prio 2.
 
-> **Még külön ellenőrizendő, nem árazott:** A meglévő készlettől függő alap babaápolási és pelenkázási kellékek nem teljes körűen részei ennek a bútorlistának.
+> **Még külön ellenőrizendő, nem árazott:** A meglévő készlettől függő alap babaápolási és pelenkázási kellékek nem teljes körűen részei ennek a bútorlistának. Ha itt alszik a gyermek, a karnis és függönyös sötétítés P1; a rendszerár mérésig hiányzik, a roló kizárt.
 
 ### Prio 1 – előre sorolt tételek
 
@@ -29,12 +29,11 @@
 | --- | --- |
 | Kiságy | A baba meglévő vagy új, megfelelő fekhelye az induló berendezés része. |
 | Kiságymatrac | A használt kiságyhoz illő matrac szükséges. |
-| Sötétítés | A ténylegesen használt alvóhely árnyékolását indulásra rendezzük. |
 | Ágynemű/takaró | A használt kiságymatracra illő lepedő szükséges. |
 
 | Ajánlott tételek fázisonként | Listázott összeg |
 | --- | --- |
-| Prio 1 – beköltözéshez előre sorolt | **87 950 Ft** |
+| Prio 1 – beköltözéshez előre sorolt | **80 960 Ft** |
 | Prio 2 – későbbi új beszerzés | **298 510 Ft** |
 
 > Ezek a korábbi teljes tervezett darabszámokkal számolt, feltételes részösszegek; nem a legolcsóbb beköltözési kosár árai. Egy szükséglethez egy megfelelő megoldást válassz. A meglevővel kiváltott cserejelölt, a kizárt referencia, EUR-os vagy elfogyott termék és az árazatlan hiány nem szerepel bennük. A szükséges induló darabszámok és az átfedések még pontosítandók.
@@ -43,11 +42,13 @@
 
 | Számítás | Összeg |
 | --- | --- |
-| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **386 460 Ft** |
-| 💰 Kategóriánként a legolcsóbb sor összege | 230 380 Ft |
-| 💎 Kategóriánként a legdrágább sor összege | 596 250 Ft |
+| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **379 470 Ft** |
+| 💰 Kategóriánként a legolcsóbb sor összege | 223 390 Ft |
+| 💎 Kategóriánként a legdrágább sor összege | 589 260 Ft |
 
 > A darabszám javaslat. A forintos költségutak az EUR-os, készlethiányos, meglévővel kiváltott és külön kizárt referenciatételeket kihagyják; ezek ára nem nulla. A feltételes ajánlások szerepelnek a tervezési összegben. A kategóriánkénti alsó/felső összeg nem összeillő bevásárlócsomag: az opcionális és egymást átfedő tételeket külön kell kiválasztani. A szállítás nincs benne; az ár és készlet rendelés előtt ellenőrizendő.
+
+> A forintos költségutakból kimaradó kategória (nincs számolható tétel): **Sötétítés**.
 
 ## Termékek
 
@@ -78,16 +79,6 @@
 
 - **KRUMMELUR habszivacs matrac rácsos ágyhoz** – 8 cm vastag, szellőző szerkezetű matrac – jó ár-érték arány, megfelel a 'jó minőségű, légáteresztő' elvárásnak. ⚠️ *A SNIGLAR (70x160) kiságyhoz nem ez, hanem külön 70x160-as matrac szükséges.* *(ár listaoldalról)*
 - **PLUTTIG habszivacs matrac rácsos ágyhoz** – Egyszerű, könnyű, jó belépő szintű matrac a 60x120-as rácsos ágyakhoz (SUNDVIK, ÄLSKVÄRD). ⚠️ *Csak 5 cm vastag – kényelmesebb alváshoz a KRUMMELUR ajánlott.* *(ár listaoldalról)*
-
-### Sötétítés — Prio 1
-
-| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 1** | ⭐ ajánlott | [FÖNSTERBLAD sötétítő roló, bézs](https://www.ikea.com/hu/hu/p/foensterblad-soetetito-rolo-bezs-50538456/) | **IKEA** – online (ikea.com/hu) + IKEA Budaörs áruház | bézs textil, alumínium mechanika | 80x155 cm (ablakmérethez válaszd a szélességet) | **6 990 Ft** | 1 |
-
-**Prio 1:** A ténylegesen használt alvóhely árnyékolását indulásra rendezzük.
-
-- **FÖNSTERBLAD sötétítő roló, bézs** – Teljesen sötétítő, meleg bézs tónusú roló – önmagában megoldja a kötelező elsötétítést; elé/mellé tehető egy len hatású törtfehér függöny is a lágyabb megjelenésért. *(ár listaoldalról)*
 
 ### Ágynemű/takaró — Prio 1 / Prio 2
 
@@ -152,6 +143,18 @@
 **Prio 2:** A baba alap ellátása és fekhelye mellett külön bútor/dekor helyett meglévő megfelelő megoldás is használható.
 
 - **KÄLKEN kosár** – Természetes juta, alacsony, puha szélű forma – biztonságos játéktárolás a padlón, éles sarkok nélkül. *(ár listaoldalról)*
+
+### Sötétítés — Prio 2
+
+| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Prio 2** | Figyelőlista | [FÖNSTERBLAD sötétítő roló, bézs](https://www.ikea.com/hu/hu/p/foensterblad-soetetito-rolo-bezs-50538456/) | **IKEA** – online (ikea.com/hu) + IKEA Budaörs áruház | bézs textil, alumínium mechanika | 80x155 cm (ablakmérethez válaszd a szélességet) | **6 990 Ft** | 1 |
+
+**Prio 2:** Kizárt korábbi rolóreferencia; a választott rendszer karnis, függöny és sötétítő.
+
+> **A beszerzési összegből kizárva:** A tulajdonos függönyös megoldást választott; nincs külső árnyékoló, rolót sem tervezünk.
+
+- **FÖNSTERBLAD sötétítő roló, bézs** – Korábbi referencia, a függönyös döntés után nem beszerzendő. ⚠️ *Az alvóhely sötétítési funkciója továbbra is P1, de függönnyel és hozzá illő karnissal kell biztosítani; ennek ára külön hiányzik.* *(ár listaoldalról)*
 
 ### Nyitott polc — Prio 2
 
