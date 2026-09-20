@@ -3,7 +3,7 @@
 | | |
 | --- | --- |
 | **Helyiség** | 5,01 m² · kerámia |
-| **Termékek** | 18 db |
+| **Termékek** | 22 db |
 | **Árak ellenőrizve** | 2026-09-20 |
 | **Inspirációs képek** | [`../../inpiration/11-haztartasi/`](../../inpiration/11-haztartasi/README.md) |
 
@@ -11,9 +11,9 @@
 
 | Forgatókönyv | Összeg |
 | --- | --- |
-| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **383 710 Ft** |
-| 💰 Minden kategóriából a legolcsóbb | 296 470 Ft |
-| 💎 Minden kategóriából a legdrágább | 566 860 Ft |
+| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **409 814 Ft** |
+| 💰 Minden kategóriából a legolcsóbb | 322 574 Ft |
+| 💎 Minden kategóriából a legdrágább | 600 764 Ft |
 
 > A darabszám javaslat (pl. 6 szék, 2 éjjeliszekrény). Az árak a bolt weboldalán 2026-09-20-án látott árak – vásárlás előtt nézd meg újra, az akciók változnak.
 
@@ -128,3 +128,29 @@
 | ⭐ ajánlott | [BEKVÄM Fellépő, bükk](https://www.ikea.com/hu/hu/p/bekvaem-fellepo-buekk-60178887/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs, Örs vezér tere, Soroksár) | tömör bükkfa | Sz 43 × Mé 39 × Ma 50 cm, teherbírás 100 kg | **9 490 Ft** | 1 |
 
 - **BEKVÄM Fellépő, bükk** – Tömör, világos bükkfa, látszó lábakkal – segít elérni a magas szekrények felső polcait, színben közel áll a ház egységes világos fa tónusához. ⚠️ *Bükk, nem tölgy – enyhén világosabb/sárgább árnyalatú lehet a fő tölgy tónusnál; bolti mintaegyeztetés javasolt.*
+
+### Csaptelep (háztartási, szálcsiszolt sárgaréz)
+
+| | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- |
+| ⭐ ajánlott | [Rea Troy álló egykaros konyhai csaptelep kihúzható zuhanyfejjel, szálcsiszolt arany REA-B6302](https://www.szaniteronline.hu/RE-REAB6302-Rea-Troy-allo-egykaros-konyhai-csaptel) | **SzaniterOnline.hu** – online rendelés (rendelhető, 10–15 munkanap) | szálcsiszolt arany, PVD bevonat; sárgaréz test | magasság 340 mm, kifolyómagasság 280 mm, kinyúlás 180 mm; kihúzható fej (500 mm tömlő), kerámiabetét, 3/8" bekötés | **17 190 Ft** <br>*5 év garancia* | 1 |
+| 💎 prémium | [SALLSJÖN Konyhai keverőcsap, sárgaréz](https://www.ikea.com/hu/hu/p/sallsjoen-konyhai-keverocsap-sargarez-90604557/) | **IKEA** – online + áruház (Budaörs, Örs vezér tere, Soroksár) | sárgaréz színű PVD bevonat, a termékfotón szálcsiszolt jellegű, matt felület (cink test, rozsdamentes acél kifolyó belül) | magasság 358 mm; 120°/360°-ban forgatható magas kifolyó, kerámiabetét | **24 990 Ft** <br>*új alacsonyabb ár, előző ár 29 990 Ft; 10 év garancia* | 1 |
+
+- **Rea Troy álló egykaros konyhai csaptelep kihúzható zuhanyfejjel, szálcsiszolt arany REA-B6302** – A legolcsóbb korrekt szálcsiszolt arany, magas kifolyós csap – a háztartási mosogatóhoz bőven elég, és a kihúzható fej vödörtöltéshez, cipőmosáshoz kifejezetten hasznos. ⚠️ *Csak akkor kell, ha a háztartási helyiség csaptelepe még nincs felszerelve – tulajdonossal egyeztetni. Budget márka; a tónust a kilincshez mintával összenézni.*
+- **SALLSJÖN Konyhai keverőcsap, sárgaréz** – Egyszerű, magas ívű keverőcsap 10 év garanciával, áruházból azonnal – ha a konyhába is ez kerül, a két helyiség csapja azonos lesz. ⚠️ *Csak akkor kell, ha a háztartási helyiség csaptelepe még nincs felszerelve – tulajdonossal egyeztetni. Nincs kihúzható fej; a „sárgaréz” felület tónusát áruházban ellenőrizni.*
+
+### Seprű- és felmosótartó sín
+
+| | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- |
+| ⭐ ajánlott | [Fali konzol seprűk, felmosók és egyéb kiegészítők tárolására KÖVETKEZŐ, többfunkciós rendszerező konyhába, fürdőszobába, erkélyre, 4 kapocs és 5 visszahúzható kampó, csúszásgátló, vízálló, ragasztós rögzítés, ABS, fehér](https://www.emag.hu/fali-konzol-sepruk-felmosok-es-egyeb-kiegeszitok-tarolasara-kovetkezo-tobbfunkcios-rendszerezo-konyhaba-furdoszobaba-erkelyre-4-kapocs-es-5-visszahuzhato-kampo-csuszasgatlo-vizallo-ragasztos-rogzites-/pd/DN49623BM/) | **eMAG (eladó: NEXTLY)** – online (eMAG, raktáron, Genius szállítással) | fehér ABS műanyag, szilikon betétes csúszásgátló kapcsok | 4 nyélbefogó kapocs + 5 visszahajtható kampó (méret az oldalon nincs megadva) | **3 424 Ft** | 1 |
+
+- **Fali konzol seprűk, felmosók és egyéb kiegészítők tárolására KÖVETKEZŐ, többfunkciós rendszerező konyhába, fürdőszobába, erkélyre, 4 kapocs és 5 visszahúzható kampó, csúszásgátló, vízálló, ragasztós rögzítés, ABS, fehér** – Fehér, a fehér falba olvadó nyéltartó sín – fekete/szürke műanyag helyett; a seprű, felmosó és porszívófej a falon, a baba elől elzárt helyiségben, rendben tárolható. ⚠️ *No-name marketplace termék, csak ragasztós rögzítéssel – nehéz felmosóhoz érdemes csavarral is megerősíteni. Fa/bambusz seprűtartó sínt magyar boltban nem találtam.*
+
+### Fali akasztó (fa)
+
+| | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- |
+| ⭐ ajánlott | [HÖVOLM Fogas+6 gombfogantyú, tölgy](https://www.ikea.com/hu/hu/p/hoevolm-fogas-6-gombfogantyu-toelgy-10500059/) | **IKEA** – online + áruház (Budaörs, Örs vezér tere, Soroksár) | tömör tölgy, áttetsző akril/poliuretán lakk | szélesség 57 cm, magasság 5 cm, mélység 5 cm; 6 akasztógomb | **5 490 Ft** <br>*rögzítőcsavar nincs a csomagban* | 1 |
+
+- **HÖVOLM Fogas+6 gombfogantyú, tölgy** – Tömör tölgy akasztósor a fekete fém kampók helyett – a ház domináns világos tölgy tónusát viszi a háztartási helyiségbe (kötény, táska, felmosórongy). ⚠️ *Lakkozott, nem olajozott felület; a csavarokat a fal típusához külön kell venni.*

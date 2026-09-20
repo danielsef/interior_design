@@ -3,7 +3,7 @@
 | | |
 | --- | --- |
 | **Helyiség** | 16,22 m² · fa parketta |
-| **Termékek** | 18 db |
+| **Termékek** | 19 db |
 | **Árak ellenőrizve** | 2026-09-20 |
 | **Inspirációs képek** | [`../../inpiration/05-halo/`](../../inpiration/05-halo/README.md) |
 
@@ -11,9 +11,9 @@
 
 | Forgatókönyv | Összeg |
 | --- | --- |
-| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **507 850 Ft** |
-| 💰 Minden kategóriából a legolcsóbb | 375 820 Ft |
-| 💎 Minden kategóriából a legdrágább | 986 840 Ft |
+| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **519 830 Ft** |
+| 💰 Minden kategóriából a legolcsóbb | 387 800 Ft |
+| 💎 Minden kategóriából a legdrágább | 998 820 Ft |
 
 > A darabszám javaslat (pl. 6 szék, 2 éjjeliszekrény). Az árak a bolt weboldalán 2026-09-20-án látott árak – vásárlás előtt nézd meg újra, az akciók változnak.
 
@@ -134,3 +134,11 @@
 | ⭐ ajánlott | [VALLKRASSING Díszpárnahuzat, szürke-zöld](https://www.ikea.com/hu/hu/p/vallkrassing-diszparnahuzat-szuerke-zoeld-50570955/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | 100% pamut, tompított szürkés-zsályazöld, rojtos szegéllyel | 50x50 cm | **1 990 Ft** <br>*/db* | 2 |
 
 - **VALLKRASSING Díszpárnahuzat, szürke-zöld** – Tompított, szürkés zsálya-zöld tónus, pamut – pontosan az elsődleges akcentusszín, kis mennyiségben (2 párna) a hálóban. ⚠️ *Gépben mosható 40°C-on, de nem fehéríthető és nem vasalható.*
+
+### Fali olvasólámpa
+
+| | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- |
+| ⭐ ajánlott | [NYMÅNE Fali-/olvasólámpa, fehér](https://www.ikea.com/hu/hu/p/nymane-fali-olvasolampa-feher-20356909/) | **IKEA** – online + áruház (Budaörs, Örs vezér tere, Soroksár) | fehér porfestett acél és alumínium | lámpafej Ø 7 cm, magasság 11 cm; GU10 (max. 8,5 W, izzó külön), állítható fej; konnektoros, 2,5 m vezeték | **5 990 Ft** <br>*/db; új alacsonyabb ár, előző ár 7 990 Ft; + GU10 2700 K CRI 90 LED izzó külön* | 2 |
+
+- **NYMÅNE Fali-/olvasólámpa, fehér** – Kicsi, fehér, állítható fejű olvasólámpa – a fehér falon szinte eltűnik, a fényt a könyvre irányítja, így az alvó társat/babát nem zavarja. ⚠️ *Konnektoros: a 2,5 m-es vezetéket kábelcsatornában a falhoz kell rögzíteni, mert a lelógó zsinór kisbaba mellett veszélyes (irányelv: nincs lógó vezeték). A szerelőcsavar nincs a csomagban.*

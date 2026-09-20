@@ -108,19 +108,11 @@
  },
  "https://www.emag.hu/philips-gu10-led-6-2w-575lm-cri90-2200-2700k-warmglow-dim-80w-izzo-helyett-8718699774097/pd/DZ8CJHMBM/": {
   "status": "ok",
-  "found": [],
+  "found": [
+   7565
+  ],
   "listed": 7565,
   "name": "Philips GU10 LED 6,2W 575lm, CRI90, 2200-2700K WarmGlow, szabályozható",
-  "room": "00-altalanos-hangulat",
-  "manual": "2026-09-20, kézi ellenőrzés a termékoldalon: 7 565 Ft, raktáron, CRI 90, 2200–2700 K (az eMAG a gépi lekérdezésre 511-et ad)"
- },
- "https://www.ikea.com/hu/hu/p/lunnom-led-izzo-e27-470-lumen-fenyereje-szabh-kerek-atlatszo-ueveg-40614827/": {
-  "status": "ok",
-  "found": [
-   1990
-  ],
-  "listed": 1990,
-  "name": "LUNNOM LED izzó E27 470 lumen, fényereje szabályozható, kerek, átlátszó üveg",
   "room": "00-altalanos-hangulat"
  },
  "https://www.ikea.com/hu/hu/p/kajplats-kezdoszett-okos-eszkoez-feher-spektrum-60611446/": {
@@ -312,6 +304,345 @@
   "name": "KORNSPARV Váza, zöld, 12 cm",
   "room": "00-altalanos-hangulat"
  },
+ "https://www.ikea.com/hu/hu/p/roedalm-kepkeret-toelgyfa-hatasu-00566395/": {
+  "status": "ok",
+  "found": [
+   3490
+  ],
+  "listed": 3490,
+  "name": "RÖDALM képkeret, tölgyfa hatású, 30x40 cm",
+  "room": "00-altalanos-hangulat"
+ },
+ "https://jysk.hu/lakberendezes/dekoracio/kepkeretek/kepkeret-tord-30x40-cm-vilagos-fa": {
+  "status": "ok",
+  "found": [
+   900,
+   1150,
+   1750,
+   2500,
+   3750,
+   4500,
+   10000
+  ],
+  "listed": 1750,
+  "name": "Képkeret TORD 30x40 cm világos fa",
+  "room": "00-altalanos-hangulat"
+ },
+ "https://gallerix.hu/kepkeret/1555-fa-tolgy": {
+  "status": "ok",
+  "found": [
+   4990
+  ],
+  "listed": 8995,
+  "name": "Képkeret Fa Tölgy 30x40 cm",
+  "room": "00-altalanos-hangulat",
+  "manual": "2026-09-20, kézi ellenőrzés a termékoldalon: 30x40 cm = 8 995 Ft (a gépi ellenőrzés a „4 990 Ft feletti vásárlás” akciószöveget találta meg)"
+ },
+ "https://www.ikea.com/hu/hu/p/roedalm-kepkeret-toelgyfa-hatasu-60566401/": {
+  "status": "ok",
+  "found": [
+   6490
+  ],
+  "listed": 6490,
+  "name": "RÖDALM képkeret, tölgyfa hatású, 50x70 cm",
+  "room": "00-altalanos-hangulat"
+ },
+ "https://jysk.hu/lakberendezes/dekoracio/kepkeretek/kepkeret-tord-50x70-cm-vilagos-fa": {
+  "status": "ok",
+  "found": [
+   900,
+   1150,
+   1750,
+   2500,
+   3750,
+   4500,
+   10000
+  ],
+  "listed": 3750,
+  "name": "Képkeret TORD 50x70 cm világos fa",
+  "room": "00-altalanos-hangulat"
+ },
+ "https://gallerix.hu/kepkeret/1556-wood-oak-50x70": {
+  "status": "ok",
+  "found": [
+   4990
+  ],
+  "listed": 13995,
+  "name": "Képkeret Fa Tölgy 50x70 cm",
+  "room": "00-altalanos-hangulat",
+  "manual": "2026-09-20, kézi ellenőrzés a termékoldalon: 50x70 cm = 13 995 Ft"
+ },
+ "https://www.ikea.com/hu/hu/p/roedalm-kepkeret-toelgyfa-hatasu-20566403/": {
+  "status": "ok",
+  "found": [
+   9490
+  ],
+  "listed": 9490,
+  "name": "RÖDALM képkeret, tölgyfa hatású, 61x91 cm",
+  "room": "00-altalanos-hangulat"
+ },
+ "https://jysk.hu/lakberendezes/dekoracio/kepkeretek/kepkeret-tord-60x90-cm-vilagos-fa": {
+  "status": "ok",
+  "found": [
+   900,
+   1150,
+   1750,
+   2500,
+   3750,
+   4500,
+   10000
+  ],
+  "listed": 4500,
+  "name": "Képkeret TORD 60x90 cm világos fa",
+  "room": "00-altalanos-hangulat"
+ },
+ "https://gallerix.hu/kepkeret/1557-wood-oak-70x100": {
+  "status": "ok",
+  "found": [
+   4990
+  ],
+  "listed": 19595,
+  "name": "Képkeret Fa Tölgy 70x100 cm",
+  "room": "00-altalanos-hangulat",
+  "manual": "2026-09-20, kézi ellenőrzés a termékoldalon: 70x100 cm = 19 595 Ft, raktáron"
+ },
+ "https://gallerix.hu/poszter/12879-fogs-embrace": {
+  "status": "ok",
+  "found": [
+   3992,
+   4990,
+   6392,
+   7990,
+   9592,
+   11990,
+   14392,
+   17990
+  ],
+  "listed": 9592,
+  "name": "Fogs Embrace poszter",
+  "room": "00-altalanos-hangulat"
+ },
+ "https://gallerix.hu/poszter/7205-olive-branch-aquarelle": {
+  "status": "ok",
+  "found": [
+   3992,
+   4990,
+   6392,
+   7990,
+   9592,
+   11990,
+   14392,
+   17990
+  ],
+  "listed": 6392,
+  "name": "Olive Branch Aquarelle poszter",
+  "room": "00-altalanos-hangulat"
+ },
+ "https://www.ikea.com/hu/hu/p/fjaedrar-diszparnabelso-toertfeher-80262187/": {
+  "status": "ok",
+  "found": [
+   2500
+  ],
+  "listed": 2500,
+  "name": "FJÄDRAR díszpárnabelső, törtfehér, 50x50 cm",
+  "room": "00-altalanos-hangulat"
+ },
+ "https://www.ikea.com/hu/hu/p/inner-diszparnabelso-feher-bel-kuelter-50550702/": {
+  "status": "ok",
+  "found": [
+   1200
+  ],
+  "listed": 1200,
+  "name": "INNER díszpárnabelső, fehér, bel/kültér, 50x50 cm",
+  "room": "00-altalanos-hangulat"
+ },
+ "https://www.ikea.com/hu/hu/p/fjaedrar-diszparnabelso-szuerke-20539221/": {
+  "status": "ok",
+  "found": [
+   3000
+  ],
+  "listed": 3000,
+  "name": "FJÄDRAR díszpárnabelső, szürke, 40x58 cm",
+  "room": "00-altalanos-hangulat"
+ },
+ "https://www.ikea.com/hu/hu/p/inner-diszparnabelso-feher-bel-kuelter-80550710/": {
+  "status": "ok",
+  "found": [
+   1200
+  ],
+  "listed": 1200,
+  "name": "INNER díszpárnabelső, fehér, bel/kültér, 40x58 cm",
+  "room": "00-altalanos-hangulat"
+ },
+ "https://www.ikea.com/hu/hu/p/dytag-diszparnahuzat-szuerke-zoeld-70554129/": {
+  "status": "ok",
+  "found": [
+   5490
+  ],
+  "listed": 5490,
+  "name": "DYTÅG díszpárnahuzat, szürke-zöld, 50x50 cm",
+  "room": "00-altalanos-hangulat"
+ },
+ "https://www.ikea.com/hu/hu/p/vallkrassing-diszparnahuzat-szuerke-zoeld-50570955/": {
+  "status": "ok",
+  "found": [
+   1990
+  ],
+  "listed": 1990,
+  "name": "VALLKRASSING Díszpárnahuzat, szürke-zöld",
+  "room": "05-halo"
+ },
+ "https://www.bonami.hu/p/len-parnahuzat-50x50-cm-moss-green-linen-tales": {
+  "status": "ok",
+  "found": [
+   1390,
+   2700,
+   3239,
+   3440,
+   5590,
+   6969,
+   13390
+  ],
+  "listed": 13390,
+  "name": "Len párnahuzat 50x50 cm Moss Green – Linen Tales",
+  "room": "00-altalanos-hangulat"
+ },
+ "https://babaszafari.hu/BabyOno-sarokvedo-atlatszo-4-db": {
+  "status": "ok",
+  "found": [
+   890,
+   1090,
+   1190,
+   1290,
+   1390,
+   1590,
+   1690,
+   1790
+  ],
+  "listed": 890,
+  "name": "BabyOno Sarokvédő, átlátszó, 4 db",
+  "room": "00-altalanos-hangulat"
+ },
+ "https://www.ikea.com/hu/hu/p/undvika-sarokvedo-feher-20349023/": {
+  "status": "ok",
+  "found": [
+   1690
+  ],
+  "listed": 1690,
+  "name": "UNDVIKA sarokvédő, fehér",
+  "room": "00-altalanos-hangulat"
+ },
+ "https://www.gyerekbiztos.hu/magneses-zar-keszlet-fiokhoz-szekrenyekhez-5-reszes-656": {
+  "status": "ok",
+  "found": [
+   1290,
+   8590
+  ],
+  "listed": 8590,
+  "name": "Dreambaby Adhesive Mag Lock mágneses zár szett (4 zár + 1 kulcs)",
+  "room": "00-altalanos-hangulat"
+ },
+ "https://www.ikea.com/hu/hu/p/undvika-toebbfunkcios-zar-feher-40339867/": {
+  "status": "ok",
+  "found": [
+   2290
+  ],
+  "listed": 2290,
+  "name": "UNDVIKA többfunkciós zár, fehér",
+  "room": "00-altalanos-hangulat"
+ },
+ "https://www.gyerekbiztos.hu/butorrogzito-heveder-ketfele-rogzitessel-703": {
+  "status": "ok",
+  "found": [
+   1000,
+   1290,
+   8990,
+   9990
+  ],
+  "listed": 8990,
+  "name": "Reer bútorrögzítő heveder kétféle rögzítéssel, 2 db-os szett",
+  "room": "00-altalanos-hangulat"
+ },
+ "https://www.ikea.com/hu/hu/p/patrull-biztonsagi-dugo-feher-70599552/": {
+  "status": "ok",
+  "found": [
+   995
+  ],
+  "listed": 995,
+  "name": "PATRULL biztonsági dugó, fehér",
+  "room": "00-altalanos-hangulat"
+ },
+ "https://www.ikea.com/hu/hu/p/patrull-ajtotamasz-feher-90599551/": {
+  "status": "ok",
+  "found": [
+   1990
+  ],
+  "listed": 1990,
+  "name": "PATRULL ajtótámasz, fehér",
+  "room": "00-altalanos-hangulat"
+ },
+ "https://www.ikea.com/hu/hu/p/sojaboena-kaspo-feher-20533592/": {
+  "status": "ok",
+  "found": [
+   8490
+  ],
+  "listed": 8490,
+  "name": "SOJABÖNA kaspó, fehér, 32 cm",
+  "room": "00-altalanos-hangulat"
+ },
+ "https://www.fitoland.hu/kategoriak/keramia-kaspo---taupe-883_28/keramia-kaspo---taupe-883_18510": {
+  "status": "ok",
+  "found": [
+   2490,
+   2995,
+   3350,
+   3650,
+   3990,
+   5250,
+   6990,
+   10990
+  ],
+  "listed": 17490,
+  "name": "Scheurich kerámia kaspó – Taupe 883, Ø 32 cm",
+  "room": "00-altalanos-hangulat"
+ },
+ "https://www.emag.hu/osram-superstar-plus-filament-led-izzo-a100-e27-11w-100w-1521-lm-szabalyozhato-meleg-feny-2700k-ra-90-atlatszo-uveg-d-energiaosztaly-4058075602533/pd/DTR4VRYBM/": {
+  "status": "ok",
+  "found": [
+   3250,
+   3790
+  ],
+  "listed": 3790,
+  "name": "OSRAM Superstar Plus filament LED izzó, A100, E27, 11W (100W), 1521 lm, szabályozható, meleg fény (2700K), Ra>90, átlátszó üveg",
+  "room": "00-altalanos-hangulat"
+ },
+ "https://www.ikea.com/hu/hu/p/kajplats-led-izzo-e27-806-lumen-okos-eszkoez-feher-spektrum-atlatszo-goemb-alaku-30611481/": {
+  "status": "ok",
+  "found": [
+   3790
+  ],
+  "listed": 3790,
+  "name": "KAJPLATS LED izzó E27 806 lumen, okos eszköz fehér spektrum/átlátszó/gömb alakú, 95 mm",
+  "room": "00-altalanos-hangulat"
+ },
+ "https://www.ikea.com/hu/hu/p/solhetta-led-izzo-e27-470-lumen-kerek-ueveg-80591447/": {
+  "status": "ok",
+  "found": [
+   1190
+  ],
+  "listed": 1190,
+  "name": "SOLHETTA LED izzó E27 470 lumen, kerek üveg",
+  "room": "00-altalanos-hangulat"
+ },
+ "https://www.ikea.com/hu/hu/p/kajplats-led-izzo-e14-470-lumen-okos-eszkoez-feher-spektrum-atlatszo-ueveg-60611494/": {
+  "status": "ok",
+  "found": [
+   2990
+  ],
+  "listed": 2990,
+  "name": "KAJPLATS LED izzó E14 470 lumen, okos eszköz fehér spektrum/átlátszó üveg",
+  "room": "00-altalanos-hangulat"
+ },
  "https://www.ikea.com/hu/hu/p/staell-ciposszekreny-4-reszes-toelgy-furner-40530229/": {
   "status": "ok",
   "found": [
@@ -407,8 +738,8 @@
    29990
   ],
   "listed": 29990,
-  "name": "STOCKHOLM Tükör, tölgy furnér, 80 cm",
-  "room": "01-eloszoba"
+  "name": "STOCKHOLM tükör, tölgy furnér, 80 cm",
+  "room": "12-furdo"
  },
  "https://www.ikea.com/hu/hu/p/grinsbol-tuekoer-rattan-30518464/": {
   "status": "ok",
@@ -437,7 +768,7 @@
   ],
   "listed": 5490,
   "name": "HÖVOLM Fogas+6 gombfogantyú, tölgy",
-  "room": "01-eloszoba"
+  "room": "11-haztartasi"
  },
  "https://www.ikea.com/hu/hu/p/morum-szonyeg-sikszoevoett-bel-kuelteri-bezs-80198295/": {
   "status": "ok",
@@ -1074,15 +1405,6 @@
   "name": "ANKARUDDEN 4-fiókos szekrény, tölgyfa hatású",
   "room": "05-halo"
  },
- "https://www.ikea.com/hu/hu/p/vallkrassing-diszparnahuzat-szuerke-zoeld-50570955/": {
-  "status": "ok",
-  "found": [
-   1990
-  ],
-  "listed": 1990,
-  "name": "VALLKRASSING Díszpárnahuzat, szürke-zöld",
-  "room": "05-halo"
- },
  "https://www.ikea.com/hu/hu/p/boaxel-gardrob-komb-feher-toelgy-s59575784/": {
   "status": "ok",
   "found": [
@@ -1617,8 +1939,8 @@
    24990
   ],
   "listed": 24990,
-  "name": "STOCKHOLM Tükör, tölgy furnér",
-  "room": "09-eloter"
+  "name": "STOCKHOLM tükör, tölgy furnér, 60 cm",
+  "room": "12-furdo"
  },
  "https://www.bonami.hu/p/kep-50x70-cm-virgin-forest-styler-1": {
   "status": "ok",
@@ -1640,6 +1962,524 @@
   "listed": 1690,
   "name": "VITBLECKA Szervírozótál, világosszürke",
   "room": "09-eloter"
+ },
+ "https://www.ikea.com/hu/hu/p/aengsjoen-magasszekreny-ajtokkal-fiokokkal-toelgyfa-hatasu-90553162/": {
+  "status": "ok",
+  "found": [
+   129990
+  ],
+  "listed": 129990,
+  "name": "ÄNGSJÖN magasszekrény ajtókkal/fiókokkal, tölgyfa hatású",
+  "room": "12-furdo"
+ },
+ "https://www.ikea.com/hu/hu/p/branaes-kosar-rattan-00138432/": {
+  "status": "ok",
+  "found": [
+   4995
+  ],
+  "listed": 4995,
+  "name": "BRANÄS kosár, rattan",
+  "room": "12-furdo"
+ },
+ "https://www.ikea.com/hu/hu/p/gulvial-fuerdolepedo-bezs-70624491/": {
+  "status": "ok",
+  "found": [
+   2690
+  ],
+  "listed": 2690,
+  "name": "GULVIAL fürdőlepedő, bézs",
+  "room": "12-furdo"
+ },
+ "https://www.ikea.com/hu/hu/p/luddvial-fuerdolepedo-feher-10579868/": {
+  "status": "ok",
+  "found": [
+   695
+  ],
+  "listed": 695,
+  "name": "LUDDVIAL fürdőlepedő, fehér",
+  "room": "12-furdo"
+ },
+ "https://www.ikea.com/hu/hu/p/brokglim-fuerdolepedo-bezs-40612098/": {
+  "status": "ok",
+  "found": [
+   6990
+  ],
+  "listed": 6990,
+  "name": "BROKGLIM fürdőlepedő, bézs",
+  "room": "12-furdo"
+ },
+ "https://www.ikea.com/hu/hu/p/dragan-fuerdoszobai-keszlet-4-db-bambusz-40222607/": {
+  "status": "ok",
+  "found": [
+   3990
+  ],
+  "listed": 3990,
+  "name": "DRAGAN fürdőszobai készlet, 4 db, bambusz",
+  "room": "12-furdo"
+ },
+ "https://www.ikea.com/hu/hu/p/patrull-csuszasgatlo-60098895/": {
+  "status": "ok",
+  "found": [
+   1690
+  ],
+  "listed": 1690,
+  "name": "PATRULL csúszásgátló csík",
+  "room": "12-furdo"
+ },
+ "https://www.ikea.com/hu/hu/p/bekvaem-fellepo-3-foku-buekk-90190411/": {
+  "status": "ok",
+  "found": [
+   16990
+  ],
+  "listed": 16990,
+  "name": "BEKVÄM fellépő, bükk",
+  "room": "12-furdo"
+ },
+ "https://www.ikea.com/hu/hu/p/tjabbig-kosar-natur-50532567/": {
+  "status": "ok",
+  "found": [
+   2690
+  ],
+  "listed": 2690,
+  "name": "TJABBIG kosár, natúr",
+  "room": "10-wc"
+ },
+ "https://www.ikea.com/hu/hu/p/mosslanda-keptarto-toelgyfa-hatasu-80589835/": {
+  "status": "ok",
+  "found": [
+   2690
+  ],
+  "listed": 2690,
+  "name": "MOSSLANDA képtartó/polc, tölgyfa hatású",
+  "room": "10-wc"
+ },
+ "https://www.ikea.com/hu/hu/p/gulvial-toeruelkoezo-bezs-10624494/": {
+  "status": "ok",
+  "found": [
+   595
+  ],
+  "listed": 595,
+  "name": "GULVIAL törülköző, bézs",
+  "room": "10-wc"
+ },
+ "https://www.ikea.com/hu/hu/p/aengsjoen-mosdoallvany-fiokokkal-toelgyfa-hatasu-70535094/": {
+  "status": "ok",
+  "found": [
+   89990
+  ],
+  "listed": 89990,
+  "name": "ÄNGSJÖN mosdóállvány fiókokkal, tölgyfa hatású, 120x48x63 cm",
+  "room": "12-furdo"
+ },
+ "https://www.ikea.com/hu/hu/p/alsken-munkalap-bambusz-furner-50555115/": {
+  "status": "ok",
+  "found": [
+   30000
+  ],
+  "listed": 30000,
+  "name": "ÅLSKEN munkalap, bambusz/furnér, 122x49 cm",
+  "room": "12-furdo"
+ },
+ "https://www.ikea.com/hu/hu/p/aengsjoen-mosdoallvany-fiokokkal-toelgyfa-hatasu-50535090/": {
+  "status": "ok",
+  "found": [
+   79990
+  ],
+  "listed": 79990,
+  "name": "ÄNGSJÖN mosdóállvány fiókokkal, tölgyfa hatású, 100x48x63 cm",
+  "room": "12-furdo"
+ },
+ "https://www.ikea.com/hu/hu/p/alsken-munkalap-bambusz-furner-20555112/": {
+  "status": "ok",
+  "found": [
+   25000
+  ],
+  "listed": 25000,
+  "name": "ÅLSKEN munkalap, bambusz/furnér, 102x49 cm",
+  "room": "12-furdo"
+ },
+ "https://www.szaniteronline.hu/RO-A3270MJ000-Roca-The-Gap-Round-pultra-ultetheto": {
+  "status": "ok",
+  "found": [
+   36190
+  ],
+  "listed": 36190,
+  "name": "Roca The Gap Round pultra ültethető kerek mosdó 39x39 csaplyuk nélkül A3270MJ000",
+  "room": "12-furdo"
+ },
+ "https://www.ikea.com/hu/hu/p/vindelaelven-pultmosdo-szifonnal-feher-s09602030/": {
+  "status": "ok",
+  "found": [
+   30000
+  ],
+  "listed": 30000,
+  "name": "VINDELÄLVEN pultmosdó szifonnal, fehér, 39x31 cm",
+  "room": "12-furdo"
+ },
+ "https://furdoszoba-szaniter.hu/Geberit-VARIFORM-40-cm-es-pultra-ultetheto-mosdo-c": {
+  "status": "ok",
+  "found": [
+   32136,
+   54609
+  ],
+  "listed": 54609,
+  "name": "Geberit VARIFORM 40 cm-es pultra ültethető mosdó csaplyuk és túlfolyó nélkül, fehér 500.768.01.2",
+  "room": "12-furdo"
+ },
+ "https://www.szaniteronline.hu/DE-ADRR621-Deante-Round-torolkozo-tarto-60-cm-szal": {
+  "status": "ok",
+  "found": [
+   19590,
+   19855,
+   22590,
+   25690
+  ],
+  "listed": 22590,
+  "name": "Deante Round törölköző tartó 60 cm, szálcsiszolt arany ADR_R621",
+  "room": "12-furdo"
+ },
+ "https://www.sanitino.hu/omnires-modern-projekt-torolkozotarto-hossza-60-cm-csiszolt-sargarez-mp60216bsb": {
+  "status": "ok",
+  "found": [
+   29190
+  ],
+  "listed": 29190,
+  "name": "OMNIRES Modern projekt - Törölközőtartó, hossza 60 cm, csiszolt sárgaréz MP60216BSB",
+  "room": "12-furdo"
+ },
+ "https://www.szaniteronline.hu/DE-ADRR121-Deante-Round-dupla-akaszto-szalcsiszolt": {
+  "status": "ok",
+  "found": [
+   11090,
+   11190,
+   13190
+  ],
+  "listed": 13190,
+  "name": "Deante Round dupla akasztó, szálcsiszolt arany ADR_R121",
+  "room": "12-furdo"
+ },
+ "https://www.sanitino.hu/omnires-modern-projekt-kampo-csiszolt-sargarez-mp60110bsb": {
+  "status": "ok",
+  "found": [
+   9780
+  ],
+  "listed": 9780,
+  "name": "OMNIRES Modern projekt - Kampó, csiszolt sárgaréz MP60110BSB",
+  "room": "12-furdo"
+ },
+ "https://www.szaniteronline.hu/DE-ADRR421-Deante-Round-fali-szappanadagolo-szalcs": {
+  "status": "ok",
+  "found": [
+   13790,
+   14690,
+   18890
+  ],
+  "listed": 18890,
+  "name": "Deante Round fali szappanadagoló, szálcsiszolt arany ADR_R421",
+  "room": "12-furdo"
+ },
+ "https://www.szaniteronline.hu/DE-ADRR911-Deante-Round-fali-pohartarto-szalcsiszo": {
+  "status": "ok",
+  "found": [
+   11990,
+   14590,
+   16290
+  ],
+  "listed": 16290,
+  "name": "Deante Round fali pohártartó, szálcsiszolt arany ADR_R911",
+  "room": "12-furdo"
+ },
+ "https://www.arezzodesign.hu/mosdotal-kiegeszitok/arezzo-design-click-clack-lefolyo--szalcsiszolt-arany-ar-726g": {
+  "status": "ok",
+  "found": [
+   10450
+  ],
+  "listed": 10450,
+  "name": "AREZZO design Click-clack lefolyó, szálcsiszolt arany AR-726G",
+  "room": "12-furdo"
+ },
+ "https://www.sanitino.hu/sapho-szifonok-design-szifon-matt-arany-si419": {
+  "status": "ok",
+  "found": [
+   27550
+  ],
+  "listed": 27550,
+  "name": "Sapho - Design szifon, matt arany SI419",
+  "room": "10-wc"
+ },
+ "https://www.sanitino.hu/omnires-design-szifon-csiszolt-sargarez-a186bsb": {
+  "status": "ok",
+  "found": [
+   31070
+  ],
+  "listed": 31070,
+  "name": "OMNIRES - Design szifon, csiszolt sárgaréz A186BSB",
+  "room": "10-wc"
+ },
+ "https://www.sanitino.hu/alcadrain-szelepek-sarokszelep-szurovel-matt-csiszolt-arany-arv001-g-b": {
+  "status": "ok",
+  "found": [
+   20280
+  ],
+  "listed": 20280,
+  "name": "Alca - Sarokszelep szűrővel, matt csiszolt arany ARV001-G-B",
+  "room": "10-wc"
+ },
+ "https://www.szaniteronline.hu/DE-ADRR211-Deante-Round-WC-papir-tarto-szalcsiszol": {
+  "status": "ok",
+  "found": [
+   10590,
+   11090,
+   13390
+  ],
+  "listed": 13390,
+  "name": "Deante Round WC-papír tartó, szálcsiszolt arany ADR_R211",
+  "room": "10-wc"
+ },
+ "https://www.arezzodesign.hu/furdoszobai-kiegeszitok/arezzo-design-mono-wc-papir-tarto--szalcsiszolt-arany": {
+  "status": "ok",
+  "found": [
+   12300
+  ],
+  "listed": 12300,
+  "name": "AREZZO design MONO WC papír tartó, szálcsiszolt arany",
+  "room": "10-wc"
+ },
+ "https://www.sanitino.hu/omnires-modern-projekt-wc-papir-tarto-csiszolt-sargarez-mp60510bsb": {
+  "status": "ok",
+  "found": [
+   16350
+  ],
+  "listed": 16350,
+  "name": "OMNIRES Modern projekt - WC-papír tartó, csiszolt sárgaréz MP60510BSB",
+  "room": "10-wc"
+ },
+ "https://www.szaniteronline.hu/DE-ADRR711-Deante-Round-WC-kefe-fali-tartoval-szal": {
+  "status": "ok",
+  "found": [
+   15890,
+   18290,
+   20090
+  ],
+  "listed": 20090,
+  "name": "Deante Round WC kefe fali tartóval, szálcsiszolt arany ADR_R711",
+  "room": "10-wc"
+ },
+ "https://www.ikea.com/hu/hu/p/lindbyn-tuekoer-aranyszinu-90485597/": {
+  "status": "ok",
+  "found": [
+   19990
+  ],
+  "listed": 19990,
+  "name": "LINDBYN tükör, aranyszínű, 60x120 cm",
+  "room": "12-furdo"
+ },
+ "https://www.westwing.hu/ida-kerek-falitukor-hu-21wes99879.html": {
+  "status": "ok",
+  "found": [
+   26990,
+   34900,
+   59990,
+   99990,
+   124990
+  ],
+  "listed": 26990,
+  "name": "Ida kerek falitükör, aranyszínű, Ø 55 cm",
+  "room": "12-furdo"
+ },
+ "https://www.bonami.hu/p/jersey-falitukor-aranyszinu-kerettel-35-x-80-cm-house-nordic": {
+  "status": "ok",
+  "found": [
+   1390,
+   4610,
+   18380,
+   22990
+  ],
+  "listed": 18380,
+  "name": "Jersey falitükör aranyszínű kerettel, 35 x 80 cm - House Nordic",
+  "room": "10-wc"
+ },
+ "https://www.bonami.hu/p/jersey-falitukor-aranyszinu-kerettel-o-40-cm-house-nordic": {
+  "status": "ok",
+  "found": [
+   1390,
+   2210,
+   11280,
+   13490,
+   26690,
+   70090,
+   123990,
+   186080
+  ],
+  "listed": 11280,
+  "name": "Jersey falitükör aranyszínű kerettel, ø 40 cm - House Nordic",
+  "room": "10-wc"
+ },
+ "https://www.westwing.hu/avery-kerek-falitukor-tolgyfa-kerettel-hu-21wes28037.html": {
+  "status": "ok",
+  "found": [
+   34900,
+   36990,
+   89990,
+   129990
+  ],
+  "listed": 36990,
+  "name": "Avery kerek falitükör tölgyfa kerettel",
+  "room": "10-wc"
+ },
+ "https://www.fenymania.hu/nowodvorski-natalie-feher-sargarez-furdoszobai-falikar-tl-10727-g9-1-izzos-ip44": {
+  "status": "ok",
+  "found": [
+   0,
+   14990
+  ],
+  "listed": 14990,
+  "name": "Nowodvorski Natalie fehér-sárgaréz fürdőszobai falikar (TL-10727) G9 1 izzós IP44",
+  "room": "12-furdo"
+ },
+ "https://www.fenymania.hu/nowodvorski-natalie-feher-sargarez-furdoszobai-falikar-tl-10724-g9-1-izzos-ip44": {
+  "status": "ok",
+  "found": [
+   0,
+   9890
+  ],
+  "listed": 9890,
+  "name": "Nowodvorski Natalie fehér-sárgaréz fürdőszobai falikar (TL-10724) G9 1 izzós IP44",
+  "room": "12-furdo"
+ },
+ "https://www.fenymania.hu/klausen-hera-sargarez-fali-lampa-146016-g9-1-izzos-ip44": {
+  "status": "ok",
+  "found": [
+   0,
+   32525
+  ],
+  "listed": 32525,
+  "name": "Klausen Hera sárgaréz fali lámpa (146016) G9 1 izzós IP44",
+  "room": "12-furdo"
+ },
+ "https://www.fenymania.hu/nowodvorski-ceara-sargarez-furdoszobai-mennyezeti-spotlampa-tl-10716-gu10-1-izzos-ip44": {
+  "status": "ok",
+  "found": [
+   0,
+   15490
+  ],
+  "listed": 15490,
+  "name": "Nowodvorski Ceara sárgaréz fürdőszobai mennyezeti spotlámpa (TL-10716) GU10 1 izzós IP44",
+  "room": "10-wc"
+ },
+ "https://www.sanitino.hu/cersanit-crea-mosdoszekreny-53x100x45-cm-2-fiok-tolgyfa-s924-012": {
+  "status": "ok",
+  "found": [
+   135880
+  ],
+  "listed": 135880,
+  "name": "Cersanit Crea - Mosdószekrény, 53x100x45 cm, 2 fiók, tölgyfa S924-012",
+  "room": "12-furdo"
+ },
+ "https://www.arezzodesign.hu/furdoszobai-kiegeszitok/arezzo-design-mono-torolkozotarto--szalcsiszolt-arany": {
+  "status": "ok",
+  "found": [
+   14900
+  ],
+  "listed": 14900,
+  "name": "AREZZO design MONO törölközőtartó, szálcsiszolt arany",
+  "room": "12-furdo"
+ },
+ "https://www.szaniteronline.hu/DE-ADIR31K-Deante-ADI-R31K": {
+  "status": "ok",
+  "found": [
+   13890,
+   14790,
+   15790
+  ],
+  "listed": 15790,
+  "name": "Deante Silia akasztható vízlehúzó, szálcsiszolt arany ADI_R31K",
+  "room": "12-furdo"
+ },
+ "https://www.ikea.com/hu/hu/p/saluding-szennyestarto-kosar-kezzel-keszuelt-bambusz-70503583/": {
+  "status": "ok",
+  "found": [
+   18990
+  ],
+  "listed": 18990,
+  "name": "SALUDING szennyestartó kosár, kézzel készült bambusz, 50 l",
+  "room": "12-furdo"
+ },
+ "https://jysk.hu/furdoszoba/furdoszobaszonyegek/kadkilepo-almvik-50x80-natur-kronborg": {
+  "status": "ok",
+  "found": [
+   6990,
+   10000
+  ],
+  "listed": 6990,
+  "name": "Kádkilépő ALMVIK 50x80 natúr KRONBORG",
+  "room": "12-furdo"
+ },
+ "https://www.ikea.com/hu/hu/p/vallasan-fuerdolepedo-vilagoszoeld-90531330/": {
+  "status": "ok",
+  "found": [
+   2290
+  ],
+  "listed": 2290,
+  "name": "VALLASÅN fürdőlepedő, világoszöld, 70x140 cm",
+  "room": "12-furdo"
+ },
+ "https://www.bonami.hu/p/bambusz-tarto-a-kadhoz-wenko": {
+  "status": "ok",
+  "found": [
+   1390,
+   2845,
+   5690,
+   9290,
+   10890,
+   12490,
+   16290,
+   20790
+  ],
+  "listed": 10890,
+  "name": "Bambusz tartó a kádhoz - Wenko",
+  "room": "12-furdo"
+ },
+ "https://www.ikea.com/hu/hu/p/ragrund-pad-bambusz-60549416/": {
+  "status": "ok",
+  "found": [
+   18990
+  ],
+  "listed": 18990,
+  "name": "RÅGRUND pad, bambusz, 78x37 cm",
+  "room": "12-furdo"
+ },
+ "https://www.mozaikkeramia.hu/walk-in-deante-prizma-walk-in-zuhanyfal-szalcsiszolt-arany-80-cm-ktjr38p-676251.html": {
+  "status": "ok",
+  "found": [
+   3890,
+   40900,
+   73890
+  ],
+  "listed": 73890,
+  "name": "Walk-in, Deante Prizma walk-in zuhanyfal, szálcsiszolt arany, 80 cm KTJ_R38P",
+  "room": "12-furdo"
+ },
+ "https://www.szaniteronline.hu/DE-ADRR611-Deante-Round-rozsdamentes-acel-torolkoz": {
+  "status": "ok",
+  "found": [
+   13090,
+   15090,
+   18190,
+   19690
+  ],
+  "listed": 18190,
+  "name": "Deante Round rozsdamentes acél törölközőtartó 328 mm, szálcsiszolt arany ADR_R611",
+  "room": "10-wc"
+ },
+ "https://www.arezzodesign.hu/furdoszobai-kiegeszitok/arezzo-design-mono-fogas--szalcsiszolt-arany": {
+  "status": "ok",
+  "found": [
+   6850
+  ],
+  "listed": 6850,
+  "name": "AREZZO design MONO fogas, szálcsiszolt arany",
+  "room": "10-wc"
  },
  "https://www.ikea.com/hu/hu/p/enhet-alloszkr-ajtoval-feher-10623036/": {
   "status": "ok",
@@ -2028,9 +2868,218 @@
   "name": "Sadolin kertibútor ápoló olaj 0,75l teak",
   "room": "16-17-terasz"
  },
+ "https://arnyekolokweb.hu/egysoros-19mm-karnis-cylinder-antik/p-983375": {
+  "status": "ok",
+  "found": [
+   0,
+   5890
+  ],
+  "listed": 11990,
+  "name": "Egysoros 19mm karnis - CYLINDER - antik",
+  "room": "00-altalanos-hangulat",
+  "manual": "2026-09-20, kézi ellenőrzés a bolt változat-kalkulátorában: 3200 mm rúd karikákkal és csipeszekkel = 11 990 Ft (karika nélkül 9 990 Ft); az oldalon látszó 5 890 Ft az 1000 mm-es alapár; 30% akció 2026-09-21-ig"
+ },
+ "https://arnyekolokweb.hu/egysoros-19mm-karnis-pullo-antik/p-983385": {
+  "status": "ok",
+  "found": [
+   0,
+   5090
+  ],
+  "listed": 11190,
+  "name": "Egysoros 19mm karnis - PULLO - antik",
+  "room": "00-altalanos-hangulat",
+  "manual": "2026-09-20, kézi ellenőrzés a bolt változat-kalkulátorában: 3200 mm rúd karikákkal és csipeszekkel = 11 190 Ft; 30% akció 2026-09-21-ig"
+ },
+ "https://designmarket.hu/CAPPA-matt-arany-165-300cm-es-allithato-teleszkopo": {
+  "status": "ok",
+  "found": [
+   20790
+  ],
+  "listed": 20790,
+  "name": "CAPPA matt arany 165-300cm-es állítható teleszkópos függönykarnis",
+  "room": "00-altalanos-hangulat"
+ },
+ "https://www.obi.hu/karnisok-es-huzalos-fueggoenysinek/gardinia-thasos-fuggonyrudkeszlet-19-22-mm-atmero-kihuzhato-190-360-cm-arany/p/5387089": {
+  "status": "ok",
+  "found": [
+   3827,
+   14172,
+   17999
+  ],
+  "listed": 17999,
+  "name": "Gardinia Thasos függönyrúdkészlet Ø 19/22 mm átmérő kihúzható 190-360 cm arany",
+  "room": "00-altalanos-hangulat"
+ },
+ "https://arnyekolokweb.hu/ketsoros-19x19mm-karnis-cylinder-antik/p-983426": {
+  "status": "ok",
+  "found": [
+   0,
+   8590
+  ],
+  "listed": 19490,
+  "name": "Kétsoros 19x19mm karnis - CYLINDER - antik",
+  "room": "00-altalanos-hangulat",
+  "manual": "2026-09-20, kézi ellenőrzés a bolt változat-kalkulátorában: 3200 mm dupla rúd karikákkal és csipeszekkel = 19 490 Ft; 30% akció 2026-09-21-ig"
+ },
+ "https://www.obi.hu/karnisok-es-huzalos-fueggoenysinek/fueggoenykarikak-csipeszekkel-10-db-19-mm-sargarez/p/4699609": {
+  "status": "ok",
+  "found": [
+   1298,
+   1649
+  ],
+  "listed": 1649,
+  "name": "Függönykarikák csipeszekkel 10 db 19 mm sárgaréz",
+  "room": "00-altalanos-hangulat"
+ },
+ "https://www.szaniteronline.hu/DE-BQOR72M-Deante-Olfato-konyhai-csaptelep-kihuzha": {
+  "status": "ok",
+  "found": [
+   42290,
+   49490,
+   59890,
+   63090
+  ],
+  "listed": 63090,
+  "name": "Deante Olfato konyhai csaptelep kihúzható kifolyóval, szálcsiszolt arany",
+  "room": "02-konyha"
+ },
+ "https://www.szaniteronline.hu/RE-REAB9148-Rea-Fresh-allo-konyhai-csaptelep-kihuz": {
+  "status": "ok",
+  "found": [
+   24790,
+   26690,
+   28590
+  ],
+  "listed": 28590,
+  "name": "Rea Fresh álló konyhai csaptelep kihúzható zuhanyfejjel, szálcsiszolt arany REA-B9148",
+  "room": "02-konyha"
+ },
+ "https://www.ikea.com/hu/hu/p/sallsjoen-konyhai-keverocsap-sargarez-90604557/": {
+  "status": "ok",
+  "found": [
+   24990
+  ],
+  "listed": 24990,
+  "name": "SALLSJÖN Konyhai keverőcsap, sárgaréz",
+  "room": "11-haztartasi"
+ },
+ "https://www.szaniteronline.hu/FGR-31558GN0-Grohe-Minta-konyhai-csaptelep-elfordi": {
+  "status": "ok",
+  "found": [
+   129290
+  ],
+  "listed": 129290,
+  "name": "Grohe Minta konyhai csaptelep, elfordítható kifolyóval és kihúzható fejjel, szálcsiszolt világos arany",
+  "room": "02-konyha"
+ },
+ "https://www.ikea.com/hu/hu/p/bagganaes-fogantyu-sargarez-00338407/": {
+  "status": "ok",
+  "found": [
+   2490
+  ],
+  "listed": 2490,
+  "name": "BAGGANÄS Fogantyú, sárgaréz, 143 mm",
+  "room": "02-konyha"
+ },
+ "https://www.ikea.com/hu/hu/p/bagganaes-fogantyu-sargarez-00338412/": {
+  "status": "ok",
+  "found": [
+   1990
+  ],
+  "listed": 1990,
+  "name": "BAGGANÄS Fogantyú, sárgaréz, 21 mm",
+  "room": "02-konyha"
+ },
+ "https://www.ikea.com/hu/hu/p/bagganaes-fogantyu-sargarez-20338411/": {
+  "status": "ok",
+  "found": [
+   4490
+  ],
+  "listed": 4490,
+  "name": "BAGGANÄS Fogantyú, sárgaréz, 335 mm",
+  "room": "02-konyha"
+ },
+ "https://fogantyushop.hu/webshop/hafele-butor-fogantyu-15501-szalcsiszolt-sargarez-i-zamak-fem-otvozet-tobb-meretben-gyartott-szines-fem-butorfogantyu/7288": {
+  "status": "ok",
+  "found": [
+   1034,
+   1050,
+   1062,
+   1184,
+   1272,
+   1417,
+   1419,
+   1441
+  ],
+  "listed": 1546,
+  "name": "HAFELE Bútor fogantyú - 155.01 - Szálcsiszolt sárgaréz I.",
+  "room": "02-konyha"
+ },
+ "https://www.emag.hu/rattan-esernyotarto-keresztfules-40-06-13-51/pd/DH4ZNNBBM/": {
+  "status": "ok",
+  "found": [
+   5863
+  ],
+  "listed": 5863,
+  "name": "Rattan esernyőtartó keresztfüles",
+  "room": "01-eloszoba"
+ },
+ "https://www.szaniteronline.hu/RE-REAB6302-Rea-Troy-allo-egykaros-konyhai-csaptel": {
+  "status": "ok",
+  "found": [
+   11690,
+   17190
+  ],
+  "listed": 17190,
+  "name": "Rea Troy álló egykaros konyhai csaptelep kihúzható zuhanyfejjel, szálcsiszolt arany REA-B6302",
+  "room": "11-haztartasi"
+ },
+ "https://www.emag.hu/fali-konzol-sepruk-felmosok-es-egyeb-kiegeszitok-tarolasara-kovetkezo-tobbfunkcios-rendszerezo-konyhaba-furdoszobaba-erkelyre-4-kapocs-es-5-visszahuzhato-kampo-csuszasgatlo-vizallo-ragasztos-rogzites-/pd/DN49623BM/": {
+  "status": "ok",
+  "found": [
+   3424
+  ],
+  "listed": 3424,
+  "name": "Fali konzol seprűk, felmosók és egyéb kiegészítők tárolására KÖVETKEZŐ, többfunkciós rendszerező konyhába, fürdőszobába, erkélyre, 4 kapocs és 5 visszahúzható kampó, csúszásgátló, vízálló, ragasztós rögzítés, ABS, fehér",
+  "room": "11-haztartasi"
+ },
+ "https://www.ikea.com/hu/hu/p/nymane-led-es-mennyezeti-lampa-feher-60526047/": {
+  "status": "ok",
+  "found": [
+   15990
+  ],
+  "listed": 15990,
+  "name": "NYMÅNE LED-es mennyezeti lámpa, fehér, 45 cm",
+  "room": "13-kozlekedo"
+ },
+ "https://www.bonami.hu/p/feher-mennyezeti-lampa-uveg-buraval-o-30-cm-circle-candellux-lighting-1": {
+  "status": "ok",
+  "found": [
+   1390,
+   1740,
+   2129,
+   2500,
+   2670,
+   2749,
+   2779,
+   2889
+  ],
+  "listed": 6299,
+  "name": "Fehér mennyezeti lámpa üveg búrával ø 30 cm Circle – Candellux Lighting",
+  "room": "13-kozlekedo"
+ },
+ "https://www.ikea.com/hu/hu/p/nymane-fali-olvasolampa-feher-20356909/": {
+  "status": "ok",
+  "found": [
+   5990
+  ],
+  "listed": 5990,
+  "name": "NYMÅNE Fali-/olvasólámpa, fehér",
+  "room": "08-szoba"
+ },
  "_meta": {
   "date": "2026-09-20",
-  "items": 241,
-  "ok": 241
+  "items": 350,
+  "ok": 350
  }
 }

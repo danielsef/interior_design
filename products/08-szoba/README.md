@@ -3,7 +3,7 @@
 | | |
 | --- | --- |
 | **Helyiség** | 11,55 m² · fa parketta |
-| **Termékek** | 14 db |
+| **Termékek** | 15 db |
 | **Árak ellenőrizve** | 2026-09-20 |
 | **Inspirációs képek** | [`../../inpiration/08-szoba/`](../../inpiration/08-szoba/README.md) |
 
@@ -11,9 +11,9 @@
 
 | Forgatókönyv | Összeg |
 | --- | --- |
-| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **270 350 Ft** |
-| 💰 Minden kategóriából a legolcsóbb | 172 370 Ft |
-| 💎 Minden kategóriából a legdrágább | 412 060 Ft |
+| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **276 340 Ft** |
+| 💰 Minden kategóriából a legolcsóbb | 178 360 Ft |
+| 💎 Minden kategóriából a legdrágább | 418 050 Ft |
 
 > A darabszám javaslat (pl. 6 szék, 2 éjjeliszekrény). Az árak a bolt weboldalán 2026-09-20-án látott árak – vásárlás előtt nézd meg újra, az akciók változnak.
 
@@ -102,3 +102,11 @@
 | ⭐ ajánlott | [PURRPINGLA tároló](https://www.ikea.com/hu/hu/p/purrpingla-tarolo-textil-bezs-30612254/) | **IKEA** – online (ikea.com/hu) + IKEA Budaörs áruház | bézs textil | 34x51x28 cm | **3 490 Ft** | 3 |
 
 - **PURRPINGLA tároló** – Puha, natúr tónusú textil tárolódoboz – könnyen mosható, jól passzol a polcra/gardrób aljába. *(ár listaoldalról)*
+
+### Fali olvasólámpa
+
+| | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- |
+| ⭐ ajánlott | [NYMÅNE Fali-/olvasólámpa, fehér](https://www.ikea.com/hu/hu/p/nymane-fali-olvasolampa-feher-20356909/) | **IKEA** – online + áruház (Budaörs, Örs vezér tere, Soroksár) | fehér porfestett acél és alumínium | lámpafej Ø 7 cm, magasság 11 cm; GU10 (max. 8,5 W, izzó külön), állítható fej; konnektoros, 2,5 m vezeték | **5 990 Ft** <br>*/db; új alacsonyabb ár, előző ár 7 990 Ft; + GU10 2700 K CRI 90 LED izzó külön* | 1 |
+
+- **NYMÅNE Fali-/olvasólámpa, fehér** – Kicsi, fehér, állítható fejű olvasólámpa – a fehér falon szinte eltűnik, a fényt a könyvre irányítja, így az alvó társat/babát nem zavarja. ⚠️ *Konnektoros: a 2,5 m-es vezetéket kábelcsatornában a falhoz kell rögzíteni, mert a lelógó zsinór kisbaba mellett veszélyes (irányelv: nincs lógó vezeték). A szerelőcsavar nincs a csomagban.*

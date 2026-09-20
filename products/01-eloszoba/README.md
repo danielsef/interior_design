@@ -3,7 +3,7 @@
 | | |
 | --- | --- |
 | **Helyiség** | 10,60 m² · Norwich Arena |
-| **Termékek** | 22 db |
+| **Termékek** | 23 db |
 | **Árak ellenőrizve** | 2026-09-20 |
 | **Inspirációs képek** | [`../../inpiration/01-eloszoba/`](../../inpiration/01-eloszoba/README.md) |
 
@@ -11,9 +11,9 @@
 
 | Forgatókönyv | Összeg |
 | --- | --- |
-| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **325 180 Ft** |
-| 💰 Minden kategóriából a legolcsóbb | 183 590 Ft |
-| 💎 Minden kategóriából a legdrágább | 489 540 Ft |
+| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **331 043 Ft** |
+| 💰 Minden kategóriából a legolcsóbb | 189 453 Ft |
+| 💎 Minden kategóriából a legdrágább | 495 403 Ft |
 
 > A darabszám javaslat (pl. 6 szék, 2 éjjeliszekrény). Az árak a bolt weboldalán 2026-09-20-án látott árak – vásárlás előtt nézd meg újra, az akciók változnak.
 
@@ -136,3 +136,11 @@
 | ⭐ ajánlott | [TÖRNBÄR Kaspó, banánrost, kézzel készült, 32 cm](https://www.ikea.com/hu/hu/p/toernbaer-kaspo-bananrost-kezzel-keszuelt-70524707/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | kézzel font banánrost, lakkozott, polipropilén belső cserép (min. 50% újrahasznosított) | Ø 32 cm (max. cserépátmérő), külső Ø 37 cm, magasság 35 cm | **13 990 Ft** <br>*akciós, eredeti ár 18 990 Ft* | 1 |
 
 - **TÖRNBÄR Kaspó, banánrost, kézzel készült, 32 cm** – Nagyméretű, kézzel font natúr kosár-kaspó vízálló belső cseréppel – a nagy előszobában ez adja a padlóra kerülő olajfa/eukaliptusz keretét. ⚠️ *A brief matt kerámia kaspót kért, de jelenleg elérhető, valóban nagy méretű (Ø35–40 cm+) matt kerámia kültéri/beltéri kaspót egyik ellenőrzött boltban sem találtam készleten (a Praktiker hasonló kerámia és polystone darabjai kifutottak/nem rendelhetők) – ez a fonott kosár-kaspó a stílushoz jobban illő, ténylegesen kapható helyettesítő; kerámia kaspóért érdemes helyi kertészetet/dekorboltot személyesen felkeresni.*
+
+### Esernyőtartó
+
+| | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- |
+| ⭐ ajánlott | [Rattan esernyőtartó keresztfüles](https://www.emag.hu/rattan-esernyotarto-keresztfules-40-06-13-51/pd/DH4ZNNBBM/) | **eMAG (eladó: Czinege Manufaktúra Kft.)** – online (eMAG Marketplace, raktáron; csomagautomata / futár) | természetes rotáng (rattan), natúr, kézzel fonott | Ø 29 cm, magasság 76 cm (füllel); 1,16 kg | **5 863 Ft** | 1 |
+
+- **Rattan esernyőtartó keresztfüles** – Valódi, natúr rattan fonat – a fekete fém esernyőtartó helyett a wooden coastal előszoba természetes szálas anyagvilágát erősíti, olcsón. ⚠️ *Nincs csepegtetőtálca: az aljába kis kerámia alátét vagy tálka kell, különben a járólapra csöpög. Könnyű, felborulhat – kisbaba mellett sarokba, bútor mellé állítani.*

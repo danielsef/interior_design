@@ -3,7 +3,7 @@
 | | |
 | --- | --- |
 | **Helyiség** | 13,57 m² · Norwich Arena |
-| **Termékek** | 10 db |
+| **Termékek** | 18 db |
 | **Árak ellenőrizve** | 2026-09-20 |
 | **Inspirációs képek** | [`../../inpiration/02-konyha/`](../../inpiration/02-konyha/README.md) |
 
@@ -11,9 +11,9 @@
 
 | Forgatókönyv | Összeg |
 | --- | --- |
-| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **406 110 Ft** |
-| 💰 Minden kategóriából a legolcsóbb | 319 650 Ft |
-| 💎 Minden kategóriából a legdrágább | 434 610 Ft |
+| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **497 100 Ft** |
+| 💰 Minden kategóriából a legolcsóbb | 348 620 Ft |
+| 💎 Minden kategóriából a legdrágább | 582 452 Ft |
 
 > A darabszám javaslat (pl. 6 szék, 2 éjjeliszekrény). Az árak a bolt weboldalán 2026-09-20-án látott árak – vásárlás előtt nézd meg újra, az akciók változnak.
 
@@ -82,3 +82,31 @@
 | ⭐ ajánlott | [MORUM Szőnyeg, síkszövött, bel/kültéri, bézs](https://www.ikea.com/hu/hu/p/morum-szonyeg-sikszoevoett-bel-kuelteri-bezs-80624160/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs, Örs vezér tere, Soroksár) | 100% polipropilén, bézs | 80x200 cm | **7 990 Ft** <br>*/db* | 1 |
 
 - **MORUM Szőnyeg, síkszövött, bel/kültéri, bézs** – Kézzel mosható, kültéri használatra is jóváhagyott PP anyag – a kisbabás háztartás „letörölhető padlótextil” szűrőjének megfelelő, natúr bézs tónusban. ⚠️ *Kézi mosás max. 40°C-on; hidegburkolaton csúszásgátló alátét ajánlott.*
+
+### Konyhai csaptelep (szálcsiszolt sárgaréz)
+
+| | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- |
+| ⭐ ajánlott | [Deante Olfato konyhai csaptelep kihúzható kifolyóval, szálcsiszolt arany](https://www.szaniteronline.hu/DE-BQOR72M-Deante-Olfato-konyhai-csaptelep-kihuzha) | **SzaniterOnline.hu** – online rendelés (rendelhető, 15–25 munkanap; beszállítónál >10 db) | szálcsiszolt arany (Deante BQO_R72M) | magasság 451 mm, kinyúlás 237 mm; forgatható magas kifolyó, kihúzható 2 funkciós fej, 25 mm kerámiabetét | **63 090 Ft** <br>*Ugyanez a Csapkirálynál 69 900 Ft. 7 év garancia.* | 1 |
+| 💰 olcsóbb | [Rea Fresh álló konyhai csaptelep kihúzható zuhanyfejjel, szálcsiszolt arany REA-B9148](https://www.szaniteronline.hu/RE-REAB9148-Rea-Fresh-allo-konyhai-csaptelep-kihuz) | **SzaniterOnline.hu** – online rendelés (rendelhető, 10–15 munkanap) | szálcsiszolt arany; sárgaréz test | magasság 395 mm, kinyúlás 200 mm; kihúzható fej szórt/koncentrált sugárral, kerámiabetét | **28 590 Ft** <br>*5 év garancia* | 1 |
+| 💰 olcsóbb | [SALLSJÖN Konyhai keverőcsap, sárgaréz](https://www.ikea.com/hu/hu/p/sallsjoen-konyhai-keverocsap-sargarez-90604557/) | **IKEA** – online + áruház (Budaörs, Örs vezér tere, Soroksár) | sárgaréz színű PVD bevonat, a termékfotón szálcsiszolt jellegű, matt felület (cink test, rozsdamentes acél kifolyó belül) | magasság 358 mm; 120°/360°-ban forgatható magas kifolyó, kerámiabetét, víztakarékos perlátor | **24 990 Ft** <br>*új alacsonyabb ár, előző ár 29 990 Ft; 10 év garancia* | 1 |
+| 💎 prémium | [Grohe Minta konyhai csaptelep, elfordítható kifolyóval és kihúzható fejjel, szálcsiszolt világos arany](https://www.szaniteronline.hu/FGR-31558GN0-Grohe-Minta-konyhai-csaptelep-elfordi) | **SzaniterOnline.hu** – online rendelés (rendelhető, 10–15 munkanap) | szálcsiszolt világos arany (Grohe Brushed Cool Sunrise, 31558GN0) | magasság 328 mm, kinyúlás 223 mm, kifolyómagasság 292 mm; kihúzható fej, 46 mm kerámiabetét | **129 290 Ft** <br>*5 év garancia* | 1 |
+
+- **Deante Olfato konyhai csaptelep kihúzható kifolyóval, szálcsiszolt arany** – Ismert márka, 7 év garancia, magas forgatható kifolyó kihúzható zuhanyfejjel – a szálcsiszolt arany felület a ház egységes sárgaréz fémvilágát viszi tovább a fa frontos, kőpultos konyhában. ⚠️ *Csak akkor kell, ha a konyhai csaptelep még nincs megvéve – tulajdonossal egyeztetni; a tónust a kilincsekhez mintával összenézni. Hosszú (3–5 hét) szállítási idő.*
+- **Rea Fresh álló konyhai csaptelep kihúzható zuhanyfejjel, szálcsiszolt arany REA-B9148** – Fele áron is sárgaréz testű, szálcsiszolt arany, kihúzható fejes csaptelep – megfizethető módja, hogy a konyhai fém is igazodjon a kilincsekhez. ⚠️ *Csak akkor kell, ha a konyhai csaptelep még nincs megvéve – tulajdonossal egyeztetni; a tónust a kilincsekhez mintával összenézni. Budget márka: a PVD-felület tartóssága elmarad a Deante/Grohe szinttől.*
+- **SALLSJÖN Konyhai keverőcsap, sárgaréz** – Áruházban megnézhető, 10 év garanciás, kemény PVD bevonatú sárgaréz színű csap egyszerű, magas ívvel – a BAGGANÄS sárgaréz fogantyúkkal azonos IKEA-tónus. ⚠️ *Csak akkor kell, ha a konyhai csaptelep még nincs megvéve – tulajdonossal egyeztetni; a tónust a kilincsekhez mintával összenézni. Nincs kihúzható zuhanyfej; a leírás csak „sárgaréz”-nek nevezi, de a fotón szálcsiszolt – a tónust áruházban a kilincshez nézni.*
+- **Grohe Minta konyhai csaptelep, elfordítható kifolyóval és kihúzható fejjel, szálcsiszolt világos arany** – Grohe PVD „Brushed Cool Sunrise” felület – a legtartósabb, legszebb szálcsiszolt arany, kihúzható fejjel; hosszú távra szóló minőségi lépcső. ⚠️ *Csak akkor kell, ha a konyhai csaptelep még nincs megvéve – tulajdonossal egyeztetni; a tónust a kilincsekhez mintával összenézni. A Cool Sunrise világosabb, hűvösebb arany, mint sok sárgaréz kilincs – mindenképp mintával összenézni. Drága.*
+
+### Bútorfogantyú (sárgaréz)
+
+| | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- |
+| ⭐ ajánlott | [BAGGANÄS Fogantyú, sárgaréz, 143 mm](https://www.ikea.com/hu/hu/p/bagganaes-fogantyu-sargarez-00338407/) | **IKEA** – online + áruház (Budaörs, Örs vezér tere, Soroksár) | acél, sárgarézzel futtatott, áttetsző lakkozású („sárgaréz”) | hossz 143 mm, furattáv 128 mm, mélység 31 mm, szélesség 9 mm | **2 490 Ft** <br>*/2 db (1 245 Ft/db). 6 csomag = 12 fogantyú – a pontos darabszámot a konyhaterv front-/fiókszáma adja.* | 6 |
+| ⭐ ajánlott | [BAGGANÄS Fogantyú, sárgaréz, 21 mm](https://www.ikea.com/hu/hu/p/bagganaes-fogantyu-sargarez-00338412/) | **IKEA** – online + áruház (Budaörs, Örs vezér tere, Soroksár) | acél, sárgarézzel futtatott, áttetsző lakkozású („sárgaréz”) | gombfogantyú Ø 21 mm, mélység 24 mm | **1 990 Ft** <br>*/2 db (995 Ft/db). A 20 mm-es BAGGANÄS gomb „utolsó esély” státuszú, ezért a 21 mm-es szerepel.* | 2 |
+| ⭐ ajánlott | [BAGGANÄS Fogantyú, sárgaréz, 335 mm](https://www.ikea.com/hu/hu/p/bagganaes-fogantyu-sargarez-20338411/) | **IKEA** – online + áruház (Budaörs, Örs vezér tere, Soroksár) | acél, sárgarézzel futtatott („sárgaréz”) | hossz 335 mm, furattáv 320 mm, mélység 31 mm, szélesség 9 mm | **4 490 Ft** <br>*/2 db (2 245 Ft/db) – széles fiókokra, magas szekrényajtóra* | 2 |
+| 💎 prémium | [HAFELE Bútor fogantyú - 155.01 - Szálcsiszolt sárgaréz I.](https://fogantyushop.hu/webshop/hafele-butor-fogantyu-15501-szalcsiszolt-sargarez-i-zamak-fem-otvozet-tobb-meretben-gyartott-szines-fem-butorfogantyu/7288) | **Fogantyúshop.hu** – online rendelés (külső raktár, 5–14 nap) | zamak fémötvözet, szálcsiszolt sárgaréz felület (Häfele, német) | furattáv 160 mm, 169 × 28 × 9 mm (cikkszám 155.02.290); további méretek: 96 / 192 / 224 / 320 mm | **1 546 Ft** <br>*/db (160 mm). 96 mm: 1 034 Ft, 192 mm: 1 701 Ft, 224 mm: 1 977 Ft, 320 mm: 3 046 Ft. M4 csavarral.* | 12 |
+
+- **BAGGANÄS Fogantyú, sárgaréz, 143 mm** – Vékony, egyenes sárgaréz fogantyú a fa konyhafrontokra – olcsón hozza a ház egységes sárgaréz fémét, és illik a SALLSJÖN csaphoz. ⚠️ *Futtatott (nem tömör) sárgaréz, a felület „sárgaréz” – nem szálcsiszoltként jelölt; a kilincsekhez mintával összenézni. Ha a konyhabútor-gyártó saját fogantyút ad, nem kell.*
+- **BAGGANÄS Fogantyú, sárgaréz, 21 mm** – A felső szekrényajtókra a rúdfogantyúval azonos sárgaréz gomb – egy család, egy tónus. ⚠️ *Kicsi gomb: gyerekzáras alsó szekrényre nem ideális. Darabszám a konyhaterv szerint.*
+- **BAGGANÄS Fogantyú, sárgaréz, 335 mm** – A széles fiókfrontokra (sziget, edényes fiók) arányosabb a hosszú változat, ugyanabból a sárgaréz családból. ⚠️ *Csak akkor kell, ha vannak 60 cm-nél szélesebb fiókok; darabszám a konyhaterv szerint.*
+- **HAFELE Bútor fogantyú - 155.01 - Szálcsiszolt sárgaréz I.** – Kifejezetten „szálcsiszolt sárgaréz” felületű Häfele fogantyú – ez áll a legközelebb a már felszerelt szálcsiszolt sárgaréz kilincsekhez, több méretben az egész konyhára. ⚠️ *128 mm-es furattáv nincs a sorozatban (96 vagy 160 mm) – a frontok fúrása előtt dönteni. Külső raktáras, 1–2 hét.*

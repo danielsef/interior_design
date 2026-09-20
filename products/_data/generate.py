@@ -3,7 +3,7 @@
 Usage: python3 products/_data/generate.py   (optional: products/_data/linkcheck.json = {url: http_status})"""
 import json, glob, os, csv, collections
 HERE=os.path.dirname(os.path.abspath(__file__)); P=os.path.dirname(HERE); BT=chr(96)
-ROOMS=[("00-altalanos-hangulat","Az egész házra (függöny, izzó, kilincs, kosár, növény)","—"),("01-eloszoba","Előszoba","10,60 m² · Norwich Arena"),("02-konyha","Konyha","13,57 m² · Norwich Arena"),("03-etkezo","Étkező","10,93 m² · Norwich Arena"),("04-nappali","Nappali","20,99 m² · Norwich Arena"),("05-halo","Háló","16,22 m² · fa parketta"),("06-szoba","Szoba (babaszoba)","10,63 m² · fa parketta"),("07-dolgozo","Dolgozó","12,78 m² · fa parketta"),("08-szoba","Szoba (gyerek / vendég)","11,55 m² · fa parketta"),("09-eloter","Előtér","3,92 m² · Norwich Arena"),("10-wc","WC","1,63 m² · kerámia"),("11-haztartasi","Háztartási helyiség","5,01 m² · kerámia"),("12-furdo","Fürdő","4,75 m² · kerámia"),("13-kozlekedo","Közlekedő","3,47 m² · Norwich Arena"),("14-gardrob","Gardrób","2,79 m² · nyitott kérdés (nem parketta)"),("16-17-terasz","Terasz","41,65 m² · fagyálló kerámia")]
+ROOMS=[("00-altalanos-hangulat","Az egész házra (függöny, karnis, izzó, kosár, növény, képkeret, babavédelem)","—"),("01-eloszoba","Előszoba","10,60 m² · Norwich Arena"),("02-konyha","Konyha","13,57 m² · Norwich Arena"),("03-etkezo","Étkező","10,93 m² · Norwich Arena"),("04-nappali","Nappali","20,99 m² · Norwich Arena"),("05-halo","Háló","16,22 m² · fa parketta"),("06-szoba","Szoba (babaszoba)","10,63 m² · fa parketta"),("07-dolgozo","Dolgozó","12,78 m² · fa parketta"),("08-szoba","Szoba (gyerek / vendég)","11,55 m² · fa parketta"),("09-eloter","Előtér","3,92 m² · Norwich Arena"),("10-wc","WC","1,63 m² · kerámia"),("11-haztartasi","Háztartási helyiség","5,01 m² · kerámia"),("12-furdo","Fürdő","4,75 m² · kerámia"),("13-kozlekedo","Közlekedő","3,47 m² · Norwich Arena"),("14-gardrob","Gardrób","2,79 m² · nyitott kérdés (nem parketta)"),("16-17-terasz","Terasz","41,65 m² · fagyálló kerámia")]
 TIER_ORDER={"ajánlott":0,"olcsóbb":1,"prémium":2}; TIER_ICON={"ajánlott":"⭐ ajánlott","olcsóbb":"💰 olcsóbb","prémium":"💎 prémium"}
 items=[]
 for f in sorted(glob.glob(os.path.join(HERE,"*.json"))):
@@ -75,7 +75,7 @@ f"- Az egész lista egyben, szűrhetően: [{BT}termekek.csv{BT}](termekek.csv) (
 "| Fa | világos–közép tölgy (vagy kőris, nyír, akác kültéren), matt / olajozott; nincs sötét dió, magasfény, sárgás-vöröses tónus |",
 "| Fonott | rattan, juta, tengerifű, bambusz, vízi jácint – beltérben nincs műanyag utánzat |",
 "| Textil | len, pamut, gyapjú, bouclé; törtfehér–homok alap, **zsályazöld** akcentus, kék csak kis adagban |",
-"| Fém | **matt fekete** (egy típus az egész házban); nincs fényes króm |",
+"| Fém | **szálcsiszolt sárgaréz** az egész házban (a kilincsek és a fürdőszerelvények már ilyenek); vasalat csak sárgaréz, fa vagy fehér; matt fekete legfeljebb egy-egy lámpán; nincs króm, nikkel, fényes arany |",
 "| Forma | alacsony, látszó lábak, néhány íves darab; zárt tárolás szemmagasság alatt |",
 "| Fény | 2700 K, CRI 90+ ahol az adat elérhető |",
 "| Kisbaba | levehető, mosható huzat; mosható szőnyeg ott, ahol eszik/játszik; falhoz rögzíthető bútor; lekerekített sarkok |",
