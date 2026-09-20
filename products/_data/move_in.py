@@ -24,8 +24,8 @@ ROOM_NOTES = {
     "04-nappali": {
         "minimum": "Egy közös ülő-/pihenőhely; a kandalló és a használatba vett berendezés szükséges védelme.",
         "later": "Dohányzóasztal, plusz fotel, TV-szekrény, tálaló, dekorációs szőnyegek, párnák és plédek. A játszóhelynek meglévő megfelelő megoldás is használható.",
-        "check": "Új kanapéigény: kb. 300×200 cm, L alakú, ágyazható, inkább puha; a régi jelöltek újraszűrendők. A kandalló pusztán dekoratív burkolata halasztható, ha a berendezés használaton kívül vagy a kivitelező szerint kész, használható állapotban van. A működéshez szükséges befejezés nem Prio 2. A poros burkolási munkát célszerű a kanapé beköltöztetése előtt elvégezni, ha belefér.",
-        "unpriced": "A kandalló burkolati/rendszerbefejezésének egyedi költsége nincs a termékösszegben.",
+        "check": "Kanapé: kb. 300×200 cm, L alakú, inkább puha, alkalmi ágy két felnőttnek; legfeljebb 500 000 Ft szállítással. Fix vagy mosható kárpit elfogadható. Az oldalirány és a komfort még ellenőrizendő. A kandalló pusztán dekoratív burkolata halasztható, ha a berendezés használaton kívül vagy a kivitelező szerint kész, használható állapotban van. A működéshez szükséges befejezés nem Prio 2. A poros burkolási munkát célszerű a kanapé beköltöztetése előtt elvégezni, ha belefér.",
+        "unpriced": "A megfelelő kanapé költsége hiányzik az ajánlott összegből; az 500 000 Ft felső keret nem nulla költség és nem automatikus kiadás. A korábbi ajánlott kanapé 169 900 Ft-os kizárása nem megtakarítás. A kandalló burkolati/rendszerbefejezésének egyedi költsége sincs a termékösszegben.",
     },
     "05-halo": {
         "minimum": "Teljes, használható fekhely, megfelelő méretű alap ágynemű és sötétítés. Az alap ruhatárolással a gardróbban számolunk.",

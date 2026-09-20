@@ -47,3 +47,5 @@ A CSV végére négy oszlop került: `Beköltözési prioritás`, `Prioritás in
 **Megerősített változás:** a dolgozóasztalt és széket hozzák. Az ezekhez tartozó új jelöltek P2 csereopciók, `budget_include: false` és `budget_exclusion_reason` mellett. Ez a mező a fürdőpult-referencia kizárásának okát is tárolja. A 08-as szoba megerősítve vendég-/tartalékszoba, teljes listája P2. A többi hozott darabról nincs tételes leltár; ne nevezz konkrét terméket meglévőnek pusztán abból, hogy a funkció már megoldott.
 
 A `97-etkezo-alternativak.json` négy új, 2026-09-20-án ellenőrzött alternatívát ad hozzá (összesen 314 aktív sor). Az étkező összehasonlítása a helyiség `OSSZEHASONLITAS.md` fájljában olvasható; a generátor ezt is belinkeli.
+
+A `96-kanape-alternativak.json` egy 2026-09-20-án ellenőrzött Rocky figyelőlistás sort ad hozzá: **315 rekord**. A Rocky és a két korábbi egyenes IKEA-kanapé `budget_include: false`; a kanapé funkció továbbra is P1, költsége hiányzó tétel. A [kanapé-összehasonlítás](../04-nappali/OSSZEHASONLITAS.md) a szállított árat és a kizárások okát is tartalmazza.

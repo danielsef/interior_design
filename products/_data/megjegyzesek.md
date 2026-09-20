@@ -16,6 +16,7 @@
 
 ## Ismert hiányok és feltételek
 
+- **Kanapé:** az új igényhez nincs még számolható ajánlott jelölt. A korábbi 169 900 Ft-os EKTORP kizárása **nem megtakarítás**, hanem hiányzó kanapéköltség; a felső keret szállítással 500 000 Ft. [Összehasonlítás és feltételes tartalék](04-nappali/OSSZEHASONLITAS.md).
 - **Len ágynemű:** a H&M 100% len bézs szettje 59 995 Ft; a tervezett 200×200 / 50×60 változat az ellenőrzéskor elfogyott. Figyelőlista, a forintos összegekből kizárva.
 - **Lenkeverék konyharuha:** a H&M bézs rojtos és olívazöld/bézs csíkos jelöltje szintén készlethiányos volt.
 - **Bárszék:** a Kave Home Evera 149 €/db; nem tömör tölgy. Az EUR-os tételek ellenőrzött forintár híján kimaradnak a forintos összesítésből.

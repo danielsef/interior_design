@@ -1,6 +1,6 @@
 # Teljes kategória-felülvizsgálat
 
-2026-09-20 · 16 helyiségcsoport · 186 helyiség–kategória · 314 termékjelölt.
+2026-09-20 · 16 helyiségcsoport · 186 helyiség–kategória · 315 termékjelölt (a kizárt referenciákkal együtt).
 
 **Az áttekintés tárgya:** minden aktív kategória követelménye, jelenlegi forráslefedettsége és következő ellenőrzési lépése. A termékoldalak teljes körű újraellenőrzése még nincs kész; a lent szereplő boltok kutatási célpontok, nem új ajánlások. Az étkező első konkrét frissítése már megtörtént: [összehasonlítás](03-etkezo/OSSZEHASONLITAS.md); a többi kategória állapota követelményfelmérés.
 
@@ -9,7 +9,7 @@ Rögzített új válaszok és határidők: [beszerzési módszer és döntési n
 ## A következő termékfrissítés előtt javítandó pontok
 
 - Háló: 180×200-as matrac, kompatibilis ágyrács és alap ágynemű hiányzó teljes költsége.
-- Kanapé: új szűrés szükséges a kb. 300×200-as, L alakú, ágyazható és inkább puha igényre.
+- Kanapé: az [új szűrés](04-nappali/OSSZEHASONLITAS.md) elkészült; még nincs teljesen igazolt ajánlás az 500 000 Ft-os szállított kereten belül.
 - Étkezőasztal: három új Mirek/Rowico alternatíva bekerült; a hat szék tényleges lábtere, keret és alapméret/bővítés még nyitott.
 - Vendégszoba: a gyermekasztal/-szék szükséglete nincs igazolva.
 - Háztartási gép magasító és összeépítő készlet külön funkció.
@@ -23,7 +23,7 @@ Rögzített új válaszok és határidők: [beszerzési módszer és döntési n
 | Csoport | Mit ellenőrzünk? | Milyen forrásokat vonunk be? |
 | --- | --- | --- |
 | <a id="csoport-etkezo"></a>**Étkezőasztal és szék** | Hat szék együttes helyigénye; lábköz, ülés- és karfamagasság; alapméret/bővítés; közös keret. | JYSK, XXXLutz/Mömax, Kave Home; tömörfa-specialista vagy gyártó; IKEA viszonyítás.  Tulajdonosi kérésre: [Bútor Mirek](https://www.butormirek.hu/). |
-| <a id="csoport-kanape"></a>**Kanapé** | Kb. 300×200 cm; L alakú, ágyazható, inkább puha. Oldalirány, vendégfekhely, huzat tisztítása, bejuttatás és októberi szállítás. | Kárpitos szaküzlet/gyártó, XXXLutz/Mömax, Kave Home/Bonami; IKEA viszonyítás; állapotellenőrzött bemutatódarab.  Tulajdonosi kérésre: [Bútor Mirek](https://www.butormirek.hu/). |
+| <a id="csoport-kanape"></a>**Kanapé** | Kb. 300×200 cm; L alakú, ágyazható, inkább puha. Max. 500 000 Ft szállítással; alkalmi vendégágy két felnőttnek; fix vagy mosható kárpit. Oldalirány, komfort, bejuttatás és októberi szállítás ellenőrizendő. | Kárpitos szaküzlet/gyártó, XXXLutz/Mömax, Kave Home/Bonami; IKEA viszonyítás; állapotellenőrzött bemutatódarab.  Tulajdonosi kérésre: [Bútor Mirek](https://www.butormirek.hu/). |
 | <a id="csoport-fotel"></a>**Fotel, pad, puff** | Használat, ülésméret, stabilitás, helyigény és tisztíthatóság; a nagy bútorok után méretezendő. | JYSK, Bonami, Kave Home, bútor- vagy kárpitos szaküzlet; bemutatódarab/használt is. |
 | <a id="csoport-agy"></a>**Felnőtt- és vendégfekhely** | Háló: 180×200 cm matrac; keret külső mérete, ágyrács és matrac külön ellenőrzendő. Vendégszoba külön használati igény. | Ágy-/matracszaküzlet és gyártó, JYSK, XXXLutz/Mömax; keretnél jó állapotú használt is.  Tulajdonosi kérésre: [Bútor Mirek](https://www.butormirek.hu/). |
 | <a id="csoport-baba"></a>**Gyermek fekhelye és gondozása** | Beköltözéskor 1 éves gyermek; tényleges használat, gyártói kor-/terhelési feltételek, méretben illő matrac és tartozékok. | Babaáruház és gyártói dokumentáció, Brendon, meglévő Hauck/Stokke források; IKEA viszonyítás. |
@@ -150,7 +150,7 @@ A kanapé új specifikációja meghatározza a kisbútorokat is. Közös légté
 
 | Kategória | Prio | Jelölt / IKEA | Jelenlegi boltok | Következő ellenőrzés |
 | --- | --- | --- | --- | --- |
-| Kanapé | P1 | 2 / 2 | IKEA | [Kanapé](#csoport-kanape): Új követelmény: kb. 300×200 cm, L alakú, ágyazható, inkább puha. A régi jelölteket ehhez újra kell szűrni; oldalirány/keret még nyitott. |
+| Kanapé | P1 | 3 / 2 | IKEA, Mömax | [Összehasonlítás](04-nappali/OSSZEHASONLITAS.md): max. 500 000 Ft szállítással, alkalmi ágy két felnőttnek. Két kizárt régi konfiguráció és egy feltételes tartalék; nincs költségbe számítható jelölt. A napló további forrásokat is vizsgál. |
 | Fotel | P2 | 3 / 3 | IKEA | [Fotel, pad, puff](#csoport-fotel): Használat, ülésméret, stabilitás, helyigény és tisztíthatóság; a nagy bútorok után méretezendő. |
 | Dohányzóasztal | P2 | 5 / 1 | Bonami, IKEA, Kave Home, XXXLutz | [Dohányzó-, lerakó- és konzolasztal](#csoport-kis_asztal): A nagy ülőbútorhoz/elrendezéshez igazított méret; nappali dohányzóasztal fa; lábtér, stabilitás és faárnyalat. |
 | Szőnyeg (juta) | P2 | 2 / 1 | Bonami, IKEA | [Szőnyeg és alátét](#csoport-szonyeg): A juta és a mosható játszózónaszőnyeg lehet két eltérő hely vagy egymás alternatívája; ne legyen automatikusan mindkettő kötelező kosár. |

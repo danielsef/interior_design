@@ -4,7 +4,7 @@
 
 2026-09-20 · Termékjelöltek magyarországi beszerzéshez: név, link, ár, anyag, méret és beszerzési feltételek. A készlethiányos tételek figyelőlistán szerepelnek. A mappaszerkezet megegyezik az [inspirációs mappáéval](../inpiration/README.md), a válogatás a [belsőépítészeti irányelveket](../principles/Wooden%20coastal%20%E2%80%93%20erdei%20hat%C3%A1s%C3%BA%20bels%C5%91%C3%A9p%C3%ADt%C3%A9szeti%20ir%C3%A1nyelvek%20a%20h%C3%A1zhoz.md) követi.
 
-> **Állapot: mind a 16 helyiségcsoport listázva, 314 termékjelölt.**
+> **Állapot: mind a 16 helyiségcsoport listázva, 315 termékjelölt.**
 
 > **Beépített vásárlási felülvizsgálat:** [XXXLutz, Kave Home, H&M Home, JYSK és Mömax – összehasonlítás](vasarlasi-felulvizsgalat-2026-09-20.md). Ajánlott csere: ISLEV szék próba után és Cantus asztal készletellenőrzés után. Az EUR-os és készlethiányos alternatívák kimaradnak a forintos költségutakból.
 
@@ -24,7 +24,7 @@
 | [Előszoba](01-eloszoba/README.md) | **13 280 Ft** | 297 773 Ft |
 | [Konyha](02-konyha/README.md) | **100 980 Ft** | 316 680 Ft |
 | [Étkező](03-etkezo/README.md) | **388 400 Ft** | 176 170 Ft |
-| [Nappali](04-nappali/README.md) | **217 800 Ft** | 542 190 Ft |
+| [Nappali](04-nappali/README.md) | **47 900 Ft** | 542 190 Ft |
 | [Háló](05-halo/README.md) | **115 980 Ft** | 317 900 Ft |
 | [Szoba (babaszoba)](06-szoba/README.md) | **87 950 Ft** | 298 510 Ft |
 | [Dolgozó](07-dolgozo/README.md) | **13 980 Ft** | 162 710 Ft |
@@ -36,7 +36,7 @@
 | [Közlekedő](13-kozlekedo/README.md) | **0 Ft** | 7 990 Ft |
 | [Gardrób](14-gardrob/README.md) | **57 830 Ft** | 100 950 Ft |
 | [Terasz](16-17-terasz/README.md) | **0 Ft** | 780 670 Ft |
-| **Összesen** | **1 222 965 Ft** | **5 025 293 Ft** |
+| **Összesen** | **1 053 065 Ft** | **5 025 293 Ft** |
 
 > Csak az ajánlott, költségbe számító HUF-jelöltek összege. A meglévővel kiváltott, készlethiányos, EUR-os és kizárt referenciatételek kimaradnak; a nulla összeg nem igazolja, hogy minden funkció megoldott. Az átfedéseket és induló mennyiségeket még véglegesíteni kell.
 
@@ -48,7 +48,7 @@
 | [`01-eloszoba`](01-eloszoba/README.md) | Előszoba | 21 | **311 053 Ft** | 180 963 Ft | 475 413 Ft |
 | [`02-konyha`](02-konyha/README.md) | Konyha | 17 | **417 660 Ft** | 275 180 Ft | 474 512 Ft |
 | [`03-etkezo`](03-etkezo/README.md) | Étkező | 22 | **564 570 Ft** | 415 500 Ft | 1 187 030 Ft |
-| [`04-nappali`](04-nappali/README.md) | Nappali | 27 | **759 990 Ft** | 600 555 Ft | 1 006 900 Ft |
+| [`04-nappali`](04-nappali/README.md) | Nappali | 28 | **590 090 Ft** | 430 655 Ft | 739 000 Ft |
 | [`05-halo`](05-halo/README.md) | Háló | 16 | **433 880 Ft** | 345 850 Ft | 912 870 Ft |
 | [`06-szoba`](06-szoba/README.md) | Szoba (babaszoba) | 18 | **386 460 Ft** | 230 380 Ft | 596 250 Ft |
 | [`07-dolgozo`](07-dolgozo/README.md) | Dolgozó | 18 | **176 690 Ft** | 105 690 Ft | 236 600 Ft |
@@ -60,7 +60,7 @@
 | [`13-kozlekedo`](13-kozlekedo/README.md) | Közlekedő | 1 | **7 990 Ft** | 7 990 Ft | 7 990 Ft |
 | [`14-gardrob`](14-gardrob/README.md) | Gardrób | 7 | **158 780 Ft** | 134 830 Ft | 265 930 Ft |
 | [`16-17-terasz`](16-17-terasz/README.md) | Terasz | 23 | **780 670 Ft** | 666 620 Ft | 935 630 Ft |
-| | **Összesen (listázott helyiségcsoportok)** | **314** | **6 248 258 Ft** | 4 944 085 Ft | 9 421 295 Ft |
+| | **Összesen (listázott helyiségcsoportok)** | **315** | **6 078 358 Ft** | 4 774 185 Ft | 9 153 395 Ft |
 
 > Az összegek **tájékoztató jellegűek**: a javasolt darabszámmal számolnak, de nem tartalmazzák a még fel nem vett szükségleteket, a már rendezett világítást, konyhabútort, kádas fürdőszobai mosdóösszeállítást és párkányokat, továbbá a burkolást, gépeket és szállítást. Egy-egy kategóriában több alternatíva van – nem kell mindet megvenni. Az alsó/felső kategóriaösszeg nem kész bevásárlócsomag: a házszintű és helyiségenkénti tételek ugyanazt a szükségletet is fedhetik. Az ajánlott összeg is tartalmaz házszintű/helyiségenkénti átfedéseket; nem teljes házköltségvetés.
 
@@ -115,6 +115,7 @@
 | Szabó Kandalló Bolt | 1 |
 | Mozaik Kerámia (mozaikkeramia.hu) | 1 |
 | Praktiker | 1 |
+| Mömax | 1 |
 | Bonami (Rowico) | 1 |
 | Designmarket (Umbra) | 1 |
 | eMAG (eladó: Czinege Manufaktúra Kft.) | 1 |
@@ -126,7 +127,7 @@ Az új válogatás az XXXLutz, Kave Home, H&M Home és JYSK termékoldalait is f
 ## Hogyan lettek ellenőrizve
 
 - Az alaplista és a célzott bolti felülvizsgálat adatainak dátuma **2026-09-20**. A mostani fájlfrissítés a már elvégzett kutatást építi be; nem új teljes piaci ár- vagy készletellenőrzés.
-- 280 tétel ára a termékoldalról, 34 tételé listaoldalról / az IKEA keresőjéből származik (ezeket a helyiség-README *(ár listaoldalról)* megjegyzéssel jelöli).
+- 281 tétel ára a termékoldalról, 34 tételé listaoldalról / az IKEA keresőjéből származik (ezeket a helyiség-README *(ár listaoldalról)* megjegyzéssel jelöli).
 - **Korábbi gépi linkellenőrzés:** 316 / 316 URL adott 200-as választ. Ez a mentett ellenőrzés nem fedi le az újonnan felvett termékeket; azoknál megnyitott termékoldal volt a forrás.
 - **Mentett második árellenőrzés (2026-09-20):** a korábbi 350 tételből 350 ára egyezett. Ez történeti eredmény, nem a most kibővített lista új ellenőrzése.
 - A készlet és az akciós ár naponta változhat. Szezonális tételeknél (terasz, szeptember vége) ez fokozottan igaz.
@@ -150,6 +151,7 @@ Az új válogatás az XXXLutz, Kave Home, H&M Home és JYSK termékoldalait is f
 
 ## Ismert hiányok és feltételek
 
+- **Kanapé:** az új igényhez nincs még számolható ajánlott jelölt. A korábbi 169 900 Ft-os EKTORP kizárása **nem megtakarítás**, hanem hiányzó kanapéköltség; a felső keret szállítással 500 000 Ft. [Összehasonlítás és feltételes tartalék](04-nappali/OSSZEHASONLITAS.md).
 - **Len ágynemű:** a H&M 100% len bézs szettje 59 995 Ft; a tervezett 200×200 / 50×60 változat az ellenőrzéskor elfogyott. Figyelőlista, a forintos összegekből kizárva.
 - **Lenkeverék konyharuha:** a H&M bézs rojtos és olívazöld/bézs csíkos jelöltje szintén készlethiányos volt.
 - **Bárszék:** a Kave Home Evera 149 €/db; nem tömör tölgy. Az EUR-os tételek ellenőrzött forintár híján kimaradnak a forintos összesítésből.

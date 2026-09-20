@@ -1,0 +1,28 @@
+[
+  {
+    "room": "04-nappali",
+    "category": "Kanapé",
+    "name": "ROCKY ágyazható sarokkanapé, szürke, jobbos (0812007402)",
+    "store": "Mömax",
+    "where": "moemax.hu; a III. kerületi üzletnél nem jelzett kiállított példányt",
+    "material_color": "100% poliészter, szürke; hideghab/hab + hullámrugó; teljes vázanyag ellenőrizendő",
+    "size": "293×195×93 cm; ágy 128×241 cm; ülésmagasság 44 cm; láb 4,5 cm",
+    "price_huf": 369900,
+    "price_note": "2080 Pilisjászfalu: +31 900 Ft szállítás = 401 800 Ft. Opcionális szerelés +65 900 Ft; együtt 467 700 Ft.",
+    "url": "https://www.moemax.hu/p/sarokkanape-rocky-000812007402",
+    "tier": "figyelőlista",
+    "qty": 1,
+    "why": "A célhoz közeli méret és ellenőrzött, 500 000 Ft alatti szállított ár miatt feltételes tartalék.",
+    "caveat": "A 128 cm-es fekvőszélesség két felnőttnek szűk kompromisszum; puhaság, oldalirány és szürke színminta nem jóváhagyott. Porszívózás/száraz törlés szerepel; moshatóság és folttisztíthatóság nem igazolt.",
+    "verified": "product_page",
+    "checked": "2026-09-20",
+    "availability": "verify",
+    "availability_note": "Élő oldalon 2080 Pilisjászfalut kiválasztva kb. 1–2 hét; becslés, nem lefoglalt időpont. Szerelés külön időpont-egyeztetéssel.",
+    "verification_note": "Ár, településre jelzett átfutás és külön szállítási díj élő böngészőben ellenőrizve. Rendelés nem történt. Részletek: OSSZEHASONLITAS.md.",
+    "priority": 1,
+    "priority_reason": "Egy alap közös ülő- és pihenőhely kell; meglévő kanapéval az új vásárlás halasztható.",
+    "priority_condition": "A funkció Prio 1; ez a konkrét jelölt csak vendégágy- és komfortellenőrzés után választható.",
+    "budget_include": false,
+    "budget_exclusion_reason": "A két felnőttes vendégágy 128 cm-es kompromisszuma és a puhaság nincs elfogadva; nem számolható megfelelő minimummegoldásként."
+  }
+]

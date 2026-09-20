@@ -9,7 +9,7 @@
 - **Anyag:** a fő bútoroknál tömörfa vagy valódi furnér; másutt praktikus kompromisszum elfogadható. A fa hatású dekor nem nevezhető furnérnak. A kárpitos bútoroknál külön ellenőrizzük a váz és a huzat anyagát.
 - **Étkező:** hat normál étkezőszéknek kell kényelmesen elférnie az asztalnál. Még nyitott, hogy alapméretben vagy csak bővítve, illetve mind a hat széket indulásra kell-e megvenni.
 - **Háló:** 180×200 cm-es matrac. Az ágyneműtartó igénye még nyitott.
-- **Kanapé:** kb. 300×200 cm-es, L alakú, ágyazható, inkább puha. A méret célérték; a helyszíni elrendezéssel ellenőrizendő. Az oldalirány és költségkeret még nyitott.
+- **Kanapé:** kb. 300×200 cm-es, L alakú, ágyazható, inkább puha. A méret célérték; a helyszíni elrendezéssel ellenőrizendő. Legfeljebb **500 000 Ft szállítással együtt**, alkalmi vendégágy **két felnőttnek**; levehető/mosható vagy tisztítható fix kárpit egyaránt elfogadható. Az oldalirány még nyitott.
 - **Gyermek:** beköltözéskor 1 éves; az alvás helye még nincs eldöntve a beszélgetésben.
 - A korábban rögzített fehér falak, cream beige nyílászárók/párkányok, burkolatok és meglévő bútorok változatlan kiindulópontok. A dolgozóasztalt és széket hozzák; a 08-as szoba vendég-/tartalékszoba.
 - Világítás, új konyhabútor, meglévő mosdók és fürdőszobai szekrények beszerzése lezárt. A konyhafront megjelenése, fogantyúk, konyhai kőpult, kandallóburkolat és zuhanyzós fürdőpult továbbra is nyitott tervezési kör.
@@ -48,7 +48,7 @@ Teljes, kategóriánkénti helyzetkép: [kategória-felülvizsgálat](kategoria-
 - A szeptember 20-tól számított 6–8 hét november 1–15.; ilyen átfutással egy termék már most sem biztos Prio 1 megoldás. Későbbi rendelés tovább tolja az érkezést.
 - Minden kosár: termék + szükséges darabszám + kötelező tartozék + szállítás + szükséges szerelés. Használt/bemutatódarab esetén a szállítás, hiányzó alkatrész és felújítás is ide tartozik.
 - Külön oszlopban induló mennyiség és végleges célmennyiség. Egy alternatíva kiváltja a másikat, nem hozzáadódik.
-- A teljes Prio 1 keret és a kategóriakeretek még nincsenek megerősítve. A régi ajánlott kosár ára viszonyítás, nem jóváhagyott keret.
+- A teljes Prio 1 keret és a többi kategória kerete még nincs megerősítve; a kanapé felső kerete szállítással 500 000 Ft. A régi ajánlott kosár ára viszonyítás, nem jóváhagyott keret.
 - EUR-os ajánlatnál az eredeti ár megmarad, a HUF-becsléshez dátumozott árfolyam és szállítás kell. Az aktív generátor ezt még nem váltja át: a HUF-kosárból való kimaradás nem értékítélet az ajánlatról.
 
 ## Mit rögzítünk minden döntősnél?
@@ -78,7 +78,7 @@ A kizárt jelöltekhez egy rövid, konkrét okot mentünk. A megszüntetett vagy
 | Étkező férőhely | megválaszolva: 6 normál szék; alapméret/bővített állapot még nyitott |
 | Étkező keret és forma | korábban feltett kérdések, válaszra várnak |
 | Háló matracméret és ágyneműtartó | 180×200 cm megerősítve; ágyneműtartó nyitott |
-| Kanapé használata | kb. 300×200 cm, L alakú, ágyazható, inkább puha; oldalirány és keret interaktívan feltéve |
+| Kanapé használata | kb. 300×200 cm, L alakú, inkább puha; alkalmi ágy két felnőttnek; max. 500 000 Ft szállítással; fix vagy mosható kárpit elfogadható; oldalirány nyitott |
 | Gyermek kora és alvás helye | 1 éves; az alvás helye interaktívan feltéve |
 | Helyszíni méretek | először az alaprajzból előkészítendő; rendeléshez kész méret szükséges |
 | Teljes beköltözési keret, gépek és alapfelszerelések leltára | későbbi célzott kérdés; a jelenlegi bútorlista nem teljes költözési költségvetés |
@@ -92,3 +92,7 @@ A termékforrásokat és az exportokat csak ellenőrzött, konkrét eredménnyel
 ## Első konkrét étkezőfrissítés – 2026-09-20
 
 Négy új nem IKEA-jelölt: három asztal és egy szék; az aktív állomány 314 sor. Az [összehasonlítás](03-etkezo/OSSZEHASONLITAS.md) azonos hat székes csomagokat és szállítási hiányokat mutat. A korábbi IKEA-arányok kiinduló mérőszámok, nem a frissített állomány számai. A cél továbbra is megfelelő választás, nem a márkaarány önmagában történő javítása.
+
+## Kanapékör – 2026-09-20
+
+A [nappali összehasonlítása](04-nappali/OSSZEHASONLITAS.md) több kereskedő konkrét modelljeit szűri. A Rocky új árazott figyelőlistás sorával 315 rekord van; a két korábbi IKEA-konfiguráció és a Rocky nem számít bele a költségutakba. Nincs még igazolt ajánlott kanapé. Az ajánlott összeg 169 900 Ft-os csökkenése hiányzó kanapéköltség, nem megtakarítás.

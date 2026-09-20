@@ -48,7 +48,7 @@ A preferencia a jelöltek rangsorolását segíti. A kompromisszumot termékenk�
 | Szín | törtfehér–homok textilek, visszafogott zöld akcentus | rokon bézs vagy tompa kék kisebb felületen, helyszíni mintával; a fal ettől továbbra is fehér |
 | Forma | könnyed arányok, látszó lábak, néhány lekerekített elem | stabil központi talp vagy zárt lábazat, ha a méret és használhatóság jobb |
 | Fém | a meglévő szálcsiszolt sárgarézhez közeli felület | aranyszínű bevonat, antikolt tónus, fa vagy fehér kiegészítő csak tudatos választással; az „arany” elnevezés önmagában nem színegyezés |
-| Kárpit | levehető, a gyártó szerint mosható huzat a gyakran használt ülőbútoron | jól tisztítható rögzített huzat kevésbé terhelt darabon, a hátrány feltüntetésével |
+| Kárpit | levehető, a gyártó szerint mosható huzat a gyakran használt ülőbútoron | jól tisztítható rögzített huzat a kanapén is elfogadható a tulajdonos szerint; a konkrét szövet kezelési korlátait fel kell tüntetni |
 | Szőnyeg | natúr hatás, puha vagy kellemes tapintás | mosható műszálas szőnyeg étkező/játszózónában; juta csak ott, ahol a nedvesség és foltosodás kezelhető |
 
 A tömörfa anyag, a valódi fafurnér és a faerezetes fólia/dekor nem azonos. A „tölgy színű” megnevezés nem igazolja, hogy a termék fából készült. A bouclé/buklé felületi kialakítást jelöl; a szálösszetételt külön kell nézni.
@@ -204,7 +204,7 @@ Világos fa pad, tükör, kevés nyitott fogas és zárt cipőtárolás. Legyen 
 
 - **Konyha:** a tömörfa bútor megrendelve. Front-, kőpult- és fogantyújavaslat az anyagfejezetben; a bárszék, textil és kiegészítők illeszkedjenek ezekhez; egy külön csaptelepjelölt csak akkor releváns, ha az nincs a rendelésben és még szükséges.
 - **Étkező:** fa asztal; megerősített követelmény, hogy hat normál szék kényelmesen elférjen az asztal lábai és egymás mellett. Még nyitott, hogy alapméretben vagy kibővítve. A fonott ülés csak üléspróba után legyen első választás.
-- **Nappali:** a kanapé megerősített célja kb. 300×200 cm-es, L alakú, ágyazható és inkább puha; az oldalirány és a pontos befoglaló méret az elrendezéssel ellenőrizendő. Fa dohányzóasztal, tisztítható szőnyeg, kosaras/zárt tárolás követheti. A zöld akcentus itt kaphat nagyobb felületet. A Cantus központi talpa tudatos formai kompromisszum lehet a látszó lábas preferenciához képest.
+- **Nappali:** a kanapé megerősített célja kb. 300×200 cm-es, L alakú, ágyazható és inkább puha; alkalmi vendégágya két felnőttnek kell, a felső keret szállítással 500 000 Ft. Levehető/mosható vagy tisztítható fix kárpit egyaránt elfogadható. Az oldalirány és a pontos befoglaló méret az elrendezéssel ellenőrizendő. Fa dohányzóasztal, tisztítható szőnyeg, kosaras/zárt tárolás követheti. A zöld akcentus itt kaphat nagyobb felületet. A Cantus központi talpa tudatos formai kompromisszum lehet a látszó lábas preferenciához képest.
 
 ### 5. Háló — 16,22 m², fa parketta
 
