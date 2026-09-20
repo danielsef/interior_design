@@ -2,7 +2,7 @@
 
 2026-09-20 · 6 normál szék · beköltözés: 2026-10-30.
 
-**A legígéretesebb következő irány a Mirek Robi fix asztal, illetve bővíthető változatként az Allegro.** A Rowico Filippa drágább, viszont részletesebb gyártói méreteket ad. Még egyik csomag sem végleges választás: az alapméretben szükséges hat férőhely, a keret, a konkrét székek kényelme és a címre vállalt szállítás nyitott.
+**A legígéretesebb következő irány a Mirek Robi fix asztal, illetve bővíthető változatként az Allegro.** A Rowico Filippa drágább, viszont részletesebb gyártói méreteket ad. Még egyik csomag sem végleges választás: az alapméretben szükséges hat férőhely, a konkrét székek kényelme és a címre vállalt szállítás nyitott.
 
 ## Asztalok: három új irány
 
@@ -44,4 +44,6 @@ A készlet- és dátumadatok az elért webes kivonatok megfigyelései; nincs cí
 
 ## Átvezetés és következő döntés
 
-Három új asztal és egy új szék bekerült az [aktív listába](README.md) és a közös CSV-be **alternatívaként**. Nem adódnak hozzá az ajánlott kosárhoz. A keret és az alapméretben szükséges férőhely tisztázása után egy asztalt és egy székcsaládot választunk tovább méretellenőrzésre, üléspróbára és szállítási pontosításra. Az induló székdarabszám továbbra is külön döntés.
+Három új asztal és egy új szék bekerült az [aktív listába](README.md) és a közös CSV-be **alternatívaként**. Nem adódnak hozzá az ajánlott kosárhoz. Az alapméretben szükséges férőhely tisztázása és a megfelelő csomagok teljes árának összevetése után egy asztalt és egy székcsaládot választunk tovább méretellenőrzésre, üléspróbára és szállítási pontosításra. Az induló székdarabszám továbbra is külön döntés.
+
+**Árkiválasztás frissítve:** nem kérünk kategóriaárplafont; az esetleges korábbi keretkérdés tárgytalan. A funkcióban, méretben, anyagban és színben megfelelő rövidlistát a teljes beszerzési ár és igazolt ár–érték arány szerint rangsoroljuk.

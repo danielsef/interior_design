@@ -2,14 +2,24 @@
 
 2026-09-20 · A teljes lista követelményeinek és forrásainak felülvizsgálata.
 
+## Ár szerinti kiválasztás – legújabb tulajdonosi döntés
+
+**Nem szabunk előre árplafont termékkategóriánként.** Előbb a funkció, méret, szín, anyag, forma, tartósság és használhatóság alapján szűrünk, majd a megfelelő jelöltek legalacsonyabb teljes beszerzési árát keressük. A korábbi keretkérdések tárgytalanok; az 500 000 Ft-os kanapéérték történeti viszonyítás, nem kizárási határ.
+
+1. A kötelező követelményt nem teljesítő termék ne kerüljön az olcsó, de megfelelő döntősök közé. A tisztázatlan tulajdonság külön ellenőrzési hiány.
+2. Azonos funkciót és mennyiséget hasonlítsunk össze: termék + szükséges tartozék + szállítás + szükséges szerelés. A hiányzó díj nem nulla. Az induló ár és kuponos feltételes ár külön jelölendő.
+3. Legfeljebb 2–3 érdemi döntős: a vizsgált, megfelelő ajánlatok legkedvezőbb teljes ára; szükség esetén más formai/használati előnyt adó alternatíva; drágább változat csak megnevezett előnnyel és felárral. Nem kötelező olcsó/közép/prémium lépcsőt kitölteni.
+4. A legolcsóbbnak csak a vizsgált, összevethető ajánlatok körében nevezünk egy terméket, teljes piaci minimumot nem ígérünk. Hiányos fuvar- vagy csomagadat mellett a rangsor előzetes.
+5. A költséget a megfelelő rövidlista megismerése után mérlegeli a tulajdonos. Magas ár önmagában nem zár ki jelöltet; az igazolatlan felár nem teszi ajánlottá. Ha kevés a megfelelő találat, a valódi okot nevezzük meg (például méret, anyag, komfort vagy határidő).
+
 ## Megerősített keretek
 
 - **Beköltözés: 2026. október 30.** A szeptember 20-i kutatási állapothoz képest 40 nap áll rendelkezésre.
 - **Források:** új bolti termék, hazai gyártó, egyedi készítés, bemutatódarab és jó állapotú használt bútor is bevonható. Ez kutatási lehetőség, nem kapcsolatfelvételi vagy vásárlási megbízás.
 - **Anyag:** a fő bútoroknál tömörfa vagy valódi furnér; másutt praktikus kompromisszum elfogadható. A fa hatású dekor nem nevezhető furnérnak. A kárpitos bútoroknál külön ellenőrizzük a váz és a huzat anyagát.
 - **Étkező:** hat normál étkezőszéknek kell kényelmesen elférnie az asztalnál. Még nyitott, hogy alapméretben vagy csak bővítve, illetve mind a hat széket indulásra kell-e megvenni.
-- **Háló:** 180×200 cm-es matrac. Az ágyneműtartó igénye még nyitott.
-- **Kanapé:** kb. 300×200 cm-es, L alakú, ágyazható, inkább puha. A méret célérték; a helyszíni elrendezéssel ellenőrizendő. Legfeljebb **500 000 Ft szállítással együtt**, alkalmi vendégágy **két felnőttnek**; levehető/mosható vagy tisztítható fix kárpit egyaránt elfogadható. Az oldalirány még nyitott.
+- **Háló:** egy közös 180×200 cm-es matrac. Az ágyneműtartó jó lenne, de nem kötelező.
+- **Kanapé:** kb. 300×200 cm-es, L alakú, ágyazható, inkább puha. A méret célérték; a helyszíni elrendezéssel ellenőrizendő. Árplafon nélküli összevetés, alkalmi vendégágy **két felnőttnek**; levehető/mosható vagy tisztítható fix kárpit egyaránt elfogadható. Az oldalirány még nyitott.
 - **Gyermek:** beköltözéskor 1 éves; az alvás helye még nincs eldöntve a beszélgetésben.
 - A korábban rögzített fehér falak, cream beige nyílászárók/párkányok, burkolatok és meglévő bútorok változatlan kiindulópontok. A dolgozóasztalt és széket hozzák; a 08-as szoba vendég-/tartalékszoba.
 - Világítás, új konyhabútor, meglévő mosdók és fürdőszobai szekrények beszerzése lezárt. A konyhafront megjelenése, fogantyúk, konyhai kőpult, kandallóburkolat és zuhanyzós fürdőpult továbbra is nyitott tervezési kör.
@@ -27,7 +37,7 @@ Teljes, kategóriánkénti helyzetkép: [kategória-felülvizsgálat](kategoria-
 1. A meglévő projektadatokat és a tulajdonosi válaszokat rögzített tényként vezetjük. A javasolt megoldást és az ellenőrizetlen feltételezést külön jelöljük.
 2. Egyszerre legfeljebb három, több döntést feloldó kérdést teszünk fel. Egy késői dekorációs döntés nem állítja meg az ágy vagy étkező kutatását.
 3. Válasz nélkül folytatható a forrástérkép, az anyagellenőrzés, a különböző méret-/árváltozatok gyűjtése és a forgalmazási feltételek olvasása. A hiányzó választ nem pótoljuk önkényes költségkerettel vagy mérettel.
-4. A végső ajánlást csak a vonatkozó méret, használat és költségkeret alapján szűkítjük. A kipróbálást igénylő darab feltételes marad.
+4. A végső ajánlást a követelményeknek megfelelő jelöltek összevethető teljes ára és ár–érték aránya alapján szűkítjük. A kipróbálást igénylő darab feltételes marad.
 
 ## Kutatási mélység
 
@@ -48,10 +58,16 @@ Teljes, kategóriánkénti helyzetkép: [kategória-felülvizsgálat](kategoria-
 - A szeptember 20-tól számított 6–8 hét november 1–15.; ilyen átfutással egy termék már most sem biztos Prio 1 megoldás. Későbbi rendelés tovább tolja az érkezést.
 - Minden kosár: termék + szükséges darabszám + kötelező tartozék + szállítás + szükséges szerelés. Használt/bemutatódarab esetén a szállítás, hiányzó alkatrész és felújítás is ide tartozik.
 - Külön oszlopban induló mennyiség és végleges célmennyiség. Egy alternatíva kiváltja a másikat, nem hozzáadódik.
-- A teljes Prio 1 keret és a többi kategória kerete még nincs megerősítve; a kanapé felső kerete szállítással 500 000 Ft. A régi ajánlott kosár ára viszonyítás, nem jóváhagyott keret.
+- Nem kérünk kategóriánként előzetes árplafont. A teljes Prio 1 összeg a megfelelő megoldásokból áll össze; a régi ajánlott kosár viszonyítás, nem jóváhagyott keret.
 - EUR-os ajánlatnál az eredeti ár megmarad, a HUF-becsléshez dátumozott árfolyam és szállítás kell. Az aktív generátor ezt még nem váltja át: a HUF-kosárból való kimaradás nem értékítélet az ajánlatról.
 
 ## Mit rögzítünk minden döntősnél?
+
+### Illeszkedés a Wooden coastal irányelvhez
+
+Minden új vagy felülvizsgált fő bútornál külön leírjuk: **illeszkedés** (szín, anyag, felület, forma), **kompromisszum** (konkrét eltérés és előnye), **ellenőrzési hiány** (például fizikai minta). A funkció, ár vagy márkanév önmagában nem elég az ajánláshoz. A követelményeknek megfelelő alternatíva, a még ellenőrizendő figyelőlistás darab és az ajánlott termék eltérő státusz.
+
+A látható fa és textil a fehér fal, cream beige nyílászáró, a helyiség saját padlója és a már megrendelt bútorok közös mintasorához igazodik. A hálóban parkettához, a nappaliban Norwich Arenához egyeztetünk. A rattan lehetséges réteg, nem minden bútor kötelező anyaga. A szürke vagy hangsúlyosan fekete részletet nem nevezzük automatikusan stílusazonosnak; a furnér és tömörfa megfelelőségét a tényleges anyagleírás igazolja. A korábbi teljes állomány még nem kapta meg ezt a termékenkénti felülvizsgálatot.
 
 Pontos modell és változat; gyártó és kereskedő külön; közvetlen terméklink; ellenőrzés dátuma; anyag és méret; ár és pénznem; csomag tartalma; darabszám; készlet/szállítás forrása; teljes bekerülési költség; kipróbálás vagy minta lehetősége; tisztítás/ápolás; visszaküldési feltételek forrása; az ajánlás indoka és korlátja.
 
@@ -76,12 +92,12 @@ A kizárt jelöltekhez egy rövid, konkrét okot mentünk. A megszüntetett vagy
 | Források | megválaszolva: új, gyártói/egyedi, bemutatódarab és jó állapotú használt is |
 | Anyagkompromisszum | megválaszolva: fő bútor tömörfa/valódi furnér; másutt praktikus kompromisszum |
 | Étkező férőhely | megválaszolva: 6 normál szék; alapméret/bővített állapot még nyitott |
-| Étkező keret és forma | korábban feltett kérdések, válaszra várnak |
-| Háló matracméret és ágyneműtartó | 180×200 cm megerősítve; ágyneműtartó nyitott |
-| Kanapé használata | kb. 300×200 cm, L alakú, inkább puha; alkalmi ágy két felnőttnek; max. 500 000 Ft szállítással; fix vagy mosható kárpit elfogadható; oldalirány nyitott |
+| Étkező forma / ár | a forma még nyitott; keretkérdés tárgytalan, a megfelelő csomagok legalacsonyabb teljes árát keressük |
+| Háló matracméret és ágyneműtartó | egy közös 180×200-as matrac; ágyneműtartó előny, nem kötelező |
+| Kanapé használata | kb. 300×200 cm, L alakú, inkább puha; alkalmi ágy két felnőttnek; árplafon nélküli teljesár-összevetés; fix vagy mosható kárpit elfogadható; oldalirány nyitott |
 | Gyermek kora és alvás helye | 1 éves; az alvás helye interaktívan feltéve |
 | Helyszíni méretek | először az alaprajzból előkészítendő; rendeléshez kész méret szükséges |
-| Teljes beköltözési keret, gépek és alapfelszerelések leltára | későbbi célzott kérdés; a jelenlegi bútorlista nem teljes költözési költségvetés |
+| Gépek és alapfelszerelések leltára | későbbi célzott kérdés; a teljes beköltözési összeg a megfelelő jelöltekből áll össze, a jelenlegi bútorlista nem teljes költözési költségvetés |
 
 ## Követés
 
@@ -96,3 +112,7 @@ Négy új nem IKEA-jelölt: három asztal és egy szék; az aktív állomány 31
 ## Kanapékör – 2026-09-20
 
 A [nappali összehasonlítása](04-nappali/OSSZEHASONLITAS.md) több kereskedő konkrét modelljeit szűri. A Rocky új árazott figyelőlistás sorával 315 rekord van; a két korábbi IKEA-konfiguráció és a Rocky nem számít bele a költségutakba. Nincs még igazolt ajánlott kanapé. Az ajánlott összeg 169 900 Ft-os csökkenése hiányzó kanapéköltség, nem megtakarítás.
+
+## Hálószobai ágyak – 2026-09-20
+
+Három megfelelő fekvőméretű alternatíva került az [összehasonlításba](05-halo/OSSZEHASONLITAS.md), külön anyag-, szín- és formaértékeléssel; három régi 140/160-as referencia kimarad a költségutakból. 318 rekord van. A régi ajánlott keret 100 000 Ft-os kivétele hiányzó új ágyköltség, nem megtakarítás. Matrac és szállítás nélkül az ágyárak nem teljes csomagárak.

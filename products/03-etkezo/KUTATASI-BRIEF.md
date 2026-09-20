@@ -24,11 +24,12 @@ A jelenlegi [terméklista](README.md) összehasonlítási alap. A benne szerepl�
 
 ## Nyitott döntések
 
-Az első interaktív kérdéskör:
+A még nyitott kérdések:
 
 1. A megerősített 6 normál szék alapméretben vagy csak kibővített állapotban férjen el? A hétköznapi létszám és az etetőszék esetleges további helyigénye még pontosítandó.
-2. Asztal és normál székek közös kerete szállítással, etetőszék nélkül.
-3. Asztalforma és bővíthetőség.
+2. Asztalforma és bővíthetőség.
+
+A korábbi közös árkeretkérdés tárgytalan; teljes csomagár szerint hasonlítunk.
 
 A válaszok után, csak a még szükséges részletekre kérdezünk rá:
 
@@ -56,3 +57,5 @@ A válaszok után, csak a még szükséges részletekre kérdezünk rá:
 - A jóváhagyott követelmények és az új kutatási eredmények alapján frissített forrásadatok és helyiséglista; a puszta adatfrissítés nem jelenti a vásárlás jóváhagyását.
 
 A termékadatokat a `products/_data/` forrásfájlokban kell átvezetni, majd a generált README-t és CSV-t együtt frissíteni. E briefet a generátor nem írja felül.
+
+**Árkiválasztás frissítve:** nem kérünk kategóriaárplafont; az esetleges korábbi keretkérdés tárgytalan. A funkcióban, méretben, anyagban és színben megfelelő rövidlistát a teljes beszerzési ár és igazolt ár–érték arány szerint rangsoroljuk.

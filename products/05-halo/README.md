@@ -3,13 +3,15 @@
 | | |
 | --- | --- |
 | **Helyiség** | 16,22 m² · fa parketta |
-| **Termékek** | 16 db |
+| **Termékek** | 19 db |
 | **Áradatok dátuma** | 2026-09-20 |
 | **Inspirációs képek** | [`../../inpiration/05-halo/`](../../inpiration/05-halo/README.md) |
 
 > **Követelmények és források felülvizsgálata:** [a helyiség összes kategóriája](../kategoria-felulvizsgalat.md#05-halo) · [közös beszerzési módszer és döntések](../beszerzesi-modszer.md). A követelményfelmérés nem jelent új teljes ár- vagy készletellenőrzést.
 
 > **Aktuális kutatási brief:** [megerősített igények és nyitott kérdések](KUTATASI-BRIEF.md). Az új követelményekhez a korábbi termékjelöltek illeszkedését még ellenőrizni kell.
+
+> **Új termék-összehasonlítás:** [konkrét alternatívák, csomagárak és fennmaradó feltételek](OSSZEHASONLITAS.md).
 
 ## Beköltözési prioritás
 
@@ -19,9 +21,9 @@
 
 **Ráér később:** Éjjeliszekrény, külön komód, ágyvégi pad, szőnyeg, tükör, díszpárnák és végleges fényszűrő függöny.
 
-**Feltétel / kiváltás:** Megerősített matracméret: 180×200 cm. Az ágykeret külső mérete, a szükséges ágyrács és az ágyneműtartó igénye külön ellenőrizendő.
+**Feltétel / kiváltás:** Egy közös 180×200-as matrac; ágyneműtartó előny, de nem kötelező. A megfelelő csomagok közül a legalacsonyabb teljes árat keressük. A külső méret, kompatibilis ágyrács és matrackomfort ellenőrizendő.
 
-> **Még külön ellenőrizendő, nem árazott:** Felnőtt matrac és az ágyhoz szükséges, esetleg külön árazott ágyrács; lepedő, paplan és párna. A listázott ágykeret/huzat nem automatikusan teljes alvási csomag.
+> **Még külön ellenőrizendő, nem árazott:** Az új ágykeret még alternatíva, nincs az ajánlott összegben; a régi 100 000 Ft-os keret kivétele nem megtakarítás. Felnőtt matrac és az ágyhoz szükséges, esetleg külön árazott ágyrács; lepedő, paplan és párna. A listázott ágykeret/huzat nem automatikusan teljes alvási csomag.
 
 ### Prio 1 – előre sorolt tételek
 
@@ -30,21 +32,24 @@
 | Franciaágy | A mindennapi fekhely a beköltözési minimum része. |
 | Ágyneműhuzat garnitúra | Legalább egy használható, megfelelő méretű garnitúra szükséges. |
 | Sötétítő roló (fényzáró réteg) | Az első naptól használt háló sötétítése és belátásvédelme szükséges. |
+| Franciaágy | A mindennapi fekhely a beköltözési minimum része. **Feltétel:** Egy közös 180×200-as matraccal és kompatibilis alátámasztással; a teljes csomag és a helyszíni színminta ellenőrizendő. |
 
 | Ajánlott tételek fázisonként | Listázott összeg |
 | --- | --- |
-| Prio 1 – beköltözéshez előre sorolt | **115 980 Ft** |
+| Prio 1 – beköltözéshez előre sorolt | **15 980 Ft** |
 | Prio 2 – későbbi új beszerzés | **317 900 Ft** |
 
 > Ezek a korábbi teljes tervezett darabszámokkal számolt, feltételes részösszegek; nem a legolcsóbb beköltözési kosár árai. Egy szükséglethez egy megfelelő megoldást válassz. A meglevővel kiváltott cserejelölt, a kizárt referencia, EUR-os vagy elfogyott termék és az árazatlan hiány nem szerepel bennük. A szükséges induló darabszámok és az átfedések még pontosítandók.
+
+> **Prio 1 funkció, de nincs az ajánlott HUF-részösszegben számolható jelölt:** Franciaágy. Ez nem nulla költség.
 
 ## Költség ebben a helyiségben
 
 | Számítás | Összeg |
 | --- | --- |
-| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **433 880 Ft** |
-| 💰 Kategóriánként a legolcsóbb sor összege | 345 850 Ft |
-| 💎 Kategóriánként a legdrágább sor összege | 912 870 Ft |
+| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **333 880 Ft** |
+| 💰 Kategóriánként a legolcsóbb sor összege | 374 880 Ft |
+| 💎 Kategóriánként a legdrágább sor összege | 781 580 Ft |
 
 > A darabszám javaslat. A forintos költségutak az EUR-os, készlethiányos, meglévővel kiváltott és külön kizárt referenciatételeket kihagyják; ezek ára nem nulla. A feltételes ajánlások szerepelnek a tervezési összegben. A kategóriánkénti alsó/felső összeg nem összeillő bevásárlócsomag: az opcionális és egymást átfedő tételeket külön kell kiválasztani. A szállítás nincs benne; az ár és készlet rendelés előtt ellenőrizendő.
 
@@ -56,15 +61,23 @@
 
 | Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 1** | ⭐ ajánlott | [Ágykeret OLSKER 160x200 natúr tölgy](https://jysk.hu/haloszoba/agyak/agyalapok-agyracsok-agykeretek/agykeretek/agykeret-olsker-160x200-natur-tolgy) | **JYSK** – online (jysk.hu), házhozszállítással; áruház (Budaörs, Pilisvörösvár) | tömör tölgy + tömör fenyő, olajozott, natúr tölgy | 164x216x80 cm (160x200-as matrachoz), 21 cm szabad hely a bútor alatt | **100 000 Ft** <br>*akciós, eredeti ár 129 990 Ft* | 1 |
-| **Prio 1** | 💰 olcsóbb | [VEVELSTAD Ágykeret 2 fejvéggel, fehér/Tolkning rattan](https://www.ikea.com/hu/hu/p/vevelstad-agykeret-2-fejveggel-feher-tolkning-rattan-s19441739/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | fehér porszórt fém váz, kézzel font rattan fejvég (Tolkning) | 140x200 cm, teljes szélesség fejvéggel 146 cm, hossz 207 cm | **85 970 Ft** | 1 |
-| **Prio 1** | 💎 prémium | [Tölgyfa franciaágy rattan ágytámlával 160x200 cm – Pola (The Beds)](https://www.bonami.hu/p/tolgyfa-franciaagy-rattan-agytamlaval-160x200-cm-pola-the-beds) | **Bonami** – online (bonami.hu), házhozszállítással Magyarországra | tömör tölgyfa váz, rattanszövésű fejtámla, olajozott felület | 160x200 cm (140x200 és 180x200 is elérhető) | **574 990 Ft** <br>*ágyrács nélkül; szállítás 8 990 Ft-tól, 2026.11.16-tól* | 1 |
+| **Prio 1** | Alternatíva | [Ágykeret OLSKER 180×200 natúr tölgy](https://jysk.hu/haloszoba/agyak/agyalapok-agyracsok-agykeretek/agykeretek/agykeret-olsker-180x200-natur-tolgy) | **JYSK** – jysk.hu; bolti készlet és kiállítás ellenőrizendő | Tömör tölgy + tömör fenyő; olajjal pácolt, natúr tölgy | 184×216×80 cm; matrac 180×200; alatta 21 cm | **115 000 Ft** <br>*Ágyrács és matrac nélkül; a termékoldalon jelzett akció 2026-10-13-ig. Szállítás külön.* <br>*Címre vállalt szállítási dátum és fuvardíj nem igazolt.* | 1 |
+| **Prio 1** | Alternatíva | [Ágykeret STUBBERUP 180×200 natúr tölgy](https://jysk.hu/haloszoba/agyak/agyalapok-agyracsok-agykeretek/agykeretek/agykeret-stubberup-180x200-natur-tolgy) | **JYSK** – jysk.hu; bolti készlet és kiállítás ellenőrizendő | Valódi tölgyfurnér, rétegelt lemez, tömör tölgy és fenyő; olajjal pácolt, natúr | 187×207×103 cm; matrac 180×200; alatta 22 cm | **115 000 Ft** <br>*Ágyrács és matrac nélkül; a termékoldalon jelzett akció 2026-10-13-ig. Szállítás külön.* <br>*Címre vállalt szállítási dátum és fuvardíj nem igazolt.* | 1 |
+| **Prio 1** | Alternatíva | [Kave Home Alguema 180×200, natúr tölgy/furnér, ágyráccsal](https://urbanhome.hu/en/products/alguema-bed-in-oak-veneer-with-natural-finish-for-180-x-200cm-mattress-n0100021mm40) | **Urban Home (Kave Home)** – urbanhome.hu, magyarországi forgalmazó | Tölgyfa és valódi tölgyfurnér; rétegelt lemez, nyír és MDF is; natúr felület | 190×212×96 cm; matrac 180×200 | **443 700 Ft** <br>*Rétegelt lemezes ágyrács benne; matrac és szállítás külön. N0100021MM40.* <br>*Rendelésre, tájékoztató 2–3 hét; címre szállítás díja és konkrét határideje megerősítendő.* | 1 |
+| **Prio 1** | Figyelőlista | [Ágykeret OLSKER 160x200 natúr tölgy](https://jysk.hu/haloszoba/agyak/agyalapok-agyracsok-agykeretek/agykeretek/agykeret-olsker-160x200-natur-tolgy) | **JYSK** – online (jysk.hu), házhozszállítással; áruház (Budaörs, Pilisvörösvár) | tömör tölgy + tömör fenyő, olajozott, natúr tölgy | 164x216x80 cm (160x200-as matrachoz), 21 cm szabad hely a bútor alatt | **100 000 Ft** <br>*akciós, eredeti ár 129 990 Ft* | 1 |
+| **Prio 1** | Figyelőlista | [VEVELSTAD Ágykeret 2 fejvéggel, fehér/Tolkning rattan](https://www.ikea.com/hu/hu/p/vevelstad-agykeret-2-fejveggel-feher-tolkning-rattan-s19441739/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | fehér porszórt fém váz, kézzel font rattan fejvég (Tolkning) | 140x200 cm, teljes szélesség fejvéggel 146 cm, hossz 207 cm | **85 970 Ft** | 1 |
+| **Prio 1** | Figyelőlista | [Tölgyfa franciaágy rattan ágytámlával 160x200 cm – Pola (The Beds)](https://www.bonami.hu/p/tolgyfa-franciaagy-rattan-agytamlaval-160x200-cm-pola-the-beds) | **Bonami** – online (bonami.hu), házhozszállítással Magyarországra | tömör tölgyfa váz, rattanszövésű fejtámla, olajozott felület | 160x200 cm (140x200 és 180x200 is elérhető) | **574 990 Ft** <br>*ágyrács nélkül; szállítás 8 990 Ft-tól, 2026.11.16-tól* | 1 |
 
-**Prio 1:** A mindennapi fekhely a beköltözési minimum része.
+**Prio 1:** A mindennapi fekhely a beköltözési minimum része. Feltétel: Egy közös 180×200-as matraccal és kompatibilis alátámasztással; a teljes csomag és a helyszíni színminta ellenőrizendő. A mindennapi fekhely a beköltözési minimum része.
 
-- **Ágykeret OLSKER 160x200 natúr tölgy** – Valódi tömör tölgy, olajozott felület, alacsony, letisztult fejvég és jól látható lábak – pontosan az irányelv 'alacsony és letisztult, látszó lábak' elve. Ez a legjobb ár-érték arány a rögzített tölgy tónushoz. ⚠️ *A fejvég sima tölgy, nem rattan és nem kárpitozott – ha a rattan fejvég fontosabb, lásd az 'olcsóbb' opciót.*
-- **VEVELSTAD Ágykeret 2 fejvéggel, fehér/Tolkning rattan** – Valódi kézzel font rattan fejvég – ez a legpontosabb találat az irányelv 'fonott rattan fejvég' kérésére, jól látható fém lábakkal. ⚠️ *A váz fehér fém, nem tölgy; a méret 140x200, nem 160/180 – két felnőttnek szűkebb lehet. Falhoz rögzítés ajánlott stabilitás miatt (kisgyerekes háztartás).*
-- **Tölgyfa franciaágy rattan ágytámlával 160x200 cm – Pola (The Beds)** – Az egyetlen fellelt hazai ajánlat, ami egyszerre tömör tölgy vázat ÉS valódi rattan fejtámlát ad 160x200-ban – tökéletesen lefedi mindkét rögzített elvárást. ⚠️ *Jelentősen drágább, mint a közepes szegmens (közel 6x az 'ajánlott' árnak) – ez már a luxus kategória felé megy, csak akkor válaszd, ha a pontos anyagpárosítás mindenáron fontos.*
+> **A beszerzési összegből kizárva:** A konkrét 140/160×200-as ágy nem fogadja a kért közös 180×200-as matracot.
+
+- **Ágykeret OLSKER 180×200 natúr tölgy** – Illeszkedés: valódi fa, natúr olajos felület, alacsony fejvég és szabad lábazat. A vizsgált megfelelő fekvőméretű keretek közül az egyik legalacsonyabb ellenőrzött termékár. ⚠️ *Kompromisszum: 216 cm külső hossz és kemény fa fejvég. A parkettával/cream beige mintával a tónus még egyeztetendő; 220 kg terhelhetőség. Rács és matrac költsége hiányzik.*
+- **Ágykeret STUBBERUP 180×200 natúr tölgy** – Illeszkedés: valódi furnér és natúr felület, látszó lábazat. Az OLSKER-rel egyező ár, 9 cm-rel kisebb külső hossz. ⚠️ *Kompromisszum: nem teljesen tömörfa és magasabb fejvég; 220 kg terhelhetőség. A fa színe fizikai mintával, az ágyrács/matrac és szállítás külön ellenőrizendő.*
+- **Kave Home Alguema 180×200, natúr tölgy/furnér, ágyráccsal** – Illeszkedés: natúr tölgy/furnér és visszafogott fa megjelenés. Összevetési alternatíva mellékelt ágyráccsal; felára nem jelent automatikus minőségi előnyt. ⚠️ *Kompromisszum: vegyes faalapú szerkezet és jelentős felár. Pontos felületkezelés, lábmagasság és fizikai színminta ellenőrizendő; a webes lábmagasság-adat hibásnak tűnik, nem vettük át.*
+- **Ágykeret OLSKER 160x200 natúr tölgy** – Korábbi, méret miatt kizárt referencia; nem vásárlási ajánlás. ⚠️ *A megfelelő 180-as változatot külön termékként, saját árral és tartozékokkal kell ellenőrizni. A rattan fejvég preferencia, nem kötelező feltétel.*
+- **VEVELSTAD Ágykeret 2 fejvéggel, fehér/Tolkning rattan** – Korábbi, méret miatt kizárt referencia; nem vásárlási ajánlás. ⚠️ *A megfelelő 180-as változatot külön termékként, saját árral és tartozékokkal kell ellenőrizni. A rattan fejvég preferencia, nem kötelező feltétel.*
+- **Tölgyfa franciaágy rattan ágytámlával 160x200 cm – Pola (The Beds)** – Korábbi, méret miatt kizárt referencia; nem vásárlási ajánlás. ⚠️ *A megfelelő 180-as változatot külön termékként, saját árral és tartozékokkal kell ellenőrizni. A rattan fejvég preferencia, nem kötelező feltétel.*
 
 ### Ágyneműhuzat garnitúra — Prio 1
 

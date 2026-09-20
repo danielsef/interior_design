@@ -1,6 +1,6 @@
 # Étkező – forrásnapló
 
-2026-09-20 · Követelmény: fa asztal, hat kényelmes székhely; fő bútor tömörfa vagy valódi furnér. Beköltözés: 2026-10-30. A forma, a zárt/bővített állapot és a teljes keret még nyitott.
+2026-09-20 · Követelmény: fa asztal, hat kényelmes székhely; fő bútor tömörfa vagy valódi furnér. Beköltözés: 2026-10-30. A forma és a zárt/bővített állapot még nyitott. Előzetes árplafon helyett a megfelelő csomagok legalacsonyabb teljes árát keressük.
 
 **Az első kör alább előszűrés.** A későbbi [konkrét összehasonlítás](OSSZEHASONLITAS.md) már négy új aktív alternatívát tartalmaz. Az első kör sorai nem végleges bevásárlólista. Az alábbi sorok között kizárt és hiányos jelölt is van. Nem kerültek be az aktív ajánlott kosárba. Az árak a most elért oldalak megfigyelései, nem címre adott szállítási ajánlatok.
 
@@ -26,3 +26,5 @@ A következő szűrés az étkező keretének, formájának és alapméret/bőv�
 A Bútor Mirek Robi, Allegro 160 XL és Eva drevo, valamint a Bonami/Rowico Filippa olajozott változata bekerült az aktív adatokba. A gyártói Rowico-oldal műszaki ellenőrzésre szolgált, nem magyarországi fuvarajánlatként. Az Otawa lábköze, a Valencia nyitási igénye és a lakkozott Filippa változata miatt egyelőre kutatási tartalék. Minden közvetlen terméklink, adat és feltétel az [összehasonlításban](OSSZEHASONLITAS.md) található.
 
 A TONSTAD 140/196 és az ISLEV árát ismét ellenőriztük. A kisebb, fix TONSTAD nem maradt megfelelő olcsó hatfős alternatíva; a 200 cm-es változat pusztán mérete miatt nem prémium. A konyhamintához illeszkedés, üléspróba és címre szállítás egyik jelöltnél sem kész.
+
+**Árkiválasztás frissítve:** nem kérünk kategóriaárplafont; az esetleges korábbi keretkérdés tárgytalan. A funkcióban, méretben, anyagban és színben megfelelő rövidlistát a teljes beszerzési ár és igazolt ár–érték arány szerint rangsoroljuk.

@@ -4,13 +4,13 @@
 
 A [kanapé-összehasonlítás](OSSZEHASONLITAS.md) a konkrét árakat, szállítást és kizárásokat tartalmazza; a szélesebb keresés a [forrásnaplóban](FORRASNAPLO.md) követhető.
 
-Tulajdonosi kérésre a [Bútor Mirek](https://www.butormirek.hu/) is keresési forrás a kanapé, dohányzóasztal és tárolóbútor körében; a BALOU kanapé konkrét ellenőrzése elkészült, de keret feletti és késői jelölt. A többi kategória külön kutatási kör.
+Tulajdonosi kérésre a [Bútor Mirek](https://www.butormirek.hu/) is keresési forrás a kanapé, dohányzóasztal és tárolóbútor körében; a BALOU kanapé konkrét ellenőrzése elkészült, de a beköltözéshez késői jelölt; magasabb ára önmagában nem kizárási ok. A többi kategória külön kutatási kör.
 
 ## Megerősített kanapéigény
 
 - L alakú és ágyazható.
 - Kb. 300×200 cm befoglaló méret, inkább puha ülésérzet.
-- Legfeljebb **500 000 Ft szállítással együtt**.
+- **Nincs kategóriaárplafon:** a követelményeket teljesítő jelöltek legalacsonyabb teljes szállított árát keressük. A korábbi 500 000 Ft csak történeti viszonyítás.
 - Ágyfunkció: **alkalmi vendégnek, két felnőttre**.
 - Levehető/mosható huzat és tisztítható fix kárpit egyaránt elfogadható; kezelés a konkrét szövethez ellenőrizendő.
 - Beköltözés: 2026. október 30.; a Prio 1 megoldáshoz igazolható szállítás kell.

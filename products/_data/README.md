@@ -49,3 +49,5 @@ A CSV végére négy oszlop került: `Beköltözési prioritás`, `Prioritás in
 A `97-etkezo-alternativak.json` négy új, 2026-09-20-án ellenőrzött alternatívát ad hozzá (összesen 314 aktív sor). Az étkező összehasonlítása a helyiség `OSSZEHASONLITAS.md` fájljában olvasható; a generátor ezt is belinkeli.
 
 A `96-kanape-alternativak.json` egy 2026-09-20-án ellenőrzött Rocky figyelőlistás sort ad hozzá: **315 rekord**. A Rocky és a két korábbi egyenes IKEA-kanapé `budget_include: false`; a kanapé funkció továbbra is P1, költsége hiányzó tétel. A [kanapé-összehasonlítás](../04-nappali/OSSZEHASONLITAS.md) a szállított árat és a kizárások okát is tartalmazza.
+
+A `95-halo-alternativak.json` három 180×200-as ágyalternatívát ad hozzá: **318 rekord**. A három régi 140/160-as ágy kizárt referencia; a teljes fekhely még nem ajánlott csomag. Az új tételek `why` és `caveat` mezője külön nevezi meg a stílusbeli illeszkedést, kompromisszumot és hiányzó ellenőrzést.

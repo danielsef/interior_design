@@ -204,11 +204,11 @@ Világos fa pad, tükör, kevés nyitott fogas és zárt cipőtárolás. Legyen 
 
 - **Konyha:** a tömörfa bútor megrendelve. Front-, kőpult- és fogantyújavaslat az anyagfejezetben; a bárszék, textil és kiegészítők illeszkedjenek ezekhez; egy külön csaptelepjelölt csak akkor releváns, ha az nincs a rendelésben és még szükséges.
 - **Étkező:** fa asztal; megerősített követelmény, hogy hat normál szék kényelmesen elférjen az asztal lábai és egymás mellett. Még nyitott, hogy alapméretben vagy kibővítve. A fonott ülés csak üléspróba után legyen első választás.
-- **Nappali:** a kanapé megerősített célja kb. 300×200 cm-es, L alakú, ágyazható és inkább puha; alkalmi vendégágya két felnőttnek kell, a felső keret szállítással 500 000 Ft. Levehető/mosható vagy tisztítható fix kárpit egyaránt elfogadható. Az oldalirány és a pontos befoglaló méret az elrendezéssel ellenőrizendő. Fa dohányzóasztal, tisztítható szőnyeg, kosaras/zárt tárolás követheti. A zöld akcentus itt kaphat nagyobb felületet. A Cantus központi talpa tudatos formai kompromisszum lehet a látszó lábas preferenciához képest.
+- **Nappali:** a kanapé megerősített célja kb. 300×200 cm-es, L alakú, ágyazható és inkább puha; alkalmi vendégágya két felnőttnek kell, a megfelelő jelöltek legalacsonyabb teljes árát keressük, kategóriaárplafon nélkül. Levehető/mosható vagy tisztítható fix kárpit egyaránt elfogadható. Az oldalirány és a pontos befoglaló méret az elrendezéssel ellenőrizendő. Fa dohányzóasztal, tisztítható szőnyeg, kosaras/zárt tárolás követheti. A zöld akcentus itt kaphat nagyobb felületet. A Cantus központi talpa tudatos formai kompromisszum lehet a látszó lábas preferenciához képest.
 
 ### 5. Háló — 16,22 m², fa parketta
 
-Megerősített matracméret: **180×200 cm**; az ágykeret külső mérete és az ágyneműtartó igénye külön ellenőrizendő. Kevés minta, puha textil, megfelelő sötétítés és használható éjjeliszekrény. Pad vagy fotel csak akkor kerüljön be, ha az ágy és szekrény körüli közlekedés megmarad.
+Megerősítve: **egy közös 180×200 cm-es matrac**; ágyneműtartó jó lenne, de nem kötelező. Az ágykeret külső mérete, alátámasztása és a matrac komfortja külön ellenőrizendő. Kevés minta, puha textil, megfelelő sötétítés és használható éjjeliszekrény. Pad vagy fotel csak akkor kerüljön be, ha az ágy és szekrény körüli közlekedés megmarad.
 
 ### 6. és 8. Szoba — 10,63 m² és 11,55 m², fa parketta
 
@@ -301,6 +301,6 @@ A helyiségenkénti prioritás, feltételek, árazatlan hiányok és ajánlott r
 | Tájolás és a szobák tényleges használata | függöny, sötétítés és bútorozás |
 | Kandalló meglévő sötét kőburkolatának megtartása | a világos új burkolat csatlakozásai és közös mintapróba |
 | Konyhafront mintája, kőpult és kandallóburkolat végleges felülete | a megrendelt bútorhoz és meglévő kandallórendszerhez illesztés |
-| Kategóriánkénti költségkeretek és rendelési határidők az október 30-i beköltözéshez | a nyitott tételek rangsorolása |
+| Követelményeknek megfelelő termékek teljes árai és rendelési határidői az október 30-i beköltözéshez | árplafon nélküli összevetés, a legkedvezőbb megfelelő megoldások rangsorolása |
 
 A párkány és világítás lezárt téma. A konyha tömörfa alapanyaga és rendelése adottság; a kért front-, pult- és fogantyújavaslat a még egyeztethető részletekre vonatkozik.

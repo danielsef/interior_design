@@ -11,7 +11,7 @@ Read the sections relevant to your rooms ("Helyiségenkénti alapelvek", "Mester
 ## Confirmed scope update (owner, 2026-09-20)
 - Latest iterative sourcing method: [beszerzesi-modszer.md](../beszerzesi-modszer.md); all 186 room/category pairs reviewed for requirements and source coverage in [kategoria-felulvizsgalat.md](../kategoria-felulvizsgalat.md). This is not a completed fresh product audit. Do not fill quotas with variants of one model or count the same manufacturer's model at two retailers as two independent alternatives.
 - Move-in: 2026-10-30. Key furniture must be solid wood or real veneer, with practical compromises allowed elsewhere. New retail, local manufacturer/custom, showroom and good-condition secondhand sources are authorized for research. No supplier messages or orders are authorized by research alone.
-- Dining: six normal chairs must fit comfortably; closed vs extended table remains unresolved. Bedroom mattress: 180x200 cm. Sofa: approximately 300x200 cm, L-shaped, sofa-bed function, softer seating; max HUF 500,000 including delivery; occasional guest bed for two adults; washable removable or cleanable fixed upholstery both acceptable; orientation pending. Child will be one year old at move-in; sleeping room pending.
+- Dining: six normal chairs must fit comfortably; closed vs extended table remains unresolved. Bedroom: one shared 180x200 cm mattress; storage is welcome but optional. Sofa: approximately 300x200 cm, L-shaped, sofa-bed function, softer seating; no category price ceiling (the earlier HUF 500,000 is historical context only); occasional guest bed for two adults; washable removable or cleanable fixed upholstery both acceptable; orientation pending. Child will be one year old at move-in; sleeping room pending.
 - Ask only consequential missing questions interactively and continue independent source/requirements work. For major purchases compare 4–6 relevant sources, but do not require three finalists if fewer genuinely fit; small accessories can use a lighter comparison. Per-room `KUTATASI-BRIEF.md` files record the latest specific requirements.
 - WHITE walls; no coloured accent wall.
 - Solid-wood kitchen already ordered: do not source a replacement kitchen. The owner DOES request front finish, stone countertop and handle recommendations; retain existing handle options.
@@ -40,12 +40,7 @@ kitchen = solid wood, already ordered and excluded from sourcing; dining table =
   stable furniture (wall-anchorable); rounded corners; no dangling cords.
 
 ## Quality / price target
-"Good quality at a reasonable price." Mid-range. Prefer solid wood / real veneer over foil-wrapped chipboard for key pieces,
-real natural fibres, well-reviewed items. Avoid the cheapest junk AND luxury pricing. For each KEY item give 2–3 options:
-  - "ajánlott"  = best value pick (the one you would buy)
-  - "olcsóbb"   = cheaper acceptable alternative
-  - "prémium"   = better-quality step-up that is still reasonable
-Small accessories can have just one option.
+Latest owner instruction: do NOT ask for or impose price ceilings per category. First satisfy function, dimensions, style, colour, materials and practical quality; then find the lowest comparable total delivered price among researched qualifying products. Do not exclude a suitable option solely because it costs more than an earlier budget. Unknown shipping/accessory costs are not zero. Keep 2–3 meaningful finalists; a higher-priced option needs a concrete benefit and explicit price premium. Do not fill mandatory cheap/mid/premium slots. The owner chooses after seeing the qualifying shortlist. Use alternative/watchlist status for unresolved claims. Small accessories can have one option.
 
 ## Where to look (must be buyable IN HUNGARY: HU webshop with delivery to Hungary, or physical HU store; EUR offers must be clearly marked and excluded from HUF totals)
 Owner-requested source: **Bútor Mirek — https://www.butormirek.hu/**. Include in relevant dining table/chair, solid-wood bed, storage, coffee-table and sofa searches. Homepage category coverage checked on 2026-09-20; individual materials, sizes, prices and delivery before 2026-10-30 remain to be verified per product. Do not infer that every listed product is solid wood from the shop's name.

@@ -16,7 +16,7 @@
 
 ## Ismert hiányok és feltételek
 
-- **Kanapé:** az új igényhez nincs még számolható ajánlott jelölt. A korábbi 169 900 Ft-os EKTORP kizárása **nem megtakarítás**, hanem hiányzó kanapéköltség; a felső keret szállítással 500 000 Ft. [Összehasonlítás és feltételes tartalék](04-nappali/OSSZEHASONLITAS.md).
+- **Kanapé:** az új igényhez nincs még számolható ajánlott jelölt. A korábbi 169 900 Ft-os EKTORP kizárása **nem megtakarítás**, hanem hiányzó kanapéköltség; az árplafon nélküli kutatás a megfelelő jelöltek legkedvezőbb teljes árát keresi. [Összehasonlítás és feltételes tartalék](04-nappali/OSSZEHASONLITAS.md).
 - **Len ágynemű:** a H&M 100% len bézs szettje 59 995 Ft; a tervezett 200×200 / 50×60 változat az ellenőrzéskor elfogyott. Figyelőlista, a forintos összegekből kizárva.
 - **Lenkeverék konyharuha:** a H&M bézs rojtos és olívazöld/bézs csíkos jelöltje szintén készlethiányos volt.
 - **Bárszék:** a Kave Home Evera 149 €/db; nem tömör tölgy. Az EUR-os tételek ellenőrzött forintár híján kimaradnak a forintos összesítésből.
@@ -36,7 +36,7 @@
 
 - A zuhanyzós fürdő alapterülete, bútorozható falszélessége és kiállásainak mérete; a kádas fürdő megrendelt bútorának mérete a még szükséges tükörhöz.
 - A konyhai és háztartási csaptelepjelölt csak akkor kell, ha még nincs meg és nem része egy meglévő rendelésnek.
-- Költségkeretek, gardróbburkolat és közös anyagminták; a gyermek kezdeti alvásának helye. A beköltözés már rögzített: 2026-10-30; a gyermek ekkor 1 éves, a 08-as szoba vendég-/tartalékszoba.
+- Gardróbburkolat és közös anyagminták; a gyermek kezdeti alvásának helye. A beköltözés már rögzített: 2026-10-30; a gyermek ekkor 1 éves, a 08-as szoba vendég-/tartalékszoba.
 
 ## Beépített bolti felülvizsgálat (2026-09-20)
 
@@ -44,3 +44,5 @@
 - Az ISLEV szék próba után, a Cantus dohányzóasztal készletellenőrzés után ajánlott; a korábbi STOCKHOLM-modellek alternatívák.
 - A GUNNEMOR helyes anyaga 100% újrahasznosított poliészter. A DVALA ágypárnahuzat méret- és terméktípus-korlátja jelölve.
 - Részletek és további kompromisszumok: [vásárlási felülvizsgálat](vasarlasi-felulvizsgalat-2026-09-20.md).
+
+- **Háló új fekhelye:** egy közös 180×200-as matrac; tároló opcionális. Három új ágyalternatíva szerepel az [összehasonlításban](05-halo/OSSZEHASONLITAS.md), de még nincs ajánlott teljes csomag. A régi 100 000 Ft-os, 160-as keret kizárása nem megtakarítás.

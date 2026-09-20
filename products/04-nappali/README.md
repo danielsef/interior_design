@@ -21,9 +21,9 @@
 
 **Ráér később:** Dohányzóasztal, plusz fotel, TV-szekrény, tálaló, dekorációs szőnyegek, párnák és plédek. A játszóhelynek meglévő megfelelő megoldás is használható.
 
-**Feltétel / kiváltás:** Kanapé: kb. 300×200 cm, L alakú, inkább puha, alkalmi ágy két felnőttnek; legfeljebb 500 000 Ft szállítással. Fix vagy mosható kárpit elfogadható. Az oldalirány és a komfort még ellenőrizendő. A kandalló pusztán dekoratív burkolata halasztható, ha a berendezés használaton kívül vagy a kivitelező szerint kész, használható állapotban van. A működéshez szükséges befejezés nem Prio 2. A poros burkolási munkát célszerű a kanapé beköltöztetése előtt elvégezni, ha belefér.
+**Feltétel / kiváltás:** Kanapé: kb. 300×200 cm, L alakú, inkább puha, alkalmi ágy két felnőttnek; a megfelelő jelöltek legalacsonyabb teljes szállított árát keressük, előzetes árplafon nélkül. Fix vagy mosható kárpit elfogadható. Az oldalirány és a komfort még ellenőrizendő. A kandalló pusztán dekoratív burkolata halasztható, ha a berendezés használaton kívül vagy a kivitelező szerint kész, használható állapotban van. A működéshez szükséges befejezés nem Prio 2. A poros burkolási munkát célszerű a kanapé beköltöztetése előtt elvégezni, ha belefér.
 
-> **Még külön ellenőrizendő, nem árazott:** A megfelelő kanapé költsége hiányzik az ajánlott összegből; az 500 000 Ft felső keret nem nulla költség és nem automatikus kiadás. A korábbi ajánlott kanapé 169 900 Ft-os kizárása nem megtakarítás. A kandalló burkolati/rendszerbefejezésének egyedi költsége sincs a termékösszegben.
+> **Még külön ellenőrizendő, nem árazott:** A megfelelő kanapé költsége hiányzik az ajánlott összegből; ez nem nulla költség; nincs előre rögzített kategóriaárplafon. A korábbi ajánlott kanapé 169 900 Ft-os kizárása nem megtakarítás. A kandalló burkolati/rendszerbefejezésének egyedi költsége sincs a termékösszegben.
 
 ### Prio 1 – előre sorolt tételek
 
@@ -72,7 +72,7 @@
 
 - **EKTORP 3 személyes kanapé, Blekinge fehér** – Korábbi referencia; az új követelmény alapján nem vásárlási ajánlás. ⚠️ *A kb. 300×200 cm-es, L alakú ágyazható konfigurációt külön kell kiválasztani. A család más változatának ára és funkciója nem azonos ezzel a sorral.*
 - **VIMLE 3 személyes kanapé, Gunnared bézs** – Korábbi referencia; az új követelmény alapján nem vásárlási ajánlás. ⚠️ *A kb. 300×200 cm-es, L alakú ágyazható konfigurációt külön kell kiválasztani. A család más változatának ára és funkciója nem azonos ezzel a sorral.*
-- **ROCKY ágyazható sarokkanapé, szürke, jobbos (0812007402)** – A célhoz közeli méret és ellenőrzött, 500 000 Ft alatti szállított ár miatt feltételes tartalék. ⚠️ *A 128 cm-es fekvőszélesség két felnőttnek szűk kompromisszum; puhaság, oldalirány és szürke színminta nem jóváhagyott. Porszívózás/száraz törlés szerepel; moshatóság és folttisztíthatóság nem igazolt.*
+- **ROCKY ágyazható sarokkanapé, szürke, jobbos (0812007402)** – Illeszkedés: célhoz közeli méret, ellenőrzött szállított ár. Csak kutatási tartalék: szürke kárpit és alacsony láb eltér a preferált homok–bézs, légies iránytól. ⚠️ *A 128 cm-es fekvőszélesség két felnőttnek szűk kompromisszum; puhaság, oldalirány és szürke színminta nem jóváhagyott. Porszívózás/száraz törlés szerepel; moshatóság és folttisztíthatóság nem igazolt.*
 
 ### Kandalló védőrács — Prio 1
 
