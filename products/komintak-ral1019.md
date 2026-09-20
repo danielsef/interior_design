@@ -2,11 +2,13 @@
 
 2026-09-20 · [Anyagválasztási brief](anyagvalasztas-konyha-kandallo-furdopult.md) · [Terméklista](README.md)
 
-**Első esztétikai referencia: Dekton Avorio, matt kivitelben; árversenyző mintapárja a Neolith Pietra di Osso Silk.** A preferált irány világos, enyhén meleg homok-/mészkőhatás, halk rajzolattal. A konyhai és szigetpultra azonos felületet, a kandalló nagy külső síkjaira azonos vagy közeli megjelenést keresünk. A konkrét szín és beépíthető rendszer még nem végleges.
+**A konyhapulthoz új világoszöld kutatási irány indult:** [Posidonia Green, Gordes és Aquamarina – képek, anyagok, hazai források](02-konyha/VILAGOSZOLD-KOPULT.md). Fizikai mintát még nem szereztünk be; nincs végleges színválasztás. Az alábbi bézs minták kontrollként és a kandallóhoz maradnak.
+
+**A korábbi semleges irány első esztétikai referenciája: Dekton Avorio, matt kivitelben; árversenyző mintapárja a Neolith Pietra di Osso Silk.** A korábbi semleges irány világos, enyhén meleg homok-/mészkőhatás, halk rajzolattal. A konyhai és szigetpultra azonos felületet, a kandalló nagy külső síkjaira azonos vagy közeli megjelenést keresünk. A konkrét szín és beépíthető rendszer még nem végleges.
 
 Az alábbi három **Dekton digitális mintajelölt**, gyártói termékoldallal és képhivatkozással. A márkán belüli színpróbát az új [ár- és alternatíva-összevetés](koalternativak-arosszehasonlitas.md) egészíti ki: Neolith, Laminam és két kedvezőbb árú kandallóburkolat-jelölt szerepel benne. Avorio nem igazolt ár-érték győztes. Magyar teljes pultár és fizikai mintakészlet továbbra sincs igazolva.
 
-## 1. Avorio – preferált mintajelölt
+## 1. Avorio – semleges kontrollminta
 
 ![Dekton Avorio – gyártói felületrészlet](https://assetstools.cosentino.com/api/v1/bynder/color/VCK/detalle/VCK-thumb.jpg?auto=format&fit=crop&h=868&q=80%2Cformat&w=988)
 

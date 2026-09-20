@@ -2,7 +2,9 @@
 
 2026-09-20 · A tulajdonosi pontosításokhoz igazított javaslat. A konyhabútor tömörfa és megrendelve; mindkét fürdő szekrénye és mosdója megvan. **A zuhanyzós fürdő pultja még hiányzik.** A világítás és a grey beige színű fa párkányok lezárt tételek.
 
-**Ezt az összeállítást választanám első mintapróbára:** matt, natúr hatású fafront, azonos finom rajzolatú világos konyhai és szigetpult, vékony szálcsiszolt sárgaréz fogantyú és a pulttal azonos vagy közeli kőmegjelenésű kandallóburkolat. A fürdőpult ugyanebből a visszafogott kőcsaládból indulhat, ha a meglévő szekrénnyel is harmonizál.
+**Aktuális konyhapult-kutatás: [világoszöld mintajelöltek](02-konyha/VILAGOSZOLD-KOPULT.md).** A tulajdonos új kérésére Posidonia Green Suede, Gordes Matte és feltételesen Aquamarina kvarcit kerül összevetésre. Ez színkutatás, nem végleges választás. A korábbi homokszínű felületek ellenminták; a kandalló és fürdőpult nem válik automatikusan zölddé.
+
+**Ezt az összeállítást választanám első mintapróbára:** matt, natúr hatású fafront, azonos finom rajzolatú világos konyhai és szigetpult, vékony szálcsiszolt sárgaréz fogantyú és világos semleges, matt kandallóburkolat a zöld pult ellenmintájaként. A fürdőpult ugyanebből a visszafogott kőcsaládból indulhat, ha a meglévő szekrénnyel is harmonizál.
 
 Ez anyag- és formaválasztási javaslat; nem végleges műhelyrajz vagy beárazott rendelés. A felületek és az egyedi megmunkálás ára még nincs a terméklisták összesítésében.
 
@@ -12,9 +14,9 @@ Ez anyag- és formaválasztási javaslat; nem végleges műhelyrajz vagy beáraz
 
 A nyílászárók és beltéri ajtók javított színe **RAL 1019 – grey beige / szürkés bézs**; a párkányok a korábbi döntés szerint azonosak. A kódot a tulajdonos megerősítette, és a [RAL hivatalos színoldala](https://www.ral-farben.de/en/colour/ral-classic/ral-1019/9099) is ezt a megnevezést használja. A fizikai RAL-minta mellett a nyílászáró tényleges felülete is szükséges a mintapróbához.
 
-A natúr matt fa és szálcsiszolt sárgaréz irányát megtartanám. A konyhai és szigetpult, valamint a magas kandallótest nagy felülete miatt **a konkrét kő árnyalatát közös mintapróbával kell véglegesíteni**. A tulajdonos a Forest Wood Coastal stílushoz legjobban illő irány kiválasztását ránk bízta; **az A irányt választom elsődlegesnek**, a B ellenminta marad a RAL 1019 és Norwich Arena mellett:
+A natúr matt fa és szálcsiszolt sárgaréz irányát megtartanám. A konyhai és szigetpult, valamint a magas kandallótest nagy felülete miatt **a konkrét kő árnyalatát közös mintapróbával kell véglegesíteni**. A tulajdonos a Forest Wood Coastal stílushoz legjobban illő irány kiválasztását ránk bízta; **a korábbi A/B irány mellé új világoszöld konyhapult-kutatás indult**; az A és B ellenminta marad a RAL 1019 és Norwich Arena mellett:
 
-- **A – preferált: enyhén meleg, világos homok-/mészkőhatás:** a fa és a len természetes hatásával a világos, meleg Forest Wood Coastal hangulatot erősíti; erős sárgásság nélkül.
+- **A – korábbi preferencia, most ellenminta: enyhén meleg, világos homok-/mészkőhatás:** a fa és a len természetes hatásával a világos, meleg Forest Wood Coastal hangulatot erősíti; erős sárgásság nélkül.
 - **B – összevetési minta: világos, semlegesebb szürkés bézs kőhatás:** visszafogottabb színkülönbség lehet a nyílászáróhoz képest, ha a valós minták ezt igazolják.
 
 A színirány tehát kijelölt preferencia; a konkrét termék, árnyalat és felület még nem végleges rendelési döntés. A korábbi Avorio-jelölt marad összevetési minta, **a színilleszkedése nincs jóváhagyva**. A kőnek nem kell pontosan az ajtószínnel egyeznie; a felületek együtt alkossanak nyugodt összképet. A kandalló és a konyha rokon kőmegjelenése továbbra is javasolt.
@@ -44,7 +46,7 @@ A terméklistában lévő árak korábban ellenőrzött referenciaárak. A furat
 
 **A főzőlap a szigeten, a mosogató az L pulton lesz.** A pontos készülékek és kivágási sablonok még hiányoznak. A sziget körüli ülőhely és lábtér, a főzőlap helye és az alátámasztás közös terven ellenőrizendő; a 90 cm a sziget mélysége, nem igazolt pultmagasság. [Hazai források és ajánlatkérési vázlat](02-konyha/PULT-AJANLATKERES.md).
 
-**Első mintairányként enyhén meleg, világos homoktónust, matt felületet és finom mészkőszerű mintát vizsgálnék; mellé semlegesebb szürkés bézs ellenmintát kérnék.** A fa erezete már ad elég rajzolatot; a pultnak nem kell erős szürke vagy arany márványérrel versenyeznie vele. Egyszerű, egyenes él, tompított élekkel illene ide. A tényleges vastagságot, alátámasztást és kivágásokat a kivitelező méretezi.
+**Aktuális mintairány: világos, tompított zsálya-/szürkészöld pult, lehetőleg matt felülettel.** A [három konkrét jelölt](02-konyha/VILAGOSZOLD-KOPULT.md) mellett a korábbi meleg homok-/mészkőhatás kontrollminta marad. A fa erezete már ad elég rajzolatot; a pultnak nem kell erős szürke vagy arany márványérrel versenyeznie vele. Egyszerű, egyenes él, tompított élekkel illene ide. A tényleges vastagságot, alátámasztást és kivágásokat a kivitelező méretezi.
 
 | Irány | Szerepe a választásban | Feltétel |
 | --- | --- | --- |
@@ -58,7 +60,7 @@ A természetes mészkő/travertin korlátját a [Natural Stone Institute anyagis
 
 ## 4. Kandalló külső burkolata – pontosítás a helyszíni fotók alapján
 
-**A konyha, étkező és nappali közös légtér; ezt a tulajdonos megerősítette.** A konyhaszekrény, sziget és kandalló anyagait egyetlen összeállításként választanám. A konyhai munkapult és szigetpult kapjon azonos felületet; a kandallóra elsőként ugyanazt a visszafogott kőmegjelenést próbálnám, a két felhasználásra alkalmas kivitelben. Ha azonos termék műszakilag vagy árban nem megfelelő, közeli tónus és hasonlóan halk rajzolat legyen a kapcsolat.
+**A konyha, étkező és nappali közös légtér; ezt a tulajdonos megerősítette.** A konyhaszekrény, sziget és kandalló anyagait egyetlen összeállításként választanám. A konyhai munkapult és szigetpult kapjon azonos felületet; a világoszöld pult mellé a kandallón elsőként világos semleges homok-/mészkőhatást próbálnék. Ez új esztétikai javaslat, nem végleges kandallódöntés. A kapcsolatot rokon világosság, matt felület és halk rajzolat adhatja. Azonos szín vagy anyag csak közös mintapróba és külön műszaki alkalmasság alapján választható.
 
 ### Mit mutatnak a fotók?
 

@@ -11,11 +11,11 @@
 - **A hűtő, főzőlap (80×60 cm külső méret), sütő, páraelszívó, konyhai csap és edények–étkészlet megvan.** A mosógép is meglévő. A konyharendelés tartalmazza a fogantyút és hulladékgyűjtőt; a fogantyújavaslat stílusreferenciaként marad, új P1 vétel nélkül.
 - **A mosogató még nincs meg: nyitott P1 termékválasztás.** Az alulról beépítés vélhető igény, de a tulajdonosi megfogalmazás pontosításra vár. A mosogatószekrény belső szélessége, medencekiosztás és beépítési mód szükséges. A főzőlap külső mérete nem kivágási sablon.
 - Összes felső pultfelület **4,59 m²**, kivágások és szabási veszteség előtt. Nem azonos a megvásárolandó táblamennyiséggel.
-- Fehér fal, RAL 1019 grey beige nyílászárók, Norwich Arena padló. Preferált matt, világos, enyhén meleg és halk kőhatás, a szigeten a konyhapulttal azonos felület.
+- Fehér fal, RAL 1019 grey beige nyílászárók, Norwich Arena padló. Új kérésre vizsgálandó matt, világoszöld, halk felület, a szigeten a konyhapulttal azonos felület.
 
 ## Következő összevetés
 
-Neolith Pietra di Osso Silk és Dekton Avorio közös mintapróba; Laminam Calce Avorio további vizsgálandó jelölt. A [külön árnapló](../koalternativak-arosszehasonlitas.md) a külföldi alapárakat és a hiányzó költségeket is jelöli. Nincs még ajánlott teljes pultcsomag vagy igazolt magyar kivitelezési ár.
+**Elsőként [Posidonia Green Suede, Infinity Gordes Matte és feltételes Margraf Aquamarina](VILAGOSZOLD-KOPULT.md) világoszöld mintáit vizsgáljuk.** A szín még nem végleges. Neolith Pietra di Osso Silk és Dekton Avorio semleges ellenminták; Laminam Calce Avorio további vizsgálandó jelölt. A [külön árnapló](../koalternativak-arosszehasonlitas.md) a külföldi alapárakat és a hiányzó költségeket is jelöli. Nincs még ajánlott teljes pultcsomag vagy igazolt magyar kivitelezési ár.
 
 Elkészült a [három hazai ajánlati forrás és a méretekkel kitöltött ajánlatkérési vázlat](PULT-AJANLATKERES.md): Campacampa / Neolith Pomázon, Multistone Budapesten és Hungránit Monoron az Avorio összevetéséhez. Megkeresést még nem küldtünk. A bútor felmérhetővé válásának időpontját interaktívan megkérdeztük; még nincs válasz.
 

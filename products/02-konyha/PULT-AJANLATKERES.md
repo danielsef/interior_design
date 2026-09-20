@@ -6,7 +6,13 @@
 
 **Tulajdonosi pontosítás:** a főzőlap és csap megvan, de **a mosogató még beszerzendő P1 tétel**. A főzőlap 80×60 cm-es megadott külső mérete nem a kivágás mérete. A főzőlap pontos típusa és sablonja, valamint a később kiválasztott mosogató beépítési dokumentációja kell a végleges pulttervhez. Az alulról beépített mosogató vélhető igény, egyelőre nem rögzített döntés.
 
-## Első kör: három hazai ajánlati forrás
+## Új világoszöld mintakör – aktuális első vizsgálat
+
+[Három jelölt, képek és források](VILAGOSZOLD-KOPULT.md). **Posidonia Green Suede**: Multistone, Budapest; konkrét színkínálat és referencia. **Gordes NU09 Matte 12 mm**: Iconic Interior / MaxCity, Törökbálint; Infinity márkaforrás, a konkrét Gordes rendelhetősége még ellenőrizendő. **Aquamarina kvarcit**: Gres Konyhapult, Budapest; konkrét termékoldal, konyhai alkalmasság és kivitel írásban igazolandó. A részletes bizonyítékok és forráshivatkozások a kapcsolt lapon szerepelnek.
+
+Mindháromnál **nincs elküldött megkeresés, beszerzett minta, beérkezett teljes ajánlat vagy igazolt októberi teljesítés**. A három anyagot külön soron, saját vastagságával, alátámasztásával és teljes munkadíjával kell árazni. A semleges Avorio/Pietra di Osso irány ellenminta és összehasonlítási ajánlat marad.
+
+## A semleges ellenminták három hazai ajánlati forrása
 
 | Cég | Ellenőrzött kínálat / feladat | Elérhetőség | Mit kell még visszaigazolni? |
 | --- | --- | --- | --- |
@@ -26,7 +32,7 @@ A három forrás **nem három igazolt Pietra di Osso-forgalmazó**: egy Neolith-
 
 ## Másolható ajánlatkérési vázlat
 
-**Tárgy:** Előzetes tételes ajánlat – világos matt kőpult, L konyha + 160×90 cm sziget, Pilisjászfalu
+**Tárgy:** Előzetes tételes ajánlat – világoszöld matt kőpult, L konyha + 160×90 cm sziget, Pilisjászfalu
 
 Tisztelt Címzett!
 
@@ -34,10 +40,13 @@ Pilisjászfalui családi házunk megrendelt tömörfa konyhabútorához szeretn�
 
 Elsőként az Önök által forgalmazott alábbi változat árazását kérjük:
 
-- **Neolith Pietra di Osso, Silk, 12 mm**, illetve összehasonlításhoz
-- **Dekton Avorio, matt, 12 mm**.
+- **Silestone Posidonia Green, Suede** – a kialakításhoz ajánlott vastagsággal;
+- **Infinity Gordes NU09, Matte, 12 mm**;
+- **Margraf Aquamarina kvarcit, lehetőleg honed felülettel** – konyhai alkalmazhatóság és vastagság megerősítésével.
 
-Csak a ténylegesen vállalható változatra kérünk ajánlatot. A 12 mm összehasonlítási kiindulópont; ha a kialakítás más vastagságot vagy alátámasztást igényel, kérjük ennek indokát és felárát külön megadni. A meglévő színirányhoz illő, kedvezőbb teljes árú alternatívát külön soron szívesen fogadunk, pontos gyártóval, termékkel, felülettel és mintával.
+Semleges összehasonlító változatként Neolith Pietra di Osso Silk 12 mm vagy Dekton Avorio matt 12 mm is árazható.
+
+Csak a ténylegesen vállalható változatra kérünk ajánlatot. A 12 mm csak a fenti, így megadott gyártott lapok kiindulópontja, nem minden anyagra előírás; ha a kialakítás más vastagságot vagy alátámasztást igényel, kérjük ennek indokát és felárát külön megadni. A meglévő színirányhoz illő, kedvezőbb teljes árú alternatívát külön soron szívesen fogadunk, pontos gyártóval, termékkel, felülettel és mintával.
 
 **Tervezési méretek:**
 
@@ -55,7 +64,7 @@ Ezek előzetes tulajdonosi méretek, nem gyártási méretek vagy előírt darab
 
 Kérjük a táblakiosztást is megadni: a 4,59 m² nem automatikusan egy táblából szabható mennyiség. Első változatként kevés illesztésű L pultot és egybefüggő szigetlapot kérünk. Ha más sarokosztás, további illesztés vagy megfelelő maradék felhasználása kedvezőbb teljes árat ad, ezt külön változatként, kiosztási rajzzal és az árkülönbséggel kérjük. Kérjük jelezni a változat műszaki és látványbeli következményeit, a konkrét táblák árnyalat-/rajzolategyezését és a megmaradó anyag felhasználhatóságát is.
 
-**Megjelenés:** a konyhai és szigetpult azonos felületű legyen; világos, visszafogottan meleg homok-/mészkőhatás, matt, finom rajzolattal. Fehér falhoz, RAL 1019 grey beige nyílászárókhoz, Norwich Arena padlóhoz és natúr fa konyhához keresünk mintát. Egyszerű, egyenes, tompított él a preferencia; a végleges él és sarokkialakítás mintával és műszaki javaslattal egyeztetendő.
+**Megjelenés:** a konyhai és szigetpult azonos felületű legyen; világos, tompított zsálya-/szürkészöld, matt vagy visszafogott fényű, nyugodt rajzolattal. A homok-/mészkőhatású változat csak külön ellenajánlat. Fehér falhoz, RAL 1019 grey beige nyílászárókhoz, Norwich Arena padlóhoz és natúr fa konyhához keresünk mintát. Egyszerű, egyenes, tompított él a preferencia; a végleges él és sarokkialakítás mintával és műszaki javaslattal egyeztetendő.
 
 **Még pontosítás alatt:** a mosogató és főzőlap típusa, pulton belüli pontos helye, beépítési módja és kivágási sablonja; csapfuratok; végleges túlnyúlások/alátámasztás; a konyhabútor felmérhetővé válásának időpontja. Emiatt most feltételes előajánlatot kérünk. A kivágásokra és furatokra külön egységárat, illetve szükség esetén beépítési módonként változatot kérünk; ezeket ne tekintsék nulla költségnek. Gyártás csak a végleges helyszíni felmérés és jóváhagyott műhelyrajz alapján történhet.
 
@@ -78,6 +87,8 @@ Köszönjük az ajánlatot!
 
 ## Ajánlatok fogadása és összevetése
 
+A világoszöld kör három forrásánál is az alábbi adatokat kell kitölteni; egyelőre minden ár és határidő hiányzik. Az alábbi korábbi táblázat a semleges ellenajánlatokat követi.
+
 | Ellenőrzési pont | Campacampa / Neolith | Multistone / Avorio | Hungránit / Avorio |
 | --- | --- | --- | --- |
 | Megkeresés állapota | nincs elküldve | nincs elküldve | nincs elküldve |
@@ -93,7 +104,7 @@ A beérkező ajánlatokat előbb azonos kivágásokra, élekre, alátámasztásr
 
 | Feladat | Mostani állapot | Mi oldja fel? |
 | --- | --- | --- |
-| Két első felület közös mintapróbája | Avorio + Pietra di Osso; nincs beszerzett fizikai minta | A konkrét minták elérhetősége, mérete és költsége; összevetés a helyszíni fa-, RAL 1019- és padlómintával |
+| Új zöld felületek közös mintapróbája | Posidonia Green + Gordes + feltételes Aquamarina; Avorio/Pietra di Osso ellenminták; nincs beszerzett fizikai minta | A konkrét minták elérhetősége, mérete és költsége; összevetés a helyszíni fa-, RAL 1019- és padlómintával |
 | Laminam mintakörbe emelése | Gyártói 12+ kivitel és budapesti márkaforrás megvan | Calce Avorio Textured minta és pultgyártó visszaigazolása |
 | Feltételes, azonos tartalmú előajánlat | A vázlat kész, nincs elküldve | Azonos ismert méretek, kivágási egységárak, táblakiosztás és teljes munkatartalom |
 | Végleges gyártási ár és októberi ütemezés | Hiányzó tulajdonosi/műszaki adatok | Főzőlap és mosogató típusa/beépítési módja; kész bútor felmérhetőségének dátuma; túlnyúlások és alátámasztás |

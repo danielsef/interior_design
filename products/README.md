@@ -211,7 +211,7 @@ Az új válogatás az XXXLutz, Kave Home, H&M Home és JYSK termékoldalait is f
 
 - **Párhuzamos P1 kutatás:** [a háló, függöny, pult, kanapé és étkező friss eredményei és következő döntései](P1-KUTATASI-ALLAPOT.md). Az új jelöltek teljes csomagár és megfelelőség ellenőrzéséig kutatási alternatívák.
 
-- **Kőminták a RAL 1019 mellé:** [Avorio, Nebbia és Albarium mintagyűjtemény](komintak-ral1019.md). Preferált az Avorio jellegű világos, enyhén meleg mészkőhatás; a konkrét felület mintapróbával véglegesítendő.
+- **Kőminták a RAL 1019 mellé:** [Avorio, Nebbia és Albarium mintagyűjtemény](komintak-ral1019.md). Új konyhai kérés: [világoszöld pultjelöltek](02-konyha/VILAGOSZOLD-KOPULT.md); az Avorio jellegű mészkőhatás ellenminta. A konkrét felület mintapróbával véglegesítendő.
 
 - **Kőpult és kandalló árversenye:** [Neolith, Laminam és kedvezőbb árú kandallólap-jelöltek](koalternativak-arosszehasonlitas.md). Megerősített konyhai/sziget felső pultfelület 4,59 m²; a sziget 160×90 cm, oldalsó kőlefordítás nélkül. A külföldi alapárak és a burkolólap-egységárak nem teljes kivitelezési összegek, ezért nem kerültek a forintos kosárba.
 

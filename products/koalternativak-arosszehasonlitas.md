@@ -2,7 +2,7 @@
 
 Ellenőrzés: 2026-09-20 · [Anyagbrief](anyagvalasztas-konyha-kandallo-furdopult.md) · [Mintagyűjtemény](komintak-ral1019.md)
 
-**A Neolith Pietra di Osso Silk és a Dekton Avorio marad az első két, párhuzamosan vizsgálandó pultjelölt.** A külföldi egységár alapján a Neolith ígéretes árversenyző, de magyar teljes ár szerint még nincs sorrend. Harmadik, feltételes minta a Laminam Calce Avorio 12+. A kandallón az azonos pultanyag mellett közeli tónusú, olcsóbb burkolólapot is érdemes megvizsgálni. Egyik sem végleges beszerzési döntés: magyar, teljes kivitelezési ajánlat még nincs.
+**Új konyhapult-kutatás: [három világoszöld jelölt](02-konyha/VILAGOSZOLD-KOPULT.md).** Posidonia Green Suede, Gordes Matte és Aquamarina kvarcit; magyar teljes ár egyikre sincs igazolva. A Neolith Pietra di Osso Silk és a Dekton Avorio a korábbi semleges irány ellenmintájaként marad. A külföldi egységár alapján a Neolith ígéretes árversenyző, de magyar teljes ár szerint még nincs sorrend. Harmadik, feltételes minta a Laminam Calce Avorio 12+. A kandallón az azonos pultanyag mellett közeli tónusú, olcsóbb burkolólapot is érdemes megvizsgálni. Egyik sem végleges beszerzési döntés: magyar, teljes kivitelezési ajánlat még nincs.
 
 ## P1 döntési állapot – hazai beszerzés
 

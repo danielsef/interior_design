@@ -13,7 +13,7 @@
 
 > **Aktuális kutatási brief:** [megerősített igények és nyitott kérdések](KUTATASI-BRIEF.md). Az új követelményekhez a korábbi termékjelöltek illeszkedését még ellenőrizni kell.
 
-> **A tömörfa konyhabútor meg van rendelve.** A fogantyúk kérésre megmaradtak. A front és kőpult megjelenésére külön [anyagjavaslat](../anyagvalasztas-konyha-kandallo-furdopult.md) készült. A bárszék és a szabadon álló kiegészítők illeszkedését a kész bútorhoz kell ellenőrizni. A csap megvan, a mosogató a legújabb helyesbítés szerint még hiányzik. A fogantyú és hulladékgyűjtő a rendelés része; a fogantyújavaslat stílusreferencia.
+> **A tömörfa konyhabútor meg van rendelve.** A fogantyúk kérésre megmaradtak. A front és kőpult megjelenésére külön [anyagjavaslat](../anyagvalasztas-konyha-kandallo-furdopult.md) készült. Aktuális kérés: [világoszöld kőpult – három mintajelölt és hazai források](VILAGOSZOLD-KOPULT.md); szín és teljes ár még nyitott. A bárszék és a szabadon álló kiegészítők illeszkedését a kész bútorhoz kell ellenőrizni. A csap megvan, a mosogató a legújabb helyesbítés szerint még hiányzik. A fogantyú és hulladékgyűjtő a rendelés része; a fogantyújavaslat stílusreferencia.
 
 ## Beköltözési prioritás
 

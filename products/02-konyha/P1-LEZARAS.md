@@ -7,7 +7,7 @@
 | Funkció | Státusz | Konkrét javaslat / lezárás feltétele |
 | --- | --- | --- |
 | Tömörfa konyhabútor | **Hozott–megrendelt** | Rendelése adottság; a szerelés és a pult felmérhetőségének dátuma még kell. |
-| Konyhai L pult és sziget | **Külső ajánlatra vár** | Neolith Pietra di Osso Silk és Dekton Avorio párhuzamos előajánlat; 4,59 m² felső felület. [Kész ajánlatkérési vázlat](PULT-AJANLATKERES.md). |
+| Konyhai L pult és sziget | **Külső ajánlatra vár** | [Világoszöld jelöltek](VILAGOSZOLD-KOPULT.md): Posidonia Green, Gordes, feltételes Aquamarina; Avorio/Pietra di Osso ellenminták. Színválasztás és teljes ajánlat nyitott; 4,59 m² felső felület. [Kész ajánlatkérési vázlat](PULT-AJANLATKERES.md). |
 | Mosogató és lefolyószerelvény | **Választásra vár – P1** | **Nincs meg**, az L pultba kell kiválasztani. Az „alulról van bekötve” válasz valószínűleg alulról beépített medencére utal, de ez még pontosításra vár. A mosogatószekrény használható belső szélessége, kívánt medencekiosztás és beépítési mód szükséges; konkrét típust nem feltételezünk. A kiválasztott termék sablonja, szifonja és pultkompatibilitása lesz a szabás alapja. |
 | Konyhai csap | **Hozott–megrendelt** | Megvan. A korábbi csapjelöltek kizárt csere-referenciák; a meglévő csap furata, kifolyója és bekötése egyeztetendő a pulttal. |
 | Főzőlap | **Hozott–megrendelt** | Megvan, a szigetre kerül. Megadott **külső mérete 80×60 cm**, ami nem kivágási méret. A pontos típus és gyártói sablon kell a kivágáshoz, alátámasztáshoz, szellőzéshez és bekötéshez; nincs új készülékválasztás. |
