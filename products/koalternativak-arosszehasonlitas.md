@@ -8,6 +8,8 @@ Ellenőrzés: 2026-09-20 · [Anyagbrief](anyagvalasztas-konyha-kandallo-furdopul
 
 A tulajdonos megadta: sziget **160×90 cm, oldalsó kőlefordítás nélkül**; az L pult mélysége 60 cm, egyik szára 240 cm + 60 cm közös sarok, másik szára 225 cm **a közös sarkon kívül**. A két teljes külső oldal így 300 és 285 cm. Ezek tervezési méretek, nem kivitelezői felmérés.
 
+**Elhelyezés megerősítve:** főzőlap a szigetre, mosogató az L pultra kerül. A pontos típusok, beépítési mód és a kivágások pulton belüli helye még hiányzik.
+
 | Rész | Számítás | Felület |
 | --- | --- | ---: |
 | Egyik pultszár a sarokkal | 3,00 × 0,60 m | 1,80 m² |
@@ -32,6 +34,8 @@ A két közzétett egységár különbsége **181,20 €/m², vagyis 25,5%** az 
 **Stílusértékelés:** a Pietra di Osso semleges, visszafogott kőhatása ígéretes a fehér fal, RAL 1019, natúr fa és Norwich Arena mellé. Ez saját előválogatás; az Avorio melegebb mészkőhatásával közös mintán dönthető el, melyik harmonikusabb. [Magyar termékoldal és galéria](https://neolithhungary.hu/featured_item/pietra-di-osso/).
 
 **Magyar beszerzési kiindulópont:** Neolith Hungary / Campacampa Kft., **2013 Pomáz, Kőfaragó u. 15.** A termékoldal árat írásos megkeresésre ad; jelenlegi készlet, mintakölcsönzés és október 30-ig vállalt beépítés nincs igazolva. A pontos 12 mm Silk kivitelre és azonos munkatartalomra kell ajánlat. Nem küldtünk megkeresést.
+
+**Hazai összehasonlítás előkészítve:** [elérhetőségek és kitöltött ajánlatkérési vázlat](02-konyha/PULT-AJANLATKERES.md). A Campacampa Neolith-ajánlata mellé a Multistone budapesti és a Hungránit monori Avorio-ajánlatát lehet kérni. Mindháromnál hiányzik még a teljes ár, a mintakészlet és a vállalt határidő.
 
 ## 2. Második forrás: Laminam Calce Avorio 12+
 

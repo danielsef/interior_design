@@ -49,6 +49,8 @@ Az alábbi három **Dekton digitális mintajelölt**, gyártói termékoldallal 
 
 Lehetőleg azonos méretű, legalább kb. 20×20 cm-es mintákat érdemes kérni, ha elérhetők; ez kívánt mintaméret, nem igazolt gyári mintakiszerelés. A gyártó a [partnerkeresőt](https://www.cosentino.com/where-to-buy/) ajánlja a felületek és minták személyes megtekintéséhez. A helyi minták hozzáférése, díja vagy kölcsönzése külön ellenőrizendő. **Fizikai mintát még nem rendeltünk.**
 
+**Budapest környéki mintakör:** Pietra di Osso ügyében Neolith Hungary / Campacampa, Pomáz; Avorio ügyében Multistone, Budapest XIII., illetve Hungránit, Monor. [Pontos címek, elérhetőségek és az ellenőrzés korlátai](02-konyha/PULT-AJANLATKERES.md). A minták tényleges jelenlétét indulás előtt vissza kell igazoltatni; a kínálati oldal nem bizonyít helyben megtekinthető táblát.
+
 Együtt nézzük: **RAL 1019 fizikai színminta + tényleges ajtó-/ablakfelület + Norwich Arena + konyhafront + meglévő sárgaréz**. Ha a kandalló sötét lábazati köve marad, ahhoz is tegyük oda. A pultmintát vízszintesen, a kandallóét függőlegesen, nappali és a meglévő esti fényben vizsgáljuk. Azonos felület különböző megvilágításban nem feltétlenül látszik azonos színűnek.
 
 **A fotók előválogatáshoz valók.** Nem azonos kivágásúak vagy léptékűek, és nem színhelyes RAL-próbák. A képek a gyártó külső szerveréről töltődnek; ha egy kép nem jelenik meg, a mellette lévő termékoldal galériája használható. A kandalló rendszeralkalmasságát a [beépítési brief](anyagvalasztas-konyha-kandallo-furdopult.md#beépítési-feltételek) szerint külön kell ellenőrizni; a hasonló megjelenés önmagában nem műszaki igazolás.

@@ -130,3 +130,9 @@ A tulajdonos megerősítette: nyílászárók és beltéri ajtók **RAL 1019 gre
 Az [árnapló](koalternativak-arosszehasonlitas.md) az Avorio mellé Neolith Pietra di Osso és Laminam Calce Avorio jelölteket, a kandallóhoz két magyar burkolólap-egységárat rögzít. Azonos francia kereskedő két 12 mm-es matt pultalapára összevethető referencia; a lengyel nyerstábla és a magyar padlólap nem azonos szolgáltatási tartalom. Nincs még magyar teljesár-győztes. Avorio esztétikai szerepe megmarad, nem válik automatikusan ajánlott vásárlássá.
 
 A tulajdonos megerősítette: sziget 160×90 cm, oldalsó kőlefordítás nélkül; L pult 60 cm mély, 240 + 60 cm sarok és további 225 cm a sarok nélkül. Együttes felső felület **4,59 m²**. A 225 cm saroktartalmát külön tisztáztuk; a korábbi feltételes 4,23 m² nem alkalmazható. A kész pultterület nem beszerzési táblamennyiség. Az állomány 322 termékrekord marad, a hiányzó egyedi munkadíj és anyagár nem szerepel megtakarításként.
+
+## Hazai pultforrások és ajánlatkérés – 2026-09-20
+
+A [helyi forráslista és ajánlatkérési vázlat](02-konyha/PULT-AJANLATKERES.md) elkészült. Campacampa / Neolith Pomázon; Multistone Budapesten és Hungránit Monoron az Avorio hazai összevetéséhez. Három ajánlati forrás, két konkrét felület: nem három igazolt Neolith-kereskedő. Laminam Calce hazai kollekcióforrás is található, de a 12+ pultkivitel és feldolgozás még nem igazolt. Nem küldtünk külső megkeresést.
+
+A tulajdonos megerősítette: **főzőlap a szigeten, mosogató az L pulton**. Pontos típus, kivágási mód/sablon és a bútor felmérhetőségének dátuma még hiányzik. Az előajánlat külön egységárakat kér az ismeretlen megmunkálásokra; a helyszíni felmérés előtti összeg feltételes. A végső rangsor azonos műszaki és szállítási tartalmú bruttó végösszegből készül.

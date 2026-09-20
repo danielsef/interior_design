@@ -42,6 +42,8 @@ A terméklistában lévő árak korábban ellenőrzött referenciaárak. A furat
 
 **Megerősített tervezési méretek:** 60 cm mély L pult, 240 cm + közös 60 cm sarok az egyik szár, 225 cm a közös sarkon kívül a másik. Felület **3,15 m²**. A sziget **160×90 cm = 1,44 m²**, oldalsó kőlefordítás nélkül; együtt **4,59 m²**, kivágások és szabási veszteség előtt. A teljes külső szárhosszak 300 és 285 cm. Rendeléshez felmérés és szabásterv kell; [részletes számítás és árreferenciák](koalternativak-arosszehasonlitas.md).
 
+**A főzőlap a szigeten, a mosogató az L pulton lesz.** A pontos készülékek és kivágási sablonok még hiányoznak. A sziget körüli ülőhely és lábtér, a főzőlap helye és az alátámasztás közös terven ellenőrizendő; a 90 cm a sziget mélysége, nem igazolt pultmagasság. [Hazai források és ajánlatkérési vázlat](02-konyha/PULT-AJANLATKERES.md).
+
 **Első mintairányként enyhén meleg, világos homoktónust, matt felületet és finom mészkőszerű mintát vizsgálnék; mellé semlegesebb szürkés bézs ellenmintát kérnék.** A fa erezete már ad elég rajzolatot; a pultnak nem kell erős szürke vagy arany márványérrel versenyeznie vele. Egyszerű, egyenes él, tompított élekkel illene ide. A tényleges vastagságot, alátámasztást és kivágásokat a kivitelező méretezi.
 
 | Irány | Szerepe a választásban | Feltétel |

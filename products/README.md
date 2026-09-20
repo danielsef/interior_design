@@ -189,3 +189,5 @@ Az új válogatás az XXXLutz, Kave Home, H&M Home és JYSK termékoldalait is f
 - **Kőminták a RAL 1019 mellé:** [Avorio, Nebbia és Albarium mintagyűjtemény](komintak-ral1019.md). Preferált az Avorio jellegű világos, enyhén meleg mészkőhatás; a konkrét felület mintapróbával véglegesítendő.
 
 - **Kőpult és kandalló árversenye:** [Neolith, Laminam és kedvezőbb árú kandallólap-jelöltek](koalternativak-arosszehasonlitas.md). Megerősített konyhai/sziget felső pultfelület 4,59 m²; a sziget 160×90 cm, oldalsó kőlefordítás nélkül. A külföldi alapárak és a burkolólap-egységárak nem teljes kivitelezési összegek, ezért nem kerültek a forintos kosárba.
+
+- **Hazai pultajánlatok előkészítése:** [Campacampa, Multistone, Hungránit – elérhetőségek és ajánlatkérési vázlat](02-konyha/PULT-AJANLATKERES.md). Főzőlap a szigeten, mosogató az L pulton; típusok és végleges kivágások még hiányoznak. A vázlat nincs elküldve, teljes árajánlat még nem érkezett.
