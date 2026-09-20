@@ -5,6 +5,10 @@
 | **Burkolat** | Norwich Arena 60x60 |
 | **Képek a mappában** | 11 db |
 
+> **Aktuális anyagjavaslat:** [konyhafront, kőpult, fogantyú és kandallóburkolat](../../products/anyagvalasztas-konyha-kandallo-furdopult.md). A világítás megvan; a fényképek lámpái nem új beszerzési tételek.
+
+> **Helyszíni fotók alapján:** a nappali–konyha–étkező közös légtér, a kandalló magas, saroküveges és fülkékkel tagolt. A konyhai/szigetpulttal összehangolt, világos, matt, visszafogott rajzolatú burkolat az első javaslat. A meglévő sötét kő megtartása még nyitott; a ferde mennyezet miatt nincs mindenhol azonos belmagasság.
+
 ## Mit keress
 
 - **Fa dohányzóasztal** – rögzített döntés, kerek vagy ovális jó
@@ -12,9 +16,8 @@
 - Alacsony, látszó lábú kanapé levehető huzattal
 - **Zsályazöld** akcentus nagyobb felületen (fotel, pléd, nagy párnák)
 - Kandalló és ablak mint két fókuszpont egy képen
-- Fonott lámpa és kosaras tárolás
 
-> **Krém bézs ajtók.** A ház mind a 11 beltéri ajtaja krém bézs, tokkal és szegélyléccel együtt – ez a krém bézs felület kb. 90%-a. Képnézéskor érdemes figyelni, hogy az **ajtó, a tok és a szegélyléc egy színben** van-e, hogy a lap **sík vagy finoman bemart**-e (nem kazettás), és hogy a **kilincs** matt fekete vagy antikolt sárgaréz-e. Fényes króm kilincs krém bézs ajtón hideg hatású.
+> **Cream beige nyílászárók és fa párkányok.** A meglévő szín és a szálcsiszolt sárgaréz kilincsek a referenciák; az új bútor- és textilszíneket a fehér fallal, padlóval és megrendelt bútorokkal közös mintasorban ellenőrizzük. A képek formai inspirációk, nem új beszerzési előírások.
 
 ## Mit kerülj
 

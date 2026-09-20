@@ -15,7 +15,10 @@
   "verified": "product_page",
   "room": "04-nappali",
   "price_note": "",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "Egy alap közös ülő- és pihenőhely kell; meglévő kanapéval az új vásárlás halasztható.",
+  "priority_condition": ""
  },
  {
   "category": "Kanapé",
@@ -33,7 +36,10 @@
   "verified": "product_page",
   "room": "04-nappali",
   "price_note": "",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "Egy alap közös ülő- és pihenőhely kell; meglévő kanapéval az új vásárlás halasztható.",
+  "priority_condition": ""
  },
  {
   "category": "Fotel",
@@ -51,7 +57,10 @@
   "verified": "product_page",
   "room": "04-nappali",
   "price_note": "",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap ülőhely mellett ez kényelmi, tárolási vagy dekorációs bővítés; meglévő egyszerű megoldás átmenetileg elég.",
+  "priority_condition": ""
  },
  {
   "category": "Fotel",
@@ -69,7 +78,10 @@
   "verified": "product_page",
   "room": "04-nappali",
   "price_note": "",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap ülőhely mellett ez kényelmi, tárolási vagy dekorációs bővítés; meglévő egyszerű megoldás átmenetileg elég.",
+  "priority_condition": ""
  },
  {
   "category": "Fotel",
@@ -87,7 +99,10 @@
   "verified": "product_page",
   "room": "04-nappali",
   "price_note": "",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap ülőhely mellett ez kényelmi, tárolási vagy dekorációs bővítés; meglévő egyszerű megoldás átmenetileg elég.",
+  "priority_condition": ""
  },
  {
   "category": "Dohányzóasztal",
@@ -98,14 +113,17 @@
   "size": "Ø50–55 cm, magasság 55 cm, rejtett görgőkkel",
   "price_huf": 59990,
   "url": "https://www.ikea.com/hu/hu/p/stockholm-2025-goergos-dohanyzoasztal-toelgy-furner-70586559/",
-  "tier": "ajánlott",
+  "tier": "alternatíva",
   "qty": 1,
-  "why": "Kerek, valódi tölgy furnér, tömör fa lábak – pontosan a rögzített döntés (fa dohányzóasztal, világos-közép tölgy) szerinti választás; a kerek forma lekerekített él, gyerekbiztos.",
-  "caveat": "Rejtett görgőkön áll, nem klasszikus álló láb – kisbabás háztartásban érdemes rögzíteni vagy a görgőket zárolni.",
+  "why": "Valódi tölgyfurnéros, kerek, mozgatható kisasztal. Kis átmérője és 55 cm-es magassága miatt inkább kanapé melletti vagy kiszolgáló szerepre alkalmas; fő dohányzóasztalnak a Cantus az új ajánlás.",
+  "caveat": "A kerek forma önmagában nem jelent gyerekbiztonságot. A görgők mozgását és a stabilitást ellenőrizni kell; a görgőzár meglétét nem igazoltuk.",
   "verified": "product_page",
   "room": "04-nappali",
   "price_note": "",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap ülőhely mellett ez kényelmi, tárolási vagy dekorációs bővítés; meglévő egyszerű megoldás átmenetileg elég.",
+  "priority_condition": ""
  },
  {
   "category": "Dohányzóasztal",
@@ -123,7 +141,10 @@
   "verified": "product_page",
   "room": "04-nappali",
   "price_note": "",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap ülőhely mellett ez kényelmi, tárolási vagy dekorációs bővítés; meglévő egyszerű megoldás átmenetileg elég.",
+  "priority_condition": ""
  },
  {
   "category": "Szőnyeg (juta)",
@@ -141,7 +162,10 @@
   "verified": "product_page",
   "room": "04-nappali",
   "price_note": "",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap ülőhely mellett ez kényelmi, tárolási vagy dekorációs bővítés; meglévő egyszerű megoldás átmenetileg elég.",
+  "priority_condition": ""
  },
  {
   "category": "Szőnyeg (juta)",
@@ -159,7 +183,10 @@
   "caveat": "A bonami.hu oldalon 'utolsó darab' jelzéssel szerepelt – készlet gyorsan elfogyhat; természetes szál, kezdetben ez is szöszölhet.",
   "verified": "product_page",
   "room": "04-nappali",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap ülőhely mellett ez kényelmi, tárolási vagy dekorációs bővítés; meglévő egyszerű megoldás átmenetileg elég.",
+  "priority_condition": ""
  },
  {
   "category": "Csúszásgátló szőnyegalátét",
@@ -177,7 +204,10 @@
   "room": "04-nappali",
   "price_note": "",
   "caveat": "",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A halasztott szőnyeggel együtt vásárolható; önmagában nincs rá szükség.",
+  "priority_condition": "Ha a szőnyeg már beköltözéskor használatba kerül és alátétet igényel, az alátét vele együtt P1."
  },
  {
   "category": "Mosható/letörölhető szőnyeg",
@@ -195,7 +225,10 @@
   "verified": "product_page",
   "room": "04-nappali",
   "price_note": "",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap ülőhely mellett ez kényelmi, tárolási vagy dekorációs bővítés; meglévő egyszerű megoldás átmenetileg elég.",
+  "priority_condition": ""
  },
  {
   "category": "TV-szekrény",
@@ -213,7 +246,10 @@
   "caveat": "120 cm szélessége szűkebb, nagyobb tévéhez a szélesebb BESTÅ-változat kellhet.",
   "verified": "product_page",
   "room": "04-nappali",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap ülőhely mellett ez kényelmi, tárolási vagy dekorációs bővítés; meglévő egyszerű megoldás átmenetileg elég.",
+  "priority_condition": ""
  },
  {
   "category": "TV-szekrény",
@@ -231,7 +267,10 @@
   "verified": "product_page",
   "room": "04-nappali",
   "caveat": "",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap ülőhely mellett ez kényelmi, tárolási vagy dekorációs bővítés; meglévő egyszerű megoldás átmenetileg elég.",
+  "priority_condition": ""
  },
  {
   "category": "TV-szekrény",
@@ -249,43 +288,10 @@
   "verified": "product_page",
   "room": "04-nappali",
   "price_note": "",
-  "checked": "2026-09-20"
- },
- {
-  "category": "Állólámpa",
-  "name": "VARPTROSS Állólámpa, bambusz",
-  "store": "IKEA",
-  "where": "online (ikea.com/hu) + áruház (Budaörs)",
-  "material_color": "bambusz ernyő",
-  "size": "118 cm",
-  "price_huf": 39990,
-  "url": "https://www.ikea.com/hu/hu/p/varptross-allolampa-bambusz-40595131/",
-  "tier": "ajánlott",
-  "qty": 1,
-  "why": "A bambusz ernyő meleg, mintás fényt vet a falra – az irányelv 'fonott lámpaernyő' pontja szerint jó hangulatfény a fotel vagy a kandalló mellé.",
-  "verified": "listing",
-  "room": "04-nappali",
-  "price_note": "",
-  "caveat": "",
-  "checked": "2026-09-20"
- },
- {
-  "category": "Asztali lámpa",
-  "name": "BLIDVÄDER Asztali lámpa, törtfehér, kerámia, bézs",
-  "store": "IKEA",
-  "where": "online (ikea.com/hu) + áruház (Budaörs)",
-  "material_color": "matt kerámia, törtfehér-bézs",
-  "size": "50 cm",
-  "price_huf": 26990,
-  "url": "https://www.ikea.com/hu/hu/p/blidvaeder-asztali-lampa-toertfeher-keramia-bezs-80501258/",
-  "tier": "ajánlott",
-  "qty": 1,
-  "why": "Matt kerámia, törtfehér-bézs árnyalat – pontosan a kért 'kerámia matt off-white/zsálya talp' kritérium, jó hangulatfény a dohányzóasztalra vagy a TV-szekrényre.",
-  "verified": "listing",
-  "room": "04-nappali",
-  "price_note": "",
-  "caveat": "",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap ülőhely mellett ez kényelmi, tárolási vagy dekorációs bővítés; meglévő egyszerű megoldás átmenetileg elég.",
+  "priority_condition": ""
  },
  {
   "category": "Tárolókosár",
@@ -303,7 +309,10 @@
   "room": "04-nappali",
   "price_note": "",
   "caveat": "",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap ülőhely mellett ez kényelmi, tárolási vagy dekorációs bővítés; meglévő egyszerű megoldás átmenetileg elég.",
+  "priority_condition": ""
  },
  {
   "category": "Tárolókosár",
@@ -321,7 +330,10 @@
   "room": "04-nappali",
   "price_note": "",
   "caveat": "",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap ülőhely mellett ez kényelmi, tárolási vagy dekorációs bővítés; meglévő egyszerű megoldás átmenetileg elég.",
+  "priority_condition": ""
  },
  {
   "category": "Díszpárnahuzat (nagy, semleges, bouclé)",
@@ -339,7 +351,10 @@
   "caveat": "Nem természetes szál (poliészter-akril bouclé), hanem szintetikus bouclé-utánzat; ára is magasabb egy párnahuzatért – ár-érzékeny választás esetén sima pamut bouclé-hatású huzat is helyettesítheti.",
   "verified": "product_page",
   "room": "04-nappali",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap ülőhely mellett ez kényelmi, tárolási vagy dekorációs bővítés; meglévő egyszerű megoldás átmenetileg elég.",
+  "priority_condition": ""
  },
  {
   "category": "Díszpárnahuzat (alapszín)",
@@ -352,12 +367,15 @@
   "url": "https://www.ikea.com/hu/hu/p/dvala-parnahuzat-bezs-20627798/",
   "tier": "ajánlott",
   "qty": 2,
-  "why": "A párna-képlet 'len alapszínben' rétege – bézs, texturált pamut, ami a ház krém bézs-homok alaprétegéhez illeszkedik.",
-  "caveat": "Anyaga pamut, nem valódi len – ha ragaszkodunk a lenhez, Bonami-n talált len párnahuzatok (Linen Tales) a lekéréskor sajnos elfogytak (nem szerepelnek a listában).",
+  "why": "Színben illeszkedő pamut ágypárnahuzat; csak 50×60 cm-es párnabelsővel használható a tervezett helyen.",
+  "caveat": "50×60-as ágypárnahuzat, nem 50×50-es díszpárnahuzat és nem len. A házszintű DYTÅG/VALLKRASSING 50×50-es huzatok külön alternatívák; ne számold őket ugyanarra a párnára kétszer.",
   "verified": "listing",
   "room": "04-nappali",
   "price_note": "",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap ülőhely mellett ez kényelmi, tárolási vagy dekorációs bővítés; meglévő egyszerű megoldás átmenetileg elég.",
+  "priority_condition": ""
  },
  {
   "category": "Díszpárnahuzat (zsályazöld akcent)",
@@ -370,19 +388,22 @@
   "url": "https://www.ikea.com/hu/hu/p/dvala-parnahuzat-szuerke-zoeld-60636159/",
   "tier": "ajánlott",
   "qty": 2,
-  "why": "A párna-képlet zsályazöld akcent rétege – tompított, szürkés zöld tónus, ugyanabból a DVALA kollekcióból, mint az alapszín, hogy a huzatok anyagban is összeérjenek.",
+  "why": "Színben illeszkedő pamut ágypárnahuzat; csak 50×60 cm-es párnabelsővel használható a tervezett helyen.",
   "verified": "product_page",
   "room": "04-nappali",
   "price_note": "",
-  "caveat": "",
-  "checked": "2026-09-20"
+  "caveat": "50×60-as ágypárnahuzat, nem 50×50-es díszpárnahuzat és nem len. A házszintű DYTÅG/VALLKRASSING 50×50-es huzatok külön alternatívák; ne számold őket ugyanarra a párnára kétszer.",
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap ülőhely mellett ez kényelmi, tárolási vagy dekorációs bővítés; meglévő egyszerű megoldás átmenetileg elég.",
+  "priority_condition": ""
  },
  {
   "category": "Pléd",
   "name": "GUNNEMOR Takaró, törtfehér-szürke-bézs",
   "store": "IKEA",
   "where": "online (ikea.com/hu) + áruház (Budaörs)",
-  "material_color": "pamut-keverék, törtfehér-szürke-bézs melírozott",
+  "material_color": "100% újrahasznosított poliészter, törtfehér/szürke-bézs",
   "size": "130x170 cm",
   "price_huf": 2990,
   "url": "https://www.ikea.com/hu/hu/p/gunnemor-takaro-toertfeher-szuerke-bezs-10515466/",
@@ -392,8 +413,11 @@
   "verified": "listing",
   "room": "04-nappali",
   "price_note": "",
-  "caveat": "",
-  "checked": "2026-09-20"
+  "caveat": "Szintetikus pléd, nem pamutkeverék. A természetes textilszálra vonatkozó preferenciát nem teljesíti; anyagadat az IKEA hivatalos termékoldalán pontosítva.",
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap ülőhely mellett ez kényelmi, tárolási vagy dekorációs bővítés; meglévő egyszerű megoldás átmenetileg elég.",
+  "priority_condition": ""
  },
  {
   "category": "Kandalló védőrács",
@@ -411,7 +435,10 @@
   "verified": "product_page",
   "room": "04-nappali",
   "price_note": "",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A használatba vett vagy hozzáférhető kandalló szükséges gyerekvédelmét előre kell rendezni.",
+  "priority_condition": "A kandalló tervezett használata és a helyszíni védelem szerint; a dekorburkolat ettől külön kérdés."
  },
  {
   "category": "Alacsony tálalószekrény",
@@ -429,7 +456,10 @@
   "verified": "product_page",
   "room": "04-nappali",
   "price_note": "",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap ülőhely mellett ez kényelmi, tárolási vagy dekorációs bővítés; meglévő egyszerű megoldás átmenetileg elég.",
+  "priority_condition": ""
  },
  {
   "category": "Lerakóasztal",
@@ -447,6 +477,9 @@
   "verified": "product_page",
   "room": "04-nappali",
   "price_note": "",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap ülőhely mellett ez kényelmi, tárolási vagy dekorációs bővítés; meglévő egyszerű megoldás átmenetileg elég.",
+  "priority_condition": ""
  }
 ]

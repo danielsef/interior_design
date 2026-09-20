@@ -15,7 +15,12 @@
   "why": "Valódi tölgy furnér lap matt lakkozással, matt fekete fémláb – pontosan a rögzített 'egy tölgy tónus + matt fekete fém' elvhez illik, és 140-160 cm-es célsávban van.",
   "caveat": "",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A használathoz szükséges darabot hozzátok; ez a konkrét új termék csak későbbi cserejelölt.",
+  "priority_condition": "Nem szükséges új beszerzés. Csak akkor kerül vissza a költségbe, ha külön csere mellett döntötök.",
+  "budget_include": false,
+  "budget_exclusion_reason": "A dolgozóasztalt és a széket hozzátok; a funkció meglévő darabbal megoldott."
  },
  {
   "room": "07-dolgozo",
@@ -33,7 +38,12 @@
   "why": "Ugyanolyan méretű és formájú, mint a MITTZON, csak jóval olcsóbb belépő megoldás egy dolgozószobába.",
   "caveat": "Nem valódi fa: fóliázott forgácslap 'tölgy hatással', a felület fehéres, hidegebb tónusú, mint a ház domináns meleg tölgy tónusa.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A használathoz szükséges darabot hozzátok; ez a konkrét új termék csak későbbi cserejelölt.",
+  "priority_condition": "Nem szükséges új beszerzés. Csak akkor kerül vissza a költségbe, ha külön csere mellett döntötök.",
+  "budget_include": false,
+  "budget_exclusion_reason": "A dolgozóasztalt és a széket hozzátok; a funkció meglévő darabbal megoldott."
  },
  {
   "room": "07-dolgozo",
@@ -51,7 +61,12 @@
   "why": "Elektromos állítású ülő-álló asztal valódi tölgy furnér lappal – ergonómiai lépésszint, miközben megtartja a ház tölgy+matt fekete anyagpárosítását.",
   "caveat": "Nagyobb beruházás; a mélyebb 80 cm-es asztallap miatt érdemes ellenőrizni, hogy a szoba elrendezésében (ablakra merőlegesen) elfér-e.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A használathoz szükséges darabot hozzátok; ez a konkrét új termék csak későbbi cserejelölt.",
+  "priority_condition": "Nem szükséges új beszerzés. Csak akkor kerül vissza a költségbe, ha külön csere mellett döntötök.",
+  "budget_include": false,
+  "budget_exclusion_reason": "A dolgozóasztalt és a széket hozzátok; a funkció meglévő darabbal megoldott."
  },
  {
   "room": "07-dolgozo",
@@ -69,7 +84,12 @@
   "why": "Egyszerű, letisztult forma, semleges bézs textil – nem 'gamer szék' megjelenésű, belefér a szoba visszafogott palettájába.",
   "caveat": "Karfa nélküli alapváltozat (karfás verzió külön kapható), kevésbé ergonomikus, mint a magasabb kategóriás modellek.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A használathoz szükséges darabot hozzátok; ez a konkrét új termék csak későbbi cserejelölt.",
+  "priority_condition": "Nem szükséges új beszerzés. Csak akkor kerül vissza a költségbe, ha külön csere mellett döntötök.",
+  "budget_include": false,
+  "budget_exclusion_reason": "A dolgozóasztalt és a széket hozzátok; a funkció meglévő darabbal megoldott."
  },
  {
   "room": "07-dolgozo",
@@ -87,7 +107,12 @@
   "why": "Ikonikus skandináv formavilág, világos bézs kárpit, letisztult váz – ergonomikus, de nem sportos/gamer hatású, jól illik a fa-fehér-bézs alaphangulathoz.",
   "caveat": "A lábazat világos, alumínium színű (nem matt fekete), ez a ház fém-szabályától kis eltérés, de nem hivalkodó fényes króm.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A használathoz szükséges darabot hozzátok; ez a konkrét új termék csak későbbi cserejelölt.",
+  "priority_condition": "Nem szükséges új beszerzés. Csak akkor kerül vissza a költségbe, ha külön csere mellett döntötök.",
+  "budget_include": false,
+  "budget_exclusion_reason": "A dolgozóasztalt és a széket hozzátok; a funkció meglévő darabbal megoldott."
  },
  {
   "room": "07-dolgozo",
@@ -105,61 +130,12 @@
   "why": "Teljesen állítható deréktámasz, ülésmélység és karfa – valódi irodai ergonómia, mégis bézs/fehér, letisztult, nem gamer-székes formanyelv.",
   "caveat": "A legdrágább opció; a lábazat itt is világos alumínium, nem matt fekete.",
   "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "07-dolgozo",
-  "category": "Munkalámpa",
-  "name": "TERTIAL Asztali lámpa, fehér",
-  "store": "IKEA",
-  "where": "online (IKEA.hu) + IKEA Budaörs áruház",
-  "material_color": "fehér fém kar és ernyő, ABS műanyag rögzítő",
-  "size": "csuklós karú asztali lámpa, E27 foglalat",
-  "price_huf": 5990,
-  "price_note": "izzó külön kapható",
-  "url": "https://www.ikea.com/hu/hu/p/tertial-asztali-lampa-feher-70355455/",
-  "tier": "olcsóbb",
-  "qty": 1,
-  "why": "Klasszikus rajzasztal-lámpa forma, olcsó belépő – 2700K CRI90+ E27 LED izzóval (külön beszerzendő) teljesíti a világítási alapelvet.",
-  "caveat": "Fehér, nem matt fekete/fa-részletes; az izzó (2700K, CRI90+) nem tartozék, azt külön kell megvenni.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "07-dolgozo",
-  "category": "Munkalámpa",
-  "name": "FORSÅ Asztali lámpa, fekete",
-  "store": "IKEA",
-  "where": "online (IKEA.hu) + IKEA Budaörs áruház",
-  "material_color": "matt fekete porfestett acél",
-  "size": "mag. 35 cm, csuklós kar, E14 foglalat",
-  "price_huf": 7990,
-  "price_note": "izzó külön kapható",
-  "url": "https://www.ikea.com/hu/hu/p/forsa-asztali-lampa-fekete-00146776/",
-  "tier": "ajánlott",
-  "qty": 1,
-  "why": "Matt fekete fém, klasszikus építész-lámpa forma, pontosan a ház 'egy fémtípus: matt fekete' szabályát követi; jó ár-érték arány.",
-  "caveat": "Az izzó nem tartozék – E14 foglalatba 2700K, lehetőleg CRI90+ LED izzót kell hozzá venni (pl. LEDVANCE/Philips CRI90 sorozat).",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "07-dolgozo",
-  "category": "Munkalámpa",
-  "name": "House asztali lámpa, fekete – Markslöjd",
-  "store": "Bonami",
-  "where": "online (bonami.hu), házhozszállítás",
-  "material_color": "matt fekete fém, hajlítható szerkezet",
-  "size": "mag. 62 cm, E27 foglalat",
-  "price_huf": 26150,
-  "price_note": "akciós, eredeti ár 38 190 Ft",
-  "url": "https://www.bonami.hu/p/house-table-black-fekete-asztali-lampa-markslojd",
-  "tier": "prémium",
-  "qty": 1,
-  "why": "Magasabb, dizájnosabb matt fekete csuklós lámpa – jó kiegészítő réteg a mennyezeti fény mellé, ha valaki markánsabb formát szeretne a FORSÅ helyett.",
-  "caveat": "Izzó nem jár hozzá és a CRI/színhőmérséklet nincs feltüntetve a terméklapon – 2700K CRI90+ LED izzót külön kell választani.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A használathoz szükséges darabot hozzátok; ez a konkrét új termék csak későbbi cserejelölt.",
+  "priority_condition": "Nem szükséges új beszerzés. Csak akkor kerül vissza a költségbe, ha külön csere mellett döntötök.",
+  "budget_include": false,
+  "budget_exclusion_reason": "A dolgozóasztalt és a széket hozzátok; a funkció meglévő darabbal megoldott."
  },
  {
   "room": "07-dolgozo",
@@ -177,7 +153,10 @@
   "why": "Valódi tölgy furnér, tolóajtós zárt tárolás papírnak, a teteje pedig jó felület a nyomtatónak – ez a 'zárt tárolás a papírnak' elvet szolgálja ki.",
   "caveat": "",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap munkafelület és szék mellett későbbi tárolási vagy kényelmi/dekorációs fejlesztés.",
+  "priority_condition": ""
  },
  {
   "room": "07-dolgozo",
@@ -195,7 +174,10 @@
   "why": "Kis helyen is elfér, van benne zárt (ajtós+fiókos) rész, olcsó belépő, ha nem kell nagy kapacitás.",
   "caveat": "Nem tölgy: fehér fóliás forgácslap, és a tárhely fele nyitott polc, nem teljesen zárt – papírt csak a zárt részbe érdemes tenni.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap munkafelület és szék mellett későbbi tárolási vagy kényelmi/dekorációs fejlesztés.",
+  "priority_condition": ""
  },
  {
   "room": "07-dolgozo",
@@ -213,7 +195,10 @@
   "why": "Nagyobb, minőségibb tölgy furnér komód, halkan záródó fiókokkal – bőven elég papírnak és irodaszernek, teteje jó hely a nyomtatónak.",
   "caveat": "Fiókos kivitel, nem polcos-ajtós, ezért nagy dobozos anyagoknak kevésbé praktikus, mint egy szekrény.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap munkafelület és szék mellett későbbi tárolási vagy kényelmi/dekorációs fejlesztés.",
+  "priority_condition": ""
  },
  {
   "room": "07-dolgozo",
@@ -231,7 +216,10 @@
   "why": "Tömör tölgy nyitott polc a 'szépnek' – illeszkedik a szekrény tölgy tónusához, és betartja a 70% zárt / 30% nyitott arányt.",
   "caveat": "",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap munkafelület és szék mellett későbbi tárolási vagy kényelmi/dekorációs fejlesztés.",
+  "priority_condition": ""
  },
  {
   "room": "07-dolgozo",
@@ -249,7 +237,10 @@
   "why": "Sík szövésű natúr juta – a székgörgők jól futnak rajta, és ez a natúr rost fut végig a ház többi szőnyegén is.",
   "caveat": "Juta nem mosható; guriguló székhez idővel enyhén kophat a szálszerkezete a legjáratosabb pontokon.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap munkafelület és szék mellett későbbi tárolási vagy kényelmi/dekorációs fejlesztés.",
+  "priority_condition": ""
  },
  {
   "room": "07-dolgozo",
@@ -267,7 +258,10 @@
   "why": "Pamut, len-hatású fényszűrő függöny törtfehérben – a krém bézs ajtókhoz hangolt meleg alapszín, tompítja a fényt, de nem sötétít el.",
   "caveat": "Nem valódi len, hanem pamut; ellenőrizni kell, hogy az ablak szélességéhez elég anyagmennyiséget ad-e (a szabály szerint az ablak 2x szélessége ajánlott).",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap munkafelület és szék mellett későbbi tárolási vagy kényelmi/dekorációs fejlesztés.",
+  "priority_condition": ""
  },
  {
   "room": "07-dolgozo",
@@ -285,7 +279,10 @@
   "why": "Fényszűrő (nem sötétítő) roló a monitor mögötti ellenfény tompítására, miközben a kilátás és a nappali fény megmarad.",
   "caveat": "Áttetsző jellegű, nem ad teljes vakítás-mentességet erős, alacsony napállásnál; szükség esetén sötétítő rétegként a fényszűrő függöny mögé is felszerelhető.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A képernyős munkát zavaró besütést a használatba vételkor kezelni kell.",
+  "priority_condition": "Prio 1, ha a dolgozó már beköltözéstől napi munkára kell; egyébként Prio 2. Használható meglévő eszköz kiváltja az új vásárlást."
  },
  {
   "room": "07-dolgozo",
@@ -303,7 +300,10 @@
   "why": "Az asztal alá csavarozható tálca összefogja a kábeleket és a hosszabbítót – kisgyerekes házban fontos, hogy ne lógjon szabad zsinór.",
   "caveat": "",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A használatba vett munkahely kábeleit rendezni kell; a konkrét tálca helyettesíthető.",
+  "priority_condition": "Prio 1, ha a dolgozó már beköltözéstől napi munkára kell; egyébként Prio 2. Használható meglévő eszköz kiváltja az új vásárlást."
  },
  {
   "room": "07-dolgozo",
@@ -321,7 +321,10 @@
   "why": "Természetes bambusz textúra az asztalon, és az emelt monitor alatt hely marad jegyzettömbnek, kábeleknek – rendet ad a felületnek.",
   "caveat": "Ez elsősorban monitorállvány, nem klasszikus toll-/irattartó doboz; a listán szereplő bambusz asztali rendező funkcióját ez tölti be legjobban IKEA kínálatból.",
   "verified": "listing",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap munkafelület és szék mellett későbbi tárolási vagy kényelmi/dekorációs fejlesztés.",
+  "priority_condition": ""
  },
  {
   "room": "07-dolgozo",
@@ -339,7 +342,10 @@
   "why": "Természetes parafa felület jegyzeteknek, fotóknak – illik a fonott/természetes anyagok közé, és 15 rajzszöggel jár.",
   "caveat": "",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap munkafelület és szék mellett későbbi tárolási vagy kényelmi/dekorációs fejlesztés.",
+  "priority_condition": ""
  },
  {
   "room": "07-dolgozo",
@@ -357,7 +363,10 @@
   "why": "Matt terrakotta agyag – natúr, homokszínű felület a polcra vagy az asztalra kis növénynek.",
   "caveat": "",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap munkafelület és szék mellett későbbi tárolási vagy kényelmi/dekorációs fejlesztés.",
+  "priority_condition": ""
  },
  {
   "room": "07-dolgozo",
@@ -375,7 +384,10 @@
   "why": "Botanikus, letisztult vonalrajzok vékony kerettel – illik az 'erdő, levél, botanikus lap' témához, olcsó belépő a dolgozó falára.",
   "caveat": "A keret színe a terméklapon nem egyértelműen világos fa (a képeken fekete/semleges tónusú keret is látszik) – rendelés előtt érdemes a pontos kerettónust ellenőrizni, hogy világos fa hatású legyen.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap munkafelület és szék mellett későbbi tárolási vagy kényelmi/dekorációs fejlesztés.",
+  "priority_condition": ""
  },
  {
   "room": "09-eloter",
@@ -393,7 +405,10 @@
   "why": "35 cm mély, keskeny konzol – pont beleillik a 3,92 m²-es előtérbe, natúr tölgy tónusú lappal, hogy ne csak folyosó legyen az átvezető tér.",
   "caveat": "A lap tölgy-dekoros (fólia/laminált), nem valódi tölgy furnér vagy tömör fa.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A szabad közlekedéshez nem kell új bútor vagy dekoráció; a tér üresen is használható.",
+  "priority_condition": ""
  },
  {
   "room": "09-eloter",
@@ -411,7 +426,10 @@
   "why": "Nagyon karcsú, 30 cm mély, olcsó belépő konzol; a szürkés-sonoma tónus illik a ház 'neutrális, enyhén szürkés altónusú' fa-elvéhez.",
   "caveat": "Fóliázott forgácslap, nem valódi fa; a sonoma tónus kicsit hidegebb/szürkébb, mint a ház domináns meleg tölgy tónusa – mintát érdemes kérni.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A szabad közlekedéshez nem kell új bútor vagy dekoráció; a tér üresen is használható.",
+  "priority_condition": ""
  },
  {
   "room": "09-eloter",
@@ -429,7 +447,10 @@
   "why": "Kerek forma, természetes rattan keret – pontosan a 'kerek/ovális tükör rattan vagy világos fa kerettel' elvet követi, és megduplázza a bejárati fényt.",
   "caveat": "",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A szabad közlekedéshez nem kell új bútor vagy dekoráció; a tér üresen is használható.",
+  "priority_condition": ""
  },
  {
   "room": "09-eloter",
@@ -447,7 +468,10 @@
   "why": "Vastagabb, minőségibb tölgy furnér keret, beépített kis polccal – dekoratívabb, prémium megjelenésű kerek tükör.",
   "caveat": "",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A szabad közlekedéshez nem kell új bútor vagy dekoráció; a tér üresen is használható.",
+  "priority_condition": ""
  },
  {
   "room": "09-eloter",
@@ -465,7 +489,10 @@
   "why": "Erdő témájú, nagyméretű kép – a guideline kifejezetten javasolja, hogy az előtér/közlekedő kapjon 'egy nagyobb képet, hogy ne csak folyosó legyen'.",
   "caveat": "A keret pontos anyaga/színe (világos fa-e) a terméklapon nem egyértelmű – érdemes rendelés előtt rákérdezni vagy a képet saját világos fa keretbe rendelni.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A szabad közlekedéshez nem kell új bútor vagy dekoráció; a tér üresen is használható.",
+  "priority_condition": ""
  },
  {
   "room": "09-eloter",
@@ -483,7 +510,10 @@
   "why": "Matt, semleges világosszürke tálka a bejárati kulcsoknak, apróságoknak – illik a ház matt kerámia elvéhez.",
   "caveat": "Világosszürke, nem pontosan homok/törtfehér, de matt és semleges, így beleillik a palettába.",
   "verified": "listing",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A szabad közlekedéshez nem kell új bútor vagy dekoráció; a tér üresen is használható.",
+  "priority_condition": ""
  },
  {
   "room": "09-eloter",
@@ -501,7 +531,10 @@
   "why": "Természetes tengerifű kosár sálaknak, kesztyűknek, gyerekcuccoknak a bejáratnál – a fonott rost itt jelenik meg funkcionálisan.",
   "caveat": "",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A szabad közlekedéshez nem kell új bútor vagy dekoráció; a tér üresen is használható.",
+  "priority_condition": ""
  },
  {
   "room": "13-kozlekedo",
@@ -519,6 +552,9 @@
   "why": "Kézzel mosható, csúszásgátló hátú, bel/kültéri szőnyeg – pont a hidegburkolatos, keskeny közlekedőbe való, baba-barát, letörölhető felület.",
   "caveat": "Nem természetes rost (polipropilén), de ezért mosható és csúszásmentes – ez itt fontosabb szempont, mint a juta.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A közlekedő szőnyeg nélkül is használható; a szabad útvonal az elsődleges.",
+  "priority_condition": ""
  }
 ]

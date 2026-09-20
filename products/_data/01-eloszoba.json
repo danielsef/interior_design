@@ -15,7 +15,10 @@
   "why": "Valódi tölgy furnér és tömör tölgy láb – a rögzített 'világos-közép tölgy, matt/olajozott' fatónushoz illik, zárt front rejti a sáros erdei cipőt, a látszó láb könnyűvé teszi a nagy, 10,60 m²-es előszobát.",
   "caveat": "Falhoz kell rögzíteni (mellékelt szerelvénnyel, előfúrt lyukak) – ezt telepítéskor be kell tartani.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap fogas és cipőhely mellett ez kényelmi vagy végleges tárolási/dekorációs fejlesztés.",
+  "priority_condition": ""
  },
  {
   "room": "01-eloszoba",
@@ -33,7 +36,10 @@
   "why": "Karcsú (28 cm mély), magas, zárt cipőtároló – a legolcsóbb elfogadható belépő, ha a keret szűkebb; a magas, keskeny forma jól illik egy szűkebb falszakaszra a nagy előszobában.",
   "caveat": "Fólia, nem valódi tölgy furnér – közelről és élettartamban gyengébb, mint a STÄLL; falhoz rögzítendő, a csavarokat a falazat típusához külön kell venni.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap fogas és cipőhely mellett ez kényelmi vagy végleges tárolási/dekorációs fejlesztés.",
+  "priority_condition": ""
  },
  {
   "room": "01-eloszoba",
@@ -51,7 +57,10 @@
   "why": "A legnagyobb és legtöbb funkciót adó zárt tároló a három közül: külön fiók (kulcs, kesztyű), zárt rekesz és két billenő ajtó – a szokatlanul nagy (10,60 m²) előszobában elfér, és a legtöbb cipőt/kiegészítőt rejti zártan.",
   "caveat": "Ez is dekorfóliás forgácslap, nem valódi tölgy – az ár a méret és a funkció (fiók+rekesz) miatt magasabb, nem az alapanyag miatt.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap fogas és cipőhely mellett ez kényelmi vagy végleges tárolási/dekorációs fejlesztés.",
+  "priority_condition": ""
  },
  {
   "room": "01-eloszoba",
@@ -69,7 +78,10 @@
   "why": "Tömör fa pad látszó, matt fekete lábbal – pontosan a 'látszó láb + egy fémtípus, matt fekete' formaelvet hozza, alsó polca cipőnek/táskának való nyitott tárolás.",
   "caveat": "Az akác gazdag, melegebb barna, idővel tovább sötétedik – ez melegebb tónus, mint a rögzített világos-közép tölgy; helyszínen érdemes mintát nézni a krém bézs ajtó mellett.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap fogas és cipőhely mellett ez kényelmi vagy végleges tárolási/dekorációs fejlesztés.",
+  "priority_condition": ""
  },
  {
   "room": "01-eloszoba",
@@ -87,7 +99,10 @@
   "why": "Kedvezőbb árú, tölgy színű lábú, tárolós pad – jó belépő megoldás, ha a fa pad ára nem fér a keretbe, és így is jut zárt tárolóhely a huzat alá.",
   "caveat": "A láb gumifa, tölgy színben pácolva, nem valódi tölgy; a szövethuzat levehető/mosható volta a termékoldalon nincs feltüntetve – kisbabás háztartáshoz érdemes rákérdezni vásárlás előtt.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap fogas és cipőhely mellett ez kényelmi vagy végleges tárolási/dekorációs fejlesztés.",
+  "priority_condition": ""
  },
  {
   "room": "01-eloszoba",
@@ -105,7 +120,10 @@
   "why": "A shopping lista kifejezetten 'fonott üléses' padot kér – ez kézzel font rattannal hozza legjobban a ház 'a fonott rost minden helyiségben megjelenhet' elvét, és zárt tárolóval is jár.",
   "caveat": "Száraz, egyenletes hőmérsékletű helyre való, csak száraz ruhával tisztítható – nedves kabátot ne rá, hanem a zárt szekrénybe kell tenni.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap fogas és cipőhely mellett ez kényelmi vagy végleges tárolási/dekorációs fejlesztés.",
+  "priority_condition": ""
  },
  {
   "room": "01-eloszoba",
@@ -123,7 +141,10 @@
   "why": "Törtfehér (nem hideg fehér) szín illik a ház meleg fehér falához; zárt, akasztórudas belső rejti a nedves kabátot és a sáros lábbelit – az erdős telek miatt ez fontosabb, mint egy nyitott fogas.",
   "caveat": "Falhoz kell rögzíteni (felborulás elleni szerelvénnyel); a fogantyú sárgaréz hatású – ha a ház végül a matt fekete vasalat mellett dönt, ezt érdemes lecserélni.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap fogas és cipőhely mellett ez kényelmi vagy végleges tárolási/dekorációs fejlesztés.",
+  "priority_condition": ""
  },
  {
   "room": "01-eloszoba",
@@ -141,7 +162,10 @@
   "why": "Legolcsóbb zárt, ajtós gardrób a listán – kisebb és sekélyebb, de teljesen elrejti a kabátot és a sáros cipőt, ha a büdzsé szűkebb.",
   "caveat": "Alacsonyabb (176 cm) és sekélyebb (55 cm) a másik kettőnél, kevesebb akasztott ruha fér el benne; falhoz rögzítendő.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap fogas és cipőhely mellett ez kényelmi vagy végleges tárolási/dekorációs fejlesztés.",
+  "priority_condition": ""
  },
  {
   "room": "01-eloszoba",
@@ -159,7 +183,10 @@
   "why": "Moduláris PAX rendszer fehérre pácolt tölgy hatású ajtóval – a 'fehér + tölgy' páros hozza a ház alaphangját (fehér fal, krém bézs ajtó, tölgy bútor) a legnagyobb egybefüggő zárt felületen; 150 cm szélesen elég hely több kabátnak és babakocsi-kiegészítőnek is.",
   "caveat": "Az ajtó papírfólia, nem valódi tölgy furnér; a PAX beltér (polc, rúd, fiók) külön tétel, ebbe az árba nincs beleszámolva. Falhoz rögzítendő.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap fogas és cipőhely mellett ez kényelmi vagy végleges tárolási/dekorációs fejlesztés.",
+  "priority_condition": ""
  },
  {
   "room": "01-eloszoba",
@@ -177,7 +204,10 @@
   "why": "Valódi tölgy furnér keretes, kerek tükör pontosan Ø80 cm-ben – a brief 'nagy kerek tükör világos fa kerettel' kérését hozza, és az ablakkal szemben/arra merőlegesen elhelyezve megduplázza a bejövő fényt.",
   "caveat": "2 csavarral kell falra szerelni, a csavarokat a falazathoz külön kell választani.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap fogas és cipőhely mellett ez kényelmi vagy végleges tárolási/dekorációs fejlesztés.",
+  "priority_condition": ""
  },
  {
   "room": "01-eloszoba",
@@ -195,7 +225,10 @@
   "why": "Kézzel font rattan keret – a legolcsóbb, valódi fonott rost opció, jó belépő, ha a keretösszeg szűkebb.",
   "caveat": "Ø 55 cm valamivel kisebb, mint a kért 60–90 cm-es tartomány – egy szűkebb falszakaszra vagy kiegészítő tükörnek jobb, mint egyedüli nagy fókuszpontnak.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap fogas és cipőhely mellett ez kényelmi vagy végleges tárolási/dekorációs fejlesztés.",
+  "priority_condition": ""
  },
  {
   "room": "01-eloszoba",
@@ -213,7 +246,10 @@
   "why": "Kézzel készített bambusz keret dán dizájnmárkától (Hübsch) – a fonott rost réteget emeli meg minőségben és megjelenésben a másik kettőhöz képest, Ø60 cm éppen a kért mérettartomány alján.",
   "caveat": "A mérethez (Ø60 cm) képest a legdrágább darab – az árat a márka és a kézműves kivitel indokolja, nem a méret.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap fogas és cipőhely mellett ez kényelmi vagy végleges tárolási/dekorációs fejlesztés.",
+  "priority_condition": ""
  },
  {
   "room": "01-eloszoba",
@@ -231,7 +267,10 @@
   "why": "Valódi tömör tölgy, 6 gombbal – a 'fogas tölgyben' igényt hozza, néhány vendégkabátnak elég egy szűkebb falszakaszon is.",
   "caveat": "Kis méretű (57 cm), nagyobb családi forgalomhoz érdemes a matt fekete TJUSIG-gal kiegészíteni.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "Egy alap fogas elég lehet a kabátok napi elhelyezésére.",
+  "priority_condition": ""
  },
  {
   "room": "01-eloszoba",
@@ -249,7 +288,10 @@
   "why": "Nagy méretű (200x300 cm), mosható/lekefélhető bel-kültéri PP szőnyeg, homok-bézs tónusban – pontosan a brief 'mosható, strapabíró, natúr-bézs' kérése, és a szokatlanul nagy (10,60 m²) előszobában valóban méretes felületet ad.",
   "caveat": "Nem valódi juta, hanem juta-hatású polipropilén – ez viszont pont a mosható/strapabíró elvárás miatt előny, nem hátrány, kisbabás háztartásban.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap fogas és cipőhely mellett ez kényelmi vagy végleges tárolási/dekorációs fejlesztés.",
+  "priority_condition": ""
  },
  {
   "room": "01-eloszoba",
@@ -267,7 +309,10 @@
   "why": "Kisebb, kedvezőbb árú mosható futószőnyeg-méret – jó megoldás, ha csak a bejárat elé kell egy kisebb, letörölhető darab a nagy MORUM helyett vagy mellé.",
   "caveat": "Kézzel, max. 40°C-on mosható, nem szárítógépben – vasalni és vegytisztítani sem szabad.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap fogas és cipőhely mellett ez kényelmi vagy végleges tárolási/dekorációs fejlesztés.",
+  "priority_condition": ""
  },
  {
   "room": "01-eloszoba",
@@ -285,7 +330,10 @@
   "why": "Valódi kókuszrost lábtörlő a bejárat külső oldalára – ez fogja fel a sarat és a nedvességet, mielőtt a homokszínű beltéri padlóra kerülne; jól bevált (4,6/5, 41 értékelés).",
   "caveat": "Csak kültérre/fedett bejáratra való, nem mosógépben mosható – rendszeres kirázást/porszívózást igényel.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A bejárat napi használatához és a behordott sár csökkentéséhez kell.",
+  "priority_condition": ""
  },
  {
   "room": "01-eloszoba",
@@ -303,7 +351,10 @@
   "why": "Magas peremű tálca, ami a sáros/havas cipőről lecsöpögő vizet és sarat összegyűjti – erdős telken ez a zárt cipőszekrény elé/alá kerülve véd a padlótól.",
   "caveat": "Egyszerű műanyag tálca, nem dekoratív elem – a zárt szekrény elé vagy alá érdemes rejteni.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A nedves, sáros cipőnek már az első naptól legyen kijelölt helye.",
+  "priority_condition": ""
  },
  {
   "room": "01-eloszoba",
@@ -321,43 +372,10 @@
   "why": "Kézzel font, valódi tengerifű kosár sáloknak, kesztyűknek, játéknak – a 'fonott rost minden helyiségben megjelenhet' elvet hozza, és zárt (kosárban rejtett) tárolás a szemmagasság alatt, ami kisgyereknél praktikus.",
   "caveat": "Nyitott tetejű, nem csukható – ha a tartalmat teljesen rejteni kell, fedeles doboz jobb választás.",
   "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "01-eloszoba",
-  "category": "Mennyezeti lámpa",
-  "name": "NARRKOLV Függőlámpa, rattan, 56 cm",
-  "store": "IKEA",
-  "where": "online (ikea.com/hu) + áruház (Budaörs)",
-  "material_color": "pácolt rattan ernyő, porfestett acél mennyezeti elem",
-  "size": "Ø 56 cm, magasság 14 cm, E27 foglalat",
-  "price_huf": 19990,
-  "price_note": "",
-  "url": "https://www.ikea.com/hu/hu/p/narrkolv-fueggolampa-rattan-00594341/",
-  "tier": "ajánlott",
-  "qty": 1,
-  "why": "Fonott rattan ernyő meleg, mintás fényt vet a falra – a világítási fejezet 'fonott lámpaernyő' ajánlását adja az előszoba egyetlen mennyezeti lámpájaként.",
-  "caveat": "Izzó külön vásárlandó – E27, 2700 K, CRI 90+ átlátszó LED izzót kell hozzá választani, hogy a falra vetülő minta és a fényminőség is megfelelő legyen.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "01-eloszoba",
-  "category": "Mennyezeti lámpa",
-  "name": "SUNNEBY/MOLNART Függőlámpa izzóval, fekete/fánk alakú opálfehér",
-  "store": "IKEA",
-  "where": "online (ikea.com/hu) + áruház (Budaörs)",
-  "material_color": "üveg (fánk alakú opálfehér ernyő), fekete textilkábel, polipropilén mennyezeti elem",
-  "size": "izzó mag. 150 mm, kábel 1,8 m",
-  "price_huf": 8490,
-  "price_note": "izzóval együtt",
-  "url": "https://www.ikea.com/hu/hu/p/sunneby-molnart-fueggolampa-izzoval-fekete-fank-alaku-opalfeh-s29581786/",
-  "tier": "olcsóbb",
-  "qty": 1,
-  "why": "Opálfehér üvegernyő matt fekete kábellel – a 'rattan vagy opál üveg, matt fekete részletek' kérés olcsóbb, egyenletes fényt adó változata, jó kiegészítő/másodlagos lámpa a rattan mellé.",
-  "caveat": "A mellékelt izzó 2400 K és CRI 80 – ez hidegebb és gyengébb színvisszaadású, mint a ház rögzített 2700 K/CRI 90+ elve, ezért érdemes külön, megfelelő LED izzóra cserélni.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap fogas és cipőhely mellett ez kényelmi vagy végleges tárolási/dekorációs fejlesztés.",
+  "priority_condition": ""
  },
  {
   "room": "01-eloszoba",
@@ -375,7 +393,10 @@
   "why": "Valódi tömör tölgy falipolc – kulcsnak, kis tárgyaknak való, a ház egységes tölgy fatónusát hozza az előszoba szemmagasságú falára; a szabály szerint a felület legalább harmada maradjon üresen rajta.",
   "caveat": "A rögzítő csavarok/tiplik nincsenek mellékelve, a falazat típusához külön kell választani; 7 kg-os terhelési határ, kulcsnál/apró tárgynál ez bőven elég.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap fogas és cipőhely mellett ez kényelmi vagy végleges tárolási/dekorációs fejlesztés.",
+  "priority_condition": ""
  },
  {
   "room": "01-eloszoba",
@@ -393,6 +414,9 @@
   "why": "Nagyméretű, kézzel font natúr kosár-kaspó vízálló belső cseréppel – a nagy előszobában ez adja a padlóra kerülő olajfa/eukaliptusz keretét.",
   "caveat": "A brief matt kerámia kaspót kért, de jelenleg elérhető, valóban nagy méretű (Ø35–40 cm+) matt kerámia kültéri/beltéri kaspót egyik ellenőrzött boltban sem találtam készleten (a Praktiker hasonló kerámia és polystone darabjai kifutottak/nem rendelhetők) – ez a fonott kosár-kaspó a stílushoz jobban illő, ténylegesen kapható helyettesítő; kerámia kaspóért érdemes helyi kertészetet/dekorboltot személyesen felkeresni.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap fogas és cipőhely mellett ez kényelmi vagy végleges tárolási/dekorációs fejlesztés.",
+  "priority_condition": ""
  }
 ]

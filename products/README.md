@@ -1,36 +1,72 @@
 # Terméklista – wooden coastal
 
-2026-09-20 · Konkrét, **Magyarországon megvásárolható** termékek helyiségenként: név, link, ár, hol kapható. A mappaszerkezet megegyezik az [inspirációs mappáéval](../inpiration/README.md), a válogatás a [belsőépítészeti irányelveket](../principles/Wooden%20coastal%20%E2%80%93%20erdei%20hat%C3%A1s%C3%BA%20bels%C5%91%C3%A9p%C3%ADt%C3%A9szeti%20ir%C3%A1nyelvek%20a%20h%C3%A1zhoz.md) követi.
+2026-09-20 · Termékjelöltek magyarországi beszerzéshez: név, link, ár, anyag, méret és beszerzési feltételek. A készlethiányos tételek figyelőlistán szerepelnek. A mappaszerkezet megegyezik az [inspirációs mappáéval](../inpiration/README.md), a válogatás a [belsőépítészeti irányelveket](../principles/Wooden%20coastal%20%E2%80%93%20erdei%20hat%C3%A1s%C3%BA%20bels%C5%91%C3%A9p%C3%ADt%C3%A9szeti%20ir%C3%A1nyelvek%20a%20h%C3%A1zhoz.md) követi.
 
-> **Állapot: mind a 16 helyiség kész, 350 termék.**
+> **Állapot: mind a 16 helyiségcsoport listázva, 310 termékjelölt.**
+
+> **Beépített vásárlási felülvizsgálat:** [XXXLutz, Kave Home, H&M Home, JYSK és Mömax – összehasonlítás](vasarlasi-felulvizsgalat-2026-09-20.md). Ajánlott csere: ISLEV szék próba után és Cantus asztal készletellenőrzés után. Az EUR-os és készlethiányos alternatívák kimaradnak a forintos költségutakból.
+
+> **Beszerzési kör pontosítva:** a világítás megvan; a tömörfa konyhabútor és mindkét fürdő szekrénye/mosdója megrendelve / megvan, a kádas fürdő pultjával együtt. A fa párkányok cream beige színben készülnek. A konyhai fogantyúk megmaradnak; a front, konyhai kőpult, kandallóburkolat és a hiányzó zuhanyzós fürdőpult [külön anyagjavaslatot](anyagvalasztas-konyha-kandallo-furdopult.md) kapott, utóbbi felületek ára még nincs az összegben. A 4,75 m²-es kádas és az ismeretlen méretű zuhanyzós fürdőt a `12-furdo` mappa külön nevezi meg.
+
+## Beköltözési ütemezés
+
+**Prio 1:** induláshoz szükséges funkció és a még szükséges új beszerzés. **Prio 2:** körülbelül fél évig halasztható fejlesztés. A termékoldalak tetején helyiségenként ott a minimum, a halasztható rész és a feltétel; minden terméksor külön Prio jelölést kapott.
+
+**Megerősített meglévő elemek:** a korábban rögzített konyha/fürdőbútorok és világítás mellett a dolgozóasztalt és a széket is hozzátok. Az új asztal-/székjelöltek csak későbbi csereopciók, a költségekből kizárva. A 08-as szoba megerősítve vendég-/tartalékszoba, teljes berendezése Prio 2. A többi áthozott darabról nincs tételes leltár.
+
+**A Prio 1 nem teljes beköltözési költségvetés.** A feltételes tételek teljes tervezett mennyiségével számol (például 6 étkezőszék), az induló minimum ennél kisebb lehet. Még hiányzó költség lehet a felnőtt matrac/ágyrács, alap ágynemű, konyhai felszerelés/gépek és az egyedi kivitelezés. A drága, végleges tartó vagy dekor nem válik szükségessé attól, hogy az alapfunkció szükséges.
+
+| Helyiség | Prio 1 ajánlott részösszeg | Prio 2 ajánlott részösszeg |
+| --- | --- | --- |
+| [Az egész házra (függöny, karnis, kosár, növény, képkeret, babavédelem)](00-altalanos-hangulat/README.md) | **58 475 Ft** | 883 796 Ft |
+| [Előszoba](01-eloszoba/README.md) | **13 280 Ft** | 297 773 Ft |
+| [Konyha](02-konyha/README.md) | **100 980 Ft** | 316 680 Ft |
+| [Étkező](03-etkezo/README.md) | **388 400 Ft** | 176 170 Ft |
+| [Nappali](04-nappali/README.md) | **217 800 Ft** | 542 190 Ft |
+| [Háló](05-halo/README.md) | **115 980 Ft** | 317 900 Ft |
+| [Szoba (babaszoba)](06-szoba/README.md) | **87 950 Ft** | 298 510 Ft |
+| [Dolgozó](07-dolgozo/README.md) | **13 980 Ft** | 162 710 Ft |
+| [Szoba (gyerek / vendég)](08-szoba/README.md) | **0 Ft** | 270 350 Ft |
+| [Előtér](09-eloter/README.md) | **0 Ft** | 120 910 Ft |
+| [WC](10-wc/README.md) | **41 370 Ft** | 116 560 Ft |
+| [Háztartási helyiség](11-haztartasi/README.md) | **78 890 Ft** | 327 934 Ft |
+| [Fürdők (kádas és zuhanyzós)](12-furdo/README.md) | **48 030 Ft** | 304 200 Ft |
+| [Közlekedő](13-kozlekedo/README.md) | **0 Ft** | 7 990 Ft |
+| [Gardrób](14-gardrob/README.md) | **57 830 Ft** | 100 950 Ft |
+| [Terasz](16-17-terasz/README.md) | **0 Ft** | 780 670 Ft |
+| **Összesen** | **1 222 965 Ft** | **5 025 293 Ft** |
+
+> Csak az ajánlott, költségbe számító HUF-jelöltek összege. A meglévővel kiváltott, készlethiányos, EUR-os és kizárt referenciatételek kimaradnak; a nulla összeg nem igazolja, hogy minden funkció megoldott. Az átfedéseket és induló mennyiségeket még véglegesíteni kell.
 
 ## Helyiségek
 
-| Mappa | Helyiség | Termék | ⭐ Ajánlott csomag | 💰 Legolcsóbb út | 💎 Legdrágább út |
+| Mappa | Helyiség | Termék | ⭐ Ajánlott csomag | 💰 Kategóriaösszeg, alsó | 💎 Kategóriaösszeg, felső |
 | --- | --- | --- | --- | --- | --- |
-| [`00-altalanos-hangulat`](00-altalanos-hangulat/README.md) | Az egész házra (függöny, karnis, izzó, kosár, növény, képkeret, babavédelem) | 69 | **1 010 401 Ft** | 871 308 Ft | 1 495 471 Ft |
-| [`01-eloszoba`](01-eloszoba/README.md) | Előszoba | 23 | **331 043 Ft** | 189 453 Ft | 495 403 Ft |
-| [`02-konyha`](02-konyha/README.md) | Konyha | 18 | **497 100 Ft** | 348 620 Ft | 582 452 Ft |
-| [`03-etkezo`](03-etkezo/README.md) | Étkező | 16 | **773 500 Ft** | 415 080 Ft | 1 021 200 Ft |
-| [`04-nappali`](04-nappali/README.md) | Nappali | 25 | **796 970 Ft** | 673 890 Ft | 1 073 880 Ft |
-| [`05-halo`](05-halo/README.md) | Háló | 19 | **519 830 Ft** | 387 800 Ft | 998 820 Ft |
-| [`06-szoba`](06-szoba/README.md) | Szoba (babaszoba) | 20 | **433 440 Ft** | 277 360 Ft | 643 230 Ft |
-| [`07-dolgozo`](07-dolgozo/README.md) | Dolgozó | 21 | **324 660 Ft** | 181 660 Ft | 532 730 Ft |
-| [`08-szoba`](08-szoba/README.md) | Szoba (gyerek / vendég) | 15 | **276 340 Ft** | 178 360 Ft | 418 050 Ft |
-| [`09-eloter`](09-eloter/README.md) | Előtér | 9 | **136 900 Ft** | 60 119 Ft | 150 900 Ft |
-| [`10-wc`](10-wc/README.md) | WC | 16 | **173 420 Ft** | 152 800 Ft | 201 470 Ft |
-| [`11-haztartasi`](11-haztartasi/README.md) | Háztartási helyiség | 22 | **409 814 Ft** | 322 574 Ft | 600 764 Ft |
-| [`12-furdo`](12-furdo/README.md) | Fürdő | 38 | **907 080 Ft** | 737 420 Ft | 1 097 997 Ft |
-| [`13-kozlekedo`](13-kozlekedo/README.md) | Közlekedő | 3 | **23 980 Ft** | 14 289 Ft | 23 980 Ft |
-| [`14-gardrob`](14-gardrob/README.md) | Gardrób | 9 | **170 760 Ft** | 146 810 Ft | 277 910 Ft |
-| [`16-17-terasz`](16-17-terasz/README.md) | Terasz | 27 | **833 620 Ft** | 698 570 Ft | 988 580 Ft |
-| | **Összesen (kész helyiségek)** | **350** | **7 618 858 Ft** | 5 656 113 Ft | 10 602 837 Ft |
+| [`00-altalanos-hangulat`](00-altalanos-hangulat/README.md) | Az egész házra (függöny, karnis, kosár, növény, képkeret, babavédelem) | 59 | **942 271 Ft** | 775 933 Ft | 1 379 546 Ft |
+| [`01-eloszoba`](01-eloszoba/README.md) | Előszoba | 21 | **311 053 Ft** | 180 963 Ft | 475 413 Ft |
+| [`02-konyha`](02-konyha/README.md) | Konyha | 17 | **417 660 Ft** | 275 180 Ft | 474 512 Ft |
+| [`03-etkezo`](03-etkezo/README.md) | Étkező | 18 | **564 570 Ft** | 400 590 Ft | 986 210 Ft |
+| [`04-nappali`](04-nappali/README.md) | Nappali | 27 | **759 990 Ft** | 600 555 Ft | 1 006 900 Ft |
+| [`05-halo`](05-halo/README.md) | Háló | 16 | **433 880 Ft** | 345 850 Ft | 912 870 Ft |
+| [`06-szoba`](06-szoba/README.md) | Szoba (babaszoba) | 18 | **386 460 Ft** | 230 380 Ft | 596 250 Ft |
+| [`07-dolgozo`](07-dolgozo/README.md) | Dolgozó | 18 | **176 690 Ft** | 105 690 Ft | 236 600 Ft |
+| [`08-szoba`](08-szoba/README.md) | Szoba (gyerek / vendég) | 14 | **270 350 Ft** | 172 370 Ft | 412 060 Ft |
+| [`09-eloter`](09-eloter/README.md) | Előtér | 8 | **120 910 Ft** | 53 820 Ft | 134 910 Ft |
+| [`10-wc`](10-wc/README.md) | WC | 15 | **157 930 Ft** | 137 310 Ft | 185 980 Ft |
+| [`11-haztartasi`](11-haztartasi/README.md) | Háztartási helyiség | 21 | **406 824 Ft** | 319 584 Ft | 597 774 Ft |
+| [`12-furdo`](12-furdo/README.md) | Fürdők (kádas és zuhanyzós) | 27 | **352 230 Ft** | 521 510 Ft | 611 900 Ft |
+| [`13-kozlekedo`](13-kozlekedo/README.md) | Közlekedő | 1 | **7 990 Ft** | 7 990 Ft | 7 990 Ft |
+| [`14-gardrob`](14-gardrob/README.md) | Gardrób | 7 | **158 780 Ft** | 134 830 Ft | 265 930 Ft |
+| [`16-17-terasz`](16-17-terasz/README.md) | Terasz | 23 | **780 670 Ft** | 666 620 Ft | 935 630 Ft |
+| | **Összesen (listázott helyiségcsoportok)** | **310** | **6 248 258 Ft** | 4 929 175 Ft | 9 220 475 Ft |
 
-> Az összegek **tájékoztató jellegűek**: a javasolt darabszámmal számolnak, de nem tartalmazzák a hiányzó helyiségeket, a konyhabútort, a burkolást, a gépeket és a szállítást. Egy-egy kategóriában több alternatíva van – nem kell mindet megvenni.
+> Az összegek **tájékoztató jellegűek**: a javasolt darabszámmal számolnak, de nem tartalmazzák a még fel nem vett szükségleteket, a már rendezett világítást, konyhabútort, kádas fürdőszobai mosdóösszeállítást és párkányokat, továbbá a burkolást, gépeket és szállítást. Egy-egy kategóriában több alternatíva van – nem kell mindet megvenni. Az alsó/felső kategóriaösszeg nem kész bevásárlócsomag: a házszintű és helyiségenkénti tételek ugyanazt a szükségletet is fedhetik. Az ajánlott összeg is tartalmaz házszintű/helyiségenkénti átfedéseket; nem teljes házköltségvetés.
 
 ## Hogyan olvasd
 
-- Minden kulcstételnél 2–3 lehetőség van: **⭐ ajánlott** (jó ár-érték, ezt venném), **💰 olcsóbb** (még vállalható), **💎 prémium** (jobb minőség, még észszerű áron).
+- A kulcstételeknél több jelölt szerepel: **⭐ ajánlott** (jó ár-érték, ezt venném), **💰 olcsóbb** (még vállalható), **💎 prémium** (jobb minőség, még észszerű áron).
+- **Alternatíva:** más anyag, méret vagy stílus miatt külön mérlegelendő. **Figyelőlista:** jelenleg készlethiányos a megadott változat. A próba/készletellenőrzés feltételével ajánlott termékek benne vannak a tervezési csomagban.
+- **Deviza és készlet:** 5 tétel EUR-os, ellenőrzött forintár nélkül; 3 tétel a megadott változatban elfogyott. Ezek, a meglévővel kiváltott dolgozóasztal-/székjelöltek és az illeszkedésre váró fürdőpult-referencia kimaradnak a forintos költségutakból; áruk nem nulla. A CSV külön jelöli a pénznemet, az eredeti árat és a költségútba számítást.
 - A táblázat alatt tételenként ott van, **miért illik** az irányelvekhez, és ⚠️ jelöli, **mire figyelj** (pl. fólia és nem furnér, nem mosható, melegebb fa tónus – mintát kérni).
 - Az egész lista egyben, szűrhetően: [`termekek.csv`](termekek.csv) (pontosvesszővel tagolt, Excelben / Numbersben megnyílik).
 
@@ -38,36 +74,35 @@
 
 | Szempont | Szabály |
 | --- | --- |
-| Fa | világos–közép tölgy (vagy kőris, nyír, akác kültéren), matt / olajozott; nincs sötét dió, magasfény, sárgás-vöröses tónus |
+| Fa | világos–közép fa preferencia; tömörfa / furnér / dekor külön jelölve, a fal–cream beige–padló–megrendelt bútor közös mintasorához illesztve |
 | Fonott | rattan, juta, tengerifű, bambusz, vízi jácint – beltérben nincs műanyag utánzat |
-| Textil | len, pamut, gyapjú, bouclé; törtfehér–homok alap, **zsályazöld** akcentus, kék csak kis adagban |
-| Fém | **szálcsiszolt sárgaréz** az egész házban (a kilincsek és a fürdőszerelvények már ilyenek); vasalat csak sárgaréz, fa vagy fehér; matt fekete legfeljebb egy-egy lámpán; nincs króm, nikkel, fényes arany |
-| Forma | alacsony, látszó lábak, néhány íves darab; zárt tárolás szemmagasság alatt |
-| Fény | 2700 K, CRI 90+ ahol az adat elérhető |
-| Kisbaba | levehető, mosható huzat; mosható szőnyeg ott, ahol eszik/játszik; falhoz rögzíthető bútor; lekerekített sarkok |
+| Textil | len, pamut, gyapjú előnyben; buklénál is külön szálösszetétel; műszálas kompromisszum jelölve; törtfehér–homok alap, **zsályazöld** akcentus, kék csak kis adagban |
+| Fém | **szálcsiszolt sárgaréz** a meglévő szerelvényeken; az új felületet közös mintával ellenőrizzük; aranyszínű bevonat / antik tónus, fa vagy fehér tudatos kompromisszum lehet |
+| Forma | könnyed forma, látszó lábak preferencia; stabil központi talp elfogadható; zárt tárolás szemmagasság alatt |
+| Kisbaba | mosható huzat és játszófelület előnyben; tisztítási kompromisszum jelölve; stabil, szükség szerint rögzített bútor |
 | Ár–érték | középkategória: kulcsdaraboknál tömörfa vagy valódi furnér előnyben; se a legolcsóbb, se luxus |
 
 ## Boltok
 
 | Bolt | Termék |
 | --- | --- |
-| IKEA | 251 |
-| Bonami | 21 |
-| szaniteronline.hu | 9 |
-| JYSK | 8 |
-| Sanitino.hu | 7 |
+| IKEA | 211 |
+| Bonami | 18 |
+| JYSK | 11 |
+| szaniteronline.hu | 8 |
+| Sanitino.hu | 6 |
 | Gallerix | 5 |
 | vidaXL | 5 |
+| Kave Home | 5 |
 | OBI | 4 |
-| AREZZO design (arezzodesign.hu) | 4 |
 | Westwing | 4 |
-| Fénymánia (fenymania.hu) | 4 |
+| H&M Home | 4 |
 | SzaniterOnline.hu | 4 |
+| AREZZO design (arezzodesign.hu) | 3 |
 | Árnyékolókweb (arnyekolokweb.hu) | 3 |
-| eMAG | 2 |
 | Gyerekbiztos.hu | 2 |
 | Bonami (Kave Home) | 2 |
-| Lumenet | 1 |
+| XXXLutz | 2 |
 | Függönymester | 1 |
 | Babaszafari | 1 |
 | Fitoland.hu | 1 |
@@ -75,54 +110,66 @@
 | Babakocsikháza | 1 |
 | bababoo.hu | 1 |
 | Szabó Kandalló Bolt | 1 |
-| furdoszoba-szaniter.hu (AXO saniter) | 1 |
 | Mozaik Kerámia (mozaikkeramia.hu) | 1 |
 | Praktiker | 1 |
 | Designmarket (Umbra) | 1 |
-| Fogantyúshop.hu | 1 |
 | eMAG (eladó: Czinege Manufaktúra Kft.) | 1 |
 | eMAG (eladó: NEXTLY) | 1 |
+| Fogantyúshop.hu | 1 |
 
-Az IKEA-hoz legközelebbi áruház Pilisjászfaluról **Budaörs**; a Bonami, vidaXL, Westwing csak webshop (házhoz szállítás). XXXLutz, Kave Home, H&M Home, lampak.hu oldalait a gépi lekérdezés ellen védik, ezért onnan nem került be ellenőrzött ár – ezeket érdemes személyesen / böngészőből megnézni alternatívának.
+Az új válogatás az XXXLutz, Kave Home, H&M Home és JYSK termékoldalait is feldolgozza. A konkrét szállítási költség és határidő címfüggő; a készletkorlátokat az érintett sorok jelzik. A Mömax kompromisszumos jelöltje a felülvizsgálati jelentésben szerepel.
 
 ## Hogyan lettek ellenőrizve
 
-- Minden termék **termékoldalát (vagy listaoldalát) 2026-09-20-án megnyitottam**: pontos név, aktuális Ft ár, működő link. Ami nem volt elérhető, elfogyott vagy 404-et adott, kimaradt – semmi nincs emlékezetből beírva.
-- 311 tétel ára a termékoldalról, 39 tételé listaoldalról / az IKEA keresőjéből származik (ezeket a helyiség-README *(ár listaoldalról)* megjegyzéssel jelöli).
-- **Linkellenőrzés:** 316 / 316 link adott 200-as választ a lista írásakor.
-- **Második, független árellenőrzés (2026-09-20):** 350 / 350 tétel ára egyezett a bolt aktuális árával (IKEA: kereső-API cikkszám szerint; többi bolt: a termékoldal áradata).
+- Az alaplista és a célzott bolti felülvizsgálat adatainak dátuma **2026-09-20**. A mostani fájlfrissítés a már elvégzett kutatást építi be; nem új teljes piaci ár- vagy készletellenőrzés.
+- 276 tétel ára a termékoldalról, 34 tételé listaoldalról / az IKEA keresőjéből származik (ezeket a helyiség-README *(ár listaoldalról)* megjegyzéssel jelöli).
+- **Korábbi gépi linkellenőrzés:** 316 / 316 URL adott 200-as választ. Ez a mentett ellenőrzés nem fedi le az újonnan felvett termékeket; azoknál megnyitott termékoldal volt a forrás.
+- **Mentett második árellenőrzés (2026-09-20):** a korábbi 350 tételből 350 ára egyezett. Ez történeti eredmény, nem a most kibővített lista új ellenőrzése.
 - A készlet és az akciós ár naponta változhat. Szezonális tételeknél (terasz, szeptember vége) ez fokozottan igaz.
 - A nyers adatok: [`_data/`](_data/). A táblázatok újragenerálhatók: `python3 products/_data/generate.py`.
 
+## Rögzített döntések és beszerzési határ
+
+- **Fehér fal**, cream beige nyílászárók és velük azonos színű fa párkányok. A színeket közös fizikai mintasorral egyeztetjük: fal, nyílászáró, padló, parketta, megrendelt bútor, fém, textil.
+- **A világítás megvan:** 46 világítási termékjelölt törölve az aktív forrásokból és exportokból; nincs további világítási specifikáció vagy izzóbeszerzés.
+- **A tömörfa konyhabútor megrendelve:** a négy fogantyútétel kérésre megmaradt; a front és kőpult megjelenése külön javaslatot kapott. A bárszékek, textilek és szabadon álló kiegészítők megmaradtak. A háztartási helyiség munkalapja külön feladat.
+- **Két fürdő és külön WC:** kádas fürdő 4,75 m²; zuhanyzós fürdő alapterülete még ismeretlen. A `12-furdo` közös mappa név szerint külön kezeli őket.
+- **A kádas fürdő szekrénye, mosdója és pultja megvan / megrendelve:** a korábbi szekrény- és pultjelölt törölve. A zuhanyzós fürdő szekrénye és mosdója is megvan, ezért azok korábbi jelöltjei és a hozzájuk feltételezett leeresztő is kikerült. Csak a zuhanyzós pult hiányzik; a régi ÅLSKEN referenciának maradt, illeszkedésig kizárva az összegből. A külön magasszekrény opcionális, nem része az ajánlott csomagnak; a tükör a megrendelt bútor méretéhez igazítandó.
+- A preferenciák és elfogadható kompromisszumok részletesen az [irányelvekben](../principles/Wooden%20coastal%20%E2%80%93%20erdei%20hat%C3%A1s%C3%BA%20bels%C5%91%C3%A9p%C3%ADt%C3%A9szeti%20ir%C3%A1nyelvek%20a%20h%C3%A1zhoz.md) szerepelnek. A fa hatású dekor, a műszálas textil és az eltérő fémtónus nem automatikusan egyenértékű az elsődleges preferenciával.
+
 ## Átfedés az összesítőben
 
-- A **`00-altalanos-hangulat`** mappa függöny-, karnis-, sötétítő- és izzótételei **az egész házra** számolnak (11 ablak, minden lámpa). Néhány helyiségnél (háló, dolgozó, gyerekszobák) külön is szerepel függöny vagy roló – ezek **alternatívák ugyanarra az ablakra**, a főösszesítő ezért a függönyöknél felfelé torzít. Függönyt egy helyről válassz: vagy a házszintű DYTÅG/LENDA csomagot, vagy a helyiségenkénti tételt.
-- Ugyanez igaz a kosarakra, a csúszásgátló alátétre és a kaspókra: a `00` mappa a közös családot adja meg, a helyiségek a konkrét darabot.
+- A **`00-altalanos-hangulat`** függöny-, karnis- és sötétítőtételei az egész házra terveznek. Néhány szobában külön is van függöny vagy roló: ezek ugyanarra az ablakra alternatívák, ezért az ajánlott főösszeg felfelé torzíthat. A házszintű csomagot és a helyiségenkénti megoldást ne rendeld meg egyszerre.
+- A kosarak, csúszásgátló alátétek és kaspók között is lehet ilyen átfedés. A darabszámok tervezési javaslatok, helyszíni kiosztás után véglegesíthetők.
+- A zuhanyzós fürdő új pultjának ára még hiányzik; a régi 102×49 cm-es ÅLSKEN ára nem alkalmazható automatikusan a meglévő bútorra. A konyhai kőpult és kandallóburkolat szintén egyedi ajánlatot igényel, nincs benne az összegben.
+- A beszerzési kör szűkítése miatti összegcsökkenés **nem új megtakarítás**: részben már megrendelt vagy megvett elemek kerültek ki. A korábbi ellenőrzések és a bolti összehasonlítás történeti árait ettől nem írtuk felül.
 
-## Ismert hiányok
+## Ismert hiányok és feltételek
 
-- **Len ágynemű:** az IKEA HU-n most nincs 100% len felnőtt garnitúra – pamut / pamut-lyocell került be, jelölve.
-- **Tömör tölgy + rattan fejvéges ágy** középáron nincs a magyar piacon; a Bonami Pola (≈575 e Ft) valóban prémium ár – így van jelölve.
-- **Len konyharuha** törtfehér / homok színben, piros vagy kék csík nélkül nem volt – kimaradt.
-- **Bárszék** harmadik (prémium) szintje hiányzik.
-- **XXXLutz, Kave Home, H&M Home, Zara Home, lampak.hu, Alza** oldalai a gépi lekérdezést blokkolják, ezért onnan nincs ellenőrzött ár – böngészőből érdemes alternatívát nézni.
-- **Munkalámpa** gyárilag CRI 90+ izzóval nem volt; külön 2700 K, CRI 90+ izzó kell hozzá (lásd `00-altalanos-hangulat`).
-- **Kandallóvédő rács:** független kandallóboltból való, az IKEA/JYSK-nál nem volt készleten.
-- **Fürdő – mosdószekrény:** elérhető árú, fiókos **tölgy furnér / tömör tölgy** mosdószekrény pulttal a magyar webshopokban nincs (a valódi fa megoldások 300–430 e Ft-nál kezdődnek). A listában ezért IKEA ÄNGSJÖN (tölgy hatású fólia) + ÅLSKEN bambusz pult az ajánlott; érdemes a **konyhabútort készítő asztalostól** is árat kérni ugyanabból a tölgyből – a fali kifolyók miatt úgyis méretre kell igazítani.
-- **Fürdő / WC – nem találtunk:** bambusz vagy teak zuhanyülőkét (az IKEA-é antracit), külön sárgaréz törölközőgyűrűt, olcsóbb design szifont és sarokszelepet, második pamut kádkilépőt (a többi poliészter). A Geberit Sigma50 *szálcsiszolt sárgaréz* nyomólap létezik, de kb. 292 e Ft / db – luxusárként kimaradt.
-- **Karnis:** valódi „szálcsiszolt sárgaréz” karnis a magyar piacon nincs; a legközelebbi a méretre vágott **„antik (matt arany)”** (Árnyékolókweb) – sötétebb, antikolt tónus, ezért **1 db-ot próbára** kell rendelni és a kilincshez nézni. Az ott látott ár 30%-os akciós ár, a bolt szerint 2026-09-21-ig.
-- **Egyéb:** olcsóbb, Ø 30+ cm-es matt padlókaspó, fa seprűtartó sín és IKEA BILD poszter (kikerült az IKEA.hu kínálatából) nem volt.
-- **Terasz:** szeptember végi szezonvég – több tétel „utolsó esély" státuszú; tavasszal újra kell nézni.
+- **Len ágynemű:** a H&M 100% len bézs szettje 59 995 Ft; a tervezett 200×200 / 50×60 változat az ellenőrzéskor elfogyott. Figyelőlista, a forintos összegekből kizárva.
+- **Lenkeverék konyharuha:** a H&M bézs rojtos és olívazöld/bézs csíkos jelöltje szintén készlethiányos volt.
+- **Bárszék:** a Kave Home Evera 149 €/db; nem tömör tölgy. Az EUR-os tételek ellenőrzött forintár híján kimaradnak a forintos összesítésből.
+- **Bolti lefedettség:** XXXLutz, Kave Home, H&M Home és JYSK célzott jelöltjei bekerültek. Az XXXLutz utolsó élő készletellenőrzése használati limit miatt nem fejeződött be; a webes termékoldal ára rendelés előtt megerősítendő.
+- **Zuhanyzós fürdőpult:** a meglévő szekrény és mosdó mérete/típusa szükséges. Első irány a matt, világos, finom kőrajzolatú felület; méret, teherbírás, mosdókivágás és kiállások együtt ellenőrizendők. [Konyha–kandalló–fürdőpult anyagjavaslat](anyagvalasztas-konyha-kandallo-furdopult.md).
+- **Karnis:** a listázott antik/matt arany változat tónusa eltérhet a szálcsiszolt sárgaréztől. Előbb egy minta/darab szükséges a meglévő kilincs mellé. A kutatáskor látott akció a bolt szerint 2026-09-21-ig szólt.
+- **Terasz:** a szezonvégi tételek és árak rendelés előtt újra ellenőrizendők.
 
-## Eldőlt (2026-09-20)
+## Beköltözési prioritás és meglévő darabok
 
-- **A ház fémje szálcsiszolt sárgaréz.** A beltéri ajtók és a nyílászárók kilincsei, valamint a fürdők és a WC szerelvényei már ilyenek – kilincs ezért nincs a listában. Minden vasalat jellegű tétel (csaptelep, fogantyú, akasztó, karnis, törölközőtartó) szálcsiszolt / matt sárgaréz, vagy fa / fehér. Matt fekete csak egy-egy lámpán fordul elő; króm, nikkel és fényes arany sehol.
-- **Fürdők + WC:** a burkolat (meleg szürke, beton hatású lap), a szaniter és a sárgaréz szerelvények készen vannak – a lista ezekhez csak bútort és kiegészítőt ad. A mosdók **fali kifolyósak**: a mosdószekrény rendelése előtt a kifolyók tengelytávját és magasságát le kell mérni, a pultra ültetett mosdó pedig **csaplyuk nélküli** legyen.
+- Minden terméknél Prio 1/Prio 2, indoklás és szükség esetén feltétel szerepel. Az ajánlott/olcsóbb/prémium besorolás ettől különálló.
+- A dolgozóasztalt és széket hozzátok: az új jelöltek későbbi csereopciók, a beszerzési összegekből kizárva. A 08-as szoba megerősítve vendég-/tartalékszoba, teljes berendezése halasztható.
+- Legalább egy kész fürdővel számolunk; a második fürdő pultja csak akkor halasztható, ha a kádas fürdő teljesen használható és elegendő.
+- A Prio 1 részösszeg nem teljes beköltözési költség: matrac/ágyrács, alap felszerelés, gépek és egyedi kivitelezés ára hiányozhat. A hat étkezőszék például teljes célmennyiség, nem rögzített induló minimum.
 
-## Nyitott döntések, amik a listát is érintik
+## Nyitott döntések
 
-- **Konyhai csaptelep és háztartási csaptelep:** a listában szálcsiszolt sárgaréz opciók vannak – csak akkor kellenek, ha a csaptelep még nincs megvéve / felszerelve. A sárgaréz tónusa gyártónként eltér: a kilincsekhez és a fürdőszerelvényekhez **mintával** érdemes összenézni.
-- **Költségkeret** helyiségenként vagy összesen – enélkül a ⭐/💰/💎 szintek közül nem lehet véglegesen választani.
-- **Gardrób burkolata** (nem parketta – Norwich Arena vagy kerámia).
-- **06 / 08 szoba szerepe:** a lista a 06-ot babaszobának, a 08-at gyerek-/vendégszobának vette.
-- **A konkrét fa tónus:** a bútoroknál „tölgy furnér / tölgy hatású" szerepel, de a tónust mintával, a krém bézs ajtó mellett kell ellenőrizni.
+- A zuhanyzós fürdő alapterülete, bútorozható falszélessége és kiállásainak mérete; a kádas fürdő megrendelt bútorának mérete a még szükséges tükörhöz.
+- A konyhai és háztartási csaptelepjelölt csak akkor kell, ha még nincs meg és nem része egy meglévő rendelésnek.
+- Költségkeret, ütemezés, gardróbburkolat, a 06/08 szobák használata és a közös anyagminták.
+
+## Beépített bolti felülvizsgálat (2026-09-20)
+
+- A 14 új termékjelölt megmaradt: 2 XXXLutz, 5 Kave Home, 4 H&M Home, 3 JYSK. Az 5 EUR-os és a 3 elfogyott tétel külön jelölve.
+- Az ISLEV szék próba után, a Cantus dohányzóasztal készletellenőrzés után ajánlott; a korábbi STOCKHOLM-modellek alternatívák.
+- A GUNNEMOR helyes anyaga 100% újrahasznosított poliészter. A DVALA ágypárnahuzat méret- és terméktípus-korlátja jelölve.
+- Részletek és további kompromisszumok: [vásárlási felülvizsgálat](vasarlasi-felulvizsgalat-2026-09-20.md).

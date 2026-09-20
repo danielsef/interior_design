@@ -1,32 +1,45 @@
+## Rögzített döntések és beszerzési határ
+
+- **Fehér fal**, cream beige nyílászárók és velük azonos színű fa párkányok. A színeket közös fizikai mintasorral egyeztetjük: fal, nyílászáró, padló, parketta, megrendelt bútor, fém, textil.
+- **A világítás megvan:** 46 világítási termékjelölt törölve az aktív forrásokból és exportokból; nincs további világítási specifikáció vagy izzóbeszerzés.
+- **A tömörfa konyhabútor megrendelve:** a négy fogantyútétel kérésre megmaradt; a front és kőpult megjelenése külön javaslatot kapott. A bárszékek, textilek és szabadon álló kiegészítők megmaradtak. A háztartási helyiség munkalapja külön feladat.
+- **Két fürdő és külön WC:** kádas fürdő 4,75 m²; zuhanyzós fürdő alapterülete még ismeretlen. A `12-furdo` közös mappa név szerint külön kezeli őket.
+- **A kádas fürdő szekrénye, mosdója és pultja megvan / megrendelve:** a korábbi szekrény- és pultjelölt törölve. A zuhanyzós fürdő szekrénye és mosdója is megvan, ezért azok korábbi jelöltjei és a hozzájuk feltételezett leeresztő is kikerült. Csak a zuhanyzós pult hiányzik; a régi ÅLSKEN referenciának maradt, illeszkedésig kizárva az összegből. A külön magasszekrény opcionális, nem része az ajánlott csomagnak; a tükör a megrendelt bútor méretéhez igazítandó.
+- A preferenciák és elfogadható kompromisszumok részletesen az [irányelvekben](../principles/Wooden%20coastal%20%E2%80%93%20erdei%20hat%C3%A1s%C3%BA%20bels%C5%91%C3%A9p%C3%ADt%C3%A9szeti%20ir%C3%A1nyelvek%20a%20h%C3%A1zhoz.md) szerepelnek. A fa hatású dekor, a műszálas textil és az eltérő fémtónus nem automatikusan egyenértékű az elsődleges preferenciával.
+
 ## Átfedés az összesítőben
 
-- A **`00-altalanos-hangulat`** mappa függöny-, karnis-, sötétítő- és izzótételei **az egész házra** számolnak (11 ablak, minden lámpa). Néhány helyiségnél (háló, dolgozó, gyerekszobák) külön is szerepel függöny vagy roló – ezek **alternatívák ugyanarra az ablakra**, a főösszesítő ezért a függönyöknél felfelé torzít. Függönyt egy helyről válassz: vagy a házszintű DYTÅG/LENDA csomagot, vagy a helyiségenkénti tételt.
-- Ugyanez igaz a kosarakra, a csúszásgátló alátétre és a kaspókra: a `00` mappa a közös családot adja meg, a helyiségek a konkrét darabot.
+- A **`00-altalanos-hangulat`** függöny-, karnis- és sötétítőtételei az egész házra terveznek. Néhány szobában külön is van függöny vagy roló: ezek ugyanarra az ablakra alternatívák, ezért az ajánlott főösszeg felfelé torzíthat. A házszintű csomagot és a helyiségenkénti megoldást ne rendeld meg egyszerre.
+- A kosarak, csúszásgátló alátétek és kaspók között is lehet ilyen átfedés. A darabszámok tervezési javaslatok, helyszíni kiosztás után véglegesíthetők.
+- A zuhanyzós fürdő új pultjának ára még hiányzik; a régi 102×49 cm-es ÅLSKEN ára nem alkalmazható automatikusan a meglévő bútorra. A konyhai kőpult és kandallóburkolat szintén egyedi ajánlatot igényel, nincs benne az összegben.
+- A beszerzési kör szűkítése miatti összegcsökkenés **nem új megtakarítás**: részben már megrendelt vagy megvett elemek kerültek ki. A korábbi ellenőrzések és a bolti összehasonlítás történeti árait ettől nem írtuk felül.
 
-## Ismert hiányok
+## Ismert hiányok és feltételek
 
-- **Len ágynemű:** az IKEA HU-n most nincs 100% len felnőtt garnitúra – pamut / pamut-lyocell került be, jelölve.
-- **Tömör tölgy + rattan fejvéges ágy** középáron nincs a magyar piacon; a Bonami Pola (≈575 e Ft) valóban prémium ár – így van jelölve.
-- **Len konyharuha** törtfehér / homok színben, piros vagy kék csík nélkül nem volt – kimaradt.
-- **Bárszék** harmadik (prémium) szintje hiányzik.
-- **XXXLutz, Kave Home, H&M Home, Zara Home, lampak.hu, Alza** oldalai a gépi lekérdezést blokkolják, ezért onnan nincs ellenőrzött ár – böngészőből érdemes alternatívát nézni.
-- **Munkalámpa** gyárilag CRI 90+ izzóval nem volt; külön 2700 K, CRI 90+ izzó kell hozzá (lásd `00-altalanos-hangulat`).
-- **Kandallóvédő rács:** független kandallóboltból való, az IKEA/JYSK-nál nem volt készleten.
-- **Fürdő – mosdószekrény:** elérhető árú, fiókos **tölgy furnér / tömör tölgy** mosdószekrény pulttal a magyar webshopokban nincs (a valódi fa megoldások 300–430 e Ft-nál kezdődnek). A listában ezért IKEA ÄNGSJÖN (tölgy hatású fólia) + ÅLSKEN bambusz pult az ajánlott; érdemes a **konyhabútort készítő asztalostól** is árat kérni ugyanabból a tölgyből – a fali kifolyók miatt úgyis méretre kell igazítani.
-- **Fürdő / WC – nem találtunk:** bambusz vagy teak zuhanyülőkét (az IKEA-é antracit), külön sárgaréz törölközőgyűrűt, olcsóbb design szifont és sarokszelepet, második pamut kádkilépőt (a többi poliészter). A Geberit Sigma50 *szálcsiszolt sárgaréz* nyomólap létezik, de kb. 292 e Ft / db – luxusárként kimaradt.
-- **Karnis:** valódi „szálcsiszolt sárgaréz” karnis a magyar piacon nincs; a legközelebbi a méretre vágott **„antik (matt arany)”** (Árnyékolókweb) – sötétebb, antikolt tónus, ezért **1 db-ot próbára** kell rendelni és a kilincshez nézni. Az ott látott ár 30%-os akciós ár, a bolt szerint 2026-09-21-ig.
-- **Egyéb:** olcsóbb, Ø 30+ cm-es matt padlókaspó, fa seprűtartó sín és IKEA BILD poszter (kikerült az IKEA.hu kínálatából) nem volt.
-- **Terasz:** szeptember végi szezonvég – több tétel „utolsó esély" státuszú; tavasszal újra kell nézni.
+- **Len ágynemű:** a H&M 100% len bézs szettje 59 995 Ft; a tervezett 200×200 / 50×60 változat az ellenőrzéskor elfogyott. Figyelőlista, a forintos összegekből kizárva.
+- **Lenkeverék konyharuha:** a H&M bézs rojtos és olívazöld/bézs csíkos jelöltje szintén készlethiányos volt.
+- **Bárszék:** a Kave Home Evera 149 €/db; nem tömör tölgy. Az EUR-os tételek ellenőrzött forintár híján kimaradnak a forintos összesítésből.
+- **Bolti lefedettség:** XXXLutz, Kave Home, H&M Home és JYSK célzott jelöltjei bekerültek. Az XXXLutz utolsó élő készletellenőrzése használati limit miatt nem fejeződött be; a webes termékoldal ára rendelés előtt megerősítendő.
+- **Zuhanyzós fürdőpult:** a meglévő szekrény és mosdó mérete/típusa szükséges. Első irány a matt, világos, finom kőrajzolatú felület; méret, teherbírás, mosdókivágás és kiállások együtt ellenőrizendők. [Konyha–kandalló–fürdőpult anyagjavaslat](anyagvalasztas-konyha-kandallo-furdopult.md).
+- **Karnis:** a listázott antik/matt arany változat tónusa eltérhet a szálcsiszolt sárgaréztől. Előbb egy minta/darab szükséges a meglévő kilincs mellé. A kutatáskor látott akció a bolt szerint 2026-09-21-ig szólt.
+- **Terasz:** a szezonvégi tételek és árak rendelés előtt újra ellenőrizendők.
 
-## Eldőlt (2026-09-20)
+## Beköltözési prioritás és meglévő darabok
 
-- **A ház fémje szálcsiszolt sárgaréz.** A beltéri ajtók és a nyílászárók kilincsei, valamint a fürdők és a WC szerelvényei már ilyenek – kilincs ezért nincs a listában. Minden vasalat jellegű tétel (csaptelep, fogantyú, akasztó, karnis, törölközőtartó) szálcsiszolt / matt sárgaréz, vagy fa / fehér. Matt fekete csak egy-egy lámpán fordul elő; króm, nikkel és fényes arany sehol.
-- **Fürdők + WC:** a burkolat (meleg szürke, beton hatású lap), a szaniter és a sárgaréz szerelvények készen vannak – a lista ezekhez csak bútort és kiegészítőt ad. A mosdók **fali kifolyósak**: a mosdószekrény rendelése előtt a kifolyók tengelytávját és magasságát le kell mérni, a pultra ültetett mosdó pedig **csaplyuk nélküli** legyen.
+- Minden terméknél Prio 1/Prio 2, indoklás és szükség esetén feltétel szerepel. Az ajánlott/olcsóbb/prémium besorolás ettől különálló.
+- A dolgozóasztalt és széket hozzátok: az új jelöltek későbbi csereopciók, a beszerzési összegekből kizárva. A 08-as szoba megerősítve vendég-/tartalékszoba, teljes berendezése halasztható.
+- Legalább egy kész fürdővel számolunk; a második fürdő pultja csak akkor halasztható, ha a kádas fürdő teljesen használható és elegendő.
+- A Prio 1 részösszeg nem teljes beköltözési költség: matrac/ágyrács, alap felszerelés, gépek és egyedi kivitelezés ára hiányozhat. A hat étkezőszék például teljes célmennyiség, nem rögzített induló minimum.
 
-## Nyitott döntések, amik a listát is érintik
+## Nyitott döntések
 
-- **Konyhai csaptelep és háztartási csaptelep:** a listában szálcsiszolt sárgaréz opciók vannak – csak akkor kellenek, ha a csaptelep még nincs megvéve / felszerelve. A sárgaréz tónusa gyártónként eltér: a kilincsekhez és a fürdőszerelvényekhez **mintával** érdemes összenézni.
-- **Költségkeret** helyiségenként vagy összesen – enélkül a ⭐/💰/💎 szintek közül nem lehet véglegesen választani.
-- **Gardrób burkolata** (nem parketta – Norwich Arena vagy kerámia).
-- **06 / 08 szoba szerepe:** a lista a 06-ot babaszobának, a 08-at gyerek-/vendégszobának vette.
-- **A konkrét fa tónus:** a bútoroknál „tölgy furnér / tölgy hatású" szerepel, de a tónust mintával, a krém bézs ajtó mellett kell ellenőrizni.
+- A zuhanyzós fürdő alapterülete, bútorozható falszélessége és kiállásainak mérete; a kádas fürdő megrendelt bútorának mérete a még szükséges tükörhöz.
+- A konyhai és háztartási csaptelepjelölt csak akkor kell, ha még nincs meg és nem része egy meglévő rendelésnek.
+- Költségkeret, ütemezés, gardróbburkolat, a 06/08 szobák használata és a közös anyagminták.
+
+## Beépített bolti felülvizsgálat (2026-09-20)
+
+- A 14 új termékjelölt megmaradt: 2 XXXLutz, 5 Kave Home, 4 H&M Home, 3 JYSK. Az 5 EUR-os és a 3 elfogyott tétel külön jelölve.
+- Az ISLEV szék próba után, a Cantus dohányzóasztal készletellenőrzés után ajánlott; a korábbi STOCKHOLM-modellek alternatívák.
+- A GUNNEMOR helyes anyaga 100% újrahasznosított poliészter. A DVALA ágypárnahuzat méret- és terméktípus-korlátja jelölve.
+- Részletek és további kompromisszumok: [vásárlási felülvizsgálat](vasarlasi-felulvizsgalat-2026-09-20.md).

@@ -15,7 +15,10 @@
   "why": "Bővíthető 135-ről 190 cm-re, így 6-8 fő is leülhet – a nagy teraszra ajánlott 180-220 cm-es méretet így éri el. Fa asztallap, ahogy az irányelv kéri.",
   "caveat": "A lábazat porszórt acél, nem tömör fa – évente 1-2x újrapácolást igényel a fa lap, hogy ne száradjon ki.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A belső lakótér használható teraszbútor nélkül; kültéri berendezés fél évvel később is vásárolható.",
+  "priority_condition": ""
  },
  {
   "room": "16-17-terasz",
@@ -33,7 +36,10 @@
   "why": "Teljesen tömör akácfa, fém elemek nélkül – vásárlói vélemények szerint 8 főnek is elég hely van körülötte, pedig 140 cm-es.",
   "caveat": "A 180-220 cm-es célmérethez képest kisebb; szorosabb elrendezésben ülnek majd 6-8-an.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A belső lakótér használható teraszbútor nélkül; kültéri berendezés fél évvel később is vásárolható.",
+  "priority_condition": ""
  },
  {
   "room": "16-17-terasz",
@@ -51,7 +57,10 @@
   "why": "A legnagyobb, végig tömör akácfa asztal a listán (fém láb nélkül) – valódi, nehéz fa darab, ami elbírja a 6-8 fős étkezést és jól illik az erdős telek robusztusabb hangulatához.",
   "caveat": "Kezeletlen felület, beszerelés után mindenképp le kell olajozni/pácolni; a vidaXL szállítási ideje hosszabb lehet szezon végén.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A belső lakótér használható teraszbútor nélkül; kültéri berendezés fél évvel később is vásárolható.",
+  "priority_condition": ""
  },
  {
   "room": "16-17-terasz",
@@ -69,7 +78,10 @@
   "why": "Összecsukható, ezért télen könnyen tárolható a fedett teraszrészen vagy a háztartási helyiségben; 6 db azonos fatónusú szék illeszkedik a ház domináns akác/tölgy jellegű fa palettájához.",
   "caveat": "",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A belső lakótér használható teraszbútor nélkül; kültéri berendezés fél évvel később is vásárolható.",
+  "priority_condition": ""
  },
  {
   "room": "16-17-terasz",
@@ -87,7 +99,10 @@
   "why": "Egyszerűbb, dönthető háttámla nélküli változat, de ugyanaz az akácfa és tónus, mint a többi NÄMMARÖ darab – jó ár/érték 6 db-hoz.",
   "caveat": "Kevésbé kényelmes hosszabb étkezéshez, nincs dönthető háttámla.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A belső lakótér használható teraszbútor nélkül; kültéri berendezés fél évvel később is vásárolható.",
+  "priority_condition": ""
  },
  {
   "room": "16-17-terasz",
@@ -105,7 +120,10 @@
   "why": "Karfás, párnázott változat – kényelmesebb hosszabb étkezésekhez, a párna törtfehér/világosszürke-bézs tónusa illik az irányelv textilszínéhez.",
   "caveat": "Nem összecsukható, nagyobb helyet foglal télre való bezsúfoláskor.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A belső lakótér használható teraszbútor nélkül; kültéri berendezés fél évvel később is vásárolható.",
+  "priority_condition": ""
  },
  {
   "room": "16-17-terasz",
@@ -123,7 +141,10 @@
   "why": "Fa vázas kültéri kanapé törtfehér-bézs párnákkal, pontosan az irányelv kérése szerint; a lábtartó esti pihenéshez is jó.",
   "caveat": "A párnahuzat levehetőségéről/moshatóságáról a termékoldal nem közöl külön adatot – érdemes rákérdezni vásárlás előtt, esős idényben mindenképp fedél alá vagy huzat alá kell tenni.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A belső lakótér használható teraszbútor nélkül; kültéri berendezés fél évvel később is vásárolható.",
+  "priority_condition": ""
  },
  {
   "room": "16-17-terasz",
@@ -141,7 +162,10 @@
   "why": "Kisebb kétszemélyes elem a kisebb büdzséhez, ugyanabban az akác tónusban, mint a nagy kanapé – bővíthető később NÄMMARÖ elemekkel.",
   "caveat": "A párna itt nincs benne az árban, azt (pl. Kuddarna vagy Frösön/Duvholmen) külön kell megvenni törtfehér/bézs színben.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A belső lakótér használható teraszbútor nélkül; kültéri berendezés fél évvel később is vásárolható.",
+  "priority_condition": ""
  },
  {
   "room": "16-17-terasz",
@@ -159,7 +183,10 @@
   "why": "L-alakú sarokváltozat nagyobb ülőfelületet ad a 29,43 m²-es teraszon, ugyanabban a fa- és textiltónusban, mint az ajánlott kanapé.",
   "caveat": "Nagy helyigényű darab – érdemes lemérni, hogy a sarokforma illeszkedik-e a terasz kialakításához.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A belső lakótér használható teraszbútor nélkül; kültéri berendezés fél évvel később is vásárolható.",
+  "priority_condition": ""
  },
  {
   "room": "16-17-terasz",
@@ -177,7 +204,10 @@
   "why": "Kisasztal/dohányzóasztal a lounge kanapé mellé, azonos akác tónusban – a kis teraszon reggeli kávézóasztalkaként is használható.",
   "caveat": "",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A belső lakótér használható teraszbútor nélkül; kültéri berendezés fél évvel később is vásárolható.",
+  "priority_condition": ""
  },
  {
   "room": "16-17-terasz",
@@ -195,7 +225,10 @@
   "why": "Pontosan a kért méret (200x300) és anyag (PP síkszövött, juta hatású), bézs tónusa a beltéri padló homok/bézs színét folytatja a teraszon.",
   "caveat": "",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A belső lakótér használható teraszbútor nélkül; kültéri berendezés fél évvel később is vásárolható.",
+  "priority_condition": ""
  },
  {
   "room": "16-17-terasz",
@@ -213,7 +246,10 @@
   "why": "Olcsóbb belépő méret; két darabbal (pl. az étkező- és a lounge-zóna elé) lefedhető a nagy terasz jelentős része a 200x300-as szőnyeg áránál kevesebbért.",
   "caveat": "Nem egy nagy darab, hanem kisebb szőnyegek – vizuálisan törtebb hatású, mint egy nagy egybefüggő szőnyeg.",
   "verified": "listing",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A belső lakótér használható teraszbútor nélkül; kültéri berendezés fél évvel később is vásárolható.",
+  "priority_condition": ""
  },
  {
   "room": "16-17-terasz",
@@ -231,7 +267,10 @@
   "why": "Függő (oldalt konzolos) napernyő, ezért az asztal fölött nincs középső láb – a legjobb színillesztés a törtfehér/bézs palettához az IKEA napernyők közül.",
   "caveat": "Szeles időben mindig össze kell csukni, nem marad kint automatikusan biztonságosan; erdős telken a lombkorona valamennyi szélvédelmet ad, de nyílt, szeles napokon erre figyelni kell.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A belső lakótér használható teraszbútor nélkül; kültéri berendezés fél évvel később is vásárolható.",
+  "priority_condition": ""
  },
  {
   "room": "16-17-terasz",
@@ -249,7 +288,10 @@
   "why": "Fix árnyékoló vitorla, jóval nagyobb felületet fed be alacsonyabb áron, mint egy hordozható napernyő – erdős, páradús telken légáteresztő, gyorsan szárad.",
   "caveat": "Rögzítő oszlopok/fali fülek nem részei a csomagnak, azokat külön kell megoldani; nem hordozható, rögzített kiépítést igényel.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A belső lakótér használható teraszbútor nélkül; kültéri berendezés fél évvel később is vásárolható.",
+  "priority_condition": ""
  },
  {
   "room": "16-17-terasz",
@@ -267,7 +309,10 @@
   "why": "Zárt fa tárolás a párnáknak esős/nedves erdei időben – ülőalkalmatosságként is használható, illik a NÄMMARÖ bútorokhoz.",
   "caveat": "",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A belső lakótér használható teraszbútor nélkül; kültéri berendezés fél évvel később is vásárolható.",
+  "priority_condition": ""
  },
  {
   "room": "16-17-terasz",
@@ -285,7 +330,10 @@
   "why": "Erdős telken a hulló levél és a nedvesség miatt fontos a téli/téliesített letakarás – ez véd a lombtól és a csapadéktól a fa kanapén.",
   "caveat": "Csak fekete színben elérhető – esztétikailag nem illik a palettához, de télire úgyis eltakarja a bútort.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A belső lakótér használható teraszbútor nélkül; kültéri berendezés fél évvel később is vásárolható.",
+  "priority_condition": "A kültéri bútor beszerzésével és a gyártói ápolási előírással együtt ütemezendő; a később vásárolt bútorhoz most nem kell."
  },
  {
   "room": "16-17-terasz",
@@ -303,7 +351,10 @@
   "why": "Kompakt reggelizőszett a 12,22 m²-es kis teraszra, összecsukható darabok, fa ülőfelület és matt fekete fém – illik az egyetlen megengedett fémszínhez.",
   "caveat": "A váz fekete acél, nem tömör fa; a fém nagyobb felületen jelenik meg, mint az irányelv „kis adagban” elve javasolná.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A belső lakótér használható teraszbútor nélkül; kültéri berendezés fél évvel később is vásárolható.",
+  "priority_condition": ""
  },
  {
   "room": "16-17-terasz",
@@ -321,7 +372,10 @@
   "why": "Két kényelmes fa pihenőszék – szó szerint követi az inspirációs \"fedett-veranda-hintaszek-erdo\" hangulatot reggeli kávézósarokként, mosható huzatú párnákkal.",
   "caveat": "Ehhez külön kisasztal szükséges (lásd a kültéri kisasztal tételt) – önmagában nem tartalmaz asztalkát.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A belső lakótér használható teraszbútor nélkül; kültéri berendezés fél évvel később is vásárolható.",
+  "priority_condition": ""
  },
  {
   "room": "16-17-terasz",
@@ -339,79 +393,10 @@
   "why": "Fa hintapad az inspirációs képen látott \"fedett-veranda-hintaszek-erdo\" hangulathoz – opcionális extra a kis teraszra, vízálló párnákkal.",
   "caveat": "Opcionális tétel; nagy, lánccal vagy állvánnyal felfüggesztett darab, mérje le előre a kis terasz belmagasságát/helyét.",
   "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "16-17-terasz",
-  "category": "Lámpás",
-  "name": "PÅVEFINK Lámpás tömbgyertyához, bambusz",
-  "store": "IKEA",
-  "where": "online + áruház (Budaörs, Örs vezér tere, Soroksár)",
-  "material_color": "bambusz váz, rattan kötözés, átlátszó hőálló üveg",
-  "size": "Ø 27 cm, mag. 33 cm",
-  "price_huf": 12990,
-  "price_note": "",
-  "url": "https://www.ikea.com/hu/hu/p/pavefink-lampas-toembgyertyahoz-bambusz-80610002/",
-  "tier": "ajánlott",
-  "qty": 2,
-  "why": "Fonott bambusz/rattan lámpás pár, ami az irányelv fonott rost akcentusát hozza a teraszra; LED gyertyával biztonságosan használható kisgyerek mellett is.",
-  "caveat": "SZEZONVÉGI KÉSZLET: a termékoldal \"utolsó esély a vásárlásra\" jelzéssel fut 2026 szeptemberében – érdemes hamar rendelni, mert könnyen elfogyhat, utánpótlás nem biztos.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "16-17-terasz",
-  "category": "Lámpás",
-  "name": "BORRBY Lámpás tömbgyertyához",
-  "store": "IKEA",
-  "where": "online + áruház (Budaörs, Örs vezér tere, Soroksár)",
-  "material_color": "matt fekete fém, üveg",
-  "size": "28 cm",
-  "price_huf": 2490,
-  "price_note": "/db",
-  "url": "https://www.ikea.com/hu/hu/p/borrby-lampas-toembgyertyahoz-bel-kuelter-fekete-10156109/",
-  "tier": "olcsóbb",
-  "qty": 2,
-  "why": "Egyszerű, tartós matt fekete lámpás – a ház egyetlen megengedett fémszínében –, ha a bambusz PÅVEFINK elfogy vagy olcsóbb megoldás kell.",
-  "caveat": "Kevésbé „fonott/organikus” hatású, mint a bambusz verzió, inkább minimál fém forma.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "16-17-terasz",
-  "category": "Fényfüzér",
-  "name": "GETKÅL LED-es világító füzér, kültéri",
-  "store": "IKEA",
-  "where": "online + áruház (Budaörs, Örs vezér tere, Soroksár)",
-  "material_color": "polikarbonát búra, hálózati tápellátás",
-  "size": "15 m, 100 db LED",
-  "price_huf": 4990,
-  "price_note": "",
-  "url": "https://www.ikea.com/hu/hu/p/getkal-led-es-vilagito-fuezer-kuelteri-30602877/",
-  "tier": "ajánlott",
-  "qty": 1,
-  "why": "Fix, 2700 K meleg fehér fényű, IP44-es kültéri füzér – pontosan a ház egységes 2700 K színhőmérsékletéhez illeszkedik, alkonykapcsolóval.",
-  "caveat": "Hálózati (nem szolár) tápellátású, aljzat vagy hosszabbító kell hozzá a teraszon.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "16-17-terasz",
-  "category": "Kültéri fali lámpa",
-  "name": "UPPLID Falilámpa, kültéri",
-  "store": "IKEA",
-  "where": "online + áruház (Budaörs, Örs vezér tere, Soroksár)",
-  "material_color": "matt fekete fém, átlátszó üveg búra",
-  "size": "28 cm",
-  "price_huf": 10990,
-  "price_note": "",
-  "url": "https://www.ikea.com/hu/hu/p/upplid-falilampa-kuelteri-fekete-20227535/",
-  "tier": "ajánlott",
-  "qty": 2,
-  "why": "IP44-es, matt fekete kültéri fali lámpa – a ház egyetlen elfogadott fémszínében, a bejárat/terasz ajtó két oldalára.",
-  "caveat": "Az izzó külön vásárlandó (E27, kerek átlátszó LED) – vegyünk hozzá 2700 K-es, 90+ CRI izzót, mert a lámpa maga nem tartalmazza.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A belső lakótér használható teraszbútor nélkül; kültéri berendezés fél évvel később is vásárolható.",
+  "priority_condition": ""
  },
  {
   "room": "16-17-terasz",
@@ -429,7 +414,10 @@
   "why": "Fagyálló (fedve kint hagyható télen is), matt sötétbézs – pontosan a kért homok/törtfehér-semleges tónus egy olajfa vagy dísznövény-fűcsomó számára.",
   "caveat": "Fém, nem kerámia anyagú – ha kerámiahatást szeretnénk, ez inkább matt fém felület.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A belső lakótér használható teraszbútor nélkül; kültéri berendezés fél évvel később is vásárolható.",
+  "priority_condition": ""
  },
  {
   "room": "16-17-terasz",
@@ -447,7 +435,10 @@
   "why": "Törtfehér/bézs, vízlepergető, cipzáras – levehető, mosható huzat, ami a kisbabás háztartás szűrőjének is megfelel.",
   "caveat": "",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A belső lakótér használható teraszbútor nélkül; kültéri berendezés fél évvel később is vásárolható.",
+  "priority_condition": ""
  },
  {
   "room": "16-17-terasz",
@@ -465,7 +456,10 @@
   "why": "Ez a tompított, sötét szürkészöld tónus a legközelebbi elérhető IKEA-s párna a kért zsályazöld akcentushoz – fényálló, kültéren sem fakul.",
   "caveat": "A párnabetétet külön kell hozzá venni; a szín inkább „szürkészöld”, nem tiszta zsálya – helyszínen érdemes mintát nézni a többi zöld textillel együtt.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A belső lakótér használható teraszbútor nélkül; kültéri berendezés fél évvel később is vásárolható.",
+  "priority_condition": ""
  },
  {
   "room": "16-17-terasz",
@@ -483,6 +477,9 @@
   "why": "Akácra és teakre egyaránt ajánlott ápoló olaj – az erdős, nedves telken a fa bútoroknak évi 1-2 kezelésre lesz szükségük a kiszáradás/repedés ellen, ahogy azt az IKEA akác termékoldalai is javasolják.",
   "caveat": "",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A belső lakótér használható teraszbútor nélkül; kültéri berendezés fél évvel később is vásárolható.",
+  "priority_condition": "A kültéri bútor beszerzésével és a gyártói ápolási előírással együtt ütemezendő; a később vásárolt bútorhoz most nem kell."
  }
 ]

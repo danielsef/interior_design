@@ -15,7 +15,10 @@
   "why": "Valódi tömör tölgy, olajozott felület, alacsony, letisztult fejvég és jól látható lábak – pontosan az irányelv 'alacsony és letisztult, látszó lábak' elve. Ez a legjobb ár-érték arány a rögzített tölgy tónushoz.",
   "caveat": "A fejvég sima tölgy, nem rattan és nem kárpitozott – ha a rattan fejvég fontosabb, lásd az 'olcsóbb' opciót.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A mindennapi fekhely a beköltözési minimum része.",
+  "priority_condition": ""
  },
  {
   "room": "05-halo",
@@ -33,7 +36,10 @@
   "why": "Valódi kézzel font rattan fejvég – ez a legpontosabb találat az irányelv 'fonott rattan fejvég' kérésére, jól látható fém lábakkal.",
   "caveat": "A váz fehér fém, nem tölgy; a méret 140x200, nem 160/180 – két felnőttnek szűkebb lehet. Falhoz rögzítés ajánlott stabilitás miatt (kisgyerekes háztartás).",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A mindennapi fekhely a beköltözési minimum része.",
+  "priority_condition": ""
  },
  {
   "room": "05-halo",
@@ -51,7 +57,10 @@
   "why": "Az egyetlen fellelt hazai ajánlat, ami egyszerre tömör tölgy vázat ÉS valódi rattan fejtámlát ad 160x200-ban – tökéletesen lefedi mindkét rögzített elvárást.",
   "caveat": "Jelentősen drágább, mint a közepes szegmens (közel 6x az 'ajánlott' árnak) – ez már a luxus kategória felé megy, csak akkor válaszd, ha a pontos anyagpárosítás mindenáron fontos.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A mindennapi fekhely a beköltözési minimum része.",
+  "priority_condition": ""
  },
  {
   "room": "05-halo",
@@ -69,7 +78,10 @@
   "why": "Valódi tölgy furnér, kerek, karcsú lábak – 'kevesebb, de nagyobb' helyett itt a minőség számít: a fiók zárt tárolást ad a babás praktikum miatt.",
   "caveat": "",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A fekhely, alap ágynemű és sötétítés mellett fél évig nélkülözhető vagy átmenetileg helyettesíthető.",
+  "priority_condition": ""
  },
  {
   "room": "05-halo",
@@ -87,43 +99,10 @@
   "why": "Alacsony árú, mégis tölgy-hatású, 2 fiókos zárt tárolás – jó ideiglenes vagy költségkímélő megoldás.",
   "caveat": "Fóliázott forgácslap, nem valódi fa vagy furnér – közelről és élettartamban gyengébb a TONSTAD-nál.",
   "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "05-halo",
-  "category": "Éjjeli lámpa",
-  "name": "BLIDVÄDER Asztali lámpa, törtfehér/kerámia bézs",
-  "store": "IKEA",
-  "where": "online (ikea.com/hu) + áruház (Budaörs)",
-  "material_color": "kőedény (kerámia) talp, bézs ernyő (85% újrahasznosított poliészter, 15% lenvászon)",
-  "size": "magasság 50 cm, ernyő átm. 30 cm, E27 foglalat",
-  "price_huf": 26990,
-  "price_note": "/db, izzó külön",
-  "url": "https://www.ikea.com/hu/hu/p/blidvaeder-asztali-lampa-toertfeher-keramia-bezs-80501258/",
-  "tier": "ajánlott",
-  "qty": 2,
-  "why": "Matt kerámia talp + len-tartalmú bézs ernyő – pontosan az irányelv 'matt kerámia, len ernyő' leírása, 2700K CRI90+ izzóval használva otthonos hangulatfényt ad.",
-  "caveat": "Az ernyő nagyrészt újrahasznosított poliészter, csak 15% a lenvászon-tartalma – közelről tapintva nem tiszta len.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "05-halo",
-  "category": "Éjjeli lámpa",
-  "name": "TVÄRHAND Asztali lámpa, fekete/bambusz",
-  "store": "IKEA",
-  "where": "online (ikea.com/hu) + áruház (Budaörs)",
-  "material_color": "bambusz talp, matt fekete fém cső",
-  "size": "magasság 47 cm, E27 foglalat",
-  "price_huf": 4990,
-  "price_note": "/db, izzó külön",
-  "url": "https://www.ikea.com/hu/hu/p/tvaerhand-asztali-lampa-fekete-bambusz-90510894/",
-  "tier": "olcsóbb",
-  "qty": 2,
-  "why": "Nagyon olcsó, mégis fonott/természetes anyagot (bambusz) és matt fekete fémet kombinál – illik a ház egységes fémszínéhez.",
-  "caveat": "Apró, egyszerű forma – kevésbé 'nagyobb, kevesebb darab' jellegű, mint a BLIDVÄDER.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A fekhely, alap ágynemű és sötétítés mellett fél évig nélkülözhető vagy átmenetileg helyettesíthető.",
+  "priority_condition": ""
  },
  {
   "room": "05-halo",
@@ -139,9 +118,12 @@
   "tier": "ajánlott",
   "qty": 1,
   "why": "Sima, mintátlan, előmosott pamut natúr színben – matt textúra, pontosan a 'mosott len vagy pamut, törtfehér' irányelvhez illik.",
-  "caveat": "Pamut, nem len – ha a len tapintás fontos, a prémium opciót érdemes nézni, de az sem tiszta len.",
+  "caveat": "Pamut, nem len. A H&M 100% len alternatívája bekerült a figyelőlistába, de a 200×200 / 50×60 méret az ellenőrzéskor elfogyott.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "Legalább egy használható, megfelelő méretű garnitúra szükséges.",
+  "priority_condition": ""
  },
  {
   "room": "05-halo",
@@ -159,7 +141,10 @@
   "why": "Puhább lyocell-pamut keverék, homok/bézs tónus – finomabb fogású felsőkategóriás választás a hálóba.",
   "caveat": "Szatén kötésű, enyhén fényes felület – az irányelv a fényes szatént nagy felületen kerülendőnek tartja, ágyneműnél ez kompromisszum.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "Legalább egy használható, megfelelő méretű garnitúra szükséges.",
+  "priority_condition": ""
  },
  {
   "room": "05-halo",
@@ -177,7 +162,10 @@
   "why": "Valódi gyapjú, sima, mintátlan, bézs – meleg, puha réteg a fa parkettán, illik a 'puhább, melegebb' hálószoba elvhez.",
   "caveat": "Nem mosható (csak porszívózható, vegytisztítható); a kért 160x230-nál kisebb, több szőnyeggel vagy nagyobb helyszíni válogatással érdemes pótolni.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A fekhely, alap ágynemű és sötétítés mellett fél évig nélkülözhető vagy átmenetileg helyettesíthető.",
+  "priority_condition": ""
  },
  {
   "room": "05-halo",
@@ -195,7 +183,10 @@
   "why": "Fonott rattan + rejtett zárt tárolás – pontosan az irányelv 'pad az ágy végénél, fa+fonott ülés' kérése, és a rejtett tároló kisgyerekes praktikum.",
   "caveat": "Kézműves darab, egyedi mintázatú fonás – árnyalatban eltérhet a katalógusképtől. Alternatívaként fotel is választható (pl. IKEA BUSKBO rattan fotel, kb. 70 000 Ft).",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A fekhely, alap ágynemű és sötétítés mellett fél évig nélkülözhető vagy átmenetileg helyettesíthető.",
+  "priority_condition": ""
  },
  {
   "room": "05-halo",
@@ -213,7 +204,10 @@
   "why": "Fényszűrő, len-hatású bézs függöny – megengedett 'linen-look' megoldás, ami a krém bézs nyílászáróhoz hangolható.",
   "caveat": "Nem valódi len, hanem újrahasznosított poliészter len-hatással. A karnisnál számoljunk az ablakszélesség kb. kétszeresével a sűrű redőzéshez.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A fekhely, alap ágynemű és sötétítés mellett fél évig nélkülözhető vagy átmenetileg helyettesíthető.",
+  "priority_condition": ""
  },
  {
   "room": "05-halo",
@@ -231,7 +225,10 @@
   "why": "Valódi fényzáró (nem csak fényszűrő) roló a len-hatású függöny mögé – ez adja a hálószobában elvárt alvási sötétítést, zsinór nélküli, gyerekbiztos kivitelben.",
   "caveat": "A méretet a tényleges ablakszélességhez kell választani (több méret közül); önmagában nem esztétikai, hanem funkcionális elem, a látható függöny mögé kerül.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "Az első naptól használt háló sötétítése és belátásvédelme szükséges.",
+  "priority_condition": ""
  },
  {
   "room": "05-halo",
@@ -249,7 +246,10 @@
   "why": "Zárt tárolás, tölgy tónus – a 'nyitott/zárt 30/70' elv szerint ez a szoba fő zárt tárolója, falhoz rögzíthető a babás biztonság miatt.",
   "caveat": "Fólia bevonatú, nem valódi tölgy furnér; falhoz rögzítő szett használata kötelező jellegű kisgyerekes háztartásban.",
   "verified": "listing",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A fekhely, alap ágynemű és sötétítés mellett fél évig nélkülözhető vagy átmenetileg helyettesíthető.",
+  "priority_condition": ""
  },
  {
   "room": "05-halo",
@@ -267,25 +267,10 @@
   "why": "Kerek forma + rattan keret – az irányelv 'kerek tükör, rattan vagy világos fa keret' pontja, egyben fényvisszaverő eszköz az ablakkal szemben.",
   "caveat": "",
   "verified": "listing",
-  "checked": "2026-09-20"
- },
- {
-  "room": "05-halo",
-  "category": "Mennyezeti lámpa",
-  "name": "NARRKOLV Függőlámpa, rattan",
-  "store": "IKEA",
-  "where": "online (ikea.com/hu) + áruház (Budaörs)",
-  "material_color": "pácolt rattan, natúr",
-  "size": "Ø 56 cm, mag. 14 cm, E27 foglalat",
-  "price_huf": 19990,
-  "price_note": "izzó külön",
-  "url": "https://www.ikea.com/hu/hu/p/narrkolv-fueggolampa-rattan-00594341/",
-  "tier": "ajánlott",
-  "qty": 1,
-  "why": "Fonott rattan ernyő E27 foglalattal – 2700K CRI90+ izzóval a fal mintás, meleg fényt vet, pontosan az irányelv 'fonott lámpaernyő' elve.",
-  "caveat": "Lyukacsos ernyő, ezért önmagában kevés az általános világításhoz – dimmelhető kiegészítő fényforrással (pl. mennyezeti szegélyfény) egészítendő ki.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A fekhely, alap ágynemű és sötétítés mellett fél évig nélkülözhető vagy átmenetileg helyettesíthető.",
+  "priority_condition": ""
  },
  {
   "room": "05-halo",
@@ -303,7 +288,10 @@
   "why": "Homok/törtfehér tónusú, könnyű takaró az ágy végére – a 'sand' színcsalád opciója.",
   "caveat": "Szintetikus (újrahasznosított poliészter), nem természetes szál; valódi zsályazöld gyapjú/pamut plédet helyi boltban (pl. Bonami, Westwing) érdemes még keresni, ha a zöld árnyalat fontosabb, mint az anyag.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A fekhely, alap ágynemű és sötétítés mellett fél évig nélkülözhető vagy átmenetileg helyettesíthető.",
+  "priority_condition": ""
  },
  {
   "room": "05-halo",
@@ -321,7 +309,10 @@
   "why": "Tompított, szürkés zsálya-zöld tónus, pamut – pontosan az elsődleges akcentusszín, kis mennyiségben (2 párna) a hálóban.",
   "caveat": "Gépben mosható 40°C-on, de nem fehéríthető és nem vasalható.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A fekhely, alap ágynemű és sötétítés mellett fél évig nélkülözhető vagy átmenetileg helyettesíthető.",
+  "priority_condition": ""
  },
  {
   "room": "14-gardrob",
@@ -339,7 +330,10 @@
   "why": "Ajtó nélküli, nyitott rendszer, fehér+tölgy kombináció – ez illik a ház tölgy alaptónusához, és jól kihasználja a 2,79 m²-es teret polcokkal, rúddal és kosarakkal.",
   "caveat": "Falra kell rögzíteni (nem szabadon álló); a polcok fólia/papírbevonatú tölgyhatásúak, nem valódi furnér.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "Legalább egy működő ruhatárolási megoldás kell, ha nincs áthozható szekrény/állvány.",
+  "priority_condition": "Ha meglévő szekrény/állvány vagy másik helyiség tárolója kiváltja, a végleges rendszer P2."
  },
  {
   "room": "14-gardrob",
@@ -357,7 +351,10 @@
   "why": "Ugyanaz a moduláris, nyitott BOAXEL rendszer kisebb és olcsóbb kivitelben – jó belépő megoldás szűk térbe.",
   "caveat": "Nincs fa tónusú elem, csak fehér – a ház fa-egységéhez fa hatású polcok (pl. BOAXEL polc tölgyfa hatású, kb. 4500 Ft/db) utólag hozzáadhatók.",
   "verified": "listing",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "Legalább egy működő ruhatárolási megoldás kell, ha nincs áthozható szekrény/állvány.",
+  "priority_condition": "Ha meglévő szekrény/állvány vagy másik helyiség tárolója kiváltja, a végleges rendszer P2."
  },
  {
   "room": "14-gardrob",
@@ -375,7 +372,10 @@
   "why": "Nyitott polcos rendszer valódi bambusz polcokkal (fonott rost hatás) – vizuálisan a legmelegebb, legtermészetesebb tölgy-rokon tónus a három opció közül.",
   "caveat": "Mennyezeti rögzítést igényel (2 fő kell az összeszereléshez); 135 cm szélessége a 2,79 m²-es gardróbban helyszíni méréssel ellenőrizendő, mielőtt megrendelnéd.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "Legalább egy működő ruhatárolási megoldás kell, ha nincs áthozható szekrény/állvány.",
+  "priority_condition": "Ha meglévő szekrény/állvány vagy másik helyiség tárolója kiváltja, a végleges rendszer P2."
  },
  {
   "room": "14-gardrob",
@@ -393,7 +393,10 @@
   "why": "Természetes fa vállfa – illik a ház fa tónusához, és olcsón nagy mennyiségben beszerezhető (2 csomag = 16 db).",
   "caveat": "A pontos favajta a termékoldalon nincs megadva.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A napi ruhatároláshoz szükséges vállfák; nem kell meglévő használható darabokat lecserélni.",
+  "priority_condition": ""
  },
  {
   "room": "14-gardrob",
@@ -411,43 +414,10 @@
   "why": "Természetes fonott rost (tengerifű) tárolókosár a polcokra – az irányelv 'fonott rost minden helyiségben' elve, itt kifejezetten tárolásra.",
   "caveat": "",
   "verified": "listing",
-  "checked": "2026-09-20"
- },
- {
-  "room": "14-gardrob",
-  "category": "Gardróbvilágítás (LED szalag)",
-  "name": "ÖVERSIDAN LED-es gardróbvilágítás + érzékelő, sötétszürke",
-  "store": "IKEA",
-  "where": "online (ikea.com/hu) + áruház (Budaörs)",
-  "material_color": "LED szalag, sötétszürke ház",
-  "size": "96 cm (46 és 71 cm is kapható), 4,6 W, 290 lm",
-  "price_huf": 7490,
-  "price_note": "tápegység (TRÅDFRI) külön szükséges",
-  "url": "https://www.ikea.com/hu/hu/p/oeversidan-led-es-gardrobvilagitas-erzekelo-fenyereje-szabh-soetetszuerke-00589556/",
-  "tier": "ajánlott",
-  "qty": 1,
-  "why": "Mozgásérzékelős polc/rúd alá szerelhető LED-csík – gyors, jó fényt ad a ruhaválasztáshoz, ami az irányelv szerint kritikus a gardróbban.",
-  "caveat": "A termékoldal nem adja meg pontosan a színhőmérsékletet/CRI-t – boltban vagy megrendelés előtt érdemes rákérdezni, hogy 2700K meleg fehér (ne hideg, kékes fehér) legyen.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "14-gardrob",
-  "category": "Mennyezeti spotlámpa",
-  "name": "MITTLED LED-es spotlámpa, fehér",
-  "store": "IKEA",
-  "where": "online (ikea.com/hu) + áruház (Budaörs)",
-  "material_color": "fehér, szabályozható fényerő",
-  "size": "kompakt beépíthető/felszerelhető spot",
-  "price_huf": 4490,
-  "price_note": "/db",
-  "url": "https://www.ikea.com/hu/hu/p/mittled-led-es-spotlampa-fenyereje-szabh-feher-00528662/",
-  "tier": "ajánlott",
-  "qty": 1,
-  "why": "Kiegészítő mennyezeti általános fény a LED-szalag mellé, szabályozható fényerővel – a kis gardróbban ez adja az egyenletes alapfényt.",
-  "caveat": "Vásárlás előtt ellenőrizendő, hogy 2700K-s, meleg fehér kivitelben kapható-e; a hideg fehér változat nem illik a ház egységes fényhőmérsékletéhez.",
-  "verified": "listing",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap ruhatárolás mellett kényelmi vagy esztétikai kiegészítő.",
+  "priority_condition": ""
  },
  {
   "room": "14-gardrob",
@@ -465,7 +435,10 @@
   "why": "Kis fonott rattan zsámoly, üléshez öltözködéskor, rejtett tárolóval – illik a hálóban lévő TOLKNING pad anyagához, egységes fonott-akcentust adva a háznak.",
   "caveat": "",
   "verified": "listing",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap ruhatárolás mellett kényelmi vagy esztétikai kiegészítő.",
+  "priority_condition": ""
  },
  {
   "room": "14-gardrob",
@@ -483,6 +456,9 @@
   "why": "Világos fa (kőris) keretes álló tükör – az irányelv kifejezetten megengedi az 'tölgy VAGY kőris/nyír' fa családot, ez teljes alakos tükörként is működik a gardróbban.",
   "caveat": "A keret kőris, nem tölgy – világos, semleges tónusa miatt vizuálisan illeszkedik, de érdemes mintát/fotót egyeztetni a tölgy bútorok mellett.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap ruhatárolás mellett kényelmi vagy esztétikai kiegészítő.",
+  "priority_condition": ""
  }
 ]

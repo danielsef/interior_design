@@ -8,10 +8,9 @@
 ## Mit keress
 
 - Nyitott vagy félig nyitott tárolás, a ház fa tónusában
-- Jó világítás: 2700 K, CRI 90+ – rossz fényben rosszul választ az ember ruhát
 - 2,79 m²: minden centi számít, padlótól plafonig
 
-> **Krém bézs ajtók.** A ház mind a 11 beltéri ajtaja krém bézs, tokkal és szegélyléccel együtt – ez a krém bézs felület kb. 90%-a. Képnézéskor érdemes figyelni, hogy az **ajtó, a tok és a szegélyléc egy színben** van-e, hogy a lap **sík vagy finoman bemart**-e (nem kazettás), és hogy a **kilincs** matt fekete vagy antikolt sárgaréz-e. Fényes króm kilincs krém bézs ajtón hideg hatású.
+> **Cream beige nyílászárók és fa párkányok.** A meglévő szín és a szálcsiszolt sárgaréz kilincsek a referenciák; az új bútor- és textilszíneket a fehér fallal, padlóval és megrendelt bútorokkal közös mintasorban ellenőrizzük. A képek formai inspirációk, nem új beszerzési előírások.
 
 ## Mit kerülj
 
@@ -44,7 +43,7 @@ Minden képet egyenként átnéztem a rögzített döntések szerint: **fehér f
 | [`feher-minimal-gardrob-kosar.jpg`](feher-minimal-gardrob-kosar.jpg) | ✅ | Fehér nyitott polcrendszer fa rudakkal, fonott kosár – léptékben is közel a 2,79 m²-hez. |
 | [`krem-vilagos-fa-gardrob-szigettel.jpg`](krem-vilagos-fa-gardrob-szigettel.jpg) | ⚠️ | A világos, szürkés tölgy tónus és a meleg polcvilágítás jó minta. A lépték (sziget) jóval nagyobb, mint a ti gardróbotok. |
 | [`vilagos-fa-feher-polcrendszer.jpg`](vilagos-fa-feher-polcrendszer.jpg) | ⚠️ | Nyitott rendszer fa tónusban, fiókos alsó résszel. A tónus kicsit szürkésbarnább a célnál. |
-| [`vilagos-fa-gardrob-meleg-feny.jpg`](vilagos-fa-gardrob-meleg-feny.jpg) | ⚠️ | U alakú nyitott gardrób LED-csíkkal. A fa itt sötétebb, a fény hidegebb a célnál (2700 K, CRI 90+). |
+| [`vilagos-fa-gardrob-meleg-feny.jpg`](vilagos-fa-gardrob-meleg-feny.jpg) | ⚠️ | U alakú nyitott gardrób LED-csíkkal. A fa itt sötétebb a preferált tónusnál; a világítás meglévő adottság. |
 
 **Kiszűrve és törölve innen: 2 kép** – nem feleltek meg a rögzített döntéseknek (leggyakrabban: a fal nem volt fehér).
 <!-- ertekeles:end -->

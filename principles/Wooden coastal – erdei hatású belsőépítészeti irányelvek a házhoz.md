@@ -1,90 +1,75 @@
 # Wooden coastal – erdei hatású belsőépítészeti irányelvek a házhoz
 
-2026-09-20 · Pilisjászfalu, földszintes családi ház (E-01 engedélyezési terv, M 1:100)
+2026-09-20 · Pilisjászfalu, földszintes családi ház · E-01 tervadatok és tulajdonosi pontosítások
 
-> **Frissítve:** a ház nem vízparti, hanem **erdős környezetben** épül, ezért a stílusirány pontosított neve **wooden coastal** (erdei coastal). A rögzített anyag- és színdöntések a [Rögzített döntések](#rögzített-döntések) szakaszban vannak.
+> **Aktuális keret:** fehér falak; két fürdő (kádas és zuhanyzós) és külön WC. A tömörfa konyhabútor megrendelve; a kádas fürdő szekrénye, mosdója és pultja, valamint a zuhanyzós fürdő szekrénye és mosdója megvan / megrendelve. **Nyitott javaslati kör: konyhafront, konyhai kőpult, fogantyúk, kandallóburkolat és a zuhanyzós fürdő még hiányzó pultja.** A fa párkányok a nyílászárókkal azonos **cream beige** színűek lesznek. A világítás megvan. A meglévő fürdőszobai bútorokat és mosdókat nem választjuk újra; a párkány és világítás lezárt téma, világítási specifikáció nem része ennek a dokumentumnak.
 
-## Wooden coastal – mi ez, és mi nem
+## Wooden coastal – az irány
 
-A klasszikus coastal enteriőr a tengerparti ház **érzetét** teremti újra: sok természetes fény, levegős terek, világos, napszítta felületek, természetes anyagok. Ez a ház viszont **erdőben áll**, nem a víz mellett – és ez egyetlen ponton változtat a recepten, de azt következetesen végig kell vinni:
+Világos, levegős otthon, természetes textúrákkal és visszafogott erdei színekkel. A fehér fal, a cream beige nyílászáró, a homokszínű padló és a fa adják az alapot; a zsálya- és eukaliptuszzöld kisebb textil- és dekorfelületeken jelenhet meg.
 
-**A fény, a levegősség és a natúr textúra marad. A tengeri utalás helyére az erdő lép.**
+Az erdei környezet a kilátással és a változó természetes fénnyel kapcsolódik a belső térhez. A lombokról visszaverődő fény befolyásolhatja a színérzetet, de ennek mértéke helyiségenként és évszakonként változik. Egy árnyalat alkalmasságáról ezért a helyszíni minták döntenek, nem egy általános állítás arról, hogy erdőben melyik szín működik.
 
-Gyakorlatban ez azt jelenti, hogy a paletta hűvös, tengerészkék akcentusa átadja a helyét a **zsályazöld, eukaliptusz és mohazöld** árnyalatoknak, és a fa aránya nő. A kék nem tűnik el, de visszalép: kis adagban, tompított, szürkés változatban marad a házban.
-
-**Miért pont így**
-
-Egy erdős telken az ablakon beáradó fény **zöldes tónusú** – a lombokról visszaverődő fény szó szerint megszínezi a belső falakat. A hideg, tengerészkék akcentus ebben a fényben szürkévé és nyirkossá válik. A meleg fa és a zöld akcentus ugyanebben a fényben viszont megerősödik: a ház úgy néz ki, mintha a környezetéből nőtt volna ki. Ez a wooden coastal lényege.
-
-**Négy alapelv, ami minden döntést eldönt**
-
-1. **A fény a főszereplő.** Minden más döntés – falszín, függöny, bútormagasság – annak van alárendelve, hogy a természetes fény minél tovább és minél lágyabban legyen jelen a térben. Erdős telken ez fokozottan igaz: a lombok már eleve elvesznek a fényből.
-2. **A színt a textúra pótolja.** A paletta szándékosan szűk és halk; az érdekességet a len gyűrődése, a juta érdessége, a fonott rattan mintája, a fa erezete adja, nem a színek száma.
-3. **Kevesebb, de nagyobb.** Inkább kevés, nagyobb léptékű darab, mint sok apró. A vizuális zsúfoltság az, ami leggyorsabban elrontja ezt a stílust.
-4. **Kopott, nem koszos.** A patina, a lágy gyűrődés, a nem tökéletes felület ide tartozik; a hanyagság nem.
-
-**Amitől ez nem tengerész-lakberendezés lesz**
-
-- Horgony, kormánykerék, kötél, „Beach" feliratú táblák: ezek illusztrálják a stílust, nem megvalósítják. Erdős telken pedig végképp idegenek. Legfeljebb **egyetlen** finom utalás fér bele az egész házba.
-- Kék-fehér csík mindenhol: a csík erős minta, egy térben egy-két helyen hat jól.
-- Élénk türkiz és tengerkék: ezek a tengert idézik, de kemények, gyorsan avulnak, és a zöldes erdei fényben hidegre fordulnak. Helyettük **tompított zsályazöld** az elsődleges akcentus.
-
-**Amitől viszont erdei lesz**
-
-- **A fa a főszereplő, nem a kiegészítő.** Fa konyha, fa konyhasziget, fa étkezőasztal, fa dohányzóasztal, fa parketta négy szobában – ezek már eldöntött tények, és ezek adják a ház karakterét.
-- **Zöld a palettában, nem csak a cserépben.** Zsályazöld párna, eukaliptuszzöld pléd, egy tompazöld szekrényfront – nem csak élő növény.
-- **Az ablak mint kép.** Erdős telken az ablakon kívüli látvány a ház legjobb dísze. Ehhez az kell, hogy az ablak körül **ne legyen semmi**, ami elvonja róla a figyelmet: se nehéz függöny, se magas bútor, se mintás falfelület.
+- **Szabad kilátás, levegős elrendezés.** Az ablak elé lehetőleg ne kerüljön magas bútor; a függöny széthúzva minél kevesebb üveget takarjon.
+- **Visszafogott színek, változatos tapintás.** Fa, len, pamut, fonott rost és matt kerámia adja az érdekességet.
+- **Kevés, jól méretezett tárgy.** A nagyobb bútorok helyét és használatát előbb rögzítsük, a dekoráció utána következzen.
+- **Használható családi otthon.** A tisztíthatóság, kényelem és stabilitás megelőzi a stílus tisztaságát. Horgonyos, feliratos, erősen tengerészeti dekor nem cél.
 
 ## Rögzített döntések
 
-Ezek már eldöntött tények, minden további javaslat ezekhez igazodik.
+Ezek adottságok; a további válogatás ezekhez igazodik.
 
-| Elem | Döntés | Hol |
+| Elem | Döntés / állapot | Következmény |
 | --- | --- | --- |
-| **Falszín** | **fehér**, matt | az egész házban |
-| **Ablakok, külső nyílászárók** | **krém bézs (cream beige)** | az egész házban |
-| **Beltéri ajtók** | **krém bézs (cream beige)** | mind a 11 beltéri ajtó, tokkal és szegélyléccel együtt |
-| **Hidegburkolat** | **Norwich Arena 60x60**, Ref. 0178690174451 | előszoba, **előtér**, közlekedő, nappali–konyha–étkező |
-| **Melegburkolat** | **fa parketta** | a 4 szobában (háló, 2 szoba, dolgozó) |
-| **Konyha** | **fa front + fa konyhasziget**, **kő munkalap** | konyha |
-| **Étkezőasztal** | **fa** | étkező |
-| **Dohányzóasztal** | **fa** | nappali |
-| **Fém / vasalat** | **szálcsiszolt sárgaréz** – egy fém az egész házban | beltéri ajtók kilincsei, nyílászárók kilincsei (**már megvannak**), fürdők és WC szerelvényei (**már felszerelve**); ehhez igazodik minden további csaptelep, fogantyú, akasztó, karnis |
-| **Vizes helyiségek burkolata** | **meleg szürke, beton hatású nagyformátumú falilap**, szürke rombusz–háromszög mintás dekorsávval | 2 fürdő + WC – **már felrakva** |
-| **Vizes helyiségek szerelvényei** | **szálcsiszolt sárgaréz / arany** (kádtöltő, falsík alatti zuhany esőztetővel, fali mosdócsap, WC-kézmosó csap) | 2 fürdő + WC – **már felszerelve** |
-| **Szaniter** | fali, perem nélküli WC-k, Geberit nyomólap, kád, walk-in zuhany; a WC-ben kis fali Geberit kézmosó | **már felszerelve** |
+| Falszín | **fehér** az egész ház festett falfelületein | nincs színes akcentusfal; a már burkolt fürdő- és WC-falak megmaradnak |
+| Nyílászárók és beltéri ajtók | **cream beige**, a korábbi leírásokban krém bézs | a megnevezés nem pontos festékkód; a fizikai minta a referencia |
+| Párkányok | **fa, a nyílászárókkal azonos cream beige színben** | rendezett tétel, nincs új anyag- vagy termékkeresés |
+| Hidegburkolat | **Norwich Arena 60×60**, Ref. 0178690174451 | előszoba, előtér, közlekedő, nappali–konyha–étkező |
+| Melegburkolat | **fa parketta a négy szobában** | háló, két szoba, dolgozó |
+| Konyhabútor | **tömörfa, megrendelve** | a tömörfa bútor rendelése adottság; kérésre a front megjelenése, kőpult és fogantyú továbbra is kap javaslatot |
+| Étkezőasztal és dohányzóasztal | **fa** | a valódi fa/furnér és a fa hatású dekor külön jelölendő |
+| Fémfelületek | **szálcsiszolt sárgaréz** a meglévő kilincseken és vizes szerelvényeken | a további kiegészítők ehhez igazodjanak, mintával ellenőrizve |
+| Vizes helyiségek | **kádas fürdő: 4,75 m²; zuhanyzós fürdő: mérete még nincs megadva; külön WC: terv szerint 1,63 m²** | a két fürdőt külön kezeljük, a 4,75 m² nem vonatkozik mindkettőre |
+| Fürdők és WC burkolata | meleg szürke, beton hatású lap, szürke rombusz–háromszög dekorsáv, **elkészült** | a kiegészítők nem visznek be újabb erős mintát |
+| Meglévő szerelvények és szaniterek | szálcsiszolt sárgaréz/arany szerelvények, kád, zuhany, fali WC-k, a külön WC-ben kis Geberit kézmosó | a korábbi helyszíni dokumentáció szerinti meglévő elemekhez igazodunk |
+| Kádas fürdő bútorozása | **szekrény, mosdó és pult megvan / megrendelve** | ezek kikerülnek a beszerzési körből |
+| Zuhanyzós fürdő bútorozása | **szekrény és mosdó megvan; pult még nincs** | csak a meglévőkhöz illő pultot kell megtervezni |
+| Világítás | **megvan** | termékek és műszaki specifikációk törölve a további válogatásból |
 
-**Amit ezek a döntések együtt jelentenek**
+### Preferenciák és elfogadható kompromisszumok
 
-A fehér fal + krém bézs nyílászáró és beltéri ajtó + homokszínű nagyformátumú padlólap egy **meleg semleges alapot** ad. Ez jó hír: ebben az alapban a fa nem versenyez semmivel, hanem kiemelkedik. Négy következmény, amire figyelni kell:
+A preferencia a jelöltek rangsorolását segíti. A kompromisszumot termékenként, az előnyével és a hátrányával együtt kell megnevezni; nem írhat felül rögzített döntést.
 
-1. **A fehér fal és a krém bézs nyílászáró nem ugyanaz a szín, és nem is kell annak lennie.** A kontraszt finom és szándékos. Fontos viszont, hogy a fehér **meleg fehér** legyen (törtfehér, nem rideg, kékes fehér), különben a krém bézs mellette piszkosnak fog hatni. Ez az egyetlen igazi kockázat ebben a párosításban.
-2. **A krém bézs innentől a ház második legnagyobb színe, nem egy részletszín.** A tervlap szerint 11 beltéri ajtó van (6 db 75/210, 5 db 90/210): ez kb. **19 m² ajtólap**, és mivel az ajtó mindkét oldala látszik, közel **38 m² látható felület**. Az ablakkeretek ehhez képest összesen alig 4 m²-t tesznek ki. Vagyis a krém bézs nagyjából **90%-a ajtó** – a döntés súlya nem az ablakon, hanem az ajtókon van.
-3. **A fa tónusát a nyílászáróhoz és az ajtókhoz kell hangolni, nem a padlóhoz.** A krém bézs a ház legnagyobb összefüggő nem-fehér felülete a szemmagasságban. Ha a fa bútor sárgásabb vagy vörösesebb nála, az azonnal látszik. Javaslat: **világos–közép tölgy, semleges, enyhén szürkés altónussal**, matt vagy olajozott felülettel.
-4. **A hidegburkolat és a parketta találkozása** a nappali–közlekedő és a szoba–közlekedő ajtóknál lesz. Ezt a váltást **ajtó alatt, küszöbsínnel** érdemes megoldani, hogy nyitott térben ne legyen látható vágás.
+| Szempont | Preferencia | Elfogadható kompromisszum |
+| --- | --- | --- |
+| Fa | világos–közép, nyugodt rajzolatú valódi fa; kulcsdarabnál tömörfa vagy furnér | eltérő fafaj és enyhén eltérő tónus, ha a közös mintasorral harmonizál; dekoros tároló kedvezőbb áron, egyértelmű anyagjelöléssel |
+| Felület | matt vagy visszafogott fényű | selyemmatt, ha illik a meglévő felületekhez és praktikusabb |
+| Textil | len, pamut, gyapjú; kellemes tapintás és tisztíthatóság | szintetikus keverék vagy poliészter, ha a kezelhetőség/ár indokolja, az összetétel feltüntetésével |
+| Szín | törtfehér–homok textilek, visszafogott zöld akcentus | rokon bézs vagy tompa kék kisebb felületen, helyszíni mintával; a fal ettől továbbra is fehér |
+| Forma | könnyed arányok, látszó lábak, néhány lekerekített elem | stabil központi talp vagy zárt lábazat, ha a méret és használhatóság jobb |
+| Fém | a meglévő szálcsiszolt sárgarézhez közeli felület | aranyszínű bevonat, antikolt tónus, fa vagy fehér kiegészítő csak tudatos választással; az „arany” elnevezés önmagában nem színegyezés |
+| Kárpit | levehető, a gyártó szerint mosható huzat a gyakran használt ülőbútoron | jól tisztítható rögzített huzat kevésbé terhelt darabon, a hátrány feltüntetésével |
+| Szőnyeg | natúr hatás, puha vagy kellemes tapintás | mosható műszálas szőnyeg étkező/játszózónában; juta csak ott, ahol a nedvesség és foltosodás kezelhető |
 
-> **Egyeztetni való az alaprajzzal:** az engedélyezési terv (E-01) a **konyhában, étkezőben és nappaliban parkettát** jelöl, a fenti döntés viszont ezekben a terekben hidegburkolatot ír elő. Ez a kivitelezés szempontjából eltérés a benyújtott tervtől (padlórétegrend, esetleg padlófűtés-ráépítés), ezért érdemes a tervezővel és a kivitelezővel egyeztetni. Ugyanez vonatkozik az **előtérre (3,92 m²)**, ahol szintén hidegburkolat lesz a terv szerinti parketta helyett. Egyedül a **gardrób (2,79 m²)** burkolata maradt nyitott kérdés – annyi biztos, hogy **parketta ott sem lesz**, mert fa parketta kizárólag a 4 szobában van.
+A tömörfa anyag, a valódi fafurnér és a faerezetes fólia/dekor nem azonos. A „tölgy színű” megnevezés nem igazolja, hogy a termék fából készült. A bouclé/buklé felületi kialakítást jelöl; a szálösszetételt külön kell nézni.
 
-### Beltéri ajtók krém bézsben – amire figyelni kell
+## Közös mintákra épülő színegyeztetés
 
-Mivel az ajtók adják a krém bézs túlnyomó részét, négy részlet dönti el, hogy ez nyugodtnak vagy kapkodottnak hat-e.
+Egy közös mintasorhoz hasonlítsuk a jelölteket:
 
-- **A tok és a szegélyléc ugyanabban a színben.** Ez a leggyakoribb hiba: krém bézs ajtólap fehér tokkal vagy natúr szegélyléccel. Ha a lap, a tok és a takaróléc nem egyezik, az ajtó nem beépített elemnek látszik, hanem odatettnek. Egy szín, egy fényességi fok.
-- **Sima vagy nagyon visszafogott ajtólap.** A kazettás, profilozott ajtó más stílus (klasszikus/vidéki). Ide a **sík vagy egyetlen finom bemarású** lap illik. Ha valahol mégis tagolás kell, az legyen a ház egészében ugyanaz.
-- **Matt felület.** Ugyanaz a szabály, mint a falnál: a selyemfényű vagy magasfényű ajtó azonnal modern-elegáns irányba viszi a teret, és minden ujjlenyomatot megmutat.
-- **A kilincs: szálcsiszolt sárgaréz (eldöntve).** A kilincs mindig az ajtólapon van, tehát krém bézs háttér előtt – a szálcsiszolt sárgaréz itt lágy, meleg, beleolvad a krém bézsbe. Ugyanez a fém van a nyílászárókon és a fürdők szerelvényein, így a részletek szintjén ez köti össze a házat. **Fényes króm és nikkel** sehol ne jelenjen meg mellette; a **matt fekete** csak kis adagban (egy-egy lámpa, kandalló), vasalatként nem.
+1. **Fehér falminta**, a tényleges festékkel és felülettel.
+2. **cream beige nyílászáró-/ajtóminta**, amelyhez a fa párkány is igazodik.
+3. **Norwich Arena padlólap és a parketta mintája.**
+4. **A megrendelt konyha és kádas fürdőszobabútor anyagmintája.**
+5. **Meglévő sárgaréz felület**, majd mellé a függöny, kárpit, fa bútor és akcentustextil jelöltje.
 
-> **Érdemes mintát kérni:** a krém bézs tág fogalom, a szürkés-bézstől a sárgás-krémig sok minden belefér. Egy ajtómintát (vagy legalább egy kifestett mintalapot) a **fehér falminta és a Norwich Arena lap mellé** kell tenni, a helyszínen. Ez a három felület fogja egymást minden helyiségben.
+A mintákat egymás mellett, a beépítésüknek megfelelő irányban nézzük: a padlót vízszintesen, a frontot és falmintát függőlegesen. Ellenőrizzük több napszakban és a már meglévő esti világítás mellett. A fotó a választás dokumentálására jó, pontos színazonosításra önmagában kevés.
 
-### Norwich Arena 60x60 – mit érdemes tudni róla
-
-A referencia (0178690174451) alapján ez egy **60x60 cm-es, homok/bézs tónusú nagyformátumú lap**. Ez a stílus szempontjából jó választás, mert nagy, nyugodt felületet ad, és melegebb, mint egy szürke kő hatású lap. Három gyakorlati pont:
-
-- **Fugaszín**: a laphoz **a lapnál egy árnyalattal sem sötétebb** fuga kell. A sötét fuga felrajzolja a rácsot a padlóra, és azonnal elviszi a teret ipari irányba. Homok/bézs fuga a cél.
-- **Fugaszélesség**: a lehető legkeskenyebb, amit a lap élképzése enged (rektifikált lapnál 2 mm).
-- **Felületi fény**: matt vagy natúr felület. A polírozott változat csúszik, mutatja a lábnyomot, és nem illik a stílushoz.
+**A fehér fal döntése rögzített.** Nem követelmény a törtfehérre váltás. A fa tónusát egyszerre hangoljuk a padlóhoz, a nyílászáróhoz és a megrendelt bútorokhoz. Nem kell minden faelemnek egyforma színűnek lennie; az összhatás legyen nyugodt. Az új fémkiegészítőknél először egy mintát vagy egy darabot érdemes összevetni a meglévőkkel.
 
 ## Helyiségek listája (E-01 földszinti alaprajz)
+
+Az alábbi területek tervadatok; a kádas fürdő 4,75 m²-es megfeleltetését a tulajdonos megerősítette. A **második, zuhanyzós fürdő nincs külön azonosítva ebben a régi helyiségjegyzékben**. Nem adunk hozzá becsült területet, és nem tekintjük a régi végösszeget a jelenlegi helyiségek ellenőrzött felmérésének.
 
 | # | Helyiség | Burkolat | Terület |
 | --- | --- | --- | --- |
@@ -99,317 +84,181 @@ A referencia (0178690174451) alapján ez egy **60x60 cm-es, homok/bézs tónusú
 | 9 | Előtér | Norwich Arena 60x60 | 3,92 m² |
 | 10 | WC | kerámia | 1,63 m² |
 | 11 | Háztartási helyiség | kerámia | 5,01 m² |
-| 12 | Fürdő | kerámia | 4,75 m² |
+| 12 | Kádas fürdő | kerámia | 4,75 m² |
 | 13 | Közlekedő | Norwich Arena 60x60 | 3,47 m² |
 | 14 | Gardrób | nyitott kérdés (nem parketta) | 2,79 m² |
 | 15 | Gépészet | kerámia | 2,76 m² |
-| | **Nettó alapterület (1–15)** | | **131,60 m²** |
+| | **E-01 szerinti nettó alapterület (1–15)** | | **131,60 m²** |
 | 16 | Terasz | fagyálló kerámia | 29,43 m² |
 | 17 | Terasz | fagyálló kerámia | 12,22 m² |
 | | **Terasz összesen** | | **41,65 m²** |
 
-> **Fa parketta csak négy helyiségben van:** háló (5), szoba (6), dolgozó (7), szoba (8). Minden más lakótér hidegburkolatot kap. A táblázat a **rögzített döntés szerinti** burkolatot mutatja, nem az E-01 tervlap jelölését – az eltérésről lásd a [Rögzített döntések](#rögzített-döntések) szakasz megjegyzését.
+**További helyiség:** zuhanyzós fürdő, kerámia burkolattal; területe és kapcsolata az E-01 számozásával ellenőrizendő. A terméklistában a `12-furdo` mappa mindkét fürdőt tartalmazza, név szerint megkülönböztetve.
 
-**További adottságok a tervlapról**
+A táblázat burkolatai a rögzített döntést követik. A konyha, étkező, nappali és előtér hidegburkolata eltér a korábbi terv parkettajelölésétől; a megvalósuló rétegrendet és burkolatváltást a kivitelezővel kell egyeztetni. A parketta a négy szoba ajtajában találkozik a hidegburkolattal. Az átmenet kialakítását a tényleges padlószintek és a burkolati rendszer határozza meg, nem egy általánosan előírt küszöbsín.
 
-| Adottság | Érték | Mit jelent belsőépítészetileg |
-| --- | --- | --- |
-| Belmagasság | 2,80 m | Kényelmes, de nem kivételes. A függönyt a plafon alá kell vinni, hogy magasabbnak hasson. |
-| Kandalló | Pan-Tech, zárt égésterű | Ez a nappali természetes fókuszpontja. A bútorozást erre és az ablakra együtt kell szervezni. |
-| Fűtés | hőszivattyú (kültéri egység) | Padlófűtés esetén a burkolatváltás rétegrendjét egyeztetni kell. |
-| Padlásfeljáró | létra, 70/120 cm | Mennyezeti nyílás – a világítás és a bútorozás tervezésekor figyelembe kell venni. |
-| Beltéri ajtók | 6 db 75/210, 5 db 90/210 | Mind krém bézs. A tervlap jelöléseiből olvasva – a konszignációval érdemes egyeztetni. |
-| Ablakok | 11 db, 45 és 90 cm parapéttel | A 45-ös parapétú, 1,95 m magas ablakok adják a legtöbb fényt. |
+A tervadatok szerint a Norwich Arena területe 63,48 m², a négy parkettás szobáé 51,18 m². Ezek nem rendelési mennyiségek: a vágási veszteség, a tényleges méretek és a második fürdő pontosítása külön feladat. A gardrób burkolata nyitott, parketta oda nem kerül.
 
-**Burkolat a rögzített döntések után**
-
-| Burkolat | Helyiségek | Összesen |
-| --- | --- | --- |
-| Norwich Arena 60x60 | előszoba (1), konyha (2), étkező (3), nappali (4), előtér (9), közlekedő (13) | **63,48 m²** |
-| Fa parketta | háló (5), szoba (6), dolgozó (7), szoba (8) | **51,18 m²** |
-| Kerámia (vizes + gépészet) | WC (10), háztartási (11), fürdő (12), gépészet (15) | **14,15 m²** |
-| Nyitott kérdés | gardrób (14) | **2,79 m²** |
+További tervadat: 2,80 m belmagasság; Pan-Tech zárt égésterű kandalló; 70×120 cm-es létrás padlásfeljáró. **Fotók alapján pontosítva:** a közös térben ferde, eltérő magasságú mennyezet és felső háromszögablak is van; a 2,80 m nem kezelhető a teljes nappali egységes magasságaként. A pontos magasságokat helyszínen kell felmérni. A bútorozás hagyja szabadon a nyitási és használati területeket. Az ajtók és ablakok darabszámát, méretét rendelésnél a konszignációból / helyszínen kell ellenőrizni.
 
 ## Mesterpaletta az egész házra
 
-Egyetlen közös paletta fut végig minden helyiségen; a szobák csak az arányokban és az akcentus mennyiségében térnek el. Ettől lesz a ház egységes anélkül, hogy unalmas lenne.
+| Réteg | Árnyalat / anyag | Szerep |
+| --- | --- | --- |
+| Alap | **fehér fal és mennyezet** | világos háttér |
+| Meleg semleges | cream beige, homok, bézs | nyílászáró, ajtó, párkány, padló, nagy textilek |
+| Fa | a megrendelt konyha és a parketta mintáihoz hangolt tónusok | bútorok és burkolat kapcsolata |
+| Elsődleges akcentus | zsálya, eukaliptusz, tompa mohazöld | kisebb textil- és dekorfelületek |
+| Másodlagos akcentus | tompított porkék, ha a mintasorba illik | kevés párna vagy kerámia |
+| Élő zöld | a helyiség fényviszonyaihoz választott növény | a kert és a belső tér kapcsolata |
 
-| Réteg | Árnyalatok | Hol jelenik meg | Arány |
-| --- | --- | --- | --- |
-| **Alap** | **fehér** (meleg, törtfehér felé), mennyezetfehér | falak, mennyezet, nagy kárpitfelületek | 45–55% |
-| **Meleg semleges** | **krém bézs**, homok, a padlólap tónusa | **beltéri ajtók**, nyílászárók, padló, függöny, szőnyeg | 25–30% |
-| **Fa** | világos–közép tölgy, semleges altónus, matt | konyha, konyhasziget, étkezőasztal, dohányzóasztal, parketta | 15–20% |
-| **Akcentus (erdő)** | **zsályazöld, eukaliptusz, mohazöld** | textil, kerámia, egy-egy bútorfront | 5–8% |
-| **Másodlagos akcentus** | tompított, szürkés porkék | párna, kerámia, fürdőszobai felület | 2–3% |
-| **Kő** | mészkő/homokkő hatás, matt | konyhapult | ennyi elég |
-| **Élő zöld** | olajfa, eukaliptusz ág, pálmaféle | kizárólag növény és friss ág | ennyi elég |
-
-**Alkalmazási szabályok**
-
-- **Az alapréteg mindenhol ugyanaz.** Egyetlen fehér falszín fut végig a házon, helyiségtől függetlenül. Ez a legolcsóbb és leghatásosabb egységesítő eszköz.
-- **A zöld az elsődleges akcentus, a kék a másodlagos.** Ha egy térben van zöld és kék is, a zöld legyen a nagyobb felületen. Fordítva a ház visszacsúszik a tengerparti irányba.
-- **Az akcentus mennyisége szobánként változhat, az árnyalat nem.** Ha a nappaliban zsályazöld van, a hálóban ne mohazöld legyen, hanem ugyanannak a zöldnek egy világosabb vagy sötétebb változata.
-- **Meleg és hűvös egyensúlya.** A fehér fal önmagában hideg tud lenni; a krém bézs ajtók és nyílászárók, a homokszínű padló és a fa ezt melegíti. A 11 beltéri ajtóval ez a melegítés minden helyiségben adott – még ott is, ahol nincs fa bútor. Ahol sok a fehér és kevés a fa (pl. fürdő, WC), ott **tudatosan kell meleget vinni**: fa mosdószekrény, fonott tároló, bézs textil.
-- **Sárga és rozsda**: nem ebből a palettából való. Ha marad a mustársárga kanapé a korábbi bútorokból, akkor az a ház **egyetlen meleg akcentusa**, és mellé zöld, nem kék kerül.
-
-**Fontos a gyakorlatban:** a festékmintát mindig a helyszínen, a saját ablak fényében kell megnézni, reggel és este is – és **lombos állapotban**. Erdős telken a nyári, zöld szűrt fény és a téli, csupasz ágakon átszűrődő fény között nagy a különbség. Ha lehet, a mintát a krém bézs ajtó és nyílászáró mellé tartva kell nézni – ez a három felület (fal, ajtó, padló) fogja egymást minden helyiségben.
+Nincsenek kötelező százalékok: a fal, padló, bútor és textil felületei más-más nézetben más arányban látszanak. Egy térben maradjon kevés hangsúly, a zöldek pedig rokon színcsaládot alkossanak. A meglévő, esetleg mustársárga kanapét külön mintával kell beilleszteni, ha valóban megmarad; ezt nem tekintjük új vásárlási előírásnak.
 
 ## Anyagok, felületek, textúra
 
-Mivel a paletta halk, az anyagválasztás hordozza a stílus egészét. Gyakorlati szabály: **egy helyiségben legalább három különböző természetes textúra** legyen jelen, de legfeljebb kettő-három anyagcsalád ismétlődjön a házban.
+A fő bútoroknál valódi fa vagy furnér előnyben; a fonott rost kiegészítőként, a len/pamut és matt kerámia ismétlődő felületként jelenhet meg. Nem szükséges minden helyiségbe minden anyagból tenni.
 
-| Anyagcsalád | Igen | Nem |
+A megrendelt **tömörfa konyha** anyaga adottság. A front felületi megjelenésére, a kőpultra és fogantyúra az alábbi javaslat vonatkozik; a rendelésben ténylegesen módosítható részleteket az asztalossal kell összevetni. A bárszéket a kész pultmagassághoz és lábtérhez válasszuk. A párkányok lezárt tételek.
+
+A nedves helyiségbe szánt fa/furnér bútor alkalmasságát, élzárását és kezelési előírását külön ellenőrizzük. A fa hatású fóliás megoldás lehet költségkompromisszum, de az anyagát ne nevezzük tölgyfurnérnak. A fonott kosár ne álljon tartósan vizes felületen.
+
+A Norwich Arena fugája színben simuljon a laphoz; a pontos színt mintával válasszuk. A fugaszélességet és a beépítési részleteket a lap gyártói előírása és a kivitelezés határozza meg. A matt felület itt esztétikai preferencia, önmagában nem igazol csúszásbiztonságot.
+
+### Konyhafront, kőpult és kandalló – javasolt összeállítás
+
+**Első választásom:** nyugodt erezetű, natúr hatású, matt fafront + világos, meleg mészkőhatású pult + ugyanebbe a kőcsaládba illő kandallóburkolat + vékony szálcsiszolt sárgaréz rúdfogantyú. Ez a fehér fal és cream beige nyílászáró mellé illik, a fa pedig látható fő anyag marad. Ez javaslat, nem új rögzített döntés.
+
+| Elem | Javaslat | Kerülendő ennél az összeállításnál |
 | --- | --- | --- |
-| Fa | világos–közép tölgy, kőris, nyír, matt lakk vagy olajozott | sötét dió, mahagóni, magasfényű lakk, sárgás cseresznye |
-| Fonott rost | rattan, juta, tengerifű, bambusz, vízi jácint | műanyag utánzat, lakkozott fényes fonás |
-| Textil | len, lenkeverék, pamut, muszlin, gyapjú, bouclé | fényes szatén, bársony nagy felületen, műbőr |
-| Kő / kerámia | mészkő és homokkő hatás, matt kerámia, terrazzo apró szemcsével | fényes fekete gránit, erős erezetű márvány, polírozott lap |
-| Fém | **szálcsiszolt / matt sárgaréz** (a ház fémje); matt fekete csak kis adagban (lámpa, kandalló) | fényes króm, nikkel, fényes (polírozott) arany, matt fekete vasalat a sárgaréz mellett |
-| Üveg | átlátszó, füstös, buborékos kézműves üveg | színezett, mintás díszüveg |
+| Konyhafront | sík vagy nagyon finoman keretezett, visszafogott erezetű tömörfa front; matt, natúr hatású felület; tölgy esetén közepesen világos, kevéssé sárgító minta | erősen narancsos pác, nagyon rusztikus göcsök, többféle marás/lamella egyszerre |
+| Fogantyú | vékony, egyenes, finoman lekerekített szálcsiszolt sárgaréz rúd; a széles fiókokon arányosan hosszabb kivitel, egységes családból | fényes sárga arany, kevert fémtónus és a minta elfogadása előtti frontfúrás |
+| Konyhai kőpult | matt, világos bézs/elefántcsont, finom mészkőszerű rajzolattal; egyszerű egyenes él, tompított élekkel | erős szürke vagy arany márványerek, nagyon sárga krém, tükrös felület, rusztikus vastag perem |
+| Kandalló külső burkolata | nagyobb összefüggő, matt mészkőhatású felület, kevés osztással; a konyhapulttal rokon tónus | apró, rusztikus kőcsíkok és újabb erős erezet a már sok fa mellé |
 
-**Textúra-szabályok**
+Konkrét mintareferencia a **Dekton Avorio**: a gyártó világos bézs, matt, természetes kő ihlette felületként írja le. Ezt először a Norwich Arena és a cream beige mellé tenném; a végső választást a közös minta dönti el. Ez iparilag előállított ultrakompakt felület, **nem természetes mészkő**. [Gyártói termékoldal](https://www.cosentino.com/usa/colors/dekton/avorio/).
 
-- **Matt mindenütt.** A felületek fényessége az, ami a leggyorsabban elviszi a teret a modern-elegáns irányba. Falfesték: matt. Fa: olajozott vagy matt lakk. Padlólap: matt/natúr.
-- **Egy domináns fatónus.** A házban egyetlen fa alaptónus legyen, és ehhez jöhet egy második, világosabb vagy szürkébb árnyalat. Három különböző fatónus egy térben már rendetlennek hat. Ez a ház esetében kiemelten fontos, mert **a fa sok helyen és nagy felületen jelenik meg** (konyha, sziget, étkezőasztal, dohányzóasztal, 4 szoba parkettája).
-- **A konyhafront és a parketta nem kell, hogy azonos legyen** – sőt, jobb, ha nem az. Ha a parketta világosabb, a konyha lehet egy árnyalattal melegebb/mélyebb; a fontos, hogy **ugyanabba az altónus-családba** tartozzanak (mindkettő semleges vagy mindkettő meleg, de nem vegyesen).
-- **A fonott rost minden helyiségben megjelenhet**, más funkcióban: nappaliban kosár és lámpa, hálóban kosár és tükörkeret, fürdőben tároló, előszobában cipőtároló.
-- **A kopás beépíthető.** A világos tölgy, a len és a juta szépen öregszik; a fényes fehér lakk és a sötét furnér minden karcolást megmutat. Kisgyerekes házban ez nem esztétikai, hanem praktikus érv.
+Konyhapultra elsőként ezt a kőhatású, könnyebben kezelhető felületcsaládot mérlegelném a valódi mészkő/travertin helyett. Utóbbiaknál a savérzékenység és nedvszívás külön gondozási kompromisszum; ha természetes kő a cél, azt tudatosan kell vállalni. [Natural Stone Institute](https://www.naturalstoneinstitute.org/consumers/varieties/limestone/).
 
-### A kő konyhapult
+A kandalló **külső** burkolatáról beszélünk. A Dekton gyártója ezt hőtől elválasztó, tűzálló belső fal mellett engedi meg; a tűztér belsejéhez nem ajánlja. A konkrét kandallóbetét, hőterhelés, aljzat, rögzítés és szellőzés alapján a kivitelezővel kell meghatározni a rendszert. A sárgaréz stíluspreferencia nem indokolja a meglévő kandallókeret átalakítását. [Gyártói alkalmazási feltételek](https://www.cosentino.com/professional/cladding-special-solutions/).
 
-A kő pult a konyha egyetlen kemény, hideg felülete egy egyébként fa térben – ezért a választása aránytalanul sokat számít.
+A fogantyúk megmaradnak a [konyhai terméklistában](../products/02-konyha/README.md). A Häfele szálcsiszolt sárgaréz jelöltjét felületi mintának előrevenném; a BAGGANÄS megmarad összehasonlításnak, de a felülete nem igazoltan azonos a szálcsiszolt szerelvényekével. A furattávot és darabszámot a tényleges konyhafrontok szerint kell véglegesíteni.
 
-- **Szín**: a fa és a padló közé kell illeszkednie, ne versenyezzen velük. **Meleg szürke, homok vagy törtfehér**, halk, finom szemcsével. A kevés erezet jobb, mint a sok.
-- **Amit kerülni kell**: erős, drámai erezet (Calacatta-típusú minta), fekete vagy nagyon sötét kő, polírozott tükörfényes felület. Mindhárom más stílusba viszi a konyhát.
-- **Felület**: matt, selyemmatt vagy bőrhatású (leather finish). A bőrhatású felület kisgyerek mellett praktikus is: kevésbé mutatja az ujjlenyomatot és a vízfoltot.
-- **Élkialakítás**: egyenes, vékony él. A vastag, profilozott él rusztikus-konyhává változtatja a teret.
-- **Anyag**: kvarckompozit a praktikusabb (nem porózus, nem kell impregnálni), a természetes mészkő/homokkő a szebb, de igényesebb. Kisgyerekes háztartásban a kvarckompozit a védhetőbb döntés.
+**Helyszíni fotók alapján (2026-09-20):** a kandalló magas, saroküveges, fülkékkel tagolt tömeg. A konyhai és szigetpultot azonos felülettel, a kandalló jelenleg szürke nagy külső síkjait azonos vagy közeli, világos, matt, halk rajzolatú kőmegjelenéssel javaslom. A sok él és nyílás mellé nem indokolt újabb erős erezet vagy rusztikus kőcsíkozás. A fülkék belseje maradjon nyugodt, a külső világos tónushoz illő; a szellőző és szerelőnyílás működését meg kell őrizni.
 
-### Fa konyhasziget – amire figyelni kell
+A képen látható sötét kőjellegű lábazat/párkány megtartása még nyitott. Ha marad, helyi kontrasztként kezeljük, az új mintát ahhoz is egyeztetjük; nem kell emiatt a magas kandallótestet vagy a konyhapultot is sötétre választani. A végleges burkolati kiosztás ennek eldöntése és a kandallórendszer műszaki ellenőrzése után készülhet. A szobafotók meleg parkettája nem változtatja meg a nappali–konyha rögzített hidegburkolatát; a közös tér padlója a képen takart.
 
-- A sziget **minden oldalról látszik**, ezért a hátoldala nem lehet csupasz. Vagy fa burkolat fut körbe, vagy a hátoldal nyitott polc (de akkor az rendben tartandó).
-- **Lábtér**: ha a szigetnél ülni is fognak, a túlnyúlás legalább 25–30 cm legyen, és a bárszék a fa tónusából vagy fonott rostból való.
-- **Világítás a sziget fölé**: 2 vagy 3 azonos függőlámpa, a pult síkjától **75–85 cm-re**. Páratlan szám jobban néz ki, ha a sziget hosszú.
-- A sziget és a konyhabútor **között legalább 100–110 cm** maradjon, hogy két ember elférjen egymás mögött, és a mosogatógép ajtaja kinyíljon.
+Részletes anyagválasztási és ajánlatkérési szempontok: [konyha, kandalló és fürdőpult](../products/anyagvalasztas-konyha-kandallo-furdopult.md).
 
 ## Bútorformák, arányok, elrendezés
 
-**Formanyelv**
+A tárolás nagyobb része legyen zárt, különösen a játékok és a napi használati tárgyak körül. A nyitott polcokra csak annyi tárgy kerüljön, amennyi mellett marad üres felület. Néhány kerek vagy ovális elem oldja a sok egyenest.
 
-- **Alacsony és letisztult.** Alacsony háttámla, egyenes vagy lágyan lekerekített vonalak. A magas, masszív, „falszerű" bútor elveszi a levegőt.
-- **Látszó lábak.** A padlóig érő, tömör aljú bútor nehézzé teszi a teret. Ha a bútor alatt átlátni, a helyiség nagyobbnak hat, és könnyebb is takarítani.
-- **Lekerekítés kis adagban.** Egy-két íves elem (kerek vagy ovális fa dohányzóasztal, ovális tükör) oldja a sok egyenest. Ha minden ívelt, az már más stílus.
-- **Nyitott és zárt tárolás vegyesen.** Javasolt arány nagyjából **70% zárt, 30% nyitott**: a nyitott polc szép, de folyamatos rendben tartást igényel, ami kisgyerek mellett irreális.
+Az alábbi méretek **kiinduló tervezési irányszámok**, a konkrét bútorral és helyszíni próbával ellenőrizendők:
 
-**Arányok, amikre érdemes figyelni**
-
-| Helyzet | Irányszám |
+| Helyzet | Kiindulás |
 | --- | --- |
-| Fő közlekedő útvonal | legalább 90 cm |
-| Kanapé és dohányzóasztal között | 40–45 cm |
-| Étkezőasztal és fal / bútor között | legalább 90–100 cm (kihúzott székkel) |
-| Konyhasziget és konyhabútor között | 100–110 cm |
-| Szőnyeg a kanapé alatt | legalább a kanapé teljes szélessége, a mellső lábak rajta legyenek |
-| Étkezőszőnyeg | asztal minden oldalán +60 cm, hogy a szék kihúzva is rajta maradjon |
-| Függőlámpa asztal / sziget fölött | asztallaptól 75–85 cm-re |
+| Fő közlekedő útvonal | kb. 90 cm szabad sáv, a használattól függően több |
+| Kanapé és dohányzóasztal | kb. 40–45 cm távolság |
+| Étkezőasztal széle és fal / bútor | kb. 90–100 cm; ha a kihúzott szék mögött is járnak, több hely kell |
+| Nappali szőnyeg | legalább a kanapé szélességét fogja össze, a mellső lábak kerüljenek rá |
+| Étkezőszőnyeg | kb. 60–70 cm túlnyúlás oldalanként; székkihúzással kipróbálni |
 
-**Elrendezési elvek**
+A nappaliban a kandalló, kilátás és tévé tényleges használata alapján válasszunk fő ülésirányt. A vásárlás előtt a nagyobb bútorok körvonalát érdemes a padlón kijelölni, a fiókok és ajtók nyitásával együtt.
 
-- **Az ablak szabadon marad.** Erdős telken ez a legfontosabb szabály: az ablakon kívüli látvány a ház legjobb dísze. Magas bútor lehetőleg ne kerüljön ablak elé.
-- **A bútor ne mind a falhoz simuljon.** Néhány centi elhúzás a faltól levegősebbé teszi a teret, még kis szobában is.
-- **Két fókuszpont a nappaliban**: a kandalló és az ablak. Ezek versenghetnek egymással, ezért érdemes tudatosan dönteni: a kanapé a kandallóra néz, a fotel az ablakra – vagy fordítva. A tévé ne legyen harmadik fókuszpont.
-- **Nézetek.** Érdemes végiggondolni, mi látszik az előszobából belépve és a kanapén ülve; ez a két nézet dönti el, hogy rendezettnek érződik-e a tér.
+## Természetes fény és függöny
 
-## Világítás
+A függöny széthúzva lehetőleg az ablak mellé kerüljön. A karnis/sín helyét az ablak nyitása, a párkány és a teljes függönycsomag helyigénye szerint válasszuk. A párkány már rögzített, a textil ehhez alkalmazkodik.
 
-Ebben a stílusban a világítás nem kiegészítő kérdés: a coastal enteriőr a fényről szól, és este a mesterséges fény dönti el, hogy megmarad-e a nappali hangulat. Erdős telken ez hangsúlyosabb, mert **a természetes fényből eleve kevesebb jut be**, és korábban is sötétedik a lombok miatt.
+Fényszűrőnek törtfehér vagy bézs, len vagy len hatású anyag jó kiindulás. A cream beige mintával együtt nézzük meg, nem lesz-e túl sárgás vagy szürkés. Az anyagmennyiséget a sín hossza és a választott redőzés határozza meg; a kétszeres bőség gyakori kiindulás, nem minden rendszerre kötelező szabály.
 
-**Természetes fény**
-
-- Az ablak elé lehetőleg semmi ne kerüljön, a függöny pedig **az ablaknyíláson kívülre** fusson, hogy behúzva se takarjon üvegfelületet.
-- A karnis a plafon közelébe kerüljön (2,80 m belmagasságnál ez kb. 15–20 cm-re a mennyezettől), az ablaknál 15–25 cm-rel szélesebben mindkét oldalon.
-- Tükör az ablakkal szemben vagy arra merőlegesen: megduplázza a fényt, és **behozza az erdőt a helyiség belsejébe**. Ez ebben a házban különösen erős eszköz.
-- **Az üveg tisztasága számít.** Erdős környezetben a pollen és a nedves por gyorsabban rakódik le; a koszos üveg mérhetően csökkenti a bejutó fényt.
-
-**Mesterséges fény: három réteg**
-
-1. **Általános fény** – mennyezeti lámpa vagy beépített világítás. Ez csak az alapszint; önmagában sosem elég.
-2. **Funkcionális fény** – étkezőasztal fölé és a konyhasziget fölé függő, olvasófotel mellé álló, konyhapult alá pult alatti világítás.
-3. **Hangulatfény** – asztali lámpa, falikar, esti szinten alacsonyan tartva. Ettől lesz este otthonos a tér.
-
-**Konkrét paraméterek**
-
-- **Színhőmérséklet: 2700 K** mindenhol a lakótérben. A 4000 K és fölötte hideg, irodai hatású. Fontos, hogy a házban **mindenhol azonos** legyen.
-- **Fényerő**: erdős telken érdemes a szokásosnál **20–30%-kal több lumennel** számolni a nappali terekben, de szabályozhatóan – nem az a cél, hogy erős legyen, hanem hogy legyen tartalék a borult napokra.
-- **Szabályozhatóság.** Legalább a nappaliban, az étkezőben és a hálóban legyen fényerőszabályzó vagy több, külön kapcsolható fényforrás.
-- **Fonott lámpaernyő.** A rattan és bambusz ernyő meleg, mintás fényt vet a falra. A lyukacsos ernyő **irányított, szűk fényt** ad, ezért általános világításnak önmagában kevés – étkezőasztal és konyhasziget fölé ideális.
-- **Izzó**: lyukacsos ernyőbe átlátszó izzó, ha szeretnénk a falra vetülő mintát; zárt ernyőbe opál, hogy a fény egyenletes legyen.
-- **Színvisszaadás (CRI)**: legalább 90. A fa és a zöld textil olcsó LED alatt élettelenné válik – ez pont ebben a stílusban a legdrágább hiba.
+A hálóban és gyerekszobákban külön sötétítő réteg szükséges. Kisgyerekes használatnál előny a padló fölött végződő, könnyen tisztítható függöny; a zsinórok ne legyenek elérhetők.
 
 ## Textilek és rétegzés
 
-A textil az, amivel a legolcsóbban és leggyorsabban lehet hangolni a teret, és amin a stílus áll vagy bukik. Ebben a házban a textilnek **külön feladata is van**: a nagy hidegburkolt felületek (63,48 m²) akusztikailag és tapintásra is keménnyé teszik a nappali-konyha-étkező zónát, ezt textillel kell ellensúlyozni.
-
-**Szőnyeg**
-
-- **Alapréteg natúr rost**: juta vagy szizál-juta. Ez adja a padló textúráját, és minden helyiségben ugyanaz a család mehet.
-- **Rétegzés**: natúr juta alá vagy fölé egy kisebb, puha szőnyeg (törtfehér, rövid szálú) meleggé teszi az ülőrészt.
-- **Méret fontosabb, mint a minta.** A túl kicsi szőnyeg minden teret összenyom. Inkább egy méretben nagyobb, egyszerűbb darab.
-- **Hidegburkolaton a szőnyeg nem opció, hanem szükséglet.** A nappaliban és az étkezőben a szőnyeg fogja megtörni a nagy lapburkolt felületet és elnyelni a visszhangot.
-- **Praktikus szempont**: a juta nem mosható, és csúszik lapburkolaton. Csúszásgátló alátét kötelező, és ahol enni fognak vagy a baba játszik, ott jobb a mosható vagy letörölhető alternatíva.
-
-**Függöny**
-
-- Len vagy len hatású, **törtfehér vagy bézs**, fényszűrő. Érdemes a **krém bézs nyílászáróhoz** hangolni: ha a függöny ugyanabba a meleg bézs családba tartozik, a nyílászáró beleolvad a falba, és az ablak nagyobbnak hat.
-- A padlót éppen érintse, vagy 1–2 cm-rel legyen fölötte; hálószobában a „tócsázó", kicsit hosszabb megoldás is szép.
-- **Anyagmennyiség**: az ablak szélességének legalább **kétszerese** kell a szép, sűrű redőzéshez. Ez fontosabb, mint az anyag ára.
-- Ahol valódi sötétítés kell (háló, gyerekszobák), a fényszűrő függöny mögé **külön bélés vagy sötétítő réteg** kerüljön, ne színes sötétítő függöny helyettesítse.
-
-**Párnák – egyszerű képlet**
-
-Egy kanapéra 3–5 párna elég, és ez a hármas mindig működik: **egy nagy semleges (kötött vagy bouclé) + egy len alapszínben + egy zsályazöld vagy finoman mintás akcentus**. Méretben érdemes keverni: 50x50 és 40x58 cm együtt élőbb, mint öt egyforma.
-
-**Ágynemű és fürdőtextil**
-
-Mosott len vagy pamut, törtfehér és homok árnyalatban, esetleg finom csíkkal. A fürdőtörölköző és a konyharuha is ebből a palettából való: ezek nagy felületek, és ha kilógnak a sorból, az egész ház képét megtörik.
+- **Szőnyeg:** a nappaliban puhább felületet és összefogott ülőzónát adhat. Az étkezőben csak akkor érdemes, ha a tisztíthatóság és a székkihúzás is megoldott; nem kötelező minden hidegburkolt térbe szőnyeg.
+- **Juta:** száraz, kevésbé foltosodó területre való. Étkezőben és játszózónában előnyösebb lehet a mosható alternatíva. Az alátét a burkolathoz és szőnyeghez legyen alkalmas.
+- **Párnák:** néhány eltérő tapintású semleges darab és egy-két zöld akcentus elég. A huzat és a belső párna mérete egyezzen; az ágypárnahuzat nem automatikusan díszpárnahuzat.
+- **Ágynemű és fürdőtextil:** pamut vagy len/lenkeverék, törtfehér–homok alapon. A szálösszetétel, mosási előírás és méret fontosabb a fantázianévnél.
 
 ## Falak, dekoráció, művészet
 
-**Falak**
+**A fal fehér marad; színes akcentusfal nem része a tervnek.** A színt a textil, a kép és a tárgy adja. A matt festék preferencia; a végső felületnél a tisztíthatóság is számít. A fürdők és WC meglévő burkolatára nem javaslunk új lambériát vagy dekorburkolatot.
 
-- **Fehér az egész házban**, matt felülettel. Meleg fehér, nem kékes – lásd a [Rögzített döntések](#rögzített-döntések) szakasz 1. pontját.
-- **Színes fal**: ha van rá igény, egyetlen helyiségben, egyetlen falon, a palettából vett **tompított zsályazölddel**. Gyerekszobában és hálóban működik a legjobban.
-- **Lambéria**: a stílus klasszikus eleme. Függőleges deszkázás (beadboard) vagy keretes falburkolat, **fehérre festve**, és lehetőleg csak egy-két helyen a házban: előszobában, fürdőben vagy egy ágy mögötti falon. Ha mindenhol van, tematikussá válik.
-- **Mennyezet**: fehér.
+Erdő, levél, táj, botanikus lap vagy visszafogott absztrakt kép illik az irányhoz. Kevés nagyobb kép, világos fa vagy fehér kerettel jó alap. Sárgarézhez illő keret kis adagban elfogadható, ha nem visz be eltérő fémszínt. A tükröt a falméret, használat és visszatükröződő látvány alapján válasszuk.
 
-**Kép és fal-dekoráció**
-
-- Témában ehhez a házhoz: **erdő, fa, levél, táj, absztrakt szín- és fényfoltok, botanikus lap, fekete-fehér fotó.** A víz és a part maradhat egy-két képen, de ne az legyen a fő téma. A hangsúly a levegős, üres felületen van a képen belül is.
-- Keret: világos fa vagy törtfehér, vékony. Az arany és a fekete keret más stílus.
-- **Kevés, de nagy.** Egy nagyobb kép jobb, mint hat apró. Galériafal csak akkor, ha egységes keretben és palettában készül.
-- **Tükör**: kerek vagy ovális, rattan vagy világos fa kerettel. Egyszerre dekor és fényvisszaverő eszköz.
-
-**Tárgyak**
-
-- Kerámia vázák matt, törtfehér, homok és zsályazöld színben; kézműves, enyhén szabálytalan formák.
-- Egy-két üvegtárgy, fonott tálca, fa vágódeszka, kosár.
-- **Növény**: olajfa, eukaliptusz ág vázában, pálmaféle. A zöld ebben a stílusban élő növényből is jöjjön, ne csak textilből.
-- **Mennyi elég?** Jó szabály, hogy minden polcon és minden vízszintes felületen maradjon legalább a felülete **harmada üresen**.
-
-> Kisgyerekes háztartásban a dekoráció magasságban is szerkeszthető: a törékeny és kis méretű tárgyak a szemmagasság fölé, a gyerek kezébe eső szintre a kosarak és a textil kerül.
+A törékeny és apró tárgyak kerüljenek a gyerek által nem elérhető helyre. A növények választását a tényleges fényhez és a háztartás igényeihez igazítsuk.
 
 ## Egységesség a házon belül
 
-Az egységes ház titka nem az, hogy minden szoba egyforma, hanem hogy **néhány elem végigfut mindenhol**, és csak a többi változik.
+A közös alapot a fehér fal, cream beige nyílászárók és párkányok, a rögzített burkolatok és a sárgaréz részletek adják. A többi bútornál az összehangolt minták fontosabbak, mint hogy minden egyetlen sorozatból származzon.
 
-**Ami végigfut a házon (ezek már eldöntve)**
-
-| Elem | Döntés | Miért |
-| --- | --- | --- |
-| Falszín | fehér, matt, mindenhol | a legerősebb és legolcsóbb összekötő |
-| Nyílászáró | krém bézs | minden helyiségben látszik |
-| Beltéri ajtók | krém bézs, tokkal és szegélyléccel | 11 ajtó, a krém bézs felület ~90%-a |
-| Hidegburkolat | Norwich Arena 60x60 | folytonos felület a nyitott téren át |
-| Fa alaptónus | egy tölgy tónus | konyha, sziget, étkezőasztal, dohányzóasztal, parketta |
-| Fényhőmérséklet | 2700 K, CRI 90+ | egyetlen hideg lámpa kilóg a sorból |
-| Fém / vasalat | szálcsiszolt sárgaréz | kilincs, nyílászáró, csaptelep, fogantyú, akasztó, karnis – a részletek szintjén ez köti össze a házat |
-
-**Ami még eldöntendő, de szintén végig kell fusson**
-
-| Elem | Javaslat |
-| --- | --- |
-| Textilcsalád | len / pamut, törtfehér–homok (függöny, ágynemű, törölköző) |
-| Akcentus-zöld | egyetlen konkrét zsályazöld árnyalat, amit minden helyiség ebből vesz |
-
-**Ami szobánként változhat**
-
-- Az **akcentus mennyisége**: a nappaliban lehet egy zöld fotel, a hálóban elég egy zöld párna.
-- A **minta**: csík a nappaliban, sima a hálóban, apró geometrikus a gyerekszobában – de mindig ugyanabból a színcsaládból.
-- A **szőnyeg típusa**: natúr rost a nappaliban, puhább a hálóban, mosható a gyerekszobában.
-- A **hangulat hőfoka**: a hálószoba lehet melegebb és lágyabb, a konyha frissebb és világosabb.
-
-**Átvezetési fogások**
-
-- **Ismétlés hármasával.** Ha egy anyag vagy szín legalább három helyen visszatér a házban, az már szándékosnak hat, nem véletlennek.
-- **Az előszoba adja meg az alaphangot.** Amit ott lát valaki belépéskor – fehér fal, krém bézs ajtó, homokszínű padló, fa és fonott kosár – azt fogja az egész házban keresni. Az előszobából több ajtó is nyílik, tehát itt a krém bézs egyszerre több felületen jelenik meg: ez a helyiség mutatja meg leghamarabb, hogy jól sikerült-e a fehér–bézs párosítás.
-- **Nyitott terekben egy paletta.** A konyha (13,57 m²), az étkező (10,93 m²) és a nappali (20,99 m²) együtt **45,49 m² egybefüggő tér**, azonos padlóval. Ezt egyetlen térként kell kezelni, nem háromként.
-- **Átlátások.** Érdemes végignézni, mely helyiségbe lehet belátni egy másikból; ezek a párok kapják a legszorosabb színegyezést.
+Szobánként változhat a zöld mennyisége, a textilek puhasága és a tárolás nyitottsága. A konyha–étkező–nappali **tulajdonos által megerősítve közös légtér**, a terv szerinti területük összesen 45,49 m²: az innen egyszerre látható nagy bútorokat együtt kell összevetni.
 
 ## Helyiségenkénti alapelvek
 
 ### 1. Előszoba — 10,60 m², Norwich Arena
 
-Itt dől el az első benyomás, és 10,60 m²-rel ez **szokatlanul nagy előszoba** – van hely arra, hogy ne csak átjáró legyen. Fonott kosár vagy cipőtároló, világos fa pad, kerek tükör, fogas. Ide jó a fehér lambéria és a strapabíró, mosható szőnyeg. Kevés tárgy, sok szabad fal. Erdős telken külön számít a **sáros cipő és a nedves kabát helye** – ezt zárt tárolóval érdemes megoldani, nem nyitott fogassal.
+Világos fa pad, tükör, kevés nyitott fogas és zárt cipőtárolás. Legyen helye a sáros cipőnek és a nedves kabátnak. A szőnyeg legyen könnyen tisztítható, a tárolás ne szűkítse az ajtónyitásokat.
 
-### 2–4. Konyha, étkező, nappali — 45,49 m² egybefüggő tér, Norwich Arena
+### 2–4. Konyha, étkező, nappali — 45,49 m², Norwich Arena
 
-A ház központja és a legnagyobb összefüggő felület. Egyetlen térként kezelendő.
-
-- **Konyha (13,57 m²)** – fa front, fa konyhasziget, kő munkalap. A fa és a kő itt találkozik, ezért ez a ház legfontosabb anyagpárosítása. Matt felületek, egyszerű, vékony fogantyú vagy fogantyú nélküli front. A pult alatti világítás nem elhagyható.
-- **Étkező (10,93 m²)** – fa asztal, hozzá rattan vagy fonott háttámlájú szék, fölötte fonott függőlámpa 75–85 cm-re az asztallaptól. Szőnyeg csak akkor, ha az asztal minden oldalán +60 cm marad.
-- **Nappali (20,99 m²)** – fa dohányzóasztal, nagy juta szőnyeg, fonott lámpa, kosaras tárolás, len függöny. A **Pan-Tech kandalló** és az ablak a két fókuszpont. Az akcentuszöld itt jelenhet meg a legnagyobb felületen (fotel, nagy párnák, pléd).
+- **Konyha:** a tömörfa bútor megrendelve. Front-, kőpult- és fogantyújavaslat az anyagfejezetben; a bárszék, textil és kiegészítők illeszkedjenek ezekhez; egy külön csaptelepjelölt csak akkor releváns, ha az nincs a rendelésben és még szükséges.
+- **Étkező:** fa asztal, kényelmes székek. A fonott ülés csak üléspróba után legyen első választás; a hat darab férjen el az asztal lábai és egymás mellett.
+- **Nappali:** fa dohányzóasztal, kényelmes kanapé, tisztítható szőnyeg, kosaras/zárt tárolás. A zöld akcentus itt kaphat nagyobb felületet. A Cantus központi talpa tudatos formai kompromisszum lehet a látszó lábas preferenciához képest.
 
 ### 5. Háló — 16,22 m², fa parketta
 
-Lágyabb, melegebb változat: mosott len ágynemű, fonott vagy kárpitozott fejvég, két oldalt azonos éjjeliszekrény és lámpa, sötétítő réteg a függöny mögött. Itt a legkevesebb a minta és a tárgy. 16,22 m² elég ahhoz, hogy az ágy mellett elférjen egy fotel vagy egy pad az ágy végénél.
+Kevés minta, puha textil, megfelelő sötétítés és használható éjjeliszekrény. Pad vagy fotel csak akkor kerüljön be, ha az ágy és szekrény körüli közlekedés megmarad.
 
 ### 6. és 8. Szoba — 10,63 m² és 11,55 m², fa parketta
 
-Gyerek- és/vagy vendégszoba. Ugyanaz a paletta, de puhább és mosható: fehér alap, egy zsályazöld vagy halványkék akcentus, natúr fonott tárolók, mosható szőnyeg. Kerülendő a klasszikus „bébikék" és a sok figurális minta; a natúr alap évekig velük nő. **Sötétítés kötelező.**
+Fehér fal, textileken visszafogott akcentus, mosható játszófelület és zárt tároló. A terméklista a 06-os szobát babaszobának kezeli. A 08-as szoba a tulajdonos megerősítése szerint egyelőre vendég-/tartalékszoba, ezért berendezése Prio 2.
 
 ### 7. Dolgozó — 12,78 m², fa parketta
 
-Az erdőre néző ablak itt előny és kockázat is: szép a kilátás, de a monitor mögötti erős ellenfény fárasztó. Az íróasztal **ne háttal és ne szemben** álljon az ablaknak, hanem **merőlegesen rá**. Fa asztallap, egy jó munkalámpa (2700 K, CRI 90+), zárt tárolás a papírnak, egy nyitott polc a szépnek.
+Az asztal helyét a képernyő tükröződése és az ablak használata szerint válasszuk. Kiindulásként az ablakra merőleges elrendezés jó. A dolgozóasztalt és széket hozzátok: ezek meglévő darabokkal megoldott funkciók, az új termékjelöltek csak későbbi csereopciók. A még szükséges tárolás és fényvédelem a tényleges használat szerint ütemezendő.
 
 ### 9. Előtér — 3,92 m² · 13. Közlekedő — 3,47 m²
 
-Átvezető terek, **mindkettő hidegburkolatot kap** (Norwich Arena), így a padló megszakítás nélkül fut az előszobától a nappaliig. Ez a ház legfontosabb vizuális összekötője: 63,48 m² egyetlen, folytonos felület. Érdemes egy keskeny konzolasztalt vagy egy nagyobb képet betenni, hogy ne csak folyosó legyen.
+A Norwich Arena folytonossága és az egységes ajtók összekötik a tereket. Keskeny konzol vagy kép csak a szabad közlekedősáv megtartásával kerüljön ide. A meglévő ajtónyílások szélességét esztétikai okból nem módosítjuk.
 
-Mivel az előtér és a közlekedő is lapburkolatot kap, a **parkettaváltás csak a négy szoba ajtajában** történik. Ez négy küszöb, mind azonos megoldással, ajtó alatt.
+### 10. Külön WC — terv szerint 1,63 m²
 
-Itt nyílik egymás mellé a legtöbb ajtó, tehát ez a ház **legsűrűbb krém bézs felülete**. Két következmény: az ajtók ne legyenek különböző szélességűek ott, ahol egymás mellett látszanak, ha elkerülhető; és a szegélyléc itt fusson végig megszakítás nélkül, mert a sok tok között ez adja a nyugalmat.
+A meglévő kis fali Geberit kézmosóhoz illő tükör, kéztörlőtartó és kevés tárolás szükséges. A látszó műanyag szifon cseréje opcionális esztétikai tétel; a kompatibilitást és szükséges csatlakozásokat előbb ellenőrizni kell. Nem kell csak a szín miatt minden meglévő alkatrészt lecserélni.
 
-### 10. WC — 1,63 m² · 12. Fürdő(k) — 4,75 m²
+### 12. Kádas fürdő — 4,75 m²
 
-> **Helyszíni állapot (2026-09-20, fotók alapján):** a burkolat és a szerelvények **már készen vannak**, csak a bútor és a kiegészítők hiányoznak. Két fürdő van (egy kádas WC-vel, egy zuhanyzós) és a külön WC.
+**A szekrény, mosdó és pult megvan / megrendelve, ezekhez nem keresünk alternatívát.** A még szükséges tükör, törölközőtartó, fürdőtextil és tárolók mérete a megrendelt összeállításhoz igazodjon. A korábbi dupla mosdós feltételezésből ne következzen automatikusan két új tükör: a tényleges bútor és mosdó kiosztása a mérvadó. Pad és kádpolc csak helyszíni méretpróba után indokolt ebben a kis térben.
 
-**Ami adott**
+### Zuhanyzós fürdő — alapterület ellenőrizendő
 
-- **Fal:** meleg szürke, beton hatású nagyformátumú lap, egy-egy falon szürke **rombusz–háromszög mintás dekorsáv** (a kád körül, a zuhanyban, a WC-tartály előtt). A minta már megvan – több mintát ezekbe a terekbe **ne** vigyél.
-- **Fém:** **szálcsiszolt sárgaréz / arany** minden szerelvényen; a WC-ben antikolt réz csap. A fürdőbe fülke is készült sárgaréz élvédővel.
-- **Szaniter:** fehér fali WC-k, fehér Geberit nyomólap, fehér kád. A WC-ben kis fali kézmosó **szekrény nélkül**, látszó fehér műanyag szifonnal.
-- **A fürdőben a mosdócsap FALI kifolyó** – ehhez **csaplyuk nélküli, pultra ültetett mosdó** kell, a kifolyó alá pozicionálva.
+**A mosdó és a hozzá tartozó szekrény megvan; csak a pult hiányzik.** A pultot ezekhez kell méretezni, nem egy újonnan választott szekrényhez. A meglévő szekrény és mosdó típusa/mérete még nincs megadva; emiatt sem a pult szélességét, sem a kivágás formáját nem tekintjük rögzítettnek.
 
-**Amit ez jelent a berendezésre**
+Első anyagirányként matt, világos homok/elefántcsont tónusú, finom kőrajzolatú, fürdőszobai pulthoz alkalmas ultrakompakt vagy porcelán felületet javaslok; a konyhai kőminta is kipróbálható itt. A végső választást a szekrény színe és teherbírása, a fehér mosdó, a szürke csempe és a sárgaréz szerelvény mellé tett minta dönti el. Natúr fa/bambusz pult csak tudatos gondozási kompromisszumként maradjon.
 
-- A tér most **szürke + fehér + sárgaréz**: elegáns, de hűvös. A meleget itt a **fa mosdószekrény (tölgy)**, a fonott tároló és a **törtfehér–homok textil** hozza – ez itt nem dísz, hanem az egyensúly feltétele.
-- **Fém: csak szálcsiszolt sárgaréz / arany** (törölközőtartó, WC-papír tartó, tükörkeret, lámpa). Matt fekete és króm ezekbe a helyiségekbe **nem** kerül, mert a meglévő szerelvényekkel ütne.
-- **Tükör:** kerek vagy ovális, vékony sárgaréz vagy tölgy kerettel; a kis WC-ben a lehető legnagyobb, mert tágít.
-- **WC:** a látszó műanyag szifon helyett **design szifon sárgaréz / bronz színben** – ez a legolcsóbb, leglátványosabb javítás ebben a helyiségben.
-- **Zöld:** zsályazöld törölköző vagy egy eukaliptusz ág jól áll a meleg szürkéhez; a kék itt kerülendő, mert a szürkével együtt hideggé tenné.
-- Fehér lambéria ezekbe a terekbe már nem kell (a falak burkoltak).
+A mosdó beépítési sablonja, a kifolyó kinyúlása, a pult teljes magassága, a lefolyó és fiókok helye együtt ellenőrizendő. A korábbi ÅLSKEN 102×49 cm-es jelölt csak méretellenőrzésre váró referencia, **nem a meglévő bútorhoz igazolt ajánlás**, ezért kimarad a költségösszegből. Az egyedi pult ára még hiányzik. Részletek: [anyagválasztási brief](../products/anyagvalasztas-konyha-kandallo-furdopult.md).
+
+Mindkét fürdőben a meglévő szürke burkolat és sárgaréz szerelvény mellé fa/natúr hatású bútor és homok–zsálya textil adhat melegebb összhatást. A külön magasszekrény opcionális, helye még nincs kijelölve; nem a már megrendelt bútor pótlása. A közös fürdős tartozékok darabszáma előzetes, a két helyiség tényleges használata szerint osztandó szét.
 
 ### 11. Háztartási helyiség — 5,01 m² · 15. Gépészet — 2,76 m²
 
-Funkcionális terek, de a háztartási helyiség ajtaja a lakótérből látszik. Zárt, fehér frontok, egy munkafelület, fonott kosarak a szennyesnek. Erdős telken itt a helye a kerti és erdei holminak is (gumicsizma, esőkabát, szerszám), ezért érdemes **több zárt tárolót** tervezni, mint amennyi elsőre indokoltnak tűnik.
+Zárt, könnyen tisztítható tárolás, használható munkafelület, szennyesgyűjtés. A háztartási munkalap külön tétel, nem része a már megrendelt konyhabútornak. A gépészeti elemek hozzáférése maradjon szabad.
 
 ### 14. Gardrób — 2,79 m²
 
-Nyitott vagy félig nyitott tárolás, azonos fa tónusban a ház többi fájával. Jó világítás (2700 K, CRI 90+) – ez az a hely, ahol a rossz fényben rosszul választ az ember ruhát. Burkolata még nyitott kérdés.
+A tároló méretét az ajtónyitás, vállfaszélesség és használható közlekedősáv alapján válasszuk. A burkolat még nyitott; parketta itt nem lesz.
 
-### 16–17. Terasz — 29,43 + 12,22 = 41,65 m², fagyálló kerámia
+### 16–17. Terasz — terv szerint összesen 41,65 m²
 
-A ház legnagyobb egybefüggő külső felülete, és erdős telken ez a legerősebb adottság: **innen látszik az, amiért a ház ott van.** A bútor fa vagy fonott, a textil kültéri len hatású, törtfehér és zsályazöld. A belső padlóval rokon tónusú fagyálló lap folytonossá teszi az átmenetet. Egy kültéri szőnyeg és egy pár lámpás elég ahhoz, hogy esténként is használható legyen.
+Kültérre alkalmas fa/fonott bútor, időjárást tűrő textil és tárolható párnák. A két terasz összterülete nem jelenti automatikusan, hogy egyetlen egybefüggő térként bútorozhatók; a helyüket és használatukat külön kell nézni.
 
-### Kisbabás háztartás – praktikus szűrők minden helyiségre
+### Kisbabás háztartás – gyakorlati szűrők
 
-- **Levehető, mosható huzat** minden kárpitozott bútoron.
-- **Letörölhető vagy mosható padlótextil** ott, ahol enni fognak és ahol a baba játszik. A nagy hidegburkolt felület ezt fontosabbá teszi: a lapburkolat kemény, ha rá esnek.
-- **Zárt tárolás** a szemmagasság alatt, hogy a játék egy mozdulattal eltűnjön.
-- **Stabilitás**: magas, keskeny bútor falra rögzítve; éles sarkok kerülése a játszózónában. A **kő konyhapult sarka** és a **konyhasziget éle** gyerekmagasságban van – érdemes lekerekített élt kérni.
-- **Kandallóvédelem**: a zárt égésterű kandalló üvege is forró. Rács vagy kerítés kell köré.
-- **Sötétítés** a gyerekszobákban és a hálóban; ez alvási és nem esztétikai kérdés.
-- **Kábelek és zsinórok**: a függönyzsinór és a lámpakábel elérhetetlen magasságban vagy rögzítve legyen.
+- A gyakran használt kárpit és játszófelület tisztíthatósága legyen elsődleges.
+- A bútor legyen stabil, a rögzítést a gyártói előírás és a fal típusa szerint kell kialakítani.
+- A játszózónában kerüljük a könnyen boruló tárgyakat és kiálló éleket; a meglévő berendezéshez illő védelem külön mérlegelendő.
+- A kandalló és a gyerek közötti fizikai védelem, valamint a kábelek és függönyzsinórok elvezetése része a berendezés ellenőrzésének.
+- A díszítés mennyisége és elhelyezése igazodjon a család napi használatához.
 
 ## Inspirációs képek
 
@@ -423,21 +272,33 @@ Minden mappában van egy **`README.md`** (helyiségre szabott brief + **képenk�
 
 Kilincs-referencia (szálcsiszolt sárgaréz krém bézs ajtón, fehér fal előtt): [`09-eloter/krem-bezs-ajto-sargarez-kilincs-tolgy-konzol.jpg`](../inpiration/09-eloter/krem-bezs-ajto-sargarez-kilincs-tolgy-konzol.jpg).
 
+A korábbi inspirációs briefekben szereplő, azóta lezárt témákra e dokumentum aktuális rögzített döntései az irányadók; a képek nem jelentenek új beszerzési feladatot.
+
 ## Terméklista
 
-Konkrét, Magyarországon megvásárolható termékek helyiségenként (név, link, ár, hol kapható): [`products/`](../products/README.md). A mappaszerkezet megegyezik az inspirációs mappáéval.
+A konkrét termékjelöltek, árak, méretek, anyagok és linkek a [`products/`](../products/README.md) mappában vannak. A világítás és mindkét fürdő meglévő szekrény-/mosdóelemei kikerültek az aktív jelöltek közül; a párkány nem beszerzési feladat. A konyhai fogantyúk megmaradtak, a konyhafront, kőpult, kandallóburkolat és a hiányzó zuhanyzós fürdőpult külön anyagjavaslatot kapott.
+
+Az ajánlott csomag tervezési összeg, nem végleges rendelés: egyes házszintű és helyiségenkénti tételek átfednek. A készlet, szállítás, illeszkedés és a végleges darabszám rendelés előtt ellenőrizendő. A kompromisszum és a feltételes ajánlás legyen látható a termék mellett.
+
+## Beszerzési ütemezés
+
+A terméklisták minden helyiségben két fázist különböztetnek meg: **Prio 1 – minimális beköltözéshez szükséges**, **Prio 2 – körülbelül fél évig halasztható**. A meglévő darabbal megoldott funkció nem új beszerzés; az ajánlott/olcsóbb/prémium szint ettől független választási szempont.
+
+Előre sorolt az alvás, alap étkezés, megfelelő napi tárolás és legalább egy működő fürdő. Dekoráció, plusz ülőbútor, vendégszoba és teraszbútor később is elkészülhet. A szükséges beépítés és a pusztán dekoratív befejezés különválik: például a konyha használható pultja indulásra kell, a kandalló esztétikai burkolata csak akkor halasztható, ha ez nem érinti a szükséges műszaki befejezést/használhatóságot.
+
+A helyiségenkénti prioritás, feltételek, árazatlan hiányok és ajánlott részösszegek a [terméklistákban](../products/README.md) vannak. Az induló mennyiségek nem feltétlenül azonosak a teljes terv darabszámaival.
 
 ## Nyitott kérdések
 
 | Kérdés | Miért számít |
 | --- | --- |
-| **Tájolás** – melyik helyiség néz északra, délre, és merre van a sűrűbb erdő | ez dönti el, hol kell melegíteni a palettát és hol kell több fény |
-| **Gardrób (2,79 m²) burkolata** | parketta csak a 4 szobában van, tehát ide hidegburkolat kerül – a kérdés, hogy Norwich Arena vagy kerámia |
-| **Burkolatváltás a tervhez képest** | a konyha, étkező, nappali és előtér hidegburkolata eltér az E-01 tervtől, egyeztetni kell |
-| **A konkrét fa tónus** | a krém bézs ajtókhoz és nyílászárókhoz kell hangolni, mintadarabbal, helyszínen |
-| **A konkrét krém bézs árnyalat** | a szürkés-bézstől a sárgás-krémig tág a fogalom; ajtóminta kell a falminta és a padlólap mellé |
-| **Ajtólap típusa** | sík vagy finom bemarású lap (a kilincs eldőlt: szálcsiszolt sárgaréz) |
-| **Költségkeret helyiségenként vagy összesen** | enélkül a termékjavaslat szórása túl nagy |
-| **Ütemezés** | mi készül most és mi fél év múlva |
+| Zuhanyzós fürdő alapterülete, helye a terven és szabad bútorozási méretei | a régi helyiségjegyzék pontosítása, a meglévő szekrényhez és mosdóhoz szükséges pult illesztése |
+| Meglévő minták és a közös mintasor összeállítása | bútor-, textil- és fémfelületek összehangolása |
+| Kádas fürdő megrendelt bútorának méretei | csak a még szükséges tükör és kiegészítők illesztéséhez |
+| Gardrób burkolata | Norwich Arena vagy más kerámia, parketta nélkül |
+| Tájolás és a szobák tényleges használata | függöny, sötétítés és bútorozás |
+| Kandalló meglévő sötét kőburkolatának megtartása | a világos új burkolat csatlakozásai és közös mintapróba |
+| Konyhafront mintája, kőpult és kandallóburkolat végleges felülete | a megrendelt bútorhoz és meglévő kandallórendszerhez illesztés |
+| Költségkeret és beszerzési ütemezés | a nyitott tételek rangsorolása |
 
-> Megjegyzés a képekről: inspirációs képeket tudok keresni és letölteni. Fotórealisztikus látványtervet a helyiségeitekről nem tudok készíteni – az a lakberendezőtök dolga lesz, ehhez viszont ez a dokumentum és a terméklista jó kiindulás.
+A párkány és világítás lezárt téma. A konyha tömörfa alapanyaga és rendelése adottság; a kért front-, pult- és fogantyújavaslat a még egyeztethető részletekre vonatkozik.

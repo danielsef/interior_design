@@ -3,14 +3,18 @@
 Usage: python3 products/_data/finalize.py <file-in-_wip> [--keep-bad-links]"""
 import json, os, sys, subprocess, shutil, collections, concurrent.futures as cf
 HERE=os.path.dirname(os.path.abspath(__file__)); src=sys.argv[1]
-REQ=["room","category","name","store","where","material_color","size","price_huf","url","tier","qty","why","verified"]
+REQ=["room","category","name","store","where","material_color","size","url","tier","qty","why","verified","priority","priority_reason"]
 d=json.load(open(src,encoding="utf-8")); assert isinstance(d,list) and d, "empty"
 bad=[]
 for i,x in enumerate(d):
     miss=[k for k in REQ if k not in x or x[k] in (None,"")]
     if miss: bad.append((i,x.get("name"),"missing",miss))
-    if not isinstance(x.get("price_huf"),int) or x.get("price_huf",0)<=0: bad.append((i,x.get("name"),"price",x.get("price_huf")))
-    if x.get("tier") not in ("ajánlott","olcsóbb","prémium"): bad.append((i,x.get("name"),"tier",x.get("tier")))
+    if type(x.get("priority")) is not int or x["priority"] not in (1,2): bad.append((i,x.get("name"),"priority",x.get("priority")))
+    currency=x.get("currency","HUF")
+    price=x.get("price_eur") if currency=="EUR" else x.get("price_huf")
+    if currency not in ("HUF","EUR") or isinstance(price,bool) or not isinstance(price,(int,float)) or price<=0: bad.append((i,x.get("name"),"price",currency,price))
+    if currency=="EUR" and x.get("price_huf") is not None: bad.append((i,x.get("name"),"EUR must not have an unverified HUF price"))
+    if x.get("tier") not in ("ajánlott","olcsóbb","prémium","alternatíva","figyelőlista"): bad.append((i,x.get("name"),"tier",x.get("tier")))
     if not str(x.get("url","")).startswith("http"): bad.append((i,x.get("name"),"url",x.get("url")))
     x.setdefault("price_note",""); x.setdefault("caveat",""); x.setdefault("checked","2026-09-20")
     try: x["qty"]=int(x.get("qty",1) or 1)

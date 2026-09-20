@@ -15,7 +15,10 @@
   "why": "Natúr, világos bükkfa, egyszerű látszó lábas forma – illik a ház egységes világos fa tónusához, és ez a legolcsóbb valódi fa kiságy.",
   "caveat": "70x160 cm-es méret: ehhez külön, ettől eltérő méretű (nem a lenti 60x120-as) matrac kell. Alapkivitel, magasságállítás nélkül.",
   "verified": "listing",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A baba meglévő vagy új, megfelelő fekhelye az induló berendezés része.",
+  "priority_condition": ""
  },
  {
   "room": "06-szoba",
@@ -33,7 +36,10 @@
   "why": "Fehér+fa kombináció, zárt, letisztult fejvég; ugyanebből a kollekcióból vehető a hozzáillő pelenkázó is, így a szoba egy anyagcsaládból épül fel.",
   "caveat": "A fa rácsok fényezettek (áttetsző akril lakk), nem teljesen matt felület; a huzatos elemek 100% nejlon.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A baba meglévő vagy új, megfelelő fekhelye az induló berendezés része.",
+  "priority_condition": ""
  },
  {
   "room": "06-szoba",
@@ -51,7 +57,10 @@
   "why": "Az IKEA legújabb babaszoba-vonala: valódi nyírfa erezet és fehér festés keveréke, ez áll legközelebb a ház rögzített 'világos fa + fehér alap' döntéséhez.",
   "caveat": "",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A baba meglévő vagy új, megfelelő fekhelye az induló berendezés része.",
+  "priority_condition": ""
  },
  {
   "room": "06-szoba",
@@ -69,7 +78,10 @@
   "why": "Egyszerű, könnyű, jó belépő szintű matrac a 60x120-as rácsos ágyakhoz (SUNDVIK, ÄLSKVÄRD).",
   "caveat": "Csak 5 cm vastag – kényelmesebb alváshoz a KRUMMELUR ajánlott.",
   "verified": "listing",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A használt kiságyhoz illő matrac szükséges.",
+  "priority_condition": ""
  },
  {
   "room": "06-szoba",
@@ -87,7 +99,10 @@
   "why": "8 cm vastag, szellőző szerkezetű matrac – jó ár-érték arány, megfelel a 'jó minőségű, légáteresztő' elvárásnak.",
   "caveat": "A SNIGLAR (70x160) kiságyhoz nem ez, hanem külön 70x160-as matrac szükséges.",
   "verified": "listing",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A használt kiságyhoz illő matrac szükséges.",
+  "priority_condition": ""
  },
  {
   "room": "06-szoba",
@@ -105,7 +120,10 @@
   "why": "Kompakt, fehér, könnyen illeszkedik a fehér alaphoz; a legolcsóbb pelenkázó megoldás.",
   "caveat": "Nyitott polcos kialakítás, nem zárt fiókos tárolás – a játékok/pelenkák nem tűnnek el szem elől, ahogy a kisbabás szűrő javasolná.",
   "verified": "listing",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A baba alap ellátása és fekhelye mellett külön bútor/dekor helyett meglévő megfelelő megoldás is használható.",
+  "priority_condition": ""
  },
  {
   "room": "06-szoba",
@@ -123,7 +141,10 @@
   "why": "Két zárt fiókkal – megfelel a 'zárt tárolás szemmagasság alatt' kisbabás szűrőnek; falra rögzíthető (a gyártó kötelezően előírja és mellékeli a rögzítőt).",
   "caveat": "A fiókoldalak forgácslapból, fóliázva – nem valódi fa furnér.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A baba alap ellátása és fekhelye mellett külön bútor/dekor helyett meglévő megfelelő megoldás is használható.",
+  "priority_condition": ""
  },
  {
   "room": "06-szoba",
@@ -141,7 +162,10 @@
   "why": "Valódi nyírfa erezet + fehér, zárt fiókok 38 cm belső mélységgel; a pelenkázó lap levétele után önálló komódként tovább használható – ez szolgálja legjobban a 'babával nő együtt' elvet.",
   "caveat": "",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A baba alap ellátása és fekhelye mellett külön bútor/dekor helyett meglévő megfelelő megoldás is használható.",
+  "priority_condition": ""
  },
  {
   "room": "06-szoba",
@@ -159,7 +183,10 @@
   "why": "Törtfehér/bézs, rövid szálú, jó ár – vizuálisan illik az off-white/natúr elváráshoz.",
   "caveat": "FONTOS: a gondozási címke szerint csak kézzel mosható max. 40°C-on, NEM gépi mosású – ha valódi gépi moshatóság a cél, a Lorena Canals opciók jobban megfelelnek.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A baba alap ellátása és fekhelye mellett külön bútor/dekor helyett meglévő megfelelő megoldás is használható.",
+  "priority_condition": ""
  },
  {
   "room": "06-szoba",
@@ -177,7 +204,10 @@
   "why": "Valódi gépben mosható pamutszőnyeg, krémszínben – pontosan a kisbabás szűrő ('letörölhető/mosható padlótextil') kulcskövetelményét teljesíti.",
   "caveat": "",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A baba alap ellátása és fekhelye mellett külön bútor/dekor helyett meglévő megfelelő megoldás is használható.",
+  "priority_condition": ""
  },
  {
   "room": "06-szoba",
@@ -195,7 +225,10 @@
   "why": "Nagyobb méret, gépben mosható pamut, és a neve is ('Pine Forest') illik az erdei wooden coastal koncepcióhoz.",
   "caveat": "",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A baba alap ellátása és fekhelye mellett külön bútor/dekor helyett meglévő megfelelő megoldás is használható.",
+  "priority_condition": ""
  },
  {
   "room": "06-szoba",
@@ -213,7 +246,10 @@
   "why": "Világos nyírfa váz és levehető, mosható huzatú világosbézs párna – a hintafunkció kifejezetten jó szoptatáshoz/altatáshoz.",
   "caveat": "",
   "verified": "listing",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A baba alap ellátása és fekhelye mellett külön bútor/dekor helyett meglévő megfelelő megoldás is használható.",
+  "priority_condition": ""
  },
  {
   "room": "06-szoba",
@@ -231,7 +267,10 @@
   "why": "Törtfehér bouclé kárpit pontosan a stílushoz kért anyag – puha, meleg tapintású, magasabb minőségű darab.",
   "caveat": "A termékoldal nem jelez levehető/mosható huzatot – kisbabás háztartásban érdemes rákérdezni vásárlás előtt.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A baba alap ellátása és fekhelye mellett külön bútor/dekor helyett meglévő megfelelő megoldás is használható.",
+  "priority_condition": ""
  },
  {
   "room": "06-szoba",
@@ -249,7 +288,10 @@
   "why": "Természetes juta, alacsony, puha szélű forma – biztonságos játéktárolás a padlón, éles sarkok nélkül.",
   "caveat": "",
   "verified": "listing",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A baba alap ellátása és fekhelye mellett külön bútor/dekor helyett meglévő megfelelő megoldás is használható.",
+  "priority_condition": ""
  },
  {
   "room": "06-szoba",
@@ -267,43 +309,10 @@
   "why": "Teljesen sötétítő, meleg bézs tónusú roló – önmagában megoldja a kötelező elsötétítést; elé/mellé tehető egy len hatású törtfehér függöny is a lágyabb megjelenésért.",
   "caveat": "",
   "verified": "listing",
-  "checked": "2026-09-20"
- },
- {
-  "room": "06-szoba",
-  "category": "Asztali lámpa",
-  "name": "BLIDVÄDER asztali lámpa",
-  "store": "IKEA",
-  "where": "online (ikea.com/hu) + IKEA Budaörs áruház",
-  "material_color": "törtfehér, kerámia+bézs textil ernyő",
-  "size": "50 cm",
-  "price_huf": 26990,
-  "price_note": "",
-  "url": "https://www.ikea.com/hu/hu/p/blidvaeder-asztali-lampa-toertfeher-keramia-bezs-80501258/",
-  "tier": "ajánlott",
-  "qty": 1,
-  "why": "Kerámia talp, meleg bézs ernyő – halk, natúr éjszakai fény, ha 2700K-s izzóval szereljük fel.",
-  "caveat": "A lámpa önmagában nem dimmelhető – dimmelhető 2700K-s LED izzó vagy okos foglalat szükséges hozzá.",
-  "verified": "listing",
-  "checked": "2026-09-20"
- },
- {
-  "room": "06-szoba",
-  "category": "Mennyezeti lámpa",
-  "name": "NARRKOLV függőlámpa",
-  "store": "IKEA",
-  "where": "online (ikea.com/hu) + IKEA Budaörs áruház",
-  "material_color": "natúr rattan",
-  "size": "Ø 56 cm",
-  "price_huf": 19990,
-  "price_note": "",
-  "url": "https://www.ikea.com/hu/hu/p/narrkolv-fueggolampa-rattan-00594341/",
-  "tier": "ajánlott",
-  "qty": 1,
-  "why": "Fonott rattan ernyő, meleg mintázott fényt vet a mennyezetre/falra – ez a stílus egyik alapkövetelménye a világításnál.",
-  "caveat": "Irányított, réses fényt ad, önmagában kevés általános világításnak – kiegészítő fényforrás (asztali lámpa) is kell.",
-  "verified": "listing",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A ténylegesen használt alvóhely árnyékolását indulásra rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "06-szoba",
@@ -321,7 +330,10 @@
   "why": "Off-white pöttyös pamut muszlin – pontosan a kért natúr, puha babatakaró.",
   "caveat": "",
   "verified": "listing",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A külön muszlintakaró vásárlása nem része a minimális bútorozási csomagnak; meglévő megfelelő textil használható.",
+  "priority_condition": ""
  },
  {
   "room": "06-szoba",
@@ -339,7 +351,10 @@
   "why": "Egyszerű fehér pamut gumis lepedő – semleges alap, minden akcentushoz illik.",
   "caveat": "70x160-as méret a SNIGLAR kiságyhoz; a 60x120-as kiságyakhoz (SUNDVIK/ÄLSKVÄRD) külön, kisebb méretű lepedő kell.",
   "verified": "listing",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A használt kiságymatracra illő lepedő szükséges.",
+  "priority_condition": ""
  },
  {
   "room": "06-szoba",
@@ -357,7 +372,10 @@
   "why": "Alacsony, gyereknek elérhető magasságú, natúr világos fa polc – ez a klasszikus Montessori-stílusú nyitott tárolás; falra rögzíthető kiegészítővel érkezik.",
   "caveat": "A mellékelt TROFAST dobozok élénkzöldek, nem zsálya tónusúak – érdemes natúr kosárra vagy más színű dobozra cserélni.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A baba alap ellátása és fekhelye mellett külön bútor/dekor helyett meglévő megfelelő megoldás is használható.",
+  "priority_condition": ""
  },
  {
   "room": "08-szoba",
@@ -375,7 +393,10 @@
   "why": "Valódi, kezeletlen tömör fa a legalacsonyabb áron – olajozható/pácolható semleges, szürkés tölgy-közeli tónusra, hogy ne domináljon a sárgás fenyőszín.",
   "caveat": "Kezeletlen fenyő: mindenképp olajozást/pácolást igényel (semleges, nem narancsos árnyalatra), matrac külön vásárlandó.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Megerősítve vendég-/tartalékszoba: az új berendezés fél évig halasztható.",
+  "priority_condition": "Ha beköltözéstől mindennapi hálószoba, a fekhely, ágynemű, sötétítés és alap ruhatárolás Prio 1-re vált."
  },
  {
   "room": "08-szoba",
@@ -393,7 +414,10 @@
   "why": "Két egymásba rakható ágy egy áráért: mindennap egy gyerekágy, alvós vendégéjszakán pedig kihúzva két ágy – pontosan a 'gyerek- ÉS vendégszoba' funkciót szolgálja.",
   "caveat": "80 cm széles (nem 90), és a matrac enyhén szürkéskék huzatú.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Megerősítve vendég-/tartalékszoba: az új berendezés fél évig halasztható.",
+  "priority_condition": "Ha beköltözéstől mindennapi hálószoba, a fekhely, ágynemű, sötétítés és alap ruhatárolás Prio 1-re vált."
  },
  {
   "room": "08-szoba",
@@ -411,7 +435,10 @@
   "why": "Nappal keskeny gyerekágy, éjszaka (vendégeknek) kihúzva dupla ágy, alatta 3 zárt fiók – ez a klasszikus 'HEMNES daybed' megoldás, amit a tervezési elvek is név szerint javasolnak.",
   "caveat": "A váz forgácslapból készül, fehér festéssel/fóliával, nem tömör fa (a sínek tömör fenyők).",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Megerősítve vendég-/tartalékszoba: az új berendezés fél évig halasztható.",
+  "priority_condition": "Ha beköltözéstől mindennapi hálószoba, a fekhely, ágynemű, sötétítés és alap ruhatárolás Prio 1-re vált."
  },
  {
   "room": "08-szoba",
@@ -429,7 +456,10 @@
   "why": "Egyszerű, matt fehér, zárt tárolás a legalacsonyabb áron; falra rögzíthető biztonsági kiegészítővel.",
   "caveat": "Fóliázott forgácslap, nem furnér.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Megerősítve vendég-/tartalékszoba: az új berendezés fél évig halasztható.",
+  "priority_condition": "Ha beköltözéstől mindennapi hálószoba, a fekhely, ágynemű, sötétítés és alap ruhatárolás Prio 1-re vált."
  },
  {
   "room": "08-szoba",
@@ -447,7 +477,10 @@
   "why": "Letisztultabb, keretes ajtódizájn a fehér alaphoz; a rögzítő szett a csomag része, ami a stabilitási elvárás miatt fontos.",
   "caveat": "Fóliázott forgácslap, nem valódi fa.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Megerősítve vendég-/tartalékszoba: az új berendezés fél évig halasztható.",
+  "priority_condition": "Ha beköltözéstől mindennapi hálószoba, a fekhely, ágynemű, sötétítés és alap ruhatárolás Prio 1-re vált."
  },
  {
   "room": "08-szoba",
@@ -465,7 +498,10 @@
   "why": "Tölgyfa-hatású front + 2 zárt fiók – ez adja vissza legjobban a ház rögzített 'fehér+tölgy' fa tónusát egy szekrényen.",
   "caveat": "A 'tölgyfa hatás' fóliázott forgácslap, nem valódi tölgy furnér.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Megerősítve vendég-/tartalékszoba: az új berendezés fél évig halasztható.",
+  "priority_condition": "Ha beköltözéstől mindennapi hálószoba, a fekhely, ágynemű, sötétítés és alap ruhatárolás Prio 1-re vált."
  },
  {
   "room": "08-szoba",
@@ -483,7 +519,10 @@
   "why": "Letisztult, alacsony, kerek lábú fehér íróasztal – a márka újabb, visszafogottabb gyerekbútor-vonala, jól illik a natúr alaphoz.",
   "caveat": "Opcionális elem, ha marad hely a szobában.",
   "verified": "listing",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Megerősítve vendég-/tartalékszoba: az új berendezés fél évig halasztható.",
+  "priority_condition": "Ha beköltözéstől mindennapi hálószoba, a fekhely, ágynemű, sötétítés és alap ruhatárolás Prio 1-re vált."
  },
  {
   "room": "08-szoba",
@@ -501,7 +540,10 @@
   "why": "Egyszerű fehér forgószék az íróasztalhoz, nő a gyerekkel (állítható magasság).",
   "caveat": "",
   "verified": "listing",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Megerősítve vendég-/tartalékszoba: az új berendezés fél évig halasztható.",
+  "priority_condition": "Ha beköltözéstől mindennapi hálószoba, a fekhely, ágynemű, sötétítés és alap ruhatárolás Prio 1-re vált."
  },
  {
   "room": "08-szoba",
@@ -519,7 +561,10 @@
   "why": "100% pamut, 40°C-on ténylegesen gépben mosható, apró geometrikus (rombusz) mintás – pontosan a kért 'natúr, apró geometrikus minta' + mosható elvárás.",
   "caveat": "A minta natúr+fekete (nem tiszta bézs); 11,55 m²-es szobához kicsi lehet önmagában, érdemes 2 db-ot vagy a nagyobb prémium opciót választani.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Megerősítve vendég-/tartalékszoba: az új berendezés fél évig halasztható.",
+  "priority_condition": "Ha beköltözéstől mindennapi hálószoba, a fekhely, ágynemű, sötétítés és alap ruhatárolás Prio 1-re vált."
  },
  {
   "room": "08-szoba",
@@ -537,7 +582,10 @@
   "why": "Nagyobb méret, bézs alapszín, mosható pamut, finom leveles (nem figurális/rajzos) mintával – erősíti az erdei hangulatot.",
   "caveat": "",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Megerősítve vendég-/tartalékszoba: az új berendezés fél évig halasztható.",
+  "priority_condition": "Ha beköltözéstől mindennapi hálószoba, a fekhely, ágynemű, sötétítés és alap ruhatárolás Prio 1-re vált."
  },
  {
   "room": "08-szoba",
@@ -555,7 +603,10 @@
   "why": "Törtfehér alapon finom zöld csík – pontosan a kért 'off-white/zsálya finom csík' mintázat.",
   "caveat": "",
   "verified": "listing",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Megerősítve vendég-/tartalékszoba: az új berendezés fél évig halasztható.",
+  "priority_condition": "Ha beköltözéstől mindennapi hálószoba, a fekhely, ágynemű, sötétítés és alap ruhatárolás Prio 1-re vált."
  },
  {
   "room": "08-szoba",
@@ -573,7 +624,10 @@
   "why": "Valódi tölgy tónusú falipolc, könyveknek/dísztárgyaknak – illik a ház domináns fa színéhez.",
   "caveat": "",
   "verified": "listing",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Megerősítve vendég-/tartalékszoba: az új berendezés fél évig halasztható.",
+  "priority_condition": "Ha beköltözéstől mindennapi hálószoba, a fekhely, ágynemű, sötétítés és alap ruhatárolás Prio 1-re vált."
  },
  {
   "room": "08-szoba",
@@ -591,7 +645,10 @@
   "why": "Ugyanaz a bézs sötétítő roló család, mint a 06-szobában – egységes megjelenés a két gyerekszoba között, kötelező elsötétítéssel.",
   "caveat": "",
   "verified": "listing",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Megerősítve vendég-/tartalékszoba: az új berendezés fél évig halasztható.",
+  "priority_condition": "Ha beköltözéstől mindennapi hálószoba, a fekhely, ágynemű, sötétítés és alap ruhatárolás Prio 1-re vált."
  },
  {
   "room": "08-szoba",
@@ -609,6 +666,9 @@
   "why": "Puha, natúr tónusú textil tárolódoboz – könnyen mosható, jól passzol a polcra/gardrób aljába.",
   "caveat": "",
   "verified": "listing",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Megerősítve vendég-/tartalékszoba: az új berendezés fél évig halasztható.",
+  "priority_condition": "Ha beköltözéstől mindennapi hálószoba, a fekhely, ágynemű, sötétítés és alap ruhatárolás Prio 1-re vált."
  }
 ]

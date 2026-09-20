@@ -13,11 +13,10 @@
 - Világos–közép tölgy matt felülettel, semleges (nem sárgás) altónussal
 - Len függöny padlóig, magasra tett karnissal, dupla anyagmennyiséggel
 - Juta / szizál szőnyeg nagy felületen
-- Fonott rost: rattan, tengerifű kosár, bambusz lámpaernyő
 - **Zsályazöld** textil és kerámia – ez az erdei akcentus, nem a kék
 - Matt, halk kőfelület (mészkő, homokkő hatás)
 
-> **Krém bézs ajtók.** A ház mind a 11 beltéri ajtaja krém bézs, tokkal és szegélyléccel együtt – ez a krém bézs felület kb. 90%-a. Képnézéskor érdemes figyelni, hogy az **ajtó, a tok és a szegélyléc egy színben** van-e, hogy a lap **sík vagy finoman bemart**-e (nem kazettás), és hogy a **kilincs** matt fekete vagy antikolt sárgaréz-e. Fényes króm kilincs krém bézs ajtón hideg hatású.
+> **Cream beige nyílászárók és fa párkányok.** A meglévő szín és a szálcsiszolt sárgaréz kilincsek a referenciák; az új bútor- és textilszíneket a fehér fallal, padlóval és megrendelt bútorokkal közös mintasorban ellenőrizzük. A képek formai inspirációk, nem új beszerzési előírások.
 
 ## Mit kerülj
 

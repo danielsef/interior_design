@@ -15,7 +15,7 @@
 - **Több krém bézs ajtó egy látómezőben** – az előszobából nyílik a legtöbb ajtó, itt derül ki leghamarabb, hogy jó-e a fehér–bézs párosítás
 - 10,60 m² – ez nem folyosó, hanem szoba: fér bele konzolasztal is
 
-> **Krém bézs ajtók.** A ház mind a 11 beltéri ajtaja krém bézs, tokkal és szegélyléccel együtt – ez a krém bézs felület kb. 90%-a. Képnézéskor érdemes figyelni, hogy az **ajtó, a tok és a szegélyléc egy színben** van-e, hogy a lap **sík vagy finoman bemart**-e (nem kazettás), és hogy a **kilincs** matt fekete vagy antikolt sárgaréz-e. Fényes króm kilincs krém bézs ajtón hideg hatású.
+> **Cream beige nyílászárók és fa párkányok.** A meglévő szín és a szálcsiszolt sárgaréz kilincsek a referenciák; az új bútor- és textilszíneket a fehér fallal, padlóval és megrendelt bútorokkal közös mintasorban ellenőrizzük. A képek formai inspirációk, nem új beszerzési előírások.
 
 ## Mit kerülj
 

@@ -3,140 +3,182 @@
 | | |
 | --- | --- |
 | **Helyiség** | 12,78 m² · fa parketta |
-| **Termékek** | 21 db |
-| **Árak ellenőrizve** | 2026-09-20 |
+| **Termékek** | 18 db |
+| **Áradatok dátuma** | 2026-09-20 |
 | **Inspirációs képek** | [`../../inpiration/07-dolgozo/`](../../inpiration/07-dolgozo/README.md) |
+
+## Beköltözési prioritás
+
+**Prio 1:** a minimális beköltözéshez szükséges új beszerzés, a jelzett feltételekkel. **Prio 2:** körülbelül fél évig halasztható, vagy csak későbbi cserejelölt. Ez külön szempont az ajánlott/olcsóbb/prémium minősítéstől.
+
+**Induló minimum:** A dolgozóasztalt és a széket hozzátok, így ezekre nincs új beköltözési beszerzés. Használatkor a szükséges fényvédelem és kábelelrendezés marad előre sorolt feladat.
+
+**Ráér később:** Új asztal/szék csak cserejelölt; tárolóbútor, polc, szőnyeg és dekor szintén halasztható.
+
+**Feltétel / kiváltás:** A napi munkavégzés indulása nincs külön rögzítve: a roló és kábelelrendezés akkor Prio 1, amikor használatba veszitek a munkahelyet. A hozott bútorok helyett listázott új jelöltek minden költségútból ki vannak véve.
+
+### Prio 1 – előre sorolt tételek
+
+| Tételkör | Miért / milyen feltétellel? |
+| --- | --- |
+| Roló (fényvédelem) | A képernyős munkát zavaró besütést a használatba vételkor kezelni kell. **Feltétel:** Prio 1, ha a dolgozó már beköltözéstől napi munkára kell; egyébként Prio 2. Használható meglévő eszköz kiváltja az új vásárlást. |
+| Kábelrendszerező | A használatba vett munkahely kábeleit rendezni kell; a konkrét tálca helyettesíthető. **Feltétel:** Prio 1, ha a dolgozó már beköltözéstől napi munkára kell; egyébként Prio 2. Használható meglévő eszköz kiváltja az új vásárlást. |
+
+| Ajánlott tételek fázisonként | Listázott összeg |
+| --- | --- |
+| Prio 1 – beköltözéshez előre sorolt | **13 980 Ft** |
+| Prio 2 – későbbi új beszerzés | **162 710 Ft** |
+
+> Ezek a korábbi teljes tervezett darabszámokkal számolt, feltételes részösszegek; nem a legolcsóbb beköltözési kosár árai. Egy szükséglethez egy megfelelő megoldást válassz. A meglevővel kiváltott cserejelölt, a kizárt referencia, EUR-os vagy elfogyott termék és az árazatlan hiány nem szerepel bennük. A szükséges induló darabszámok és az átfedések még pontosítandók.
 
 ## Költség ebben a helyiségben
 
-| Forgatókönyv | Összeg |
+| Számítás | Összeg |
 | --- | --- |
-| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **324 660 Ft** |
-| 💰 Minden kategóriából a legolcsóbb | 181 660 Ft |
-| 💎 Minden kategóriából a legdrágább | 532 730 Ft |
+| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **176 690 Ft** |
+| 💰 Kategóriánként a legolcsóbb sor összege | 105 690 Ft |
+| 💎 Kategóriánként a legdrágább sor összege | 236 600 Ft |
 
-> A darabszám javaslat (pl. 6 szék, 2 éjjeliszekrény). Az árak a bolt weboldalán 2026-09-20-án látott árak – vásárlás előtt nézd meg újra, az akciók változnak.
+> A darabszám javaslat. A forintos költségutak az EUR-os, készlethiányos, meglévővel kiváltott és külön kizárt referenciatételeket kihagyják; ezek ára nem nulla. A feltételes ajánlások szerepelnek a tervezési összegben. A kategóriánkénti alsó/felső összeg nem összeillő bevásárlócsomag: az opcionális és egymást átfedő tételeket külön kell kiválasztani. A szállítás nincs benne; az ár és készlet rendelés előtt ellenőrizendő.
+
+> A forintos költségutakból kimaradó kategória (nincs számolható tétel): **Íróasztal, Irodai szék**.
 
 ## Termékek
 
 ⭐ = ezt venném · 💰 = olcsóbb, még vállalható · 💎 = jobb minőség, még észszerű áron
 
-### Íróasztal
+### Roló (fényvédelem) — Prio 1
 
-| | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
-| --- | --- | --- | --- | --- | --- | --- |
-| ⭐ ajánlott | [MITTZON Íróasztal, tölgy furnér/fekete](https://www.ikea.com/hu/hu/p/mittzon-iroasztal-toelgy-furner-fekete-s79528051/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | tölgy furnér, színezett átlátszó lakk / matt fekete acél láb | 140x60 cm, mag. 65-85 cm (állítható) | **69 990 Ft** | 1 |
-| 💰 olcsóbb | [LAGKAPTEN / MITTBACK Íróasztal, fehérre pácolt tölgy hatás/fehér](https://www.ikea.com/hu/hu/p/lagkapten-mittback-iroasztal-feherre-pacolt-toelgy-hatas-feher-s19417305/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | fehérre pácolt tölgy hatású fólia forgácslapon, fehér láb | 140x60 cm, mag. 73-96 cm (állítható) | **44 990 Ft** | 1 |
-| 💎 prémium | [MITTZON Asztal ülő-/állómunkához, elektromos, tölgy furnér/fekete](https://www.ikea.com/hu/hu/p/mittzon-asztal-uelo-allomunkahoz-elektromos-toelgy-furner-fekete-s69513955/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | tölgy furnér, színezett átlátszó lakk / matt fekete elektromos állványzat | 140x80 cm, mag. 62-126 cm (elektromosan állítható) | **169 990 Ft** | 1 |
+| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Prio 1** | ⭐ ajánlott | [SANDVEDEL Roló, bézs](https://www.ikea.com/hu/hu/p/sandvedel-rolo-bezs-30471843/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | 100% poliészter (min. 80% újrahasznosított), világos bézs, áttetsző szövet | 80x250 cm | **10 990 Ft** | 1 |
+
+**Prio 1:** A képernyős munkát zavaró besütést a használatba vételkor kezelni kell. Feltétel: Prio 1, ha a dolgozó már beköltözéstől napi munkára kell; egyébként Prio 2. Használható meglévő eszköz kiváltja az új vásárlást.
+
+- **SANDVEDEL Roló, bézs** – Fényszűrő (nem sötétítő) roló a monitor mögötti ellenfény tompítására, miközben a kilátás és a nappali fény megmarad. ⚠️ *Áttetsző jellegű, nem ad teljes vakítás-mentességet erős, alacsony napállásnál; szükség esetén sötétítő rétegként a fényszűrő függöny mögé is felszerelhető.*
+
+### Kábelrendszerező — Prio 1
+
+| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Prio 1** | ⭐ ajánlott | [FÖRSÄSONG Kábelrendszerező tálca, fehér](https://www.ikea.com/hu/hu/p/foersaesong-kabelrendszerezo-talca-feher-00573188/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | fehér porfestett acél, polipropilén heveder | 38x11x17 cm | **2 990 Ft** | 1 |
+
+**Prio 1:** A használatba vett munkahely kábeleit rendezni kell; a konkrét tálca helyettesíthető. Feltétel: Prio 1, ha a dolgozó már beköltözéstől napi munkára kell; egyébként Prio 2. Használható meglévő eszköz kiváltja az új vásárlást.
+
+- **FÖRSÄSONG Kábelrendszerező tálca, fehér** – Az asztal alá csavarozható tálca összefogja a kábeleket és a hosszabbítót – kisgyerekes házban fontos, hogy ne lógjon szabad zsinór.
+
+### Íróasztal — Prio 2
+
+| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Prio 2** | ⭐ ajánlott | [MITTZON Íróasztal, tölgy furnér/fekete](https://www.ikea.com/hu/hu/p/mittzon-iroasztal-toelgy-furner-fekete-s79528051/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | tölgy furnér, színezett átlátszó lakk / matt fekete acél láb | 140x60 cm, mag. 65-85 cm (állítható) | **69 990 Ft** | 1 |
+| **Prio 2** | 💰 olcsóbb | [LAGKAPTEN / MITTBACK Íróasztal, fehérre pácolt tölgy hatás/fehér](https://www.ikea.com/hu/hu/p/lagkapten-mittback-iroasztal-feherre-pacolt-toelgy-hatas-feher-s19417305/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | fehérre pácolt tölgy hatású fólia forgácslapon, fehér láb | 140x60 cm, mag. 73-96 cm (állítható) | **44 990 Ft** | 1 |
+| **Prio 2** | 💎 prémium | [MITTZON Asztal ülő-/állómunkához, elektromos, tölgy furnér/fekete](https://www.ikea.com/hu/hu/p/mittzon-asztal-uelo-allomunkahoz-elektromos-toelgy-furner-fekete-s69513955/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | tölgy furnér, színezett átlátszó lakk / matt fekete elektromos állványzat | 140x80 cm, mag. 62-126 cm (elektromosan állítható) | **169 990 Ft** | 1 |
+
+**Prio 2:** A használathoz szükséges darabot hozzátok; ez a konkrét új termék csak későbbi cserejelölt. Feltétel: Nem szükséges új beszerzés. Csak akkor kerül vissza a költségbe, ha külön csere mellett döntötök.
+
+> **A beszerzési összegből kizárva:** A dolgozóasztalt és a széket hozzátok; a funkció meglévő darabbal megoldott.
 
 - **MITTZON Íróasztal, tölgy furnér/fekete** – Valódi tölgy furnér lap matt lakkozással, matt fekete fémláb – pontosan a rögzített 'egy tölgy tónus + matt fekete fém' elvhez illik, és 140-160 cm-es célsávban van.
 - **LAGKAPTEN / MITTBACK Íróasztal, fehérre pácolt tölgy hatás/fehér** – Ugyanolyan méretű és formájú, mint a MITTZON, csak jóval olcsóbb belépő megoldás egy dolgozószobába. ⚠️ *Nem valódi fa: fóliázott forgácslap 'tölgy hatással', a felület fehéres, hidegebb tónusú, mint a ház domináns meleg tölgy tónusa.*
 - **MITTZON Asztal ülő-/állómunkához, elektromos, tölgy furnér/fekete** – Elektromos állítású ülő-álló asztal valódi tölgy furnér lappal – ergonómiai lépésszint, miközben megtartja a ház tölgy+matt fekete anyagpárosítását. ⚠️ *Nagyobb beruházás; a mélyebb 80 cm-es asztallap miatt érdemes ellenőrizni, hogy a szoba elrendezésében (ablakra merőlegesen) elfér-e.*
 
-### Irodai szék
+### Irodai szék — Prio 2
 
-| | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
-| --- | --- | --- | --- | --- | --- | --- |
-| ⭐ ajánlott | [LÅNGFJÄLL Szék, Gunnared bézs/fehér](https://www.ikea.com/hu/hu/p/langfjaell-szek-gunnared-bezs-feher-s19252366/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | Gunnared bézs szövet, fehér csillag alapú alumínium lábazat | szabványos irodai szék, állítható magasság, deréktámasszal | **69 990 Ft** | 1 |
-| 💰 olcsóbb | [FLINTAN Irodai szék, bézs](https://www.ikea.com/hu/hu/p/flintan-irodai-szek-bezs-70492202/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | bézs poliészter kárpit (min. 90% újrahasznosított), fa furnér ülésváz | szabványos irodai szék, állítható magasság | **24 990 Ft** | 1 |
-| 💎 prémium | [HATTEFJÄLL Irodai szék karfákkal, Gunnared bézs/fehér](https://www.ikea.com/hu/hu/p/hattefjaell-irodai-szek-karfakkal-gunnared-bezs-feher-60538955/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | Gunnared bézs/fehér kéttónusú szövet, fehér alumínium lábazat, fekete görgők | ülésmagasság 46-56 cm, állítható deréktámasz és karfa | **99 990 Ft** | 1 |
+| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Prio 2** | ⭐ ajánlott | [LÅNGFJÄLL Szék, Gunnared bézs/fehér](https://www.ikea.com/hu/hu/p/langfjaell-szek-gunnared-bezs-feher-s19252366/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | Gunnared bézs szövet, fehér csillag alapú alumínium lábazat | szabványos irodai szék, állítható magasság, deréktámasszal | **69 990 Ft** | 1 |
+| **Prio 2** | 💰 olcsóbb | [FLINTAN Irodai szék, bézs](https://www.ikea.com/hu/hu/p/flintan-irodai-szek-bezs-70492202/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | bézs poliészter kárpit (min. 90% újrahasznosított), fa furnér ülésváz | szabványos irodai szék, állítható magasság | **24 990 Ft** | 1 |
+| **Prio 2** | 💎 prémium | [HATTEFJÄLL Irodai szék karfákkal, Gunnared bézs/fehér](https://www.ikea.com/hu/hu/p/hattefjaell-irodai-szek-karfakkal-gunnared-bezs-feher-60538955/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | Gunnared bézs/fehér kéttónusú szövet, fehér alumínium lábazat, fekete görgők | ülésmagasság 46-56 cm, állítható deréktámasz és karfa | **99 990 Ft** | 1 |
+
+**Prio 2:** A használathoz szükséges darabot hozzátok; ez a konkrét új termék csak későbbi cserejelölt. Feltétel: Nem szükséges új beszerzés. Csak akkor kerül vissza a költségbe, ha külön csere mellett döntötök.
+
+> **A beszerzési összegből kizárva:** A dolgozóasztalt és a széket hozzátok; a funkció meglévő darabbal megoldott.
 
 - **LÅNGFJÄLL Szék, Gunnared bézs/fehér** – Ikonikus skandináv formavilág, világos bézs kárpit, letisztult váz – ergonomikus, de nem sportos/gamer hatású, jól illik a fa-fehér-bézs alaphangulathoz. ⚠️ *A lábazat világos, alumínium színű (nem matt fekete), ez a ház fém-szabályától kis eltérés, de nem hivalkodó fényes króm.*
 - **FLINTAN Irodai szék, bézs** – Egyszerű, letisztult forma, semleges bézs textil – nem 'gamer szék' megjelenésű, belefér a szoba visszafogott palettájába. ⚠️ *Karfa nélküli alapváltozat (karfás verzió külön kapható), kevésbé ergonomikus, mint a magasabb kategóriás modellek.*
 - **HATTEFJÄLL Irodai szék karfákkal, Gunnared bézs/fehér** – Teljesen állítható deréktámasz, ülésmélység és karfa – valódi irodai ergonómia, mégis bézs/fehér, letisztult, nem gamer-székes formanyelv. ⚠️ *A legdrágább opció; a lábazat itt is világos alumínium, nem matt fekete.*
 
-### Munkalámpa
+### Zárt tárolószekrény — Prio 2
 
-| | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
-| --- | --- | --- | --- | --- | --- | --- |
-| ⭐ ajánlott | [FORSÅ Asztali lámpa, fekete](https://www.ikea.com/hu/hu/p/forsa-asztali-lampa-fekete-00146776/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | matt fekete porfestett acél | mag. 35 cm, csuklós kar, E14 foglalat | **7 990 Ft** <br>*izzó külön kapható* | 1 |
-| 💰 olcsóbb | [TERTIAL Asztali lámpa, fehér](https://www.ikea.com/hu/hu/p/tertial-asztali-lampa-feher-70355455/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | fehér fém kar és ernyő, ABS műanyag rögzítő | csuklós karú asztali lámpa, E27 foglalat | **5 990 Ft** <br>*izzó külön kapható* | 1 |
-| 💎 prémium | [House asztali lámpa, fekete – Markslöjd](https://www.bonami.hu/p/house-table-black-fekete-asztali-lampa-markslojd) | **Bonami** – online (bonami.hu), házhozszállítás | matt fekete fém, hajlítható szerkezet | mag. 62 cm, E27 foglalat | **26 150 Ft** <br>*akciós, eredeti ár 38 190 Ft* | 1 |
+| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Prio 2** | ⭐ ajánlott | [TONSTAD Szekrény tolóajtóval, tölgy furnér](https://www.ikea.com/hu/hu/p/tonstad-szekr-toloa-val-toelgy-furner-10489231/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | tölgy furnér, átlátszó akril lakkozás | 81,7x37,2x119,9 cm | **89 990 Ft** | 1 |
+| **Prio 2** | 💰 olcsóbb | [BAGGEBO Tálalószekrény, fehér](https://www.ikea.com/hu/hu/p/baggebo-talaloszekreny-feher-40553616/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | fehér, fóliázott forgácslap | 78x30x92 cm | **18 990 Ft** | 1 |
+| **Prio 2** | 💎 prémium | [TONSTAD 6-fiókos szekrény, tölgy furnér](https://www.ikea.com/hu/hu/p/tonstad-6-fiokos-szekreny-toelgy-furner-50614624/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | tölgy furnér, átlátszó akril lakkozás, tömör tölgy fogantyúk | 120x47x90 cm | **149 900 Ft** | 1 |
 
-- **FORSÅ Asztali lámpa, fekete** – Matt fekete fém, klasszikus építész-lámpa forma, pontosan a ház 'egy fémtípus: matt fekete' szabályát követi; jó ár-érték arány. ⚠️ *Az izzó nem tartozék – E14 foglalatba 2700K, lehetőleg CRI90+ LED izzót kell hozzá venni (pl. LEDVANCE/Philips CRI90 sorozat).*
-- **TERTIAL Asztali lámpa, fehér** – Klasszikus rajzasztal-lámpa forma, olcsó belépő – 2700K CRI90+ E27 LED izzóval (külön beszerzendő) teljesíti a világítási alapelvet. ⚠️ *Fehér, nem matt fekete/fa-részletes; az izzó (2700K, CRI90+) nem tartozék, azt külön kell megvenni.*
-- **House asztali lámpa, fekete – Markslöjd** – Magasabb, dizájnosabb matt fekete csuklós lámpa – jó kiegészítő réteg a mennyezeti fény mellé, ha valaki markánsabb formát szeretne a FORSÅ helyett. ⚠️ *Izzó nem jár hozzá és a CRI/színhőmérséklet nincs feltüntetve a terméklapon – 2700K CRI90+ LED izzót külön kell választani.*
-
-### Zárt tárolószekrény
-
-| | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
-| --- | --- | --- | --- | --- | --- | --- |
-| ⭐ ajánlott | [TONSTAD Szekrény tolóajtóval, tölgy furnér](https://www.ikea.com/hu/hu/p/tonstad-szekr-toloa-val-toelgy-furner-10489231/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | tölgy furnér, átlátszó akril lakkozás | 81,7x37,2x119,9 cm | **89 990 Ft** | 1 |
-| 💰 olcsóbb | [BAGGEBO Tálalószekrény, fehér](https://www.ikea.com/hu/hu/p/baggebo-talaloszekreny-feher-40553616/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | fehér, fóliázott forgácslap | 78x30x92 cm | **18 990 Ft** | 1 |
-| 💎 prémium | [TONSTAD 6-fiókos szekrény, tölgy furnér](https://www.ikea.com/hu/hu/p/tonstad-6-fiokos-szekreny-toelgy-furner-50614624/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | tölgy furnér, átlátszó akril lakkozás, tömör tölgy fogantyúk | 120x47x90 cm | **149 900 Ft** | 1 |
+**Prio 2:** Az alap munkafelület és szék mellett későbbi tárolási vagy kényelmi/dekorációs fejlesztés.
 
 - **TONSTAD Szekrény tolóajtóval, tölgy furnér** – Valódi tölgy furnér, tolóajtós zárt tárolás papírnak, a teteje pedig jó felület a nyomtatónak – ez a 'zárt tárolás a papírnak' elvet szolgálja ki.
 - **BAGGEBO Tálalószekrény, fehér** – Kis helyen is elfér, van benne zárt (ajtós+fiókos) rész, olcsó belépő, ha nem kell nagy kapacitás. ⚠️ *Nem tölgy: fehér fóliás forgácslap, és a tárhely fele nyitott polc, nem teljesen zárt – papírt csak a zárt részbe érdemes tenni.*
 - **TONSTAD 6-fiókos szekrény, tölgy furnér** – Nagyobb, minőségibb tölgy furnér komód, halkan záródó fiókokkal – bőven elég papírnak és irodaszernek, teteje jó hely a nyomtatónak. ⚠️ *Fiókos kivitel, nem polcos-ajtós, ezért nagy dobozos anyagoknak kevésbé praktikus, mint egy szekrény.*
 
-### Nyitott fali polc
+### Nyitott fali polc — Prio 2
 
-| | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
-| --- | --- | --- | --- | --- | --- | --- |
-| ⭐ ajánlott | [KLAVRESTRÖM Falipolc, tölgy](https://www.ikea.com/hu/hu/p/klavrestroem-falipolc-toelgy-30601689/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | tömör tölgy, átlátszó akril lakkozás | 60x20x17 cm | **13 990 Ft** | 1 |
+| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Prio 2** | ⭐ ajánlott | [KLAVRESTRÖM Falipolc, tölgy](https://www.ikea.com/hu/hu/p/klavrestroem-falipolc-toelgy-30601689/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | tömör tölgy, átlátszó akril lakkozás | 60x20x17 cm | **13 990 Ft** | 1 |
+
+**Prio 2:** Az alap munkafelület és szék mellett későbbi tárolási vagy kényelmi/dekorációs fejlesztés.
 
 - **KLAVRESTRÖM Falipolc, tölgy** – Tömör tölgy nyitott polc a 'szépnek' – illeszkedik a szekrény tölgy tónusához, és betartja a 70% zárt / 30% nyitott arányt.
 
-### Szőnyeg íróasztal alá
+### Szőnyeg íróasztal alá — Prio 2
 
-| | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
-| --- | --- | --- | --- | --- | --- | --- |
-| ⭐ ajánlott | [LOHALS Szőnyeg, síkszövött, natúr](https://www.ikea.com/hu/hu/p/lohals-szonyeg-sikszoevoett-natur-30511288/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | 100% juta, natúr | 133x195 cm | **24 990 Ft** | 1 |
+| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Prio 2** | ⭐ ajánlott | [LOHALS Szőnyeg, síkszövött, natúr](https://www.ikea.com/hu/hu/p/lohals-szonyeg-sikszoevoett-natur-30511288/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | 100% juta, natúr | 133x195 cm | **24 990 Ft** | 1 |
+
+**Prio 2:** Az alap munkafelület és szék mellett későbbi tárolási vagy kényelmi/dekorációs fejlesztés.
 
 - **LOHALS Szőnyeg, síkszövött, natúr** – Sík szövésű natúr juta – a székgörgők jól futnak rajta, és ez a natúr rost fut végig a ház többi szőnyegén is. ⚠️ *Juta nem mosható; guriguló székhez idővel enyhén kophat a szálszerkezete a legjáratosabb pontokon.*
 
-### Fényszűrő függöny
+### Fényszűrő függöny — Prio 2
 
-| | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
-| --- | --- | --- | --- | --- | --- | --- |
-| ⭐ ajánlott | [LENDA Függöny elkötővel, 1 pár, törtfehér](https://www.ikea.com/hu/hu/p/lenda-fueggoeny-elkoetovel-1-par-toertfeher-fueggoenyrancolo-szalaggal-10633243/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | 100% pamut (min. 50% újrahasznosított), törtfehér | 140x250 cm / panel | **11 990 Ft** | 1 |
+| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Prio 2** | ⭐ ajánlott | [LENDA Függöny elkötővel, 1 pár, törtfehér](https://www.ikea.com/hu/hu/p/lenda-fueggoeny-elkoetovel-1-par-toertfeher-fueggoenyrancolo-szalaggal-10633243/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | 100% pamut (min. 50% újrahasznosított), törtfehér | 140x250 cm / panel | **11 990 Ft** | 1 |
+
+**Prio 2:** Az alap munkafelület és szék mellett későbbi tárolási vagy kényelmi/dekorációs fejlesztés.
 
 - **LENDA Függöny elkötővel, 1 pár, törtfehér** – Pamut, len-hatású fényszűrő függöny törtfehérben – a krém bézs ajtókhoz hangolt meleg alapszín, tompítja a fényt, de nem sötétít el. ⚠️ *Nem valódi len, hanem pamut; ellenőrizni kell, hogy az ablak szélességéhez elég anyagmennyiséget ad-e (a szabály szerint az ablak 2x szélessége ajánlott).*
 
-### Roló (fényvédelem)
+### Asztali rendszerező (bambusz) — Prio 2
 
-| | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
-| --- | --- | --- | --- | --- | --- | --- |
-| ⭐ ajánlott | [SANDVEDEL Roló, bézs](https://www.ikea.com/hu/hu/p/sandvedel-rolo-bezs-30471843/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | 100% poliészter (min. 80% újrahasznosított), világos bézs, áttetsző szövet | 80x250 cm | **10 990 Ft** | 1 |
+| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Prio 2** | ⭐ ajánlott | [SIGFINN Monitor állvány, rögzített magasságú, bambusz furnér](https://www.ikea.com/hu/hu/p/sigfinn-monitor-allvany-roegzitett-magassagu-bambusz-furner-20362929/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | bambusz furnér | monitor alá helyezhető állvány, tárolóhellyel alatta | **7 990 Ft** | 1 |
 
-- **SANDVEDEL Roló, bézs** – Fényszűrő (nem sötétítő) roló a monitor mögötti ellenfény tompítására, miközben a kilátás és a nappali fény megmarad. ⚠️ *Áttetsző jellegű, nem ad teljes vakítás-mentességet erős, alacsony napállásnál; szükség esetén sötétítő rétegként a fényszűrő függöny mögé is felszerelhető.*
-
-### Kábelrendszerező
-
-| | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
-| --- | --- | --- | --- | --- | --- | --- |
-| ⭐ ajánlott | [FÖRSÄSONG Kábelrendszerező tálca, fehér](https://www.ikea.com/hu/hu/p/foersaesong-kabelrendszerezo-talca-feher-00573188/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | fehér porfestett acél, polipropilén heveder | 38x11x17 cm | **2 990 Ft** | 1 |
-
-- **FÖRSÄSONG Kábelrendszerező tálca, fehér** – Az asztal alá csavarozható tálca összefogja a kábeleket és a hosszabbítót – kisgyerekes házban fontos, hogy ne lógjon szabad zsinór.
-
-### Asztali rendszerező (bambusz)
-
-| | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
-| --- | --- | --- | --- | --- | --- | --- |
-| ⭐ ajánlott | [SIGFINN Monitor állvány, rögzített magasságú, bambusz furnér](https://www.ikea.com/hu/hu/p/sigfinn-monitor-allvany-roegzitett-magassagu-bambusz-furner-20362929/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | bambusz furnér | monitor alá helyezhető állvány, tárolóhellyel alatta | **7 990 Ft** | 1 |
+**Prio 2:** Az alap munkafelület és szék mellett későbbi tárolási vagy kényelmi/dekorációs fejlesztés.
 
 - **SIGFINN Monitor állvány, rögzített magasságú, bambusz furnér** – Természetes bambusz textúra az asztalon, és az emelt monitor alatt hely marad jegyzettömbnek, kábeleknek – rendet ad a felületnek. ⚠️ *Ez elsősorban monitorállvány, nem klasszikus toll-/irattartó doboz; a listán szereplő bambusz asztali rendező funkcióját ez tölti be legjobban IKEA kínálatból.* *(ár listaoldalról)*
 
-### Parafa üzenőtábla
+### Parafa üzenőtábla — Prio 2
 
-| | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
-| --- | --- | --- | --- | --- | --- | --- |
-| ⭐ ajánlott | [FLÖNSA Üzenőtábla rajzszögekkel, parafa](https://www.ikea.com/hu/hu/p/floensa-uezenotabla-rajzszoegekkel-parafa-60532468/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | természetes parafa, forgácslap hátlap | 52x33 cm | **2 690 Ft** | 1 |
+| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Prio 2** | ⭐ ajánlott | [FLÖNSA Üzenőtábla rajzszögekkel, parafa](https://www.ikea.com/hu/hu/p/floensa-uezenotabla-rajzszoegekkel-parafa-60532468/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | természetes parafa, forgácslap hátlap | 52x33 cm | **2 690 Ft** | 1 |
+
+**Prio 2:** Az alap munkafelület és szék mellett későbbi tárolási vagy kényelmi/dekorációs fejlesztés.
 
 - **FLÖNSA Üzenőtábla rajzszögekkel, parafa** – Természetes parafa felület jegyzeteknek, fotóknak – illik a fonott/természetes anyagok közé, és 15 rajzszöggel jár.
 
-### Kaspó (kicsi)
+### Kaspó (kicsi) — Prio 2
 
-| | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
-| --- | --- | --- | --- | --- | --- | --- |
-| ⭐ ajánlott | [MUSKOTBLOMMA Virágcserép/alátét, agyag](https://www.ikea.com/hu/hu/p/muskotblomma-viragcserep-alatet-bel-kuelter-agyag-30454891/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | vörösagyag, matt, szilikonnal kezelt | Ø 15 cm, mag. 16 cm | **2 290 Ft** | 2 |
+| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Prio 2** | ⭐ ajánlott | [MUSKOTBLOMMA Virágcserép/alátét, agyag](https://www.ikea.com/hu/hu/p/muskotblomma-viragcserep-alatet-bel-kuelter-agyag-30454891/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | vörösagyag, matt, szilikonnal kezelt | Ø 15 cm, mag. 16 cm | **2 290 Ft** | 2 |
+
+**Prio 2:** Az alap munkafelület és szék mellett későbbi tárolási vagy kényelmi/dekorációs fejlesztés.
 
 - **MUSKOTBLOMMA Virágcserép/alátét, agyag** – Matt terrakotta agyag – natúr, homokszínű felület a polcra vagy az asztalra kis növénynek.
 
-### Fali kép / botanikus poszter
+### Fali kép / botanikus poszter — Prio 2
 
-| | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
-| --- | --- | --- | --- | --- | --- | --- |
-| ⭐ ajánlott | [KNOPPÄNG Képkeret poszterrel, kert (2 db)](https://www.ikea.com/hu/hu/p/knoppaeng-kepkeret-poszterrel-kert-40465771/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | farostlemez keret, papírfólia bevonat; botanikus vonalrajz motívum | 40x50 cm / darab | **6 490 Ft** <br>*/2 db szett* | 1 |
+| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Prio 2** | ⭐ ajánlott | [KNOPPÄNG Képkeret poszterrel, kert (2 db)](https://www.ikea.com/hu/hu/p/knoppaeng-kepkeret-poszterrel-kert-40465771/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | farostlemez keret, papírfólia bevonat; botanikus vonalrajz motívum | 40x50 cm / darab | **6 490 Ft** <br>*/2 db szett* | 1 |
+
+**Prio 2:** Az alap munkafelület és szék mellett későbbi tárolási vagy kényelmi/dekorációs fejlesztés.
 
 - **KNOPPÄNG Képkeret poszterrel, kert (2 db)** – Botanikus, letisztult vonalrajzok vékony kerettel – illik az 'erdő, levél, botanikus lap' témához, olcsó belépő a dolgozó falára. ⚠️ *A keret színe a terméklapon nem egyértelműen világos fa (a képeken fekete/semleges tónusú keret is látszik) – rendelés előtt érdemes a pontos kerettónust ellenőrizni, hogy világos fa hatású legyen.*

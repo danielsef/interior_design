@@ -15,7 +15,10 @@
   "why": "Keskeny (30 cm), padlótól plafonig érő zárt fehér szekrény – ide fér a porszívó, felmosóvödör, tisztítószerek; megfelel a helyiségre előírt 'zárt, fehér frontok' elvnek.",
   "caveat": "Fóliázott forgácslemez, nem tömör fa vagy furnér – nedves törlőkendővel tisztítható, de tartós nedvességnek ne tegyék ki.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A tisztítószereknek és eszközöknek szükség szerint elzárt, megfelelő hely kell.",
+  "priority_condition": "Meglévő megfelelően elzárt tárolóval az új szekrény vásárlása P2."
  },
  {
   "room": "11-haztartasi",
@@ -33,7 +36,10 @@
   "why": "A METOD rendszer erősebb korpusszal, lágyan záródó pántokkal és teljes belmagassággal (228 cm) készül – ide fér a vasalódeszka, felmosó és a magasabb flakonok is, ahogy az irányelv 'a szükségesnél is több zárt tárolót' javasol az erdős telek miatt.",
   "caveat": "Az Enköping front fólia, nem valódi fa; drágább, tömörfa hatású METOD front is választható, ha ez fontos szempont.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A tisztítószereknek és eszközöknek szükség szerint elzárt, megfelelő hely kell.",
+  "priority_condition": "Meglévő megfelelően elzárt tárolóval az új szekrény vásárlása P2."
  },
  {
   "room": "11-haztartasi",
@@ -51,7 +57,10 @@
   "why": "Szemmagasság fölötti zárt tárolás a mosószereknek – a kisbabás háztartás szabálya szerint a vegyszerek zárva, szemmagasság fölött legyenek.",
   "caveat": "Alapváltozat, nem lágyzáródó pánttal; bolti vásárláskor érdemes ezt megnézni.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A működő mosás-szárítás és megfelelő eszköztárolás mellett a végleges bútorozás/kényelmi kiegészítő későbbre tehető.",
+  "priority_condition": ""
  },
  {
   "room": "11-haztartasi",
@@ -69,7 +78,10 @@
   "why": "Szélesebb (80 cm), lágyan záródó METOD zsanérral, ugyanabban az Enköping fehérben, mint az alsó- és a magas szekrény – egységes frontkép a helyiségben.",
   "caveat": "Darabára magasabb, mint az ENHET-é, cserébe jobb zsanérminőség és 25 éves garancia jár hozzá.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A működő mosás-szárítás és megfelelő eszköztárolás mellett a végleges bútorozás/kényelmi kiegészítő későbbre tehető.",
+  "priority_condition": ""
  },
  {
   "room": "11-haztartasi",
@@ -87,7 +99,10 @@
   "why": "A mosogató/szifon eltakarására tervezett alsószekrény – erre kerül a tölgy/bambusz hatású munkalap; zárt fehér frontja illik a helyiség letisztult összképéhez.",
   "caveat": "Mosogatót/csaptelepet külön kell hozzá választani, a szifonkivágást beépítéskor kell méretre igazíttatni.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A működő mosás-szárítás és megfelelő eszköztárolás mellett a végleges bútorozás/kényelmi kiegészítő későbbre tehető.",
+  "priority_condition": ""
  },
  {
   "room": "11-haztartasi",
@@ -105,7 +120,10 @@
   "why": "Világos tölgy hatású, matt laminált felület – megfizethetően hozza a házban rögzített tölgy tónust a háztartási helyiségbe is.",
   "caveat": "Fóliázott forgácslemez, nem valódi fa; vizes pontnál a vágott szél duzzadhat, szilikonos zárás javasolt a mosogató körül.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A működő mosás-szárítás és megfelelő eszköztárolás mellett a végleges bútorozás/kényelmi kiegészítő későbbre tehető.",
+  "priority_condition": ""
  },
  {
   "room": "11-haztartasi",
@@ -123,7 +141,10 @@
   "why": "Valódi tölgyfurnér – az irányelv 'inkább tömör fa/valódi furnér, mint fóliás forgácslap' elvét ez az elem váltja valóra a helyiségben, ráadásul azonos tónusú, mint a konyhai kőpult melletti fa elemek.",
   "caveat": "Nedves helyen időnként olajozást igényel, különben foltosodhat; a 186 cm-es hossz vágással igazítható az alsószekrény-sorhoz.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A működő mosás-szárítás és megfelelő eszköztárolás mellett a végleges bútorozás/kényelmi kiegészítő későbbre tehető.",
+  "priority_condition": ""
  },
  {
   "room": "11-haztartasi",
@@ -141,7 +162,10 @@
   "why": "Univerzális keret, ami biztonságosan rögzíti a szárítógépet a mosógép tetejére, kihúzható polccal a szennyeskosárnak – ez a klasszikus 'egymásra pakolós' megoldás.",
   "caveat": "Csak a keretet adja; a gépek pontos szélességét/mélységét a vásárlás előtt egyeztetni kell, mert nem minden márkához illik egyformán.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A működő mosás-szárítás és megfelelő eszköztárolás mellett a végleges bútorozás/kényelmi kiegészítő későbbre tehető.",
+  "priority_condition": "Kényelmi magasító P2; ha a gépeket egymásra teszitek, a gyártóhoz illő összeépítő készlet a használat előtt P1. A két funkció nem azonos."
  },
  {
   "room": "11-haztartasi",
@@ -159,7 +183,10 @@
   "why": "Derékmagasságba emeli a gépet, fiókja a mosószereknek, kihúzható polca a szennyeskosárnak – napi használatra kényelmesebb, mint egy sima keret, és illik az ENHET szekrénysorhoz.",
   "caveat": "FONTOS: ez egy gép (nem két gép egymásra épített) magasítására való; ha ténylegesen mosógép fölé kell szárítógépet tenni, a vidaXL keret (fenti sor) kell helyette.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A működő mosás-szárítás és megfelelő eszköztárolás mellett a végleges bútorozás/kényelmi kiegészítő későbbre tehető.",
+  "priority_condition": "Kényelmi magasító P2; ha a gépeket egymásra teszitek, a gyártóhoz illő összeépítő készlet a használat előtt P1. A két funkció nem azonos."
  },
  {
   "room": "11-haztartasi",
@@ -177,7 +204,10 @@
   "why": "Valódi fonott rattan, fedeles kivitel – teljesíti az irányelv 'fonott kosár a szennyesnek' pontját, a fedél pedig elrejti a szennyest a nappaliból is látszó ajtó mögött.",
   "caveat": "Egy készleten belül mindkét kosár azonos színű; a világos+sötét párosításhoz két külön készletet (vagy egy másik gyártó sötét darabját) kell rendelni. Mosható belső zsák nincs mellékelve.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A működő mosás-szárítás és megfelelő eszköztárolás mellett a végleges bútorozás/kényelmi kiegészítő későbbre tehető.",
+  "priority_condition": ""
  },
  {
   "room": "11-haztartasi",
@@ -195,7 +225,10 @@
   "why": "Kisebb, fonott, fedeles kosár textilbéléssel (ez lényegében a kért mosható betétet helyettesíti) – két darabbal olcsóbban kijön a szennyeskosár-pár, mint egy prémium szett.",
   "caveat": "Ezen az oldalon csak bézs (világos) színben elérhető – a 'sötét' párdarabhoz külön kell keresni egy sötét színű kosarat, pl. a Lurdes fekete változatából egyet.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A működő mosás-szárítás és megfelelő eszköztárolás mellett a végleges bútorozás/kényelmi kiegészítő későbbre tehető.",
+  "priority_condition": ""
  },
  {
   "room": "11-haztartasi",
@@ -213,7 +246,10 @@
   "why": "Összecsukható, fehér száradóállvány – használaton kívül laposra hajtva alig foglal helyet az 5,01 m²-es helyiségben.",
   "caveat": "Nem falra szerelt, hanem önállóan álló modell; kifejezetten fali kart barkácsáruházban (OBI/Bauhaus) érdemes még keresni.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "Működő mosási-szárítási megoldás kell; ha nincs más szárítás, ez az alap.",
+  "priority_condition": "Ha van megfelelő más szárítási lehetőség, az új állvány halasztható."
  },
  {
   "room": "11-haztartasi",
@@ -231,7 +267,10 @@
   "why": "Állítható magasságú, semleges pamut huzatú vasalódeszka – nem üt el a fehér helyiség letisztult összképétől.",
   "caveat": "A huzat pontos árnyalatát/mintázatát a termékoldal nem részletezi – bolti mintán érdemes ellenőrizni.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A működő mosás-szárítás és megfelelő eszköztárolás mellett a végleges bútorozás/kényelmi kiegészítő későbbre tehető.",
+  "priority_condition": ""
  },
  {
   "room": "11-haztartasi",
@@ -249,7 +288,10 @@
   "why": "Fehér doboztest, natúr bambusz tetővel – illik a ház fa tónusához; két darab elég a kesztyűk, sálak, apró kerti eszközök rendszerezésére a magas szekrényben.",
   "caveat": "A doboz teste műanyag, nem üveg vagy fém – nagy súlyú szerszámot ne pakoljanak bele.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A működő mosás-szárítás és megfelelő eszköztárolás mellett a végleges bútorozás/kényelmi kiegészítő későbbre tehető.",
+  "priority_condition": ""
  },
  {
   "room": "11-haztartasi",
@@ -267,7 +309,10 @@
   "why": "Ugyanaz a padlótól plafonig érő fehér ENHET elem, csak külön darabban: ide kerülnek a gumicsizmák, esőkabátok, kerti szerszámok – az irányelv kifejezetten a szükségesnél is több zárt tárolót javasol az erdős telek miatt.",
   "caveat": "Csak 30 cm mély – magas szárú csizmák állva nehezen férnek bele, inkább fekve/polcon vagy külön csizmatálcával együtt érdemes tervezni.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A működő mosás-szárítás és megfelelő eszköztárolás mellett a végleges bútorozás/kényelmi kiegészítő későbbre tehető.",
+  "priority_condition": ""
  },
  {
   "room": "11-haztartasi",
@@ -285,25 +330,10 @@
   "why": "Moduláris, akasztórudas, fiókos, nagy férőhelyű zárt gardrób – felakasztható benne az esőkabát, a fiókokban elfér a kesztyű, sapka és kisebb szerszám; ez adja a legtöbb zárt tárhelyet a felsoroltak közül.",
   "caveat": "120 cm széles, ami az 5,01 m²-es helyiség egyik falát szinte teljesen elfoglalja – alaprajz-egyeztetés szükséges megrendelés előtt.",
   "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "11-haztartasi",
-  "category": "Mennyezeti lámpa (LED, funkcionális)",
-  "name": "BARLAST LED mennyezeti/falilámpa, fehér",
-  "store": "IKEA",
-  "where": "online (ikea.com/hu) + áruház (Budaörs, Örs vezér tere, Soroksár)",
-  "material_color": "fehér polipropilén/polisztirol, beépített LED",
-  "size": "Ø 25 × Ma 6,7 cm; 9,5 W, 900 lm, 2700 K, CRI 80, IP44",
-  "price_huf": 2990,
-  "price_note": "",
-  "url": "https://www.ikea.com/hu/hu/p/barlast-led-mennyezeti-falilampa-feher-00525908/",
-  "tier": "ajánlott",
-  "qty": 1,
-  "why": "Beépített LED-es, 2700 K meleg fehér fényű, IP44-es (fürdőszobai/nedves helyiségi) lámpa – pont a kért 'fényes, funkcionális' világítást adja, párás környezetben is biztonságosan.",
-  "caveat": "CRI 80-as értéke elmarad a ház többi helyiségére megcélzott CRI90+ szinttől; ha ez fontos, cserélhető fényforrású, CRI90+ izzós lámpát kell keresni helyette.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A működő mosás-szárítás és megfelelő eszköztárolás mellett a végleges bútorozás/kényelmi kiegészítő későbbre tehető.",
+  "priority_condition": ""
  },
  {
   "room": "11-haztartasi",
@@ -321,6 +351,9 @@
   "why": "Tömör, világos bükkfa, látszó lábakkal – segít elérni a magas szekrények felső polcait, színben közel áll a ház egységes világos fa tónusához.",
   "caveat": "Bükk, nem tölgy – enyhén világosabb/sárgább árnyalatú lehet a fő tölgy tónusnál; bolti mintaegyeztetés javasolt.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A működő mosás-szárítás és megfelelő eszköztárolás mellett a végleges bútorozás/kényelmi kiegészítő későbbre tehető.",
+  "priority_condition": ""
  }
 ]

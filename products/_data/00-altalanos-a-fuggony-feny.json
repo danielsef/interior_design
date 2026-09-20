@@ -15,7 +15,10 @@
   "why": "Valódi 100% len, fényszűrő, 300 cm hosszú – pontosan az irányelv kérése (len/len hatású, törtfehér-bézs, a krém bézs nyílászáróhoz hangolva). A 11 ablakhoz 11 csomag (ablakonként 1 pár = 2x145 cm ≈ 2x a szokásos ablakszélesség) szükséges, szélesebb ablaknál 2 pár kombinálandó.",
   "caveat": "A név szerint 'fehér', a termékoldal szövege szerint a valódi len rostszíne miatt enyhén törtfehér árnyalatú – mintát érdemes kérni a krém bézs nyílászáróhoz illesztéshez.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": "Ahol már az első naptól belátásvédelem szükséges és más megoldás nincs, az adott ablak takarása P1."
  },
  {
   "room": "00-altalanos-hangulat",
@@ -33,7 +36,10 @@
   "why": "Jóval olcsóbb fényszűrő alternatíva, törtfehér, elkötővel – 250 cm-es hossza még a hosszú, 'tócsázó' kategóriába esik.",
   "caveat": "Nem len, hanem pamut – az irányelv textúráját (len fonat) nem adja vissza, csak a színt és a fényszűrést; rövidebb is (250 cm), mint a DYTÅG.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": "Ahol már az első naptól belátásvédelem szükséges és más megoldás nincs, az adott ablak takarása P1."
  },
  {
   "room": "00-altalanos-hangulat",
@@ -51,7 +57,10 @@
   "why": "Kézzel készített, litvániai valódi len, tanúsított (European Flax, OEKO-TEX), előmosott – prémium tapintás és minőség a fő nappalikba/hálóba, ahol számít a textil súlya és esése.",
   "caveat": "Darabár – egy ablakhoz 2 db kell (≈60 380 Ft/ablak); a len természetéből adódóan darabonként lehet apró színeltérés.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": "Ahol már az első naptól belátásvédelem szükséges és más megoldás nincs, az adott ablak takarása P1."
  },
  {
   "room": "00-altalanos-hangulat",
@@ -69,7 +78,10 @@
   "why": "A fényszűrő len függöny mögé akasztható külön sötétítő réteg a hálóba és a 2 gyerekszobába (nem színes sötétítő függöny helyettesíti, ahogy az irányelv kéri) – dupla rúdon (l. HUGAD/RÄCKA dupla) a fő függönnyel együtt lóg.",
   "caveat": "Nem teljes fényzáró, csak jelentősen tompítja a fényt; színe világosszürke, nem törtfehér – mivel a fő függöny mögé kerül, kívülről nem látszik.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Indulásra a használt háló és babaszoba külön rolójával számolunk; a teljes házas függöny/karnis összeállítás későbbre maradhat.",
+  "priority_condition": "Ha az induló sötétítést mégis függönnyel oldjátok meg, az ehhez kellő sín/karnis és bélés együtt P1; a szobai rolót ilyenkor kiváltják."
  },
  {
   "room": "00-altalanos-hangulat",
@@ -87,7 +99,10 @@
   "why": "Önálló, olcsó sötétítő roló megoldás a háló + 2 gyerekszoba ablakára, ha bélés helyett rolót választunk; fehér színben illik a krém bézs nyílászáróhoz.",
   "caveat": "Alap kivitel, kézi behúzású; nem 100%-ban fényzáró a kávafogazás miatt (oldalt/alul szűrődhet be némi fény).",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Indulásra a használt háló és babaszoba külön rolójával számolunk; a teljes házas függöny/karnis összeállítás későbbre maradhat.",
+  "priority_condition": "Ha az induló sötétítést mégis függönnyel oldjátok meg, az ehhez kellő sín/karnis és bélés együtt P1; a szobai rolót ilyenkor kiváltják."
  },
  {
   "room": "00-altalanos-hangulat",
@@ -105,7 +120,10 @@
   "why": "Vastagabb, jobb fényzáró anyag és minőségibb kivitel, mint a FRIDANS – halkabb, finoman gördülő mechanika, ami kisbabás szobában a délutáni altatáshoz fontos.",
   "caveat": "Világosszürke, nem törtfehér/bézs – takarásban (ablakmélyedésben) ez nem zavaró, de látható rolóként színben elüt a többi textiltől.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Indulásra a használt háló és babaszoba külön rolójával számolunk; a teljes házas függöny/karnis összeállítás későbbre maradhat.",
+  "priority_condition": "Ha az induló sötétítést mégis függönnyel oldjátok meg, az ehhez kellő sín/karnis és bélés együtt P1; a szobai rolót ilyenkor kiváltják."
  },
  {
   "room": "00-altalanos-hangulat",
@@ -123,115 +141,10 @@
   "why": "Mennyezetbe rejtett fehér sín, amely eltűnik a fehér plafonon – letisztultabb megjelenés, mint a klasszikus rúd, jó választás a nappaliban/étkezőben, ahol a plafonhoz simuló, dekoratív rúd nélküli megoldást keresünk.",
   "caveat": "A csomag rögzítéshez szükséges csavarokat/tipliket nem tartalmazza; 140 cm-nél szélesebb ablakhoz VIDGA toldóelem vagy második sín (VIDGA fali/mennyezeti alkatrészek, ~700-1500 Ft/db) szükséges.",
   "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "00-altalanos-hangulat",
-  "category": "LED izzó E27, 2700K, CRI90+, szabályozható",
-  "name": "SOLHETTA LED izzó E27 806 lumen, fényereje szabályozható, kerek opálfehér",
-  "store": "IKEA",
-  "where": "online (ikea.com/hu) + áruház (Budaörs)",
-  "material_color": "opálfehér búra, 2700K",
-  "size": "806 lumen, E27, Ø kb. 60 mm",
-  "price_huf": 1990,
-  "price_note": "/2 db",
-  "url": "https://www.ikea.com/hu/hu/p/solhetta-led-izzo-e27-806-lumen-fenyereje-szabh-kerek-opalfeh-60583924/",
-  "tier": "ajánlott",
-  "qty": 5,
-  "why": "A termékoldal kifejezetten kimondja: 'Az izzó indexe 90' (CRI 90) és 2700K melegfehér, fényereje szabályozható – pontosan az irányelv kérése, és rendkívül olcsó (kb. 995 Ft/db).",
-  "caveat": "",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "00-altalanos-hangulat",
-  "category": "LED izzó E14, 2700K, CRI90+, szabályozható",
-  "name": "SOLHETTA LED-es izzó E14 806 lumen, fényereje szabh, kerek opálfehér, 45 mm",
-  "store": "IKEA",
-  "where": "online (ikea.com/hu) + áruház (Budaörs)",
-  "material_color": "opálfehér búra, 2700K",
-  "size": "806 lumen, E14, 45 mm",
-  "price_huf": 1790,
-  "price_note": "/2 db",
-  "url": "https://www.ikea.com/hu/hu/p/solhetta-led-es-izzo-e14-806-lumen-fenyereje-szabh-kerek-opalfeh-90549330/",
-  "tier": "ajánlott",
-  "qty": 5,
-  "why": "Ugyanaz a SOLHETTA család E14-es foglalatra: a termékoldal itt is explicit CRI 90-et és 2700K-t ad meg, szabályozható fényerővel – egységes fényminőség csillárokhoz/kisebb lámpatestekhez.",
-  "caveat": "",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "00-altalanos-hangulat",
-  "category": "LED izzó GU10, 2700K, CRI90+, szabályozható",
-  "name": "SOLHETTA LED-es izzó GU10 345 lumen, fényereje szabályozható",
-  "store": "IKEA",
-  "where": "online (ikea.com/hu) + áruház (Budaörs)",
-  "material_color": "2700K meleg fehér",
-  "size": "345 lumen, GU10",
-  "price_huf": 1290,
-  "price_note": "/db",
-  "url": "https://www.ikea.com/hu/hu/p/solhetta-led-es-izzo-gu10-345-lumen-fenyereje-szabh-20584096/",
-  "tier": "ajánlott",
-  "qty": 6,
-  "why": "A termékoldal explicit módon 'Az izzó indexe 90'-et ír, 2700K-t és szabályozhatóságot – spotlámpákhoz (pl. konyhasziget, olvasófotel melletti spot) ez a legolcsóbb, dokumentáltan CRI90-es GU10 megoldás.",
-  "caveat": "",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "00-altalanos-hangulat",
-  "category": "LED izzó E27, prémium márka, CRI90+",
-  "name": "Philips E27 Master Value LED 3,4W 470lm, CRI90, 2700K, szabályozható",
-  "store": "Lumenet",
-  "where": "online (lumenet.hu), házhoz szállítás Magyarországra",
-  "material_color": "CRI90, 2700K meleg fehér",
-  "size": "470 lumen, E27, 3,4 W (40W izzó helyett)",
-  "price_huf": 1677,
-  "price_note": "/db",
-  "url": "https://lumenet.hu/philips-e27-master-value-led-34w-470lm-cri90-2700k",
-  "tier": "prémium",
-  "qty": 5,
-  "why": "Neves márka (Philips Master Value), a címben és a specifikációban is explicit CRI90 és 2700K – hosszabb garanciájú, professzionális vonal a nappali fő lámpatestjeibe.",
-  "caveat": "",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "00-altalanos-hangulat",
-  "category": "LED izzó GU10, prémium márka, CRI90+",
-  "name": "Philips GU10 LED 6,2W 575lm, CRI90, 2200-2700K WarmGlow, szabályozható",
-  "store": "eMAG",
-  "where": "online (emag.hu), házhoz szállítás Magyarországra",
-  "material_color": "CRI90 (Ra:90), 2200-2700K WarmGlow (lehalványításkor melegebb tónusra vált)",
-  "size": "575 lumen, GU10, 6,2 W (80W izzó helyett)",
-  "price_huf": 7565,
-  "price_note": "/db",
-  "url": "https://www.emag.hu/philips-gu10-led-6-2w-575lm-cri90-2200-2700k-warmglow-dim-80w-izzo-helyett-8718699774097/pd/DZ8CJHMBM/",
-  "tier": "prémium",
-  "qty": 6,
-  "why": "A termékoldal explicit 'Ra: 90'-et ad meg, és a WarmGlow funkció lehalványításkor 2700K-ról egészen 2200K-ig melegszik – esti hangulatfényhez ez a legszebb, izzófényhez leginkább hasonló viselkedés.",
-  "caveat": "Jóval drágább, mint az IKEA SOLHETTA – csak néhány kiemelt lámpatestbe (pl. olvasófotel melletti spot) érdemes ebből venni.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "00-altalanos-hangulat",
-  "category": "Okos világítás kezdőcsomag (fényerő- és színhőmérséklet-szabályozás)",
-  "name": "KAJPLATS Kezdőszett, okos eszköz fehér spektrum, E27",
-  "store": "IKEA",
-  "where": "online (ikea.com/hu) + áruház (Budaörs)",
-  "material_color": "opálfehér búra; állítható színhőmérséklet 2200/2700/4000/6500K",
-  "size": "1 db okosizzó E27 + 1 db távirányító",
-  "price_huf": 4490,
-  "price_note": "/szett",
-  "url": "https://www.ikea.com/hu/hu/p/kajplats-kezdoszett-okos-eszkoez-feher-spektrum-60611446/",
-  "tier": "ajánlott",
-  "qty": 2,
-  "why": "A termékoldal explicit CRI 90-et ad meg, és a 4 előre beállított színhőmérséklet egyike pontosan 2700K – távirányítóval hub nélkül is használható, azonnal szabályozható fényerő és fénytónus a nappaliban/hálóban.",
-  "caveat": "Okostelefonos/app-vezérléshez és automatizáláshoz Matter-kompatibilis hub (pl. IKEA DIRIGERA, kb. 34 990 Ft) szükséges – ez külön kapható, a szettben nincs benne. Az IKEA HU kínálatában a korábbi TRÅDFRI izzók jelenleg nem szerepelnek a keresésben, a KAJPLATS tűnik az aktuális utódvonalnak.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Indulásra a használt háló és babaszoba külön rolójával számolunk; a teljes házas függöny/karnis összeállítás későbbre maradhat.",
+  "priority_condition": "Ha az induló sötétítést mégis függönnyel oldjátok meg, az ehhez kellő sín/karnis és bélés együtt P1; a szobai rolót ilyenkor kiváltják."
  },
  {
   "room": "00-altalanos-hangulat",
@@ -249,6 +162,9 @@
   "why": "Falra rögzítve feszesen tartja és rendben tartja a húzózsinórt, így az nem lóg le hurokban gyerekmagasságba – ez a kisbabás háztartás 'kábelek és zsinórok rögzítve legyenek' szabályát szolgálja a redőnyös/zsinóros ablakoknál.",
   "caveat": "Nem kifejezetten bababiztonsági termékként hirdetve (nincs 'gyerekbiztonság' feliratozás a terméken), hanem általános zsinórfeszítő szerelvény – funkciója (zsinór rögzítése, nem lóg szabadon) viszont megfelel a célnak. Kifejezetten 'zsinórrövidítő' vagy CE-jelzett gyerekbiztonsági kalapocs/klip magyar webshopban nem került elő ellenőrizhető termékoldalon.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A felszerelt árnyékoló elérhető zsinórját már használatba vételkor rendezni kell.",
+  "priority_condition": "Csak ha a választott árnyékolón van kezelendő zsinór; zsinórmentes rendszerhez ne vásárolj feleslegesen."
  }
 ]

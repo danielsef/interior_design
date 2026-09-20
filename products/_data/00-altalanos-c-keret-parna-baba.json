@@ -15,7 +15,10 @@
   "why": "Vékony, matt, világos tölgy hatású keret – az irányelv szerint „világos fa vagy törtfehér, vékony” keret kell; ugyanaz a család mindhárom méretben kapható, így egységes a ház. Műanyag védőlap: kisbabás háztartásban biztonságosabb, mint az üveg.",
   "caveat": "Fóliázott farostlemez, nem tömör fa; a polisztirén előlap karcolódhat és kissé tükröződik. A tölgy tónust érdemes az áruházban a bútorok fájához hasonlítani.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -33,7 +36,10 @@
   "why": "Valódi fa furnéros, vékony világos keret műanyag előlappal – az akció alatt az IKEA-nál is olcsóbb, és három méretben kapható, így ebből is kijön egységes sor.",
   "caveat": "Az ár akciós: rendes áron (3 990 Ft) már drágább a RÖDALM-nál. Vásárlói értékelés közepes (kb. 3,9/5) – a sarokillesztést átvételkor nézd meg. A fa tónusa kissé melegebb lehet a tölgynél.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -51,7 +57,10 @@
   "why": "Valódi tömör tölgy, vékony 14 mm-es profil – ugyanaz a fa, mint a ház bútorain, ezért ez hangolható a legszebben. Akril előlap: nem törik, babás háztartásba jó.",
   "caveat": "Csak online, 3–6 munkanap szállítás; az akril előlap karcérzékeny. Natúr tölgy – a tónusa darabonként kissé eltérhet.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -69,7 +78,10 @@
   "why": "A ház fő képmérete: vékony, világos tölgy hatású keret, a listán szereplő 50x70-es Gallerix poszterekhez pontosan illik. „Kevés, de nagy” – ebből 2–3 db elég a házba. Műanyag védőlap, babás háztartásba való.",
   "caveat": "Fóliázott farostlemez, nem tömör fa; a műanyag előlap fényben kissé hullámosnak hathat.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -87,7 +99,10 @@
   "why": "Valódi fa furnér, világos natúr tónus, műanyag előlap – akciósan a legolcsóbb világos fa keret ebben a méretben.",
   "caveat": "Az ár akciós: rendes áron (8 990 Ft) drágább a RÖDALM-nál, akkor már nem éri meg. Értékelés kb. 3,9/5 (276 vélemény). Ne keverd egy falon a RÖDALM tölgy hatásúval – a két fa tónus eltér.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -105,7 +120,10 @@
   "why": "Tömör tölgy, vékony profil, forgókapcsos hátlap – a nappali/étkező fő képéhez megéri a valódi fa, mert közelről látszik a különbség a fóliához képest. Akril előlap, nem törik.",
   "caveat": "Csak online rendelhető; akril előlap karcolódhat; kb. kétszerese az IKEA árának.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -123,7 +141,10 @@
   "why": "Nagy, hangsúlyos kép a kanapé vagy az étkező fölé – „egy nagyobb kép jobb, mint hat apró”. Paszpartuval 50x70-es posztert is levegősen keretez. Műanyag védőlap: ekkora méretnél babás házban különösen fontos.",
   "caveat": "Fóliázott farostlemez; a nagy polisztirén lap tükröződhet – ne ablakkal szembe kerüljön. Falra csavarral rögzítendő, ne öntapadós akasztóval.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -141,7 +162,10 @@
   "why": "Nagy méretű, valódi fa furnéros világos keret műanyag előlappal – akciósan kevesebb mint fele az IKEA árának.",
   "caveat": "60x90 cm, NEM 61x91: 61x91-es posztert 0,5–0,5 cm-rel körbe kell vágni hozzá. Az ár akciós (eredeti 10 900 Ft). Paszpartu nincs hozzá.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -159,7 +183,10 @@
   "why": "Tömör tölgy keret a ház egyetlen igazán nagy képéhez (kanapé fölé) – vékony profil, akril előlap, így nagy méretben sem veszélyes a baba mellett.",
   "caveat": "70x100 cm-es méret, tehát 70x100-as poszter kell bele (61x91-es IKEA poszterhez nem jó, legfeljebb egyedi paszpartuval). A Gallerix tölgy keretből nincs 61x91. Csak online.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -177,7 +204,10 @@
   "why": "Pontosan az irányelv témája: erdő, köd, sok levegős üres felület, tompa szürkészöld paletta – „erdő, nem tenger”. 50x70-ben a RÖDALM / tölgy keretbe illik, a nappali vagy a háló fő képe lehet.",
   "caveat": "Csak online, 3–6 munkanap; az oldalon a méretet ki kell választani (az ár a mérettől függ). A nyomat színeit monitoron nem lehet pontosan megítélni – félmatt papír, nem tükröződik.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -195,7 +225,10 @@
   "why": "Botanikus lap sok fehér felülettel – visszaköszön benne a ház olajfája és a zsályazöld akcentus. 30x40-es keretben párban (előtér, közlekedő, háló) működik.",
   "caveat": "Csak online; a zöld árnyalatát élőben érdemes a zsályazöld párnához nézni. Párban akkor szép, ha mellé ugyanebből a sorozatból választasz (pl. Olive Branch Still Life).",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -213,7 +246,10 @@
   "why": "A tollas belső adja a „besüppedős”, laza coastal párnát – len huzatban sokkal szebben áll, mint a poliészter. Mosógépben mosható és szárítógépben szárítható, ami kisbabás háztartásban alapfeltétel.",
   "caveat": "Toll: allergia esetén nem jó; új korában enyhe természetes szaga van; a tollszár idővel kiszúrhat a huzaton – sűrű szövésű huzat alá tedd. Rendszeresen fel kell rázni.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -231,7 +267,10 @@
   "why": "Olcsó, mosógépben mosható, gyorsan száradó, allergiabarát belső – a baba által elérhető (padlóra kerülő) párnákba praktikusabb, mint a toll.",
   "caveat": "Poliészter: feszesebb, „felfújt” hatású, kevésbé süpped és idővel lelapul. Hengercsomagolt – felbontás után fel kell rázni.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -249,7 +288,10 @@
   "why": "Az irányelv párnaképlete szerint az 50x50 mellé 40x58-as derékpárna kell – ugyanaz a tollas, mosható belső, így a kanapén egységes a párnák esése.",
   "caveat": "Toll – allergia esetén nem jó; enyhe szag új korában. A huzat szürke színű: vékony, világos len huzat alatt kissé átüthet – törtfehér huzat alá inkább az INNER.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -267,7 +309,10 @@
   "why": "Mosható, fehér, olcsó derékpárna-belső; világos huzat alatt nem üt át, a teraszra is kivihető.",
   "caveat": "Poliészter: feszesebb tartás, kevésbé természetes esés; idővel lelapul.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -285,7 +330,10 @@
   "why": "Ez legyen a ház referencia-zöldje: valódi len, szürkés tompa zöld, és ugyanabból a DYTÅG lenből van, mint a listán szereplő függöny – a textúra így összeér. Rejtett cipzár, levehető, mosógépben mosható (babás szűrő).",
   "caveat": "A len gyűrődik (ez a stílus része). A pontos árnyalatot nappali fényben, az áruházban nézd meg – minden további zöld tárgyat (váza, takaró, print) ehhez a párnához hasonlíts. Kíméletes mosás, szárítógép nem ajánlott.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -303,7 +351,10 @@
   "why": "Olcsó, puha pamutmuszlin tompa szürkés-zöldben – az irányelv textillistáján a muszlin is szerepel; cipzáras, mosógépben mosható. Gyerekszobába, olvasósarokba jó második zöld.",
   "caveat": "Nem len, vékonyabb, „gyűrt” anyag; a rojtos szélt a baba húzgálhatja. Az árnyalata nem biztos, hogy azonos a DYTÅG zöldjével – egymás mellé téve ellenőrizd.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -321,7 +372,10 @@
   "why": "Vastagabb, kőmosott litván len – tapintásra és esésre egy szinttel az IKEA fölött; a mohazöld az irányelv akcentuscsaládjába („zsálya / eukaliptusz / moha”) tartozik. Cipzáras, levehető, mosható.",
   "caveat": "A Moss Green sötétebb és melegebb, mint a szürkés zsálya – NEM ugyanaz az árnyalat, mint a DYTÅG. Először 1 db-ot rendelj, és csak akkor maradjon, ha a referencia-zöld mellett harmonikus. Kis készlet (2 db azonnal), drága; a len színe darabonként kissé eltérhet.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -339,7 +393,10 @@
   "why": "Átlátszó, ezért a fa dohányzóasztalon, a TV-szekrényen és a kő konyhapult sarkán szinte nem látszik – nem töri meg a tölgy–kő–fehér palettát. Az irányelv külön kiemeli a pult és a sziget gyerekmagasságú sarkát.",
   "caveat": "Kicsi (Ø 3,3 cm) – vastag pultsarokra kevés lehet; olajozott fán és porózus kövön a ragasztó gyengébben tapad, zsírtalanítás kell. Eltávolításkor ragasztónyom maradhat.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A használatba vett gyerekzónában szükséges élvédelem ne maradjon későbbre.",
+  "priority_condition": "A helyszínen szükséges és a bútorhoz/szerelvényhez megfelelő védelem P1; nem automatikusan minden listázott darab."
  },
  {
   "room": "00-altalanos-hangulat",
@@ -357,7 +414,10 @@
   "why": "Nagyobb, puhább ütközőfelület, mint a szilikon gömböké; fehér bútoron (gyerekszoba, fürdő, háztartási) beleolvad. 8 db egy csomagban.",
   "caveat": "Fehér: fa és kő felületen feltűnő, oda az átlátszó való. Csak sima (lakkozott, fóliázott, üveg, fém) felületen tapad; 48 órát kell hagyni terhelés nélkül; ragasztónyomot hagyhat.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A használatba vett gyerekzónában szükséges élvédelem ne maradjon későbbre.",
+  "priority_condition": "A helyszínen szükséges és a bútorhoz/szerelvényhez megfelelő védelem P1; nem automatikusan minden listázott darab."
  },
  {
   "room": "00-altalanos-hangulat",
@@ -375,7 +435,10 @@
   "why": "Belül ülő, kívülről láthatatlan zár: a fa konyhafrontokon és a nappali alsó szekrényein nem jelenik meg műanyag pánt – a „zárt tárolás szemmagasság alatt” elv így esztétikusan teljesül. Kiiktatható, ha nincs rá szükség.",
   "caveat": "A mágneskulcsot gyerek által nem elérhető, de fix helyen kell tartani (ha elvész, nehéz nyitni). Ragasztós rögzítés: zsírtalanított, sima belső felület kell; nagyon vastag frontnál a mágnes gyengébben old. Konyhához 2 szett kellhet.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A gyerek számára hozzáférhető, elzárandó tartalmak védelme induláskor szükséges.",
+  "priority_condition": "A helyszínen szükséges és a bútorhoz/szerelvényhez megfelelő védelem P1; nem automatikusan minden listázott darab."
  },
  {
   "room": "00-altalanos-hangulat",
@@ -393,7 +456,10 @@
   "why": "Hűtőre, fagyasztóra, fehér háztartási és fürdőszobai szekrényre jó, ahol a mágneses zár nem megoldás; fehér, fehér felületen alig látszik.",
   "caveat": "Kívül látható pánt – fa frontra ne kerüljön. Egymás felé nyíló ajtópárra és sütőajtóra nem használható; a ragasztó nyomot hagyhat.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A gyerek számára hozzáférhető, elzárandó tartalmak védelme induláskor szükséges.",
+  "priority_condition": "A helyszínen szükséges és a bútorhoz/szerelvényhez megfelelő védelem P1; nem automatikusan minden listázott darab."
  },
  {
   "room": "00-altalanos-hangulat",
@@ -411,7 +477,10 @@
   "why": "Az irányelv szerint a magas, keskeny bútort falhoz kell rögzíteni: ez a nem IKEA-s komódokhoz, könyvespolchoz, TV-hez való márkás (Reer) heveder, a bútor mögött nem látszik.",
   "caveat": "Drága a no-name szettekhez képest. Az IKEA bútorokhoz gyári falrögzítő jár – azokhoz nem kell. Téglafalba mindig csavarozd (tipli), a ragasztós rögzítés csak könnyű bútorra elég.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A beköltözéskor használt, rögzítést igénylő bútorokat használat előtt rögzíteni kell.",
+  "priority_condition": "A helyszínen szükséges és a bútorhoz/szerelvényhez megfelelő védelem P1; nem automatikusan minden listázott darab."
  },
  {
   "room": "00-altalanos-hangulat",
@@ -429,7 +498,10 @@
   "why": "Fehér, síkba simuló dugó – a fehér falon és fehér szerelvényen nem látszik. Egy ~120 m²-es házba kb. 3 csomag kell a gyerekmagasságban lévő aljzatokra.",
   "caveat": "A kulcs (piros dugó) kicsi, könnyen elkeveredik – tegyél egyet a konyhába, egyet a háló környékére. Új építésnél érdemes ellenőrizni, nem gyerekvédett-e eleve az aljzat (akkor nem kell).",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A hozzáférhető aljzatok megfelelő védelmét beköltözéskor kell rendezni.",
+  "priority_condition": "A helyszínen szükséges és a bútorhoz/szerelvényhez megfelelő védelem P1; nem automatikusan minden listázott darab."
  },
  {
   "room": "00-altalanos-hangulat",
@@ -447,7 +519,10 @@
   "why": "Megakadályozza, hogy az ajtó becsapódjon és becsípje a baba ujját; fehér, a krém bézs ajtó alján alig feltűnő, fúrás nélkül felrakható.",
   "caveat": "Csak akkor működik, ha az ajtó és a padló között 1,2–3,5 cm a hézag – a beltéri ajtóknál mérd le. A zsanér felőli rést nem védi.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A ténylegesen szükséges ajtóvédelem a gyerek által használt terekhez tartozik.",
+  "priority_condition": "A helyszínen szükséges és a bútorhoz/szerelvényhez megfelelő védelem P1; nem automatikusan minden listázott darab."
  },
  {
   "room": "00-altalanos-hangulat",
@@ -465,7 +540,10 @@
   "why": "Matt fehér, egyszerű henger – az irányelv „matt, törtfehér kerámia” tárgyai közé illik, és nem viszi el a figyelmet az olajfáról. A belső Ø 34 cm bőven elég a Ø 24 cm-es termesztőcserépnek (később átültetve Ø 30–32-esnek is), 33 cm magas és 6,7 kg, tehát a 140–150 cm-es fát stabilan tartja a baba mellett is.",
   "caveat": "Tiszta fehér, nem törtfehér. Nincs rajta vízelvezető lyuk: a fát műanyag termesztőcserépben tedd bele, alá 2–3 cm agyaggolyó, és öntözés után ne álljon benne víz. A lapburkolaton filckorong vagy TRIXIG padlóvédő kell alá (az IKEA is ezt írja). Csak beltérre.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -483,78 +561,9 @@
   "why": "Meleg szürkés-bézs (taupe) német kerámia – a Norwich Arena homokszínű lapjához és a világos tölgyhöz közelebb áll, mint a tiszta fehér; vastag falú, nehéz, stabil.",
   "caveat": "A bolt fotóján a felület matt taupe, de a leírás a mázat nem nevezi meg, és a magasságot sem közli – rendelés előtt kérdezz rá; fényes mázzal ne vedd meg. „Utolsó darabok” készlet. Vízzáró kaspó: termesztőcseréppel használd, alá filckorong a lapra.",
   "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "00-altalanos-hangulat",
-  "category": "Átlátszó filament izzó 2700 K (fonott ernyőkhöz)",
-  "name": "OSRAM Superstar Plus filament LED izzó, A100, E27, 11W (100W), 1521 lm, szabályozható, meleg fény (2700K), Ra>90, átlátszó üveg",
-  "store": "eMAG",
-  "where": "online (emag.hu, eladó: eMAG; easybox / futár)",
-  "material_color": "átlátszó (víztiszta) üveg, LED filament; 2700 K; CRI/Ra > 90; fali dimmerrel szabályozható; 11 W, 1521 lm; 15 000 óra",
-  "size": "E27, klasszikus körte forma, kb. Ø 60 x 105 mm",
-  "price_huf": 3790,
-  "price_note": "/db (más eladótól 3 250 Ft-tól)",
-  "url": "https://www.emag.hu/osram-superstar-plus-filament-led-izzo-a100-e27-11w-100w-1521-lm-szabalyozhato-meleg-feny-2700k-ra-90-atlatszo-uveg-d-energiaosztaly-4058075602533/pd/DTR4VRYBM/",
-  "tier": "ajánlott",
-  "qty": 7,
-  "why": "Az egyetlen talált izzó, amely egyszerre teljesíti az irányelv mind a négy feltételét: 2700 K (nem borostyán 2200 K), CRI 90+, átlátszó filament és fali dimmerrel szabályozható. A rattan/bambusz ernyőn át szép, éles fény-árnyék rajzot ad, a fa és az étel színe természetes marad.",
-  "caveat": "1521 lm egy izzóban sok: étkező és sziget fölött dimmer nélkül vakíthat – csak LED-kompatibilis (fázishasításos) dimmerrel szereld, és teszteld, nem zúg/villog-e. Átlátszó izzó alulról nyitott ernyőben kápráztathat: az ernyő alja legyen szemmagasság alatt. „D” energiaosztály.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "00-altalanos-hangulat",
-  "category": "Átlátszó filament izzó 2700 K (fonott ernyőkhöz)",
-  "name": "KAJPLATS LED izzó E27 806 lumen, okos eszköz fehér spektrum/átlátszó/gömb alakú, 95 mm",
-  "store": "IKEA",
-  "where": "online + áruház (Budaörs, Örs vezér tere, Soroksár)",
-  "material_color": "átlátszó üveg gömb, LED filament; alapértelmezett 2700 K (állítható: 2200 / 2700 / 4000 / 6500 K); CRI 90; vezeték nélkül szabályozható fényerő (fali dimmerrel NEM); 4,9 W, 806 lm; Matter",
-  "size": "E27, gömb Ø 95 mm",
-  "price_huf": 3790,
-  "price_note": "/db",
-  "url": "https://www.ikea.com/hu/hu/p/kajplats-led-izzo-e27-806-lumen-okos-eszkoez-feher-spektrum-atlatszo-goemb-alaku-30611481/",
-  "tier": "prémium",
-  "qty": 7,
-  "why": "CRI 90, 2700 K, átlátszó – és a listán már szereplő KAJPLATS okos rendszerrel távirányítóról/appból dimmelhető, fali dimmer kiépítése nélkül. A Ø 95 mm-es gömb nagyobb fonott ernyőben arányosabb, mint a kis körte; este 2200 K-re is lehúzható.",
-  "caveat": "Fali dimmerre NEM köthető (hagyományos kapcsolóval mindig áram alatt kell maradnia); távirányító vagy hub (DIRIGERA) kell hozzá. 806 lm – a sziget fölé ernyőnként egy elég, de munkafénynek kevés.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "00-altalanos-hangulat",
-  "category": "Átlátszó filament izzó 2700 K (fonott ernyőkhöz)",
-  "name": "SOLHETTA LED izzó E27 470 lumen, kerek üveg",
-  "store": "IKEA",
-  "where": "online + áruház (Budaörs, Örs vezér tere, Soroksár)",
-  "material_color": "átlátszó üveg, LED izzószálak; 2700 K; CRI 90; NEM szabályozható; 2,2 W, 470 lm; 25 000 óra",
-  "size": "E27, gömb Ø 60 mm",
-  "price_huf": 1190,
-  "price_note": "/db",
-  "url": "https://www.ikea.com/hu/hu/p/solhetta-led-izzo-e27-470-lumen-kerek-ueveg-80591447/",
-  "tier": "olcsóbb",
-  "qty": 7,
-  "why": "Olcsó, mégis 2700 K és CRI 90, átlátszó filament – hangulatfénynek (előtér, háló függeszték, olvasósarok) tökéletes, ahol nincs dimmer.",
-  "caveat": "Nem szabályozható, és csak 470 lm: étkezőasztal vagy konyhasziget fölé egyedüli fénynek kevés. Dimmeres áramkörbe ne tedd.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "00-altalanos-hangulat",
-  "category": "Átlátszó filament izzó 2700 K (fonott ernyőkhöz)",
-  "name": "KAJPLATS LED izzó E14 470 lumen, okos eszköz fehér spektrum/átlátszó üveg",
-  "store": "IKEA",
-  "where": "online + áruház (Budaörs, Örs vezér tere, Soroksár)",
-  "material_color": "átlátszó üveg, LED filament; alapértelmezett 2700 K (állítható fehér spektrum); CRI 90; vezeték nélkül szabályozható (fali dimmerrel nem); 470 lm",
-  "size": "E14, Ø 38 mm",
-  "price_huf": 2990,
-  "price_note": "/db",
-  "url": "https://www.ikea.com/hu/hu/p/kajplats-led-izzo-e14-470-lumen-okos-eszkoez-feher-spektrum-atlatszo-ueveg-60611494/",
-  "tier": "ajánlott",
-  "qty": 2,
-  "why": "E14 foglalatú kisebb fonott ernyőkbe / falikarokba: átlátszó, 2700 K, CRI 90 és a KAJPLATS rendszerrel dimmelhető – E14-ben nem találtam fali dimmerrel szabályozható, CRI 90-es átlátszó alternatívát.",
-  "caveat": "Csak okos vezérléssel dimmelhető (távirányító/hub kell); fali dimmerre nem köthető. 470 lm.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  }
 ]

@@ -29,6 +29,8 @@ def other(x):
         except Exception: pass
     return sorted(pr)
 def chk(x):
+    if x.get("currency","HUF")!="HUF":
+        return x["url"],{"status":"unknown","found":[],"listed":x.get("price_eur"),"currency":x.get("currency"),"name":x["name"],"room":x["room"],"err":"EUR: the HUF checker cannot verify currency; use the regional product page"}
     try: found=ikea(x) if "ikea.com" in x["url"] else other(x)
     except Exception as e: return x["url"],{"status":"unknown","found":[],"err":str(e)[:60]}
     st="ok" if x["price_huf"] in found else ("diff" if found and "ikea.com" in x["url"] else ("unknown" if not found else "diff"))

@@ -15,7 +15,10 @@
   "why": "Matt arany, letisztult hengeres végzáróval – a ház egységes szálcsiszolt sárgaréz fémvilágához illő karnis; 210–385 cm között bármely méretre ingyen levágják, és a szett a konzolokat, végzárókat és a csipeszes karikákat is tartalmazza.",
   "caveat": "Az „antik” árnyalat kissé patinásabb lehet, mint a szálcsiszolt sárgaréz kilincs – 1 db-ot rendelni próbára és a kilincshez összenézni. 240 cm felett a rúd két darabból áll (toldóval, középső konzollal), a karika a toldásnál megakadhat. Ablakonként a pontos hosszt felmérés után kell kiválasztani, az ár a hossztól függ.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Indulásra a használt háló és babaszoba külön rolójával számolunk; a teljes házas függöny/karnis összeállítás későbbre maradhat.",
+  "priority_condition": "Ha az induló sötétítést mégis függönnyel oldjátok meg, az ehhez kellő sín/karnis és bélés együtt P1; a szobai rolót ilyenkor kiváltják."
  },
  {
   "room": "00-altalanos-hangulat",
@@ -33,7 +36,10 @@
   "why": "A sorozat legolcsóbb végzárójával ugyanaz a matt arany, méretre vágott Ø 19 mm-es rúd – 11 ablaknál érezhető a különbség, a fémtónus így is egységes marad a házban.",
   "caveat": "A PULLO végzáró formáját a termékképen ellenőrizni (a hengeres CYLINDER letisztultabb). „Antik” = kissé patinásabb arany – mintával összenézni a kilincsekkel. 240 cm felett toldott rúd.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Indulásra a használt háló és babaszoba külön rolójával számolunk; a teljes házas függöny/karnis összeállítás későbbre maradhat.",
+  "priority_condition": "Ha az induló sötétítést mégis függönnyel oldjátok meg, az ehhez kellő sín/karnis és bélés együtt P1; a szobai rolót ilyenkor kiváltják."
  },
  {
   "room": "00-altalanos-hangulat",
@@ -51,7 +57,10 @@
   "why": "Márkás (Umbra) matt arany teleszkópos karnis letisztult, sapkás végzáróval, konzolokkal és középtartóval – kortárs, visszafogott forma, vágás nélkül állítható.",
   "caveat": "Legfeljebb 300 cm – az ennél szélesebb ablakokhoz nem elég (oda méretre vágott karnis kell). Teleszkópos rúd: a karika a lépcsőnél megakadhat; karikát külön kell venni. Az átmérő az oldalon nincs megadva.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Indulásra a használt háló és babaszoba külön rolójával számolunk; a teljes házas függöny/karnis összeállítás későbbre maradhat.",
+  "priority_condition": "Ha az induló sötétítést mégis függönnyel oldjátok meg, az ehhez kellő sín/karnis és bélés együtt P1; a szobai rolót ilyenkor kiváltják."
  },
  {
   "room": "00-altalanos-hangulat",
@@ -69,7 +78,10 @@
   "why": "Egyetlen teleszkópos készlet szinte a teljes 210–385 cm-es tartományt lefedi (190–360 cm), matt arany felülettel, áruházban is megnézhető és azonnal elvihető – nincs vágás, nincs várakozás.",
   "caveat": "Az oldal csak „arany, matt” megjelölést ad (nem szálcsiszolt) – áruházban a kilincshez hasonlítani. 360 cm-nél szélesebb ablakra nem elég; teljesen kihúzva a teleszkópos alumínium rúd behajolhat, középső tartó kell. Karika külön.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Indulásra a használt háló és babaszoba külön rolójával számolunk; a teljes házas függöny/karnis összeállítás későbbre maradhat.",
+  "priority_condition": "Ha az induló sötétítést mégis függönnyel oldjátok meg, az ehhez kellő sín/karnis és bélés együtt P1; a szobai rolót ilyenkor kiváltják."
  },
  {
   "room": "00-altalanos-hangulat",
@@ -87,7 +99,10 @@
   "why": "A 3 ablakhoz, ahol fényáteresztő + sötétítő függöny kell: ugyanaz a matt arany CYLINDER család, mint a szimpla karnis, így a ház minden ablakán azonos a fém és a végzáró.",
   "caveat": "Dupla konzol messzebb áll a faltól – radiátor/ablakpárkány felett ellenőrizni a kiállást. „Antik” tónust mintával összenézni. 240 cm felett toldott rudak.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Indulásra a használt háló és babaszoba külön rolójával számolunk; a teljes házas függöny/karnis összeállítás későbbre maradhat.",
+  "priority_condition": "Ha az induló sötétítést mégis függönnyel oldjátok meg, az ehhez kellő sín/karnis és bélés együtt P1; a szobai rolót ilyenkor kiváltják."
  },
  {
   "room": "00-altalanos-hangulat",
@@ -105,7 +120,10 @@
   "why": "Matt, antikolt sárgaréz színű csipeszes karika a karika nélkül árult 19 mm-es karnisokhoz (OBI Thasos, Umbra) – a lenfüggöny varrás nélkül felcsíptethető.",
   "caveat": "Az ajánlott Árnyékolókweb karnis-szettekhez NEM kell, azok ára tartalmazza a karikákat. Sötétebb, antikolt tónus: a matt arany Thasos / Umbra rúdtól elüthet – 1 csomagot venni és a rúdon felpróbálni (a 19/22 mm-es teleszkópos rúd vastagabb szakaszán szorulhat).",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Indulásra a használt háló és babaszoba külön rolójával számolunk; a teljes házas függöny/karnis összeállítás későbbre maradhat.",
+  "priority_condition": "Ha az induló sötétítést mégis függönnyel oldjátok meg, az ehhez kellő sín/karnis és bélés együtt P1; a szobai rolót ilyenkor kiváltják."
  },
  {
   "room": "02-konyha",
@@ -123,7 +141,10 @@
   "why": "Ismert márka, 7 év garancia, magas forgatható kifolyó kihúzható zuhanyfejjel – a szálcsiszolt arany felület a ház egységes sárgaréz fémvilágát viszi tovább a fa frontos, kőpultos konyhában.",
   "caveat": "Csak akkor kell, ha a konyhai csaptelep még nincs megvéve – tulajdonossal egyeztetni; a tónust a kilincsekhez mintával összenézni. Hosszú (3–5 hét) szállítási idő.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A konyhai mosogató használatához működő csaptelep szükséges.",
+  "priority_condition": "Csak ha nincs már meg és nem része a konyharendelésnek."
  },
  {
   "room": "02-konyha",
@@ -141,7 +162,10 @@
   "why": "Fele áron is sárgaréz testű, szálcsiszolt arany, kihúzható fejes csaptelep – megfizethető módja, hogy a konyhai fém is igazodjon a kilincsekhez.",
   "caveat": "Csak akkor kell, ha a konyhai csaptelep még nincs megvéve – tulajdonossal egyeztetni; a tónust a kilincsekhez mintával összenézni. Budget márka: a PVD-felület tartóssága elmarad a Deante/Grohe szinttől.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A konyhai mosogató használatához működő csaptelep szükséges.",
+  "priority_condition": "Csak ha nincs már meg és nem része a konyharendelésnek."
  },
  {
   "room": "02-konyha",
@@ -159,7 +183,10 @@
   "why": "Áruházban megnézhető, 10 év garanciás, kemény PVD bevonatú sárgaréz színű csap egyszerű, magas ívvel – a BAGGANÄS sárgaréz fogantyúkkal azonos IKEA-tónus.",
   "caveat": "Csak akkor kell, ha a konyhai csaptelep még nincs megvéve – tulajdonossal egyeztetni; a tónust a kilincsekhez mintával összenézni. Nincs kihúzható zuhanyfej; a leírás csak „sárgaréz”-nek nevezi, de a fotón szálcsiszolt – a tónust áruházban a kilincshez nézni.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A konyhai mosogató használatához működő csaptelep szükséges.",
+  "priority_condition": "Csak ha nincs már meg és nem része a konyharendelésnek."
  },
  {
   "room": "02-konyha",
@@ -177,79 +204,10 @@
   "why": "Grohe PVD „Brushed Cool Sunrise” felület – a legtartósabb, legszebb szálcsiszolt arany, kihúzható fejjel; hosszú távra szóló minőségi lépcső.",
   "caveat": "Csak akkor kell, ha a konyhai csaptelep még nincs megvéve – tulajdonossal egyeztetni; a tónust a kilincsekhez mintával összenézni. A Cool Sunrise világosabb, hűvösebb arany, mint sok sárgaréz kilincs – mindenképp mintával összenézni. Drága.",
   "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "02-konyha",
-  "category": "Bútorfogantyú (sárgaréz)",
-  "name": "BAGGANÄS Fogantyú, sárgaréz, 143 mm",
-  "store": "IKEA",
-  "where": "online + áruház (Budaörs, Örs vezér tere, Soroksár)",
-  "material_color": "acél, sárgarézzel futtatott, áttetsző lakkozású („sárgaréz”)",
-  "size": "hossz 143 mm, furattáv 128 mm, mélység 31 mm, szélesség 9 mm",
-  "price_huf": 2490,
-  "price_note": "/2 db (1 245 Ft/db). 6 csomag = 12 fogantyú – a pontos darabszámot a konyhaterv front-/fiókszáma adja.",
-  "url": "https://www.ikea.com/hu/hu/p/bagganaes-fogantyu-sargarez-00338407/",
-  "tier": "ajánlott",
-  "qty": 6,
-  "why": "Vékony, egyenes sárgaréz fogantyú a fa konyhafrontokra – olcsón hozza a ház egységes sárgaréz fémét, és illik a SALLSJÖN csaphoz.",
-  "caveat": "Futtatott (nem tömör) sárgaréz, a felület „sárgaréz” – nem szálcsiszoltként jelölt; a kilincsekhez mintával összenézni. Ha a konyhabútor-gyártó saját fogantyút ad, nem kell.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "02-konyha",
-  "category": "Bútorfogantyú (sárgaréz)",
-  "name": "BAGGANÄS Fogantyú, sárgaréz, 21 mm",
-  "store": "IKEA",
-  "where": "online + áruház (Budaörs, Örs vezér tere, Soroksár)",
-  "material_color": "acél, sárgarézzel futtatott, áttetsző lakkozású („sárgaréz”)",
-  "size": "gombfogantyú Ø 21 mm, mélység 24 mm",
-  "price_huf": 1990,
-  "price_note": "/2 db (995 Ft/db). A 20 mm-es BAGGANÄS gomb „utolsó esély” státuszú, ezért a 21 mm-es szerepel.",
-  "url": "https://www.ikea.com/hu/hu/p/bagganaes-fogantyu-sargarez-00338412/",
-  "tier": "ajánlott",
-  "qty": 2,
-  "why": "A felső szekrényajtókra a rúdfogantyúval azonos sárgaréz gomb – egy család, egy tónus.",
-  "caveat": "Kicsi gomb: gyerekzáras alsó szekrényre nem ideális. Darabszám a konyhaterv szerint.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "02-konyha",
-  "category": "Bútorfogantyú (sárgaréz)",
-  "name": "BAGGANÄS Fogantyú, sárgaréz, 335 mm",
-  "store": "IKEA",
-  "where": "online + áruház (Budaörs, Örs vezér tere, Soroksár)",
-  "material_color": "acél, sárgarézzel futtatott („sárgaréz”)",
-  "size": "hossz 335 mm, furattáv 320 mm, mélység 31 mm, szélesség 9 mm",
-  "price_huf": 4490,
-  "price_note": "/2 db (2 245 Ft/db) – széles fiókokra, magas szekrényajtóra",
-  "url": "https://www.ikea.com/hu/hu/p/bagganaes-fogantyu-sargarez-20338411/",
-  "tier": "ajánlott",
-  "qty": 2,
-  "why": "A széles fiókfrontokra (sziget, edényes fiók) arányosabb a hosszú változat, ugyanabból a sárgaréz családból.",
-  "caveat": "Csak akkor kell, ha vannak 60 cm-nél szélesebb fiókok; darabszám a konyhaterv szerint.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "02-konyha",
-  "category": "Bútorfogantyú (sárgaréz)",
-  "name": "HAFELE Bútor fogantyú - 155.01 - Szálcsiszolt sárgaréz I.",
-  "store": "Fogantyúshop.hu",
-  "where": "online rendelés (külső raktár, 5–14 nap)",
-  "material_color": "zamak fémötvözet, szálcsiszolt sárgaréz felület (Häfele, német)",
-  "size": "furattáv 160 mm, 169 × 28 × 9 mm (cikkszám 155.02.290); további méretek: 96 / 192 / 224 / 320 mm",
-  "price_huf": 1546,
-  "price_note": "/db (160 mm). 96 mm: 1 034 Ft, 192 mm: 1 701 Ft, 224 mm: 1 977 Ft, 320 mm: 3 046 Ft. M4 csavarral.",
-  "url": "https://fogantyushop.hu/webshop/hafele-butor-fogantyu-15501-szalcsiszolt-sargarez-i-zamak-fem-otvozet-tobb-meretben-gyartott-szines-fem-butorfogantyu/7288",
-  "tier": "prémium",
-  "qty": 12,
-  "why": "Kifejezetten „szálcsiszolt sárgaréz” felületű Häfele fogantyú – ez áll a legközelebb a már felszerelt szálcsiszolt sárgaréz kilincsekhez, több méretben az egész konyhára.",
-  "caveat": "128 mm-es furattáv nincs a sorozatban (96 vagy 160 mm) – a frontok fúrása előtt dönteni. Külső raktáras, 1–2 hét.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A konyhai mosogató használatához működő csaptelep szükséges.",
+  "priority_condition": "Csak ha nincs már meg és nem része a konyharendelésnek."
  },
  {
   "room": "01-eloszoba",
@@ -267,7 +225,10 @@
   "why": "Valódi, natúr rattan fonat – a fekete fém esernyőtartó helyett a wooden coastal előszoba természetes szálas anyagvilágát erősíti, olcsón.",
   "caveat": "Nincs csepegtetőtálca: az aljába kis kerámia alátét vagy tálka kell, különben a járólapra csöpög. Könnyű, felborulhat – kisbaba mellett sarokba, bútor mellé állítani.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az alap fogas és cipőhely mellett ez kényelmi vagy végleges tárolási/dekorációs fejlesztés.",
+  "priority_condition": ""
  },
  {
   "room": "11-haztartasi",
@@ -285,7 +246,10 @@
   "why": "A legolcsóbb korrekt szálcsiszolt arany, magas kifolyós csap – a háztartási mosogatóhoz bőven elég, és a kihúzható fej vödörtöltéshez, cipőmosáshoz kifejezetten hasznos.",
   "caveat": "Csak akkor kell, ha a háztartási helyiség csaptelepe még nincs felszerelve – tulajdonossal egyeztetni. Budget márka; a tónust a kilincshez mintával összenézni.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A működő mosás-szárítás és megfelelő eszköztárolás mellett a végleges bútorozás/kényelmi kiegészítő későbbre tehető.",
+  "priority_condition": ""
  },
  {
   "room": "11-haztartasi",
@@ -303,7 +267,10 @@
   "why": "Egyszerű, magas ívű keverőcsap 10 év garanciával, áruházból azonnal – ha a konyhába is ez kerül, a két helyiség csapja azonos lesz.",
   "caveat": "Csak akkor kell, ha a háztartási helyiség csaptelepe még nincs felszerelve – tulajdonossal egyeztetni. Nincs kihúzható fej; a „sárgaréz” felület tónusát áruházban ellenőrizni.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A működő mosás-szárítás és megfelelő eszköztárolás mellett a végleges bútorozás/kényelmi kiegészítő későbbre tehető.",
+  "priority_condition": ""
  },
  {
   "room": "11-haztartasi",
@@ -321,7 +288,10 @@
   "why": "Fehér, a fehér falba olvadó nyéltartó sín – fekete/szürke műanyag helyett; a seprű, felmosó és porszívófej a falon, a baba elől elzárt helyiségben, rendben tárolható.",
   "caveat": "No-name marketplace termék, csak ragasztós rögzítéssel – nehéz felmosóhoz érdemes csavarral is megerősíteni. Fa/bambusz seprűtartó sínt magyar boltban nem találtam.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A működő mosás-szárítás és megfelelő eszköztárolás mellett a végleges bútorozás/kényelmi kiegészítő későbbre tehető.",
+  "priority_condition": ""
  },
  {
   "room": "11-haztartasi",
@@ -339,114 +309,97 @@
   "why": "Tömör tölgy akasztósor a fekete fém kampók helyett – a ház domináns világos tölgy tónusát viszi a háztartási helyiségbe (kötény, táska, felmosórongy).",
   "caveat": "Lakkozott, nem olajozott felület; a csavarokat a fal típusához külön kell venni.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A működő mosás-szárítás és megfelelő eszköztárolás mellett a végleges bútorozás/kényelmi kiegészítő későbbre tehető.",
+  "priority_condition": ""
  },
  {
-  "room": "09-eloter",
-  "category": "Mennyezeti lámpa",
-  "name": "NYMÅNE LED-es mennyezeti lámpa, fehér, 45 cm",
+  "room": "02-konyha",
+  "category": "Bútorfogantyú (sárgaréz)",
+  "name": "BAGGANÄS Fogantyú, sárgaréz, 143 mm",
   "store": "IKEA",
   "where": "online + áruház (Budaörs, Örs vezér tere, Soroksár)",
-  "material_color": "fehér porfestett acél, matt akril búra",
-  "size": "Ø 45 cm, magasság 8 cm; beépített (cserélhető) LED 1900 lm, 2700 K, CRI 90, max. 25 W",
-  "price_huf": 15990,
-  "price_note": "új alacsonyabb ár, előző ár 19 990 Ft",
-  "url": "https://www.ikea.com/hu/hu/p/nymane-led-es-mennyezeti-lampa-feher-60526047/",
+  "material_color": "acél, sárgarézzel futtatott, áttetsző lakkozású („sárgaréz”)",
+  "size": "hossz 143 mm, furattáv 128 mm, mélység 31 mm, szélesség 9 mm",
+  "price_huf": 2490,
+  "price_note": "/2 db (1 245 Ft/db). 6 csomag = 12 fogantyú – a pontos darabszámot a konyhaterv front-/fiókszáma adja.",
+  "url": "https://www.ikea.com/hu/hu/p/bagganaes-fogantyu-sargarez-00338407/",
   "tier": "ajánlott",
-  "qty": 1,
-  "why": "Mindössze 8 cm magas fehér lámpa, gyárilag 2700 K és CRI 90 – pontosan az irányelv szerinti fény, a közeli ajtók nyitását sem zavarja, és a fehér mennyezetbe simul.",
-  "caveat": "A búra akril, nem opálüveg; fali fényerő-szabályzóval nem dimmelhető.",
+  "qty": 6,
+  "why": "Vékony, egyenes sárgaréz fogantyú a fa konyhafrontokra – olcsón hozza a ház egységes sárgaréz fémét, és illik a SALLSJÖN csaphoz.",
+  "caveat": "Futtatott (nem tömör) sárgaréz, a felület „sárgaréz” – nem szálcsiszoltként jelölt; a kilincsekhez mintával összenézni. Ha a konyhabútor-gyártó saját fogantyút ad, nem kell.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "recommendation_condition": "felületi minta és végleges furatkiosztás után",
+  "priority": 1,
+  "priority_reason": "A fogantyút igénylő frontok napi használatához szükséges, a végleges furatkiosztással.",
+  "priority_condition": "Csak a ténylegesen fogantyús frontokhoz és ha a rendelés nem tartalmazza."
  },
  {
-  "room": "09-eloter",
-  "category": "Mennyezeti lámpa",
-  "name": "Fehér mennyezeti lámpa üveg búrával ø 30 cm Circle – Candellux Lighting",
-  "store": "Bonami",
-  "where": "online (bonami.hu, raktáron, kb. 1 hét; házhoz vagy átvevőpontra)",
-  "material_color": "fehér acél alap, fehér üvegbúra",
-  "size": "Ø 30 cm, magasság 9 cm; 1 × E27 (max. 60 W), IP20, izzó nélkül",
-  "price_huf": 6299,
-  "price_note": "+ 2700 K, CRI 90 E27 LED izzó külön",
-  "url": "https://www.bonami.hu/p/feher-mennyezeti-lampa-uveg-buraval-o-30-cm-circle-candellux-lighting-1",
-  "tier": "olcsóbb",
-  "qty": 1,
-  "why": "Klasszikus lapos, fehér üvegbúrás plafon cserélhető E27 izzóval – tetszőleges 2700 K / CRI 90 fényforrás tehető bele, fillérekért.",
-  "caveat": "Egyszerű belépő kategória; az üveg opál jellege az oldalon nincs kiírva (fehér üveg). Egy izzóval a hosszabb közlekedőben kevés lehet.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "13-kozlekedo",
-  "category": "Mennyezeti lámpa",
-  "name": "NYMÅNE LED-es mennyezeti lámpa, fehér, 45 cm",
+  "room": "02-konyha",
+  "category": "Bútorfogantyú (sárgaréz)",
+  "name": "BAGGANÄS Fogantyú, sárgaréz, 21 mm",
   "store": "IKEA",
   "where": "online + áruház (Budaörs, Örs vezér tere, Soroksár)",
-  "material_color": "fehér porfestett acél, matt akril búra",
-  "size": "Ø 45 cm, magasság 8 cm; beépített (cserélhető) LED 1900 lm, 2700 K, CRI 90, max. 25 W",
-  "price_huf": 15990,
-  "price_note": "új alacsonyabb ár, előző ár 19 990 Ft",
-  "url": "https://www.ikea.com/hu/hu/p/nymane-led-es-mennyezeti-lampa-feher-60526047/",
-  "tier": "ajánlott",
-  "qty": 1,
-  "why": "Mindössze 8 cm magas fehér lámpa, gyárilag 2700 K és CRI 90 – pontosan az irányelv szerinti fény, a közeli ajtók nyitását sem zavarja, és a fehér mennyezetbe simul. Szándékosan ugyanaz a lámpa, mint az előtérben, hogy a két összefüggő közlekedőtér egységes legyen.",
-  "caveat": "A búra akril, nem opálüveg; fali fényerő-szabályzóval nem dimmelhető.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "13-kozlekedo",
-  "category": "Mennyezeti lámpa",
-  "name": "Fehér mennyezeti lámpa üveg búrával ø 30 cm Circle – Candellux Lighting",
-  "store": "Bonami",
-  "where": "online (bonami.hu, raktáron, kb. 1 hét; házhoz vagy átvevőpontra)",
-  "material_color": "fehér acél alap, fehér üvegbúra",
-  "size": "Ø 30 cm, magasság 9 cm; 1 × E27 (max. 60 W), IP20, izzó nélkül",
-  "price_huf": 6299,
-  "price_note": "+ 2700 K, CRI 90 E27 LED izzó külön",
-  "url": "https://www.bonami.hu/p/feher-mennyezeti-lampa-uveg-buraval-o-30-cm-circle-candellux-lighting-1",
-  "tier": "olcsóbb",
-  "qty": 1,
-  "why": "Klasszikus lapos, fehér üvegbúrás plafon cserélhető E27 izzóval – tetszőleges 2700 K / CRI 90 fényforrás tehető bele, fillérekért. Szándékosan ugyanaz a lámpa, mint az előtérben, hogy a két összefüggő közlekedőtér egységes legyen.",
-  "caveat": "Egyszerű belépő kategória; az üveg opál jellege az oldalon nincs kiírva (fehér üveg). Egy izzóval a hosszabb közlekedőben kevés lehet.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "05-halo",
-  "category": "Fali olvasólámpa",
-  "name": "NYMÅNE Fali-/olvasólámpa, fehér",
-  "store": "IKEA",
-  "where": "online + áruház (Budaörs, Örs vezér tere, Soroksár)",
-  "material_color": "fehér porfestett acél és alumínium",
-  "size": "lámpafej Ø 7 cm, magasság 11 cm; GU10 (max. 8,5 W, izzó külön), állítható fej; konnektoros, 2,5 m vezeték",
-  "price_huf": 5990,
-  "price_note": "/db; új alacsonyabb ár, előző ár 7 990 Ft; + GU10 2700 K CRI 90 LED izzó külön",
-  "url": "https://www.ikea.com/hu/hu/p/nymane-fali-olvasolampa-feher-20356909/",
+  "material_color": "acél, sárgarézzel futtatott, áttetsző lakkozású („sárgaréz”)",
+  "size": "gombfogantyú Ø 21 mm, mélység 24 mm",
+  "price_huf": 1990,
+  "price_note": "/2 db (995 Ft/db). A 20 mm-es BAGGANÄS gomb „utolsó esély” státuszú, ezért a 21 mm-es szerepel.",
+  "url": "https://www.ikea.com/hu/hu/p/bagganaes-fogantyu-sargarez-00338412/",
   "tier": "ajánlott",
   "qty": 2,
-  "why": "Kicsi, fehér, állítható fejű olvasólámpa – a fehér falon szinte eltűnik, a fényt a könyvre irányítja, így az alvó társat/babát nem zavarja.",
-  "caveat": "Konnektoros: a 2,5 m-es vezetéket kábelcsatornában a falhoz kell rögzíteni, mert a lelógó zsinór kisbaba mellett veszélyes (irányelv: nincs lógó vezeték). A szerelőcsavar nincs a csomagban.",
+  "why": "A felső szekrényajtókra a rúdfogantyúval azonos sárgaréz gomb – egy család, egy tónus.",
+  "caveat": "Kicsi gomb: gyerekzáras alsó szekrényre nem ideális. Darabszám a konyhaterv szerint.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "recommendation_condition": "felületi minta és végleges furatkiosztás után",
+  "priority": 1,
+  "priority_reason": "A fogantyút igénylő frontok napi használatához szükséges, a végleges furatkiosztással.",
+  "priority_condition": "Csak a ténylegesen fogantyús frontokhoz és ha a rendelés nem tartalmazza."
  },
  {
-  "room": "08-szoba",
-  "category": "Fali olvasólámpa",
-  "name": "NYMÅNE Fali-/olvasólámpa, fehér",
+  "room": "02-konyha",
+  "category": "Bútorfogantyú (sárgaréz)",
+  "name": "BAGGANÄS Fogantyú, sárgaréz, 335 mm",
   "store": "IKEA",
   "where": "online + áruház (Budaörs, Örs vezér tere, Soroksár)",
-  "material_color": "fehér porfestett acél és alumínium",
-  "size": "lámpafej Ø 7 cm, magasság 11 cm; GU10 (max. 8,5 W, izzó külön), állítható fej; konnektoros, 2,5 m vezeték",
-  "price_huf": 5990,
-  "price_note": "/db; új alacsonyabb ár, előző ár 7 990 Ft; + GU10 2700 K CRI 90 LED izzó külön",
-  "url": "https://www.ikea.com/hu/hu/p/nymane-fali-olvasolampa-feher-20356909/",
+  "material_color": "acél, sárgarézzel futtatott („sárgaréz”)",
+  "size": "hossz 335 mm, furattáv 320 mm, mélység 31 mm, szélesség 9 mm",
+  "price_huf": 4490,
+  "price_note": "/2 db (2 245 Ft/db) – széles fiókokra, magas szekrényajtóra",
+  "url": "https://www.ikea.com/hu/hu/p/bagganaes-fogantyu-sargarez-20338411/",
   "tier": "ajánlott",
-  "qty": 1,
-  "why": "Kicsi, fehér, állítható fejű olvasólámpa – a fehér falon szinte eltűnik, a fényt a könyvre irányítja, így az alvó társat/babát nem zavarja.",
-  "caveat": "Konnektoros: a 2,5 m-es vezetéket kábelcsatornában a falhoz kell rögzíteni, mert a lelógó zsinór kisbaba mellett veszélyes (irányelv: nincs lógó vezeték). A szerelőcsavar nincs a csomagban.",
+  "qty": 2,
+  "why": "A széles fiókfrontokra (sziget, edényes fiók) arányosabb a hosszú változat, ugyanabból a sárgaréz családból.",
+  "caveat": "Csak akkor kell, ha vannak 60 cm-nél szélesebb fiókok; darabszám a konyhaterv szerint.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "recommendation_condition": "felületi minta és végleges furatkiosztás után",
+  "priority": 1,
+  "priority_reason": "A fogantyút igénylő frontok napi használatához szükséges, a végleges furatkiosztással.",
+  "priority_condition": "Csak a ténylegesen fogantyús frontokhoz és ha a rendelés nem tartalmazza."
+ },
+ {
+  "room": "02-konyha",
+  "category": "Bútorfogantyú (sárgaréz)",
+  "name": "HAFELE Bútor fogantyú - 155.01 - Szálcsiszolt sárgaréz I.",
+  "store": "Fogantyúshop.hu",
+  "where": "online rendelés (külső raktár, 5–14 nap)",
+  "material_color": "zamak fémötvözet, szálcsiszolt sárgaréz felület (Häfele, német)",
+  "size": "furattáv 160 mm, 169 × 28 × 9 mm (cikkszám 155.02.290); további méretek: 96 / 192 / 224 / 320 mm",
+  "price_huf": 1546,
+  "price_note": "/db (160 mm). 96 mm: 1 034 Ft, 192 mm: 1 701 Ft, 224 mm: 1 977 Ft, 320 mm: 3 046 Ft. M4 csavarral.",
+  "url": "https://fogantyushop.hu/webshop/hafele-butor-fogantyu-15501-szalcsiszolt-sargarez-i-zamak-fem-otvozet-tobb-meretben-gyartott-szines-fem-butorfogantyu/7288",
+  "tier": "prémium",
+  "qty": 12,
+  "why": "Kifejezetten „szálcsiszolt sárgaréz” felületű Häfele fogantyú – ez áll a legközelebb a már felszerelt szálcsiszolt sárgaréz kilincsekhez, több méretben az egész konyhára.",
+  "caveat": "128 mm-es furattáv nincs a sorozatban (96 vagy 160 mm) – a frontok fúrása előtt dönteni. Külső raktáras, 1–2 hét.",
+  "verified": "product_page",
+  "checked": "2026-09-20",
+  "recommendation_condition": "felületi minta és végleges furatkiosztás után",
+  "priority": 1,
+  "priority_reason": "A fogantyút igénylő frontok napi használatához szükséges, a végleges furatkiosztással.",
+  "priority_condition": "Csak a ténylegesen fogantyús frontokhoz és ha a rendelés nem tartalmazza."
  }
 ]

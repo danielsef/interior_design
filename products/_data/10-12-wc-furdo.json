@@ -1,7 +1,7 @@
 [
  {
   "room": "12-furdo",
-  "category": "Magas tárolószekrény",
+  "category": "Külön magas tárolószekrény (opcionális)",
   "name": "ÄNGSJÖN magasszekrény ajtókkal/fiókokkal, tölgyfa hatású",
   "store": "IKEA",
   "where": "online (ikea.com/hu) + áruház (Budaörs)",
@@ -10,12 +10,15 @@
   "price_huf": 129990,
   "price_note": "",
   "url": "https://www.ikea.com/hu/hu/p/aengsjoen-magasszekreny-ajtokkal-fiokokkal-toelgyfa-hatasu-90553162/",
-  "tier": "ajánlott",
+  "tier": "alternatíva",
   "qty": 1,
   "why": "Ugyanabban a tölgyfa hatású ÄNGSJÖN sorozatban, mint a mosdószekrény – zárt tárolás szemmagasság alatt, ami a kisbabás háztartás egyik alapszabálya.",
-  "caveat": "Kis mélységű (35 cm) szekrény, nagyobb törölközőkupacnak szűkös lehet.",
+  "caveat": "Kis mélységű (35 cm) szekrény, nagyobb törölközőkupacnak szűkös lehet. A kádas fürdő szekrénye már megrendelve; ez csak külön tárolási igény és kimért szabad hely esetén szükséges, nem része az ajánlott csomagnak.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Legalább egy teljesen működő fürdő mellett a második helyiség befejezése vagy a végleges kiegészítő későbbre ütemezhető.",
+  "priority_condition": ""
  },
  {
   "room": "12-furdo",
@@ -33,7 +36,10 @@
   "why": "Természetes rattan, meleg tónusú fonott tároló – a fürdő 'sok fehér, kevés fa' problémájára pontosan ez a tudatos melegítő elem.",
   "caveat": "",
   "verified": "listing",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Legalább egy teljesen működő fürdő mellett a második helyiség befejezése vagy a végleges kiegészítő későbbre ütemezhető.",
+  "priority_condition": ""
  },
  {
   "room": "12-furdo",
@@ -51,7 +57,10 @@
   "why": "100%-ban pamut, 500 g/m²-es közepes-vastag anyag, homok/bézs színben – pontosan a rögzített törtfehér-homok fürdőtextil-palettához illik.",
   "caveat": "Hozzá illő GULVIAL kéztörölköző (30x50 cm, bézs, kb. 595 Ft/db) külön rendelhető ugyanabban a színben.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "Alap törölközők a beköltözőknek már az első naptól kellenek.",
+  "priority_condition": ""
  },
  {
   "room": "12-furdo",
@@ -69,7 +78,10 @@
   "why": "Nagyon olcsó, törtfehér alapszín – ha csak az egyik szín (törtfehér) kell a homok mellé, ez a legköltséghatékonyabb választás.",
   "caveat": "Vékonyabb anyag, mint a GULVIAL vagy a BROKGLIM; súlya (g/m²) nincs feltüntetve a termékoldalon.",
   "verified": "listing",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "Alap törölközők a beköltözőknek már az első naptól kellenek.",
+  "priority_condition": ""
  },
  {
   "room": "12-furdo",
@@ -87,7 +99,10 @@
   "why": "650 g/m²-es, GOTS-minősítésű biopamut és nagy fürdőlepedő méret – ez a minőségi lépcsőfok a családi fürdőszobába.",
   "caveat": "",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "Alap törölközők a beköltözőknek már az első naptól kellenek.",
+  "priority_condition": ""
  },
  {
   "room": "12-furdo",
@@ -105,7 +120,10 @@
   "why": "Természetes bambusz dobozkészlet vattakorongnak, hajgumiknak – meleg, fonott-rost jellegű anyag a sok fehér felület ellensúlyozására.",
   "caveat": "Kisebb rendszerező dobozok, nem szappanadagoló/fogkefetartó funkcióval.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Legalább egy teljesen működő fürdő mellett a második helyiség befejezése vagy a végleges kiegészítő későbbre ütemezhető.",
+  "priority_condition": ""
  },
  {
   "room": "12-furdo",
@@ -123,7 +141,10 @@
   "why": "Kádra/zuhanytálcára ragasztható csúszásgátló csík – a kisbabás háztartás egyik alapvető biztonsági eleme.",
   "caveat": "Szabni kell méretre, nem kész szőnyeg formájú.",
   "verified": "listing",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A használatba vett kádban szükséges csúszásvédelem ne maradjon későbbre.",
+  "priority_condition": ""
  },
  {
   "room": "12-furdo",
@@ -141,7 +162,10 @@
   "why": "Tömör fa fellépő, hogy a gyerek magától elérje a mosdót – összecsukható, így nem foglal helyet a kis fürdőben.",
   "caveat": "Bükkfa, nem tölgy – világos tónusa így is jól illeszkedik a ház egy domináns világos fatónus elvéhez, de színben nem 100%-ig azonos a tölggyel.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Legalább egy teljesen működő fürdő mellett a második helyiség befejezése vagy a végleges kiegészítő későbbre ütemezhető.",
+  "priority_condition": ""
  },
  {
   "room": "10-wc",
@@ -159,7 +183,10 @@
   "why": "Kis fonott kosár tartalék WC-papírnak – természetes rost, ami a sok fehér felület mellett tudatosan melegít.",
   "caveat": "",
   "verified": "listing",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A működő WC/kézmosó és alap kellékek mellett a végleges tartó vagy esztétikai csere halasztható.",
+  "priority_condition": ""
  },
  {
   "room": "10-wc",
@@ -177,7 +204,10 @@
   "why": "Vékony tölgyfa hatású polcléc, amire a fonott kosár vagy egy kis dísznövény kerülhet – ugyanaz a fatónus, mint a mosdószekrényen.",
   "caveat": "Eredetileg képtartó polcnak készült (alacsony perem), nem mély tárolópolc.",
   "verified": "listing",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A működő WC/kézmosó és alap kellékek mellett a végleges tartó vagy esztétikai csere halasztható.",
+  "priority_condition": ""
  },
  {
   "room": "10-wc",
@@ -195,65 +225,14 @@
   "why": "Ugyanaz a bézs pamut törölköző család, mint a nagy fürdőben – egységes textilpaletta a két helyiség között.",
   "caveat": "",
   "verified": "listing",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "Az alap kézmosás napi textilje szükséges.",
+  "priority_condition": ""
  },
  {
   "room": "12-furdo",
-  "category": "Mosdószekrény 120 cm (A fürdő, dupla)",
-  "name": "ÄNGSJÖN mosdóállvány fiókokkal, tölgyfa hatású, 120x48x63 cm",
-  "store": "IKEA",
-  "where": "online (ikea.com/hu) + áruház (Budaörs)",
-  "material_color": "tölgyfa hatású fólia forgácslapon, bemart (integrált) fogantyú – nincs külön fém fogantyú",
-  "size": "120x48x63 cm, 2 nagy fiók, falra szerelhető",
-  "price_huf": 89990,
-  "price_note": "csak a szekrény; munkalap (ÅLSKEN/TOLKEN 122x49) és pultmosdó külön",
-  "url": "https://www.ikea.com/hu/hu/p/aengsjoen-mosdoallvany-fiokokkal-toelgyfa-hatasu-70535094/",
-  "tier": "ajánlott",
-  "qty": 1,
-  "why": "Pontosan 120 cm-es, fali, tölgy tónusú fiókos szekrény bemart fogantyúval – nincs rajta fekete vagy króm fém, így nem üt a szálcsiszolt sárgaréz szerelvényekkel; csillapított fiókok, 10 év garancia, és egy sorozat a már kiválasztott ÄNGSJÖN magasszekrénnyel.",
-  "caveat": "Fóliázott forgácslap, nem furnér és nem tömörfa. A mosdó és munkalap nélkül értendő; a fali kifolyókhoz 2 pultmosdó kell, a munkalapot a lefolyóknak a helyszínen kell kifúrni. Az opcionális ALMAÅN láb rozsdamentes acél színű – ide ne kerüljön, maradjon fali szerelés.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "12-furdo",
-  "category": "Mosdószekrény 120 cm (A fürdő, dupla)",
-  "name": "ÅLSKEN munkalap, bambusz/furnér, 122x49 cm",
-  "store": "IKEA",
-  "where": "online (ikea.com/hu) + áruház (Budaörs)",
-  "material_color": "3 mm természetes bambusz furnér forgácslapon, átlátszó akrillakkal",
-  "size": "122x49 cm, vast. 2 cm",
-  "price_huf": 30000,
-  "price_note": "az ÄNGSJÖN 120 cm-es mosdóállványhoz tartozó munkalap",
-  "url": "https://www.ikea.com/hu/hu/p/alsken-munkalap-bambusz-furner-50555115/",
-  "tier": "ajánlott",
-  "qty": 1,
-  "why": "Valódi bambusz furnér pult a tölgy hatású szekrényre: a szürke beton hatású csempe mellett ez hozza a legtöbb meleget, és illik a bambusz kiegészítőkhöz.",
-  "caveat": "A bambusz tónusa kicsit sárgásabb, mint a tölgy hatású front – áruházban egymás mellett megnézni. Lakkozott fa felület: az állóvizet le kell törölni. A lefolyók helyét a vevőnek kell kivágni. Fehér alternatíva a TOLKEN 122x49 cm (30 000 Ft), de az márványerezetes fólia – mintát vinne a térbe, ezért nem ajánlott.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "12-furdo",
-  "category": "Mosdószekrény 100–120 cm (B fürdő)",
-  "name": "ÄNGSJÖN mosdóállvány fiókokkal, tölgyfa hatású, 100x48x63 cm",
-  "store": "IKEA",
-  "where": "online (ikea.com/hu) + áruház (Budaörs)",
-  "material_color": "tölgyfa hatású fólia forgácslapon, bemart (integrált) fogantyú",
-  "size": "100x48x63 cm, 2 fiók, falra szerelhető",
-  "price_huf": 79990,
-  "price_note": "csak a szekrény; munkalap (ÅLSKEN/TOLKEN 102x49) és pultmosdó külön",
-  "url": "https://www.ikea.com/hu/hu/p/aengsjoen-mosdoallvany-fiokokkal-toelgyfa-hatasu-50535090/",
-  "tier": "ajánlott",
-  "qty": 1,
-  "why": "A B fürdő ~130 cm-es helyére a 100 cm-es változat kényelmesen befér, és a két fürdő bútora így azonos sorozat, azonos tölgy tónus, fém fogantyú nélkül.",
-  "caveat": "Fóliázott forgácslap, nem furnér. Munkalap és mosdó külön; a lefolyó helyét a munkalapba ki kell vágni.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "12-furdo",
-  "category": "Mosdószekrény 100–120 cm (B fürdő)",
+  "category": "Pultreferencia – zuhanyzós fürdő (méretellenőrzésre vár)",
   "name": "ÅLSKEN munkalap, bambusz/furnér, 102x49 cm",
   "store": "IKEA",
   "where": "online (ikea.com/hu) + áruház (Budaörs)",
@@ -262,66 +241,18 @@
   "price_huf": 25000,
   "price_note": "az ÄNGSJÖN 100 cm-es mosdóállványhoz tartozó munkalap",
   "url": "https://www.ikea.com/hu/hu/p/alsken-munkalap-bambusz-furner-20555112/",
-  "tier": "ajánlott",
+  "tier": "alternatíva",
   "qty": 1,
-  "why": "Ugyanaz a bambusz furnér pult, mint az A fürdőben – a két fürdő egységes marad.",
-  "caveat": "Lakkozott fa felület, az állóvizet le kell törölni; a lefolyó helyét a vevő vágja ki. Fehér alternatíva a TOLKEN 102x49 cm (25 000 Ft), de az márványerezetes fólia – a dekorsáv mellé még egy minta nem ajánlott.",
+  "why": "A pult még hiányzik a zuhanyzós fürdő meglévő szekrényéhez és mosdójához. Ez a korábban kutatott 102×49 cm-es referencia csak megfelelő méret és kompatibilitás esetén használható; nem tekinthető a meglévő szekrényhez igazolt ajánlásnak.",
+  "caveat": "A meglévő szekrény típusa, szélessége, mélysége és a mosdó kivágási sablonja még ismeretlen. A bambusz felülete lakkozott, az állóvizet le kell törölni; a kivágások vízvédelme külön szükséges. Az anyag- és színjavaslat az anyagválasztási briefben van. A 25 000 Ft referenciaár, a tervezési összegből kizárva; az egyedi pult ára még nincs meg.",
   "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "12-furdo",
-  "category": "Pultra ültethető mosdó (csaplyuk nélkül)",
-  "name": "Roca The Gap Round pultra ültethető kerek mosdó 39x39 csaplyuk nélkül A3270MJ000",
-  "store": "szaniteronline.hu",
-  "where": "online (szaniteronline.hu), házhoz szállítás",
-  "material_color": "fehér szaniter kerámia, fényes",
-  "size": "Ø 39 cm, látható mag. 13 cm",
-  "price_huf": 36190,
-  "price_note": "/db",
-  "url": "https://www.szaniteronline.hu/RO-A3270MJ000-Roca-The-Gap-Round-pultra-ultetheto",
-  "tier": "ajánlott",
-  "qty": 3,
-  "why": "Márkás (Roca), kerek, 39 cm-es tál csapfurat nélkül – pontosan a fali sárgaréz kifolyók alá való; a kerek forma az irányelv 'néhány lekerekített darab' elvét hozza a szögletes csempe mellé.",
-  "caveat": "A termékoldal szerint túlfolyóval, csapfurat nélkül. A lekérdezéskor rendelésre (nem raktárról) volt elérhető – szállítási időt rendelés előtt kérdezni. Lefolyószelep nem tartozék: szálcsiszolt arany click-clack leeresztő kell hozzá.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "12-furdo",
-  "category": "Pultra ültethető mosdó (csaplyuk nélkül)",
-  "name": "VINDELÄLVEN pultmosdó szifonnal, fehér, 39x31 cm",
-  "store": "IKEA",
-  "where": "online (ikea.com/hu) + áruház (Budaörs)",
-  "material_color": "fehér mázas kerámia (vitreous china)",
-  "size": "39x31 cm, ovális",
-  "price_huf": 30000,
-  "price_note": "/db, RÄNNILEN szifonnal és leeresztővel együtt",
-  "url": "https://www.ikea.com/hu/hu/p/vindelaelven-pultmosdo-szifonnal-feher-s09602030/",
-  "tier": "olcsóbb",
-  "qty": 3,
-  "why": "Ovális, letisztult kerámia tál csapfurat nélkül (az IKEA magas, pultra szerelt csaphoz szánja, így fali kifolyó alá is jó); a szifon benne van az árban és az ÄNGSJÖN szekrény fiókkivágásához illeszkedik.",
-  "caveat": "A termékfotón csaplyuk nélküli, ovális tál (az IKEA magas, pultra szerelt csappal mutatja) – fali kifolyó alá jó; túlfolyót a leírás nem említ, áruházban megnézni. A mellékelt leeresztő szűrője rozsdamentes acél színű, nem sárgaréz: szálcsiszolt arany leeresztőre érdemes cserélni.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "12-furdo",
-  "category": "Pultra ültethető mosdó (csaplyuk nélkül)",
-  "name": "Geberit VARIFORM 40 cm-es pultra ültethető mosdó csaplyuk és túlfolyó nélkül, fehér 500.768.01.2",
-  "store": "furdoszoba-szaniter.hu (AXO saniter)",
-  "where": "online (furdoszoba-szaniter.hu), Budapest – 50% előleggel rendelhető",
-  "material_color": "fehér szaniter kerámia",
-  "size": "Ø 40 cm, mag. kb. 15,8 cm",
-  "price_huf": 54609,
-  "price_note": "/db",
-  "url": "https://furdoszoba-szaniter.hu/Geberit-VARIFORM-40-cm-es-pultra-ultetheto-mosdo-c",
-  "tier": "prémium",
-  "qty": 3,
-  "why": "Ugyanaz a gyártó, mint a már beépített Geberit szaniterek; vékony peremű, kerek tál csaplyuk és túlfolyó nélkül – a legtisztább forma a fali kifolyó alá.",
-  "caveat": "Túlfolyó nélküli, ezért NEM zárható (mindig nyitott) leeresztő kell hozzá – kisgyerek mellett ez biztonságosabb is. A bolt 50% előleget kér, szállítási idő a gyártótól függ. Ugyanez a szaniterplaza.hu-n 59 784 Ft volt.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "budget_include": false,
+  "availability_note": "Illeszkedés ellenőrizendő; a költségutakból kizárva.",
+  "priority": 2,
+  "priority_reason": "Legalább egy teljesen működő fürdő mellett a második helyiség befejezése vagy a végleges kiegészítő későbbre ütemezhető.",
+  "priority_condition": "P2, ha a kádas fürdő teljesen működik és elegendő. P1-re vált, ha enélkül nincs megfelelően használható mosdó, vagy mindkét fürdő napi használata szükséges. A referenciapult illeszkedése nem igazolt.",
+  "budget_exclusion_reason": "A meglévő szekrényhez és mosdóhoz való illeszkedés nem igazolt; csak referencia."
  },
  {
   "room": "12-furdo",
@@ -339,7 +270,10 @@
   "why": "Egy teljes, összehangolt Deante Round sorozat szálcsiszolt arany PVD felülettel – ez áll a legközelebb a már beépített szálcsiszolt sárgaréz szerelvényekhez; rejtett rögzítés, 2 év garancia.",
   "caveat": "A 'szálcsiszolt arany' árnyalata gyártónként eltér a meglévő csaptelepekétől – egy kisebb darabot (pl. akasztót) érdemes előbb megrendelni és a csap mellé tenni. Rendelésre érkezik (nem raktári).",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A végleges fali sárgaréz kiegészítő halasztható; indulásra meglévő/egyszerű adagoló, pohár és megfelelő törölköző-elhelyezés elég.",
+  "priority_condition": ""
  },
  {
   "room": "12-furdo",
@@ -357,7 +291,10 @@
   "why": "Tömör sárgaréz alapanyag kifejezetten 'brushed brass' felülettel – a legpontosabb anyag- és színegyezés a ház egységes szálcsiszolt sárgaréz fémjéhez.",
   "caveat": "Előrendelésre, a bolt szerint kb. 9 napon belül érkezik a raktárba. A sorozat többi darabja (WC-kefe, szappanadagoló) kifejezetten drága.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A végleges fali sárgaréz kiegészítő halasztható; indulásra meglévő/egyszerű adagoló, pohár és megfelelő törölköző-elhelyezés elég.",
+  "priority_condition": ""
  },
  {
   "room": "12-furdo",
@@ -375,7 +312,10 @@
   "why": "Köntösnek és a baba kapucnis törölközőjének az ajtó mögé / a kád mellé; ugyanaz a szálcsiszolt arany sorozat, mint a törölközőtartó.",
   "caveat": "Rendelésre érkezik. Egyágú változat (ADR_R111) 11 490 Ft.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A végleges fali sárgaréz kiegészítő halasztható; indulásra meglévő/egyszerű adagoló, pohár és megfelelő törölköző-elhelyezés elég.",
+  "priority_condition": ""
  },
  {
   "room": "12-furdo",
@@ -393,7 +333,10 @@
   "why": "Kis, kerek tömör sárgaréz kampó valódi brushed brass felülettel – olcsó módja annak, hogy a prémium sorozat színe megjelenjen.",
   "caveat": "Előrendelésre érkezik.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A végleges fali sárgaréz kiegészítő halasztható; indulásra meglévő/egyszerű adagoló, pohár és megfelelő törölköző-elhelyezés elég.",
+  "priority_condition": ""
  },
  {
   "room": "12-furdo",
@@ -411,7 +354,10 @@
   "why": "Fali adagoló, így a fa/bambusz pulton nem áll vízben a flakon alja, és a gyerek nem tudja leverni; a sorozat többi darabjával azonos szálcsiszolt arany.",
   "caveat": "A pumpa részben műanyag. Fúrni kell a csempébe – a dekorsávot kerülni. Rendelésre érkezik.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A végleges fali sárgaréz kiegészítő halasztható; indulásra meglévő/egyszerű adagoló, pohár és megfelelő törölköző-elhelyezés elég.",
+  "priority_condition": ""
  },
  {
   "room": "12-furdo",
@@ -429,25 +375,10 @@
   "why": "Fali fogmosópohár a sorozatból – szabadon hagyja a pultot, és a fém része egyezik a törölközőtartóval.",
   "caveat": "Üveg pohár: kisgyerek mellett magasra szerelni. Rendelésre érkezik.",
   "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "12-furdo",
-  "category": "Mosdó leeresztő (szálcsiszolt arany)",
-  "name": "AREZZO design Click-clack lefolyó, szálcsiszolt arany AR-726G",
-  "store": "AREZZO design (arezzodesign.hu)",
-  "where": "online (arezzodesign.hu), magyar forgalmazó, házhoz szállítás",
-  "material_color": "sárgaréz test, szálcsiszolt arany felület",
-  "size": "5/4\" csatlakozás",
-  "price_huf": 10450,
-  "price_note": "/db – pultmosdónként 1",
-  "url": "https://www.arezzodesign.hu/mosdotal-kiegeszitok/arezzo-design-click-clack-lefolyo--szalcsiszolt-arany-ar-726g",
-  "tier": "ajánlott",
-  "qty": 3,
-  "why": "A pultmosdóban felülről ez az egyetlen látszó fém: ha króm lenne, ütne a szálcsiszolt sárgaréz fali kifolyóval. Nyomásra nyit-zár, 5/4\"-os szabvány csatlakozás.",
-  "caveat": "A gyártó szerint a saját mosdóihoz univerzális – túlfolyó NÉLKÜLI mosdóhoz (pl. Geberit VariForm) rendelés előtt rákérdezni, hogy a túlfolyó nélküli változat kell-e. Rendelhető, várható érkezés a lekérdezéskor 2026.09.30.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A végleges fali sárgaréz kiegészítő halasztható; indulásra meglévő/egyszerű adagoló, pohár és megfelelő törölköző-elhelyezés elég.",
+  "priority_condition": ""
  },
  {
   "room": "10-wc",
@@ -465,7 +396,10 @@
   "why": "Az irányelv szerint ez a WC legolcsóbb, leglátványosabb javítása: a látszó fehér műanyag szifon helyére kerek, matt arany sárgaréz design szifon kerül, ami a meglévő réz/sárgaréz csaphoz illik.",
   "caveat": "A 'matt arany' PVD árnyalata nem azonos 1:1-ben az antikolt réz csappal – a kettő egymás alatt lesz, ezért érdemes élőben összenézni. A kis Geberit kézmosó leeresztőjének átmérőjét (5/4\") szerelővel ellenőriztetni.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A meglévő működő alkatrész pusztán esztétikai cseréje fél évig halasztható.",
+  "priority_condition": "Csak a szín miatti csere P2; hiányzó vagy hibás szükséges alkatrész rendezése a használat előfeltétele."
  },
  {
   "room": "10-wc",
@@ -483,7 +417,10 @@
   "why": "Kifejezetten 'brushed brass' felület – pontosan a ház egységes szálcsiszolt sárgaréz fémje, és egyezik az Omnires Modern Project kiegészítőkkel.",
   "caveat": "Előrendeléses termék, nem raktári.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A meglévő működő alkatrész pusztán esztétikai cseréje fél évig halasztható.",
+  "priority_condition": "Csak a szín miatti csere P2; hiányzó vagy hibás szükséges alkatrész rendezése a használat előfeltétele."
  },
  {
   "room": "10-wc",
@@ -501,7 +438,10 @@
   "why": "A kézmosó alatt a szifon mellett a sarokszelep is látszik – csiszolt arany PVD felülettel és kerek rozettával együtt adnak rendezett képet.",
   "caveat": "Drága egy sarokszelephez képest. Csak akkor kell, ha a kézmosó csapja a mosdón ül és alulról kap vizet – ha a WC-ben fali csap van, nincs rá szükség. Kb. 8 napon belül érkezik a bolt raktárába.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A meglévő működő alkatrész pusztán esztétikai cseréje fél évig halasztható.",
+  "priority_condition": "Csak a szín miatti csere P2; hiányzó vagy hibás szükséges alkatrész rendezése a használat előfeltétele."
  },
  {
   "room": "10-wc",
@@ -512,14 +452,17 @@
   "material_color": "rozsdamentes acél, szálcsiszolt arany",
   "size": "hossz 170 mm",
   "price_huf": 13390,
-  "price_note": "/db – külön WC + az A fürdő WC-je",
+  "price_note": "/db – külön WC + a kádas fürdő WC-je",
   "url": "https://www.szaniteronline.hu/DE-ADRR211-Deante-Round-WC-papir-tarto-szalcsiszol",
   "tier": "ajánlott",
   "qty": 2,
   "why": "Ugyanaz a Deante Round szálcsiszolt arany sorozat, mint a fürdő törölközőtartói – a három vizes helyiség fémje egységes lesz.",
   "caveat": "Rendelésre érkezik. Ugyanez a mozaikkeramia.hu-n raktárról 13 890 Ft volt.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A működő WC/kézmosó és alap kellékek mellett a végleges tartó vagy esztétikai csere halasztható.",
+  "priority_condition": ""
  },
  {
   "room": "10-wc",
@@ -537,7 +480,10 @@
   "why": "Letisztult, egyszerű forma szálcsiszolt arany felülettel, magyar forgalmazótól, valamivel olcsóbban.",
   "caveat": "A MONO sorozatban nincs szálcsiszolt arany WC-kefe, ezért nem ad teljes szettet; pontos méret a termékoldalon nincs megadva.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A működő WC/kézmosó és alap kellékek mellett a végleges tartó vagy esztétikai csere halasztható.",
+  "priority_condition": ""
  },
  {
   "room": "10-wc",
@@ -555,7 +501,10 @@
   "why": "Tömör sárgaréz, valódi brushed brass felület – a legközelebbi egyezés a meglévő szerelvényekhez.",
   "caveat": "Kb. 9 napon belül érkezik a bolt raktárába.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A működő WC/kézmosó és alap kellékek mellett a végleges tartó vagy esztétikai csere halasztható.",
+  "priority_condition": ""
  },
  {
   "room": "10-wc",
@@ -573,11 +522,14 @@
   "why": "Fali kefe: a padló szabad marad (könnyű felmosni, a baba nem éri el olyan könnyen), és egyezik a papírtartóval.",
   "caveat": "Rendelésre érkezik. Zárt tartályos fali változat (ADR_R721) 31 590 Ft, szabadon álló (ADR_R712) 32 690 Ft.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "Minden használatba vett WC-hez kell alap tisztítóeszköz; nem feltétel a drága fali változat.",
+  "priority_condition": ""
  },
  {
   "room": "12-furdo",
-  "category": "Tükör (A fürdő, dupla mosdó fölé)",
+  "category": "Tükör (kádas fürdő, megrendelt bútorhoz igazítva)",
   "name": "LINDBYN tükör, aranyszínű, 60x120 cm",
   "store": "IKEA",
   "where": "online (ikea.com/hu) + áruház (Budaörs)",
@@ -588,14 +540,18 @@
   "url": "https://www.ikea.com/hu/hu/p/lindbyn-tuekoer-aranyszinu-90485597/",
   "tier": "ajánlott",
   "qty": 1,
-  "why": "Fektetve pontosan lefedi a 120 cm-es dupla mosdót, vékony aranyszínű kerete a sárgaréz szerelvényekre rímel, lekerekített sarkai puhítják a szögletes csempét. Fürdőszobai használatra tesztelt, biztonsági fóliás üveg (kisbaba!).",
-  "caveat": "Az eloxált alumínium 'arany' selyemfényű, kicsit világosabb/sárgább lehet, mint a szálcsiszolt sárgaréz csaptelep – áruházban megnézni. A fali kifolyók fölé úgy kell tervezni a magasságot, hogy a csapok rozettáit ne takarja.",
+  "why": "Lekerekített, aranyszínű keretes, fürdőszobai használatra tesztelt tükör. Fektetve 120 cm széles; a kádas fürdő megrendelt bútorának és mosdójának méretéhez kell próbálni.",
+  "caveat": "Az eloxált alumínium 'arany' selyemfényű, kicsit világosabb/sárgább lehet, mint a szálcsiszolt sárgaréz csaptelep – áruházban megnézni. A fali kifolyók fölé úgy kell tervezni a magasságot, hogy a csapok rozettáit ne takarja. A végleges méretet és darabszámot a megrendelt szekrény/mosdó kiosztásához kell igazítani; a korábbi dupla mosdós elrendezés csak feltevés.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "recommendation_condition": "a megrendelt bútorhoz végzett méretpróba után",
+  "priority": 1,
+  "priority_reason": "Egy használható mosdótükör a napi készülődéshez kell; meglévővel helyettesíthető.",
+  "priority_condition": ""
  },
  {
   "room": "12-furdo",
-  "category": "Tükör (A fürdő, dupla mosdó fölé)",
+  "category": "Tükör (kádas fürdő, megrendelt bútorhoz igazítva)",
   "name": "Ida kerek falitükör, aranyszínű, Ø 55 cm",
   "store": "Westwing",
   "where": "online (westwing.hu), házhoz szállítás",
@@ -606,14 +562,17 @@
   "url": "https://www.westwing.hu/ida-kerek-falitukor-hu-21wes99879.html",
   "tier": "prémium",
   "qty": 2,
-  "why": "Két kerek, vékony arany keretes tükör a két fali kifolyó fölött – az irányelv 'kerek tükör, vékony sárgaréz keret' javaslata szó szerint; a körforma oldja a rombuszmintás dekorsáv szigorát.",
-  "caveat": "A termékoldal nem ír fürdőszobai (párás) használatról és a keret fényességéről sem – jó szellőzés mellett használható, de a zuhany közvetlen közelébe ne kerüljön. A kért 50–60 cm-es tartomány közepe.",
+  "why": "Kerek, vékony aranyszínű keret a meglévő szerelvények mellé. A két darabos változat csak akkor indokolt, ha a megrendelt mosdóösszeállítás kiosztása ezt támogatja.",
+  "caveat": "A termékoldal nem ír fürdőszobai (párás) használatról és a keret fényességéről sem – jó szellőzés mellett használható, de a zuhany közvetlen közelébe ne kerüljön. A kért 50–60 cm-es tartomány közepe. A végleges méretet és darabszámot a megrendelt szekrény/mosdó kiosztásához kell igazítani; a korábbi dupla mosdós elrendezés csak feltevés.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "Egy használható mosdótükör a napi készülődéshez kell; meglévővel helyettesíthető.",
+  "priority_condition": ""
  },
  {
   "room": "12-furdo",
-  "category": "Tükör (B fürdő)",
+  "category": "Tükör (zuhanyzós fürdő)",
   "name": "STOCKHOLM tükör, tölgy furnér, 80 cm",
   "store": "IKEA",
   "where": "online (ikea.com/hu) + áruház (Budaörs)",
@@ -627,25 +586,31 @@
   "why": "Nagy, kerek, valódi tölgy furnér keret – a szürke csempe mellé a fa mosdószekrénnyel együtt ez hozza a meleget; fürdőszobai használatra tesztelt és jóváhagyott, biztonsági fóliás.",
   "caveat": "A keret 10 cm mély, ezért a fali kifolyó fölött elég magasra kell tenni; a polcos peremre kisgyerek mellett ne kerüljön üveg tárgy.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Legalább egy teljesen működő fürdő mellett a második helyiség befejezése vagy a végleges kiegészítő későbbre ütemezhető.",
+  "priority_condition": "Második tükörként P2; indulásra egy napi használatra alkalmas mosdótükörrel számolunk."
  },
  {
   "room": "12-furdo",
-  "category": "Tükör (B fürdő)",
+  "category": "Tükör (zuhanyzós fürdő)",
   "name": "STOCKHOLM tükör, tölgy furnér, 60 cm",
   "store": "IKEA",
   "where": "online (ikea.com/hu) + áruház (Budaörs)",
   "material_color": "rétegelt, tölgy furnéros keret, lakkozott",
   "size": "Ø 60 cm, mélység 10 cm",
   "price_huf": 24990,
-  "price_note": "/db – az A fürdőbe 2 db-ként is működik",
+  "price_note": "/db – a kádas fürdőbe 2 db-ként is működik",
   "url": "https://www.ikea.com/hu/hu/p/stockholm-tuekoer-toelgy-furner-50591585/",
   "tier": "olcsóbb",
   "qty": 1,
-  "why": "Ugyanaz a tölgy furnéros, fürdőszobára jóváhagyott kerek tükör kisebb méretben – ha a B fürdőben keskenyebb a falszakasz, vagy ha az A fürdőbe két kerek tükör kell.",
+  "why": "Ugyanaz a tölgy furnéros, fürdőszobára jóváhagyott kerek tükör kisebb méretben – ha a zuhanyzós fürdőben keskenyebb a falszakasz, vagy ha a kádas fürdőbe két kerek tükör kell.",
   "caveat": "A 100 cm-es szekrény fölött a 60 cm-es kicsit kicsinek hathat – inkább a 80 cm-es.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Legalább egy teljesen működő fürdő mellett a második helyiség befejezése vagy a végleges kiegészítő későbbre ütemezhető.",
+  "priority_condition": "Második tükörként P2; indulásra egy napi használatra alkalmas mosdótükörrel számolunk."
  },
  {
   "room": "10-wc",
@@ -663,7 +628,10 @@
   "why": "Az irányelv szerint a kis WC-be a lehető legnagyobb tükör kell, mert tágít: ez a magas, keskeny ovális pont a 40 cm-es kézmosó szélességéhez igazodik, vékony arany kerettel.",
   "caveat": "A keret fényességét (matt/fényes) a termékoldal nem részletezi; a gyártó a nappaliba, előszobába és fürdőbe is ajánlja.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A működő WC/kézmosó és alap kellékek mellett a végleges tartó vagy esztétikai csere halasztható.",
+  "priority_condition": ""
  },
  {
   "room": "10-wc",
@@ -681,7 +649,10 @@
   "why": "Kerek, vékony arany keretes tükör pontosan a kézmosó szélességében – olcsó, 4,4/5 értékelés 37 vásárlótól.",
   "caveat": "A lekérdezéskor utolsó darabok (4 db raktáron). Kisebb felület, kevésbé tágít, mint a 35x80-as.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A működő WC/kézmosó és alap kellékek mellett a végleges tartó vagy esztétikai csere halasztható.",
+  "priority_condition": ""
  },
  {
   "room": "10-wc",
@@ -699,97 +670,10 @@
   "why": "Tömör tölgy keret: a WC-be, ahol nincs fa bútor, ez hozza be a ház domináns fatónusát; minőségi lépcsőfok a fém keretesekhez képest.",
   "caveat": "Ø 55 cm – szélesebb, mint a 40 cm-es kézmosó, ellenőrizni, hogy elfér-e a falon. Párás helyiségre nincs külön minősítve, de a WC-ben nincs zuhany.",
   "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "12-furdo",
-  "category": "IP44 fali lámpa a tükör mellé",
-  "name": "Nowodvorski Natalie fehér-sárgaréz fürdőszobai falikar (TL-10727) G9 1 izzós IP44",
-  "store": "Fénymánia (fenymania.hu)",
-  "where": "online (fenymania.hu) + budapesti üzlet, megrendelésre kb. 1 hét",
-  "material_color": "sárgaréz színű fém test + fehér opál üveg henger; IP44",
-  "size": "szél. 5 cm, mag. 29,5 cm, faltól 7 cm; G9 max 10 W (cserélhető izzó)",
-  "price_huf": 14990,
-  "price_note": "/db – tükrönként 2 db (két oldalra)",
-  "url": "https://www.fenymania.hu/nowodvorski-natalie-feher-sargarez-furdoszobai-falikar-tl-10727-g9-1-izzos-ip44",
-  "tier": "ajánlott",
-  "qty": 4,
-  "why": "Karcsú sárgaréz + opál üveg henger a tükör két oldalára: árnyékmentes arcvilágítás, IP44, és a cserélhető G9 foglalatba 2700 K-es, CRI 90+ LED tehető – pontosan az irányelv világítási szabálya.",
-  "caveat": "Izzó nincs benne (2700 K G9 LED-et külön kell venni). A sárgaréz felület fényességét élőben nem láttuk – a csaptelepek mellé érdemes 1 db-ot előbb megrendelni. Fali kiállás kell a tükör két oldalán.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "12-furdo",
-  "category": "IP44 fali lámpa a tükör mellé",
-  "name": "Nowodvorski Natalie fehér-sárgaréz fürdőszobai falikar (TL-10724) G9 1 izzós IP44",
-  "store": "Fénymánia (fenymania.hu)",
-  "where": "online (fenymania.hu) + budapesti üzlet, megrendelésre kb. 1 hét",
-  "material_color": "sárgaréz színű fém test + fehér opál üveg; IP44",
-  "size": "szél. 5 cm, mag. 16,5 cm, faltól 7 cm; G9 max 10 W",
-  "price_huf": 9890,
-  "price_note": "/db",
-  "url": "https://www.fenymania.hu/nowodvorski-natalie-feher-sargarez-furdoszobai-falikar-tl-10724-g9-1-izzos-ip44",
-  "tier": "olcsóbb",
-  "qty": 4,
-  "why": "Ugyanaz a sárgaréz + opál Natalie család rövidebb búrával – kerek tükör mellé arányosabb, és olcsóbb.",
-  "caveat": "Kisebb búra = kevesebb fény; nagy tükörhöz a 29,5 cm-es változat jobb. Izzó nincs benne.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "12-furdo",
-  "category": "IP44 fali lámpa a tükör mellé",
-  "name": "Klausen Hera sárgaréz fali lámpa (146016) G9 1 izzós IP44",
-  "store": "Fénymánia (fenymania.hu)",
-  "where": "online (fenymania.hu) + budapesti üzlet, megrendelésre kb. 3 hét",
-  "material_color": "sárgaréz talp + opálüveg búra; IP44",
-  "size": "15x15 cm, faltól 15 cm; G9 (cserélhető)",
-  "price_huf": 32525,
-  "price_note": "/db",
-  "url": "https://www.fenymania.hu/klausen-hera-sargarez-fali-lampa-146016-g9-1-izzos-ip44",
-  "tier": "prémium",
-  "qty": 2,
-  "why": "Kerek sárgaréz talpon ülő opál gömb – a 'sárgaréz + opál üveg' kérés legszebb, legklasszikusabb formája, a kerek tükörrel és kerek mosdóval rímel.",
-  "caveat": "A mellékelt G9 izzó 4000 K-es (hideg) – 2700 K-esre kell cserélni. 3 hét szállítás. Gömb formája miatt 15 cm-re kiáll a faltól.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "10-wc",
-  "category": "IP44 mennyezeti lámpa",
-  "name": "Nowodvorski Ceara sárgaréz fürdőszobai mennyezeti spotlámpa (TL-10716) GU10 1 izzós IP44",
-  "store": "Fénymánia (fenymania.hu)",
-  "where": "online (fenymania.hu) + budapesti üzlet, megrendelésre kb. 1 hét",
-  "material_color": "sárgaréz színű fém henger; IP44",
-  "size": "Ø 8,5 cm, mag. 8,5 cm; GU10 max 15 W (cserélhető)",
-  "price_huf": 15490,
-  "price_note": "",
-  "url": "https://www.fenymania.hu/nowodvorski-ceara-sargarez-furdoszobai-mennyezeti-spotlampa-tl-10716-gu10-1-izzos-ip44",
-  "tier": "ajánlott",
-  "qty": 1,
-  "why": "Az 1,63 m²-es WC-be elég egy kis, felületre szerelt sárgaréz henger: IP44, és a GU10 foglalatba 2700 K-es, CRI 90+ LED tehető; a fém egyezik a papírtartóval és a szifonnal.",
-  "caveat": "Izzó nincs benne. Lefelé irányított fényt ad – széles (100–120°) sugárzási szögű GU10 LED-et érdemes választani, hogy a tükörnél ne legyen kemény árnyék.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
- },
- {
-  "room": "12-furdo",
-  "category": "Mosdószekrény 100–120 cm (B fürdő)",
-  "name": "Cersanit Crea - Mosdószekrény, 53x100x45 cm, 2 fiók, tölgyfa S924-012",
-  "store": "Sanitino.hu",
-  "where": "online (sanitino.hu), házhoz szállítás; élőben megnézhető: Rustic fürdőszoba szalon, Budapest (Kunigunda útja)",
-  "material_color": "tölgy dekor, matt, nedvességálló (Aquasafe) laminált forgácslap; tölgy dekor pulttal",
-  "size": "99,8x45x53 cm, 2 csendes záródású fiók, fali",
-  "price_huf": 135880,
-  "price_note": "akciós, listaár 220 413 Ft; pulttal, mosdó nélkül",
-  "url": "https://www.sanitino.hu/cersanit-crea-mosdoszekreny-53x100x45-cm-2-fiok-tolgyfa-s924-012",
-  "tier": "prémium",
-  "qty": 1,
-  "why": "Kifejezetten pultra ültethető mosdóhoz tervezett, összeszerelve szállított márkás fali szekrény saját tölgy dekor pulttal és két nagy fiókkal – nem kell külön munkalapot illeszteni.",
-  "caveat": "Ez is laminált forgácslap, nem furnér: a felár az összeszerelt, nedvességálló kivitelért és a pultért jár, nem tömörfáért. A fogantyú kialakítását (a fotók alapján fogantyú nélküli, bemart élű front) rendelés előtt ellenőrizni – fekete vagy króm fogantyú ide nem kerülhet. Kb. 18 nap szállítás.",
-  "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A működő WC/kézmosó és alap kellékek mellett a végleges tartó vagy esztétikai csere halasztható.",
+  "priority_condition": ""
  },
  {
   "room": "12-furdo",
@@ -807,7 +691,10 @@
   "why": "Letisztult, egyenes rúd szálcsiszolt arany felülettel, magyar forgalmazótól – olcsóbb, mint a Deante vagy az Omnires megfelelője.",
   "caveat": "A termékoldal nem adja meg a hosszát – rendelés előtt rákérdezni. A MONO sorozat szálcsiszolt aranyban csak fogast, WC-papír tartót és törölközőtartót kínál, tehát nem teljes szett.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A végleges fali sárgaréz kiegészítő halasztható; indulásra meglévő/egyszerű adagoló, pohár és megfelelő törölköző-elhelyezés elég.",
+  "priority_condition": ""
  },
  {
   "room": "12-furdo",
@@ -825,7 +712,10 @@
   "why": "A walk-in zuhany üvegén és a beton hatású csempén a vízkő gyorsan meglátszik – a lehúzó így állandóan kint lesz, ezért számít, hogy a fémje egyezzen a szálcsiszolt arany szerelvényekkel.",
   "caveat": "Drága egy lehúzóhoz képest; rendelésre érkezik.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Legalább egy teljesen működő fürdő mellett a második helyiség befejezése vagy a végleges kiegészítő későbbre ütemezhető.",
+  "priority_condition": ""
  },
  {
   "room": "12-furdo",
@@ -843,7 +733,10 @@
   "why": "Valódi, kézzel font bambusz fedeles kosár – a szürke-fehér-sárgaréz fürdőbe tudatos melegítő fonott elem; a fedél eltakarja a szennyest, a bélés 40 °C-on mosható, műanyag lábai védik a nedves padlótól.",
   "caveat": "50 liter egy kisbabás családnak kevés lehet – a háztartási helyiségbe nagyobb gyűjtő kell mellé. A bambusz a tartós vizet nem szereti: ne a zuhany mellé kerüljön.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Legalább egy teljesen működő fürdő mellett a második helyiség befejezése vagy a végleges kiegészítő későbbre ütemezhető.",
+  "priority_condition": ""
  },
  {
   "room": "12-furdo",
@@ -861,7 +754,10 @@
   "why": "Tiszta pamut, natúr (festetlen hatású) kádkilépő csúszásgátló hátoldallal – a kád, a zuhany és a mosdó elé; a törtfehér–homok textilpalettába illik, és a hideg lapburkolaton a babás fürdetésnél is kell.",
   "caveat": "Mosási hőfokot a címkén ellenőrizni; a gumírozott hátoldal miatt szárítógépbe ne kerüljön.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 1,
+  "priority_reason": "A használatba vett kád/zuhany mellé kell megfelelő kilépő; a három darab nem automatikus induló minimum.",
+  "priority_condition": ""
  },
  {
   "room": "12-furdo",
@@ -876,10 +772,13 @@
   "url": "https://www.ikea.com/hu/hu/p/vallasan-fuerdolepedo-vilagoszoeld-90531330/",
   "tier": "ajánlott",
   "qty": 2,
-  "why": "Az irányelv szerint a zsályazöld törölköző jól áll a meleg szürke csempéhez: ez a tompa, földes zöld pont az 5–8%-nyi akcentus a bézs GULVIAL törölközők mellé.",
+  "why": "Az irányelv szerint a zsályazöld törölköző jól áll a meleg szürke csempéhez: ez a tompa, földes zöld visszafogott akcentus a bézs GULVIAL törölközők mellé.",
   "caveat": "Vékony, laposszövésű (285 g/m²) – gyorsan szárad, de nem bolyhos frottír. Az árnyalatot áruházban érdemes a bézs törölköző mellé tenni. 100x150 cm-es változat 3 490 Ft.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Legalább egy teljesen működő fürdő mellett a második helyiség befejezése vagy a végleges kiegészítő későbbre ütemezhető.",
+  "priority_condition": ""
  },
  {
   "room": "12-furdo",
@@ -897,7 +796,10 @@
   "why": "A kád peremére fektethető bambusz híd: fürdetésnél kéznél tartja a babafürdetőt és a szivacsot, és fa felületet visz a fehér kád–szürke csempe közé.",
   "caveat": "70 cm hosszú – a kád belső szélességét (peremtől peremig) le kell mérni. Használat után szárazra kell törölni. Olcsóbb hasonló: Bambusz fürdőkád tálca 70 cm Hanoi (7 050 Ft, Bonami).",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Legalább egy teljesen működő fürdő mellett a második helyiség befejezése vagy a végleges kiegészítő későbbre ütemezhető.",
+  "priority_condition": ""
  },
  {
   "room": "12-furdo",
@@ -915,7 +817,11 @@
   "why": "Párás helyiségre tervezett bambusz pad alsó polccal: le lehet ülni a kád mellé a baba fürdetéséhez, alá fér egy BRANÄS kosár – látszó lábas, könnyed forma.",
   "caveat": "78 cm széles – a 4,75 m²-es fürdőben előbb ki kell mérni a helyét; zuhany alá ülőkének nem való (nem állhat folyamatosan vízben).",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "recommendation_condition": "helypróba után a 4,75 m²-es kádas fürdőben",
+  "priority": 2,
+  "priority_reason": "Legalább egy teljesen működő fürdő mellett a második helyiség befejezése vagy a végleges kiegészítő későbbre ütemezhető.",
+  "priority_condition": ""
  },
  {
   "room": "12-furdo",
@@ -930,10 +836,13 @@
   "url": "https://www.mozaikkeramia.hu/walk-in-deante-prizma-walk-in-zuhanyfal-szalcsiszolt-arany-80-cm-ktjr38p-676251.html",
   "tier": "prémium",
   "qty": 1,
-  "why": "Ha a B fürdő walk-in zuhanyához még nincs üvegfal: a szálcsiszolt arany profil ugyanaz a Deante felület, mint a kiegészítőké, zuhanytálca nélkül közvetlenül a csempére szerelhető.",
+  "why": "Ha a zuhanyzós fürdő walk-in zuhanyához még nincs üvegfal: a szálcsiszolt arany profil ugyanaz a Deante felület, mint a kiegészítőké, zuhanytálca nélkül közvetlenül a csempére szerelhető.",
   "caveat": "Csak akkor kell, ha még nincs beépített üveg. A 80 cm-es szélességet a helyszínen ellenőrizni (a sorozatban más méret is létezik). A merevítő rúd a dekorsávos falra ne kerüljön.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Legalább egy teljesen működő fürdő mellett a második helyiség befejezése vagy a végleges kiegészítő későbbre ütemezhető.",
+  "priority_condition": "Ha nincs üveg és nélküle nem használható megfelelően a zuhany, annak használatba vétele előtt szükséges; addig a kész kádas fürdővel számolunk."
  },
  {
   "room": "10-wc",
@@ -951,7 +860,10 @@
   "why": "Rövid, 33 cm-es rúd a 40 cm-es kézmosó mellé a bézs GULVIAL kéztörlőnek – ugyanaz a Deante Round sorozat, mint a papírtartó és a kefe.",
   "caveat": "Rendelésre érkezik.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A működő WC/kézmosó és alap kellékek mellett a végleges tartó vagy esztétikai csere halasztható.",
+  "priority_condition": ""
  },
  {
   "room": "10-wc",
@@ -969,6 +881,9 @@
   "why": "Ha a kis WC falán nincs hely rúdnak: egyetlen szálcsiszolt arany fogas is elég az akasztós kéztörlőnek.",
   "caveat": "Akasztófüles kéztörlő kell hozzá. Árnyalata eltérhet a Deante szálcsiszolt aranytól – egy helyiségen belül egy márkát érdemes tartani.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A működő WC/kézmosó és alap kellékek mellett a végleges tartó vagy esztétikai csere halasztható.",
+  "priority_condition": ""
  }
 ]

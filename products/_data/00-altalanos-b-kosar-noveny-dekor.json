@@ -15,7 +15,10 @@
   "why": "A ház egységes fonott rost családjának legkisebb tagja – polcra, fürdőbe, gyerekszobába apró tárgyakhoz; a lehajtható fülek miatt gyorsan elrejthető, amit egy kisbabás háztartásban nem szabad látni.",
   "caveat": "Kézi fonás miatt darabonként kicsit eltér a mintázat; csak dekorra/könnyű tárgyakra való, nem teherbíró tároló.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -33,7 +36,10 @@
   "why": "Közepes méretű, tiszta tengerifű kosár – pléd, játék vagy törölköző tárolására nappaliban/hálóban egyaránt jó, és pontosan illik a KALLAX-szerű polcrendszerekbe is.",
   "caveat": "Online rendelésnél 2 db a minimum egységmennyiség.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -51,7 +57,10 @@
   "why": "Ugyanaz a méret, mint a KNIPSA, kicsit olcsóbban, vízi jácint/tengerifű keverék fonattal – a brief kifejezetten említi a vízi jácintot is, ez a család erre a lehetőségre a válasz.",
   "caveat": "A vízi jácint szál kicsit durvább mintázatú, mint a sima tengerifű – egymás mellett érdemes megnézni, hogy stílusban illik-e a KNIPSA mellé.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -69,7 +78,10 @@
   "why": "A család legnagyobb, önálló 'szoborszerű' darabja – pléd- vagy fatároló a nappaliban/előszobában, ami nagy, letisztult felületként illik az irányelv 'kevesebb, de nagyobb tárgy' elvéhez.",
   "caveat": "Rattan, nem tengerifű – kicsit nyíltabb fonású és világosabb, mint a KNIPSA/FLÅDIS pár; mintaegyeztetés ajánlott, ha teljesen egynemű családot szeretnének.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -87,7 +99,10 @@
   "why": "Fedeles, nagy méretű tengerifű kosárszett – a kisbabás háztartáshoz ajánlott 'zárt tárolás szem­magasság alatt' elvet szolgálja (pl. plédek, játékok elrejtve), miközben a fonott rost megjelenés megmarad.",
   "caveat": "Jóval drágább, mint az IKEA darabok; a termékoldal szerint ez az utolsó raktáron lévő készlet, utánrendelhetőségét érdemes ellenőrizni vásárlás előtt.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -105,7 +120,10 @@
   "why": "A csempézett hall/konyha/étkező/nappali minden szőnyege alá kell csúszásgátló – ez a méret a kisebb-közepes (kb. 133x195-ös) szőnyegekhez illik, kisbabával kritikus balesetvédelmi elem.",
   "caveat": "Vágható, de a szőnyeg tényleges méreténél kb. 2 cm-rel kisebbre érdemes szabni.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A halasztott szőnyeggel együtt vásárolható; önmagában nincs rá szükség.",
+  "priority_condition": "Ha a szőnyeg már beköltözéskor használatba kerül és alátétet igényel, az alátét vele együtt P1."
  },
  {
   "room": "00-altalanos-hangulat",
@@ -123,7 +141,10 @@
   "why": "A nappali nagyobb szőnyegéhez illő méret; ugyanaz a termékcsalád, mint a kisebb méret, így egységesen rendelhető a ház több szőnyege alá.",
   "caveat": "",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A halasztott szőnyeggel együtt vásárolható; önmagában nincs rá szükség.",
+  "priority_condition": "Ha a szőnyeg már beköltözéskor használatba kerül és alátétet igényel, az alátét vele együtt P1."
  },
  {
   "room": "00-altalanos-hangulat",
@@ -141,7 +162,10 @@
   "why": "Legnagyobb elérhető méret a nappali/étkező legnagyobb szőnyegéhez, sand-beige csempén ez adja a legtöbb biztonságot kúszó-járni tanuló gyereknél.",
   "caveat": "",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A halasztott szőnyeggel együtt vásárolható; önmagában nincs rá szükség.",
+  "priority_condition": "Ha a szőnyeg már beköltözéskor használatba kerül és alátétet igényel, az alátét vele együtt P1."
  },
  {
   "room": "00-altalanos-hangulat",
@@ -159,7 +183,10 @@
   "why": "JYSK-alternatíva az IKEA STOPP FILT mellé hasonló méretben, ha valamelyik szőnyeghez pont ez illik jobban, vagy ha a Budaörs/Pilisvörösvár JYSK könnyebben elérhető aznap.",
   "caveat": "Fehér színben; ha látszik a szőnyeg szélén, sötétebb padlón jobban feltűnhet, mint az IKEA szürke változata.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "A halasztott szőnyeggel együtt vásárolható; önmagában nincs rá szükség.",
+  "priority_condition": "Ha a szőnyeg már beköltözéskor használatba kerül és alátétet igényel, az alátét vele együtt P1."
  },
  {
   "room": "00-altalanos-hangulat",
@@ -177,7 +204,10 @@
   "why": "Valódi olajfa, statement-méretben – az irányelv 'élő zöld: olajfa, eukaliptusz ág' pontjának fő darabja, a nappaliba vagy az előszoba fényes sarkába.",
   "caveat": "A szállítási cserép nem dísztárgy, a végleges nagy kaspót külön kell hozzá választani; télen fagymentes, világos helyre kell tenni.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -195,7 +225,10 @@
   "why": "Kisebb, asztalra/polcra való olajfa ugyanabból a fajtából – ha a nagy méretű darab egyelőre nem fér bele a büdzsébe, ezzel is behozható a 'valódi élő zöld' elem.",
   "caveat": "Kis mérete miatt inkább kiegészítő, nem helyettesíti a nagy, tér-meghatározó olajfát.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -213,7 +246,10 @@
   "why": "Élethű eukaliptusz ág vázába – az irányelv szerint elfogadható a szárított/műnövény változat is, ez adja a 'zöld a palettában, nem csak a cserépben' effektust ott, ahol nincs élő növény.",
   "caveat": "Kifejezetten szárított valódi eukaliptusz ágat magyar webshopban nem sikerült ezen a körön ellenőrizni; ez egy jó minőségű műnövény-alternatíva helyette.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -231,7 +267,10 @@
   "why": "Matt, kézzel készültnek ható fajansz kaspó homok/bézs tónusban – kis cserepes növényekhez a polcokra, konyhapultra a mesterpaletta 'sandstone-look, matt' elve szerint.",
   "caveat": "",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -249,7 +288,10 @@
   "why": "Ugyanaz a matt homokszín család, közepes méretben – nappaliban, hálóban egy-egy nagyobb szobanövényhez, vizuálisan egységes a kis mérettel.",
   "caveat": "",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -267,7 +309,10 @@
   "why": "A homok/bézs kaspócsalád legnagyobb tagja, enyhén szürkébe hajló tónussal – a kis olajfához vagy nagyobb zöld növényhez, ha a teljes fonott-kerámia mix nem monoton akar lenni.",
   "caveat": "Kicsit szürkébb, mint a PERSILLADE világosbézs; egymás mellett érdemes megnézni, elég közeliek-e.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -285,7 +330,10 @@
   "why": "Kézzel készültnek ható, matt, homok/bézs tónusú kőedény váza – az irányelv 'egy-két kézműves kerámia tárgy' pontja polcra, konzolra.",
   "caveat": "",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -303,7 +351,10 @@
   "why": "Ugyanaz a kézműves textúra nagyobb, önálló méretben – dohányzóasztalra vagy nagy konzolra önmagában is megállja a helyét egy-két száraz ággal.",
   "caveat": "",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  },
  {
   "room": "00-altalanos-hangulat",
@@ -321,6 +372,9 @@
   "why": "Kicsi zöld kerámia tárgy – az irányelv 'zöld a palettában, nem csak a cserépben' elve szerint ez adhatja az egyik apró zöld pöttyöt a homok/bézs felületek között.",
   "caveat": "A reaktív máz miatt a zöld árnyalat nem garantáltan 'zsályazöld' – inkább tompa, erdőzöld tónus felé hajlik; élőben/fotón érdemes ellenőrizni, mielőtt a textil zsályazöld referenciaként mellé teszik.",
   "verified": "product_page",
-  "checked": "2026-09-20"
+  "checked": "2026-09-20",
+  "priority": 2,
+  "priority_reason": "Az egész ház végleges textil-, tároló- és dekorcsomagja később is összeállítható; indulásra csak a használt helyiségek alapfunkcióit rendezzük.",
+  "priority_condition": ""
  }
 ]
