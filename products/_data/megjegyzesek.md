@@ -26,7 +26,7 @@
 - **Bárszék:** a Kave Home Evera 149 €/db; nem tömör tölgy. Az EUR-os tételek ellenőrzött forintár híján kimaradnak a forintos összesítésből.
 - **Bolti lefedettség:** XXXLutz, Kave Home, H&M Home és JYSK célzott jelöltjei bekerültek. Az XXXLutz utolsó élő készletellenőrzése használati limit miatt nem fejeződött be; a webes termékoldal ára rendelés előtt megerősítendő.
 - **Zuhanyzós fürdőpult:** a meglévő szekrény és mosdó mérete/típusa szükséges. Első irány a matt, világos, finom kőrajzolatú felület; méret, teherbírás, mosdókivágás és kiállások együtt ellenőrizendők. [Konyha–kandalló–fürdőpult anyagjavaslat](anyagvalasztas-konyha-kandallo-furdopult.md).
-- **Karnis:** fehér mennyezeti sín a rögzített választás. A korábbi arany/sárgaréz rudak és karikáik kizárt referenciák; két külön textilréteghez két sínpályát méretezünk.
+- **Karnis:** kétsoros valódi fa előlapos/dobozos karnis, két műanyag csúszópálya megengedett; alumínium és rúdkarnis kizárva a rögzített választás; ez felülírja a fehér mennyezeti sínt. A korábbi fémrudak és alumíniumsínek kizártak. Fényszűrő kb. kétszeres bőséggel, saját szerelés/varrás, kész méretek mérendők.
 - **Terasz:** a szezonvégi tételek és árak rendelés előtt újra ellenőrizendők.
 
 ## Beköltözési prioritás és meglévő darabok
@@ -36,18 +36,18 @@
 - A törölközőket és összecsukható ruhaszárítót hozzátok: hat régi termékreferencia kizárva, nincs új P1 vásárlás ezekre. A kilépő, törölközőtartó és konyharuha ettől külön szükséglet.
 - **05 háló és 06 babaszoba: ajtós gardróbszekrény P1**, az alaprajzon kijelölt helyen. [Moduláris és önszerelős irányok, elhelyezés és árak](05-halo/GARDROB-OSSZEHASONLITAS.md); a teljes két szobai költség még hiányzik. A külön gardrób kb. 155×180×280 cm, kétajtós átjáró, nyitott belsővel elfogadott, P2. A [rendszerreferenciái](14-gardrob/OSSZEHASONLITAS.md) kiosztásig kizárva maradnak.
 - Legalább egy kész fürdővel számolunk; a második fürdő pultja csak akkor halasztható, ha a kádas fürdő teljesen használható és elegendő.
-- A Prio 1 részösszeg nem teljes beköltözési költség: matrac/ágyrács, alap felszerelés, gépek és egyedi kivitelezés ára hiányozhat. A hat étkezőszék például teljes célmennyiség, nem rögzített induló minimum.
+- A Prio 1 részösszeg nem teljes beköltözési költség: fekhely, gardrób, függöny, kanapé és egyedi kivitelezés ára hiányozhat. A gépek és felnőtt ágynemű megerősítve meglévők. A hat étkezőszék már megerősített induló minimum.
 
 ## Nyitott döntések
 
 - A zuhanyzós fürdő alapterülete, bútorozható falszélessége és kiállásainak mérete; a kádas fürdő megrendelt bútorának mérete a még szükséges tükörhöz.
-- A konyhai és háztartási csaptelepjelölt csak akkor kell, ha még nincs meg és nem része egy meglévő rendelésnek.
+- A konyhai csap megvan, de a mosogató a legutóbbi helyesbítés szerint még hiányzik; a főzőlap közölt 80×60 cm-es mérete nem kivágási sablon. A háztartási külön mosogató/csap P2, ha nincs külön napi funkcióigény.
 - Gardróbburkolat és közös anyagminták; a gyermek kezdeti alvóhelyének és meglévő felszerelésének egyeztetése tulajdonosi kérésre most kihagyva. A beköltözés már rögzített: 2026-10-30; a gyermek ekkor 1 éves, a 08-as szoba vendég-/tartalékszoba.
 
 ## Beépített bolti felülvizsgálat (2026-09-20)
 
 - A 14 új termékjelölt megmaradt: 2 XXXLutz, 5 Kave Home, 4 H&M Home, 3 JYSK. Az 5 EUR-os és a 3 elfogyott tétel külön jelölve.
-- Az ISLEV szék korábbi ajánlása feltételes; [olcsóbb párnázott alternatívák](03-etkezo/SZEK-OSSZEHASONLITAS.md) már szerepelnek, végleges árnyertes nincs. A Cantus dohányzóasztal készletellenőrzés után ajánlott; a korábbi STOCKHOLM-modellek alternatívák.
+- Az ISLEV szék korábbi első ajánlását felülírta a Carryhome feltételes ár szerinti első helye; [olcsóbb párnázott alternatívák](03-etkezo/SZEK-OSSZEHASONLITAS.md) már szerepelnek, végleges árnyertes nincs. A Cantus dohányzóasztal készletellenőrzés után ajánlott; a korábbi STOCKHOLM-modellek alternatívák.
 - A GUNNEMOR helyes anyaga 100% újrahasznosított poliészter. A DVALA ágypárnahuzat méret- és terméktípus-korlátja jelölve.
 - Részletek és további kompromisszumok: [vásárlási felülvizsgálat](vasarlasi-felulvizsgalat-2026-09-20.md).
 
@@ -68,3 +68,5 @@
 - **PAX–easybútor részletes összevetés:** 200 cm szélességre, négy polccal és két rúddal az alacsony PAX 186 000 Ft, a magas PAX 206 000 Ft, az easybútor konfigurált részösszege 232 800 Ft. Méretük és csomagtartalmuk eltér; egyik sem szállított/szerelt teljes ár. Az easybútor online rendelése jelenleg nem érhető el. [Adatok és hiányzó tételek](05-halo/GARDROB-OSSZEHASONLITAS.md).
 
 - **Gardrób belső használata rögzítve:** háló fele akasztós/fele polcos, babaszoba főleg polcos. Az ehhez készített első 300/200 cm-es magas PAX-terv 352 000 + 257 500 = 609 500 Ft termékár; ez a részletesebb, többpolcos javaslat, nem az 515 000 Ft-os egyszerű referencia. Fogantyú, fuvar, szerelés és helyszíni illeszkedés még nyitott. [Elemjegyzék](05-halo/GARDROB-OSSZEHASONLITAS.md).
+
+- **Teljes P1 felülvizsgálat:** [16 helyiség döntési lapja és a valódi nyitott állapotok](P1-KUTATASI-ALLAPOT.md), [egyben feltett kérdések](P1-KERDESEK.md). A meglévő gépek/étkészlet/ágynemű nem új költség. A székek induló darabszáma hat, a kanapé balos. A hibás kádbetét/juniorágy referenciák és becsült babavédelmi mennyiségek javítva.

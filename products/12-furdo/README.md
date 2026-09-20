@@ -3,11 +3,13 @@
 | | |
 | --- | --- |
 | **Helyiség** | Kádas: 4,75 m² · zuhanyzós: méret ellenőrizendő · kerámia |
-| **Termékek** | 27 db |
+| **Termékek** | 30 db |
 | **Áradatok dátuma** | 2026-09-20 |
 | **Inspirációs képek** | [`../../inpiration/12-furdo/`](../../inpiration/12-furdo/README.md) |
 
 > **Követelmények és források felülvizsgálata:** [a helyiség összes kategóriája](../kategoria-felulvizsgalat.md#12-furdo) · [közös beszerzési módszer és döntések](../beszerzesi-modszer.md). A követelményfelmérés nem jelent új teljes ár- vagy készletellenőrzést.
+
+> **P1 döntési lap:** [javasolt összeállítás, teljes funkciólista és nyitott feltételek](P1-LEZARAS.md) · [házszintű P1 állapot](../P1-KUTATASI-ALLAPOT.md). A „javaslat kész” nem jelenti, hogy a termék már megrendelt vagy beépített.
 
 > **Két külön fürdő:** a kádas 4,75 m²; a zuhanyzós mérete még nincs megadva. A kádas fürdő szekrénye, mosdója és pultja megvan / megrendelve, ezért nincsenek a listában. A zuhanyzós fürdő szekrénye és mosdója is megvan; csak a pult hiányzik. A korábbi referenciapult illeszkedése nem igazolt, ezért kizártuk az összesítésből. Az egyedi pult ára hiányzó költség, nem nulla. [Anyagjavaslat](../anyagvalasztas-konyha-kandallo-furdopult.md). A közös kiegészítők darabszáma előzetes.
 
@@ -21,70 +23,89 @@
 
 **Feltétel / kiváltás:** A zuhanyzós fürdő pultja csak akkor Prio 2, ha a kádas fürdő indulásra teljesen használható és elegendő. Ha ez nem teljesül, vagy mindkét fürdő napi használata szükséges, a hiányzó pultot előre kell venni. A működéshez szükséges elemeket a későbbi fürdő használata előtt be kell fejezni.
 
-> **Még külön ellenőrizendő, nem árazott:** A zuhanyzós fürdő egyedi pultjának ára továbbra is hiányzik; a nem igazoltan illeszkedő ÅLSKEN referencia nem része az összegnek.
+> **Még külön ellenőrizendő, nem árazott:** A zuhanyzós fürdő egyedi pultjának ára továbbra is hiányzik; az ÅLSKEN nem illeszkedés-igazolt. A PATRULL lépcsőszalag nem kádbetét, kizártuk; az új VALVATTNET kizárólag kádhoz, méret- és tapadásellenőrzéssel javasolható.
 
 ### Prio 1 – előre sorolt tételek
 
 | Tételkör | Miért / milyen feltétellel? |
 | --- | --- |
-| Csúszásgátló kádbetét | A használatba vett kádban szükséges csúszásvédelem ne maradjon későbbre. |
 | Tükör (kádas fürdő, megrendelt bútorhoz igazítva) | Egy használható mosdótükör a napi készülődéshez kell; meglévővel helyettesíthető. |
 | Kádkilépő (pamut) | A használatba vett kád/zuhany mellé kell megfelelő kilépő; a három darab nem automatikus induló minimum. |
+| Csúszásgátló kádbetét | Beköltözési alapfunkció, amennyiben nincs megfelelő meglévő darab. **Feltétel:** A hozott készletből csak a tényleges hiány pótlása szükséges. |
+| Kádkilépő (pamut) | Egy használt fürdőben a kilépés és padló szárazon tartásának alapfunkciója. **Feltétel:** Csak ha nincs megfelelő meglévő kilépő; a többi helyiség és tartalék darab később. |
 
 | Ajánlott tételek fázisonként | Listázott összeg |
 | --- | --- |
-| Prio 1 – beköltözéshez előre sorolt | **42 650 Ft** |
-| Prio 2 – későbbi új beszerzés | **299 620 Ft** |
+| Prio 1 – beköltözéshez előre sorolt | **0 Ft** |
+| Prio 2 – későbbi új beszerzés | **252 640 Ft** |
 
 > Ezek a korábbi teljes tervezett darabszámokkal számolt, feltételes részösszegek; nem a legolcsóbb beköltözési kosár árai. Egy szükséglethez egy megfelelő megoldást válassz. A meglevővel kiváltott cserejelölt, a kizárt referencia, EUR-os vagy elfogyott termék és az árazatlan hiány nem szerepel bennük. A szükséges induló darabszámok és az átfedések még pontosítandók.
+
+> **Prio 1 funkció, de nincs az ajánlott HUF-részösszegben számolható jelölt:** Csúszásgátló kádbetét, Kádkilépő (pamut), Tükör (kádas fürdő, megrendelt bútorhoz igazítva). Ez nem nulla költség.
 
 ## Költség ebben a helyiségben
 
 | Számítás | Összeg |
 | --- | --- |
-| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **342 270 Ft** |
-| 💰 Kategóriánként a legolcsóbb sor összege | 515 540 Ft |
-| 💎 Kategóriánként a legdrágább sor összege | 593 340 Ft |
+| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **252 640 Ft** |
+| 💰 Kategóriánként a legolcsóbb sor összege | 430 910 Ft |
+| 💎 Kategóriánként a legdrágább sor összege | 469 720 Ft |
 
 > A darabszám javaslat. A forintos költségutak az EUR-os, készlethiányos, meglévővel kiváltott és külön kizárt referenciatételeket kihagyják; ezek ára nem nulla. A feltételes ajánlások szerepelnek a tervezési összegben. A kategóriánkénti alsó/felső összeg nem összeillő bevásárlócsomag: az opcionális és egymást átfedő tételeket külön kell kiválasztani. A szállítás nincs benne; az ár és készlet rendelés előtt ellenőrizendő.
 
-> A forintos költségutakból kimaradó kategória (nincs számolható tétel): **Fürdőlepedő, Pultreferencia – zuhanyzós fürdő (méretellenőrzésre vár), Zsályazöld törölköző (akcentus)**.
+> A forintos költségutakból kimaradó kategória (nincs számolható tétel): **Tükör (kádas fürdő, megrendelt bútorhoz igazítva), Kádkilépő (pamut), Csúszásgátló kádbetét, Fürdőlepedő, Lépcső-csúszásgátló (fürdőhöz kizárt referencia), Fellépő, Pultreferencia – zuhanyzós fürdő (méretellenőrzésre vár), Tükör (zuhanyzós fürdő), Zsályazöld törölköző (akcentus)**.
 
 ## Termékek
 
-⭐ = ezt venném · 💰 = olcsóbb, még vállalható · 💎 = jobb minőség, még észszerű áron
-
-### Csúszásgátló kádbetét — Prio 1
-
-| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 1** | ⭐ ajánlott | [PATRULL csúszásgátló csík](https://www.ikea.com/hu/hu/p/patrull-csuszasgatlo-60098895/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | áttetsző, öntapadós | 5 m (szabható) | **1 690 Ft** | 1 |
-
-**Prio 1:** A használatba vett kádban szükséges csúszásvédelem ne maradjon későbbre.
-
-- **PATRULL csúszásgátló csík** – Kádra/zuhanytálcára ragasztható csúszásgátló csík – a kisbabás háztartás egyik alapvető biztonsági eleme. ⚠️ *Szabni kell méretre, nem kész szőnyeg formájú.* *(ár listaoldalról)*
+⭐ = első javaslat, feltételekkel · 💰 = olcsóbb referencia · 💎 = magasabb árú összevetés
 
 ### Tükör (kádas fürdő, megrendelt bútorhoz igazítva) — Prio 1
 
 | Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Prio 1** | ⭐ ajánlott (a megrendelt bútorhoz végzett méretpróba után) | [LINDBYN tükör, aranyszínű, 60x120 cm](https://www.ikea.com/hu/hu/p/lindbyn-tuekoer-aranyszinu-90485597/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | eloxált alumínium keret, aranyszínű, lekerekített sarkok | 60x120 cm – fekvő helyzetben 120 cm széles | **19 990 Ft** | 1 |
-| **Prio 1** | 💎 prémium | [Ida kerek falitükör, aranyszínű, Ø 55 cm](https://www.westwing.hu/ida-kerek-falitukor-hu-21wes99879.html) | **Westwing** – online (westwing.hu), házhoz szállítás | bevonatos alumínium keret, aranyszínű | Ø 55 cm | **26 990 Ft** <br>*/db – a két mosdó fölé 2 db* | 2 |
+| **Prio 1** | 💎 prémium | [Ida kerek falitükör, aranyszínű, Ø 55 cm](https://www.westwing.hu/ida-kerek-falitukor-hu-21wes99879.html) | **Westwing** – online (westwing.hu), házhoz szállítás | bevonatos alumínium keret, aranyszínű | Ø 55 cm | **26 990 Ft** <br>*/db – a két mosdó fölé 2 db* | 1 |
 
 **Prio 1:** Egy használható mosdótükör a napi készülődéshez kell; meglévővel helyettesíthető.
 
+> **A beszerzési összegből kizárva:** A meglévő tükörkészlet, a szabad falméret és a megrendelt mosdóbútorhoz való illeszkedés nincs igazolva; 1 db-os árreferencia.
+
 - **LINDBYN tükör, aranyszínű, 60x120 cm** – Lekerekített, aranyszínű keretes, fürdőszobai használatra tesztelt tükör. Fektetve 120 cm széles; a kádas fürdő megrendelt bútorának és mosdójának méretéhez kell próbálni. ⚠️ *Az eloxált alumínium 'arany' selyemfényű, kicsit világosabb/sárgább lehet, mint a szálcsiszolt sárgaréz csaptelep – áruházban megnézni. A fali kifolyók fölé úgy kell tervezni a magasságot, hogy a csapok rozettáit ne takarja. A végleges méretet és darabszámot a megrendelt szekrény/mosdó kiosztásához kell igazítani; a korábbi dupla mosdós elrendezés csak feltevés.*
+  **Döntési státusz:** Méretre vár. **Következő lépés:** Meglévő tükör ellenőrzése; mosdóbútor szélessége, szabad falfelület, szerelési magasság és ajtónyitás alapján egyetlen megfelelő jelölt kiválasztása.
 - **Ida kerek falitükör, aranyszínű, Ø 55 cm** – Kerek, vékony aranyszínű keret a meglévő szerelvények mellé. A két darabos változat csak akkor indokolt, ha a megrendelt mosdóösszeállítás kiosztása ezt támogatja. ⚠️ *A termékoldal nem ír fürdőszobai (párás) használatról és a keret fényességéről sem – jó szellőzés mellett használható, de a zuhany közvetlen közelébe ne kerüljön. A kért 50–60 cm-es tartomány közepe. A végleges méretet és darabszámot a megrendelt szekrény/mosdó kiosztásához kell igazítani; a korábbi dupla mosdós elrendezés csak feltevés.*
+  **Döntési státusz:** Méretre vár. **Következő lépés:** Meglévő tükör ellenőrzése; mosdóbútor szélessége, szabad falfelület, szerelési magasság és ajtónyitás alapján egyetlen megfelelő jelölt kiválasztása.
 
 ### Kádkilépő (pamut) — Prio 1
 
 | Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 1** | ⭐ ajánlott | [Kádkilépő ALMVIK 50x80 natúr KRONBORG](https://jysk.hu/furdoszoba/furdoszobaszonyegek/kadkilepo-almvik-50x80-natur-kronborg) | **JYSK** – online (jysk.hu) + áruház (Pilisvörösvár, Budaörs) | 100% pamut, natúr; SEBS csúszásgátló hátoldal | 50x80 cm | **6 990 Ft** <br>*/db* | 3 |
+| **Prio 1** | ⭐ ajánlott | [MANTORP kádkilépő, sötét homokszínű](https://jysk.hu/furdoszoba/furdoszobaszonyegek/kadkilepo-mantorp-50x70-sotet-homokszinu) | **JYSK** – Magyar termékoldal; helyi készlet és közös beszerzés ellenőrizendő. | 100% pamut elöl és hátul, sötét homok | 50×70 cm | **1 650 Ft** <br>*/1 db árreferencia, nem háromhelyiséges csomag; fuvar és esetleges alátét külön.* | 1 |
+| **Prio 1** | Alternatíva | [ALSTERN fürdőszobai szőnyeg, fehér](https://www.ikea.com/hu/hu/p/alstern-fuerdoszobai-szonyeg-feher-00447350/) | **IKEA** – Magyar termékoldal; helyi készlet és közös beszerzés ellenőrizendő. | 100% pamut, fehér, 900 g/m² | 50×80 cm | **2 490 Ft** <br>*/1 db árreferencia, nem háromhelyiséges csomag; fuvar és esetleges alátét külön.* | 1 |
+| **Prio 1** | 💎 prémium | [Kádkilépő ALMVIK 50x80 natúr KRONBORG](https://jysk.hu/furdoszoba/furdoszobaszonyegek/kadkilepo-almvik-50x80-natur-kronborg) | **JYSK** – online (jysk.hu) + áruház (Pilisvörösvár, Budaörs) | 100% pamut, natúr; SEBS csúszásgátló hátoldal | 50x80 cm | **6 990 Ft** <br>*/db* | 1 |
 
-**Prio 1:** A használatba vett kád/zuhany mellé kell megfelelő kilépő; a három darab nem automatikus induló minimum.
+**Prio 1:** Egy használt fürdőben a kilépés és padló szárazon tartásának alapfunkciója. Feltétel: Csak ha nincs megfelelő meglévő kilépő; a többi helyiség és tartalék darab később. A használatba vett kád/zuhany mellé kell megfelelő kilépő; a három darab nem automatikus induló minimum.
 
-- **Kádkilépő ALMVIK 50x80 natúr KRONBORG** – Tiszta pamut, natúr (festetlen hatású) kádkilépő csúszásgátló hátoldallal – a kád, a zuhany és a mosdó elé; a törtfehér–homok textilpalettába illik, és a hideg lapburkolaton a babás fürdetésnél is kell. ⚠️ *Mosási hőfokot a címkén ellenőrizni; a gumírozott hátoldal miatt szárítógépbe ne kerüljön.*
+> **A beszerzési összegből kizárva:** Meglévő készlet és végleges helyszíni méret még nem tisztázott; 1 db feltételes árreferencia. Egy használt fürdőhöz 1 db-os árreferencia; meglévő készlet és szabad padlóméret még nem tisztázott.
+
+- **MANTORP kádkilépő, sötét homokszínű** – A most ellenőrzött, semleges pamutkilépők közül a legkisebb termékárú jelölt; 60°C-on mosható. ⚠️ *Nem gumírozott hátoldalú: száraz padlón csúszáspróba és szükség szerint a burkolathoz alkalmas alátét kell; annak ára nincs benne. Színmintát a fürdőhöz nézni.*
+  **Döntési státusz:** Méretre vár. **Következő lépés:** A hozott készletet ellenőrizni, egy használt fürdő szabad padlófelületét és ajtónyitását megmérni; csúszáspróba után 1 db-os induló mennyiséget jóváhagyni.
+- **ALSTERN fürdőszobai szőnyeg, fehér** – Világos, semleges pamutkilépő, 60°C-on mosható; nagyobb a MANTORP-nál. ⚠️ *Sima, tiszta és száraz padlóra való; csúszáspróba és ajtónyitás ellenőrzése kell. Maximum 6% zsugorodás. Nem kádbetét.*
+  **Döntési státusz:** Méretre vár. **Következő lépés:** A hozott készletet ellenőrizni, egy használt fürdő szabad padlófelületét és ajtónyitását megmérni; csúszáspróba után 1 db-os induló mennyiséget jóváhagyni.
+- **Kádkilépő ALMVIK 50x80 natúr KRONBORG** – Opcionális magasabb árú natúr pamutkilépő; a P1 funkcióhoz kedvezőbb MANTORP és ALSTERN jelöltek is szerepelnek. ⚠️ *Mosási hőfokot a címkén ellenőrizni; a gumírozott hátoldal miatt szárítógépbe ne kerüljön.*
+  **Döntési státusz:** Méretre vár. **Következő lépés:** Ellenőrizni, hoztok-e megfelelő kilépőt; egy használt fürdőben szabad padlófelület, ajtónyitás és csúszáspróba után darabszámot rögzíteni.
+
+### Csúszásgátló kádbetét — Prio 1
+
+| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Prio 1** | ⭐ ajánlott | [VALVATTNET csúszásgátló, szürke](https://www.ikea.com/hu/hu/p/valvattnet-csuszasgatlo-szuerke-00604986/) | **IKEA** – Magyar termékoldal; áruházi vagy címspecifikus elérhetőség rendelés előtt ellenőrizendő. | termoplasztikus elasztomer, szürke | 33×84 cm | **2 990 Ft** <br>*2026-09-20 közzétett termékár, fuvar/szerelés külön; nem teljes háztartási csomagár.* | 1 |
+
+**Prio 1:** Beköltözési alapfunkció, amennyiben nincs megfelelő meglévő darab. Feltétel: A hozott készletből csak a tényleges hiány pótlása szükséges.
+
+> **A beszerzési összegből kizárva:** A kád tényleges méretéhez/felületéhez való alkalmasság nincs igazolva; feltételes árreferencia.
+
+- **VALVATTNET csúszásgátló, szürke** – A gyártó kifejezetten fürdőkádhoz ajánlja; kiváltja a téves lépcsőszalag-jelöltet. ⚠️ *Kizárólag kádhoz; tiszta felületen minden tapadókorong tartását ellenőrizni kell. A kád mérete/felülete ellenőrizendő, zuhanyhoz ne használjuk automatikusan.*
+  **Döntési státusz:** Méretre vár. **Következő lépés:** A helyiség P1-LEZARAS.md dokumentuma szerinti készlet- és illeszkedésellenőrzés.
 
 ### Külön magas tárolószekrény (opcionális) — Prio 2
 
@@ -132,6 +153,19 @@
 
 - **DRAGAN fürdőszobai készlet, 4 db, bambusz** – Természetes bambusz dobozkészlet vattakorongnak, hajgumiknak – meleg, fonott-rost jellegű anyag a sok fehér felület ellensúlyozására. ⚠️ *Kisebb rendszerező dobozok, nem szappanadagoló/fogkefetartó funkcióval.*
 
+### Lépcső-csúszásgátló (fürdőhöz kizárt referencia) — Prio 2
+
+| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Prio 2** | Figyelőlista | [PATRULL csúszásgátló csík](https://www.ikea.com/hu/hu/p/patrull-csuszasgatlo-60098895/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | fekete, öntapadós polietilén szalag | 5 m × 2,5 cm | **1 690 Ft** | 1 |
+
+**Prio 2:** Fürdős beszerzésként kizárt, nem elhalasztott kádbetét.
+
+> **A beszerzési összegből kizárva:** Nem kádbetét: a gyártó lépcsőre ajánlja.
+
+- **PATRULL csúszásgátló csík** – A gyártó lépcsőfokokra ajánlja; kádban vagy zuhanyban nem igazolt. ⚠️ *A korábbi kádbetét-ajánlás téves volt. A fürdős funkcióhoz külön, kifejezetten kádhoz gyártott jelölt szerepel.*
+  **Döntési státusz:** Kizárt referencia. **Következő lépés:** Ne rendeljük meg a fürdőbe; VALVATTNET kádhoz való alternatíva ellenőrzése.
+
 ### Fellépő — Prio 2
 
 | Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
@@ -140,7 +174,9 @@
 
 **Prio 2:** Legalább egy teljesen működő fürdő mellett a második helyiség befejezése vagy a végleges kiegészítő későbbre ütemezhető.
 
-- **BEKVÄM fellépő, bükk** – Tömör fa fellépő, hogy a gyerek magától elérje a mosdót – összecsukható, így nem foglal helyet a kis fürdőben. ⚠️ *Bükkfa, nem tölgy – világos tónusa így is jól illeszkedik a ház egy domináns világos fatónus elvéhez, de színben nem 100%-ig azonos a tölggyel.*
+> **A beszerzési összegből kizárva:** Nem igazolt babafellépő, külön háztartási szükséglet nélkül nem ajánlott.
+
+- **BEKVÄM fellépő, bükk** – Felnőtt háztartási fellépőként külön helyigény esetén vizsgálható; nem önállóan használható babafellépő-ajánlat. ⚠️ *A 63 cm-es háromfokú fellépő nem az egyéves gyermek mosdóhasználatára kiválasztott termék; ehhez később életkorhoz és használathoz megfelelő külön megoldás kell.*
 
 ### Pultreferencia – zuhanyzós fürdő (méretellenőrzésre vár) — Prio 2
 
@@ -209,8 +245,12 @@
 
 **Prio 2:** Legalább egy teljesen működő fürdő mellett a második helyiség befejezése vagy a végleges kiegészítő későbbre ütemezhető. Feltétel: Második tükörként P2; indulásra egy napi használatra alkalmas mosdótükörrel számolunk.
 
+> **A beszerzési összegből kizárva:** A meglévő tükörkészlet, a szabad falméret és a megrendelt mosdóbútorhoz való illeszkedés nincs igazolva; 1 db-os árreferencia.
+
 - **STOCKHOLM tükör, tölgy furnér, 80 cm** – Nagy, kerek, valódi tölgy furnér keret – a szürke csempe mellé a fa mosdószekrénnyel együtt ez hozza a meleget; fürdőszobai használatra tesztelt és jóváhagyott, biztonsági fóliás. ⚠️ *A keret 10 cm mély, ezért a fali kifolyó fölött elég magasra kell tenni; a polcos peremre kisgyerek mellett ne kerüljön üveg tárgy.*
+  **Döntési státusz:** Méretre vár. **Következő lépés:** Meglévő tükör ellenőrzése; mosdóbútor szélessége, szabad falfelület, szerelési magasság és ajtónyitás alapján egyetlen megfelelő jelölt kiválasztása.
 - **STOCKHOLM tükör, tölgy furnér, 60 cm** – Ugyanaz a tölgy furnéros, fürdőszobára jóváhagyott kerek tükör kisebb méretben – ha a zuhanyzós fürdőben keskenyebb a falszakasz, vagy ha a kádas fürdőbe két kerek tükör kell. ⚠️ *A 100 cm-es szekrény fölött a 60 cm-es kicsit kicsinek hathat – inkább a 80 cm-es.*
+  **Döntési státusz:** Méretre vár. **Következő lépés:** Meglévő tükör ellenőrzése; mosdóbútor szélessége, szabad falfelület, szerelési magasság és ajtónyitás alapján egyetlen megfelelő jelölt kiválasztása.
 
 ### Zuhanylehúzó — Prio 2
 

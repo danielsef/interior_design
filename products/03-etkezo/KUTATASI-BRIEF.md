@@ -1,6 +1,6 @@
 # Étkezőasztal és székek – összehasonlítási brief
 
-Állapot: pontosított követelmények, 2026-09-20. Téglalap alakú asztal, alapállapotban hat kényelmes normál székhellyel. A termékellenőrzés részletei az összehasonlításban; végleges vásárlási döntés nincs.
+Állapot: pontosított követelmények, 2026-09-20. **Beköltözéskor mind a hat szék kell.** Téglalap alakú asztal, alapállapotban hat kényelmes normál székhellyel. A termékellenőrzés részletei az összehasonlításban; végleges vásárlási döntés nincs.
 
 **Új házszintű keretek:** beköltözés 2026-10-30; fő bútorok tömörfából vagy valódi furnérral; új, gyártói/egyedi, bemutatódarab és jó állapotú használt forrás is vizsgálható. [Közös döntési napló](../beszerzesi-modszer.md). Az első tényleges forrásszűrés eredményei a [forrásnaplóban](FORRASNAPLO.md) szerepelnek; még nem végleges döntősök.
 

@@ -3,11 +3,13 @@
 | | |
 | --- | --- |
 | **Helyiség** | 20,99 m² · Norwich Arena |
-| **Termékek** | 30 db |
+| **Termékek** | 31 db |
 | **Áradatok dátuma** | 2026-09-20 |
 | **Inspirációs képek** | [`../../inpiration/04-nappali/`](../../inpiration/04-nappali/README.md) |
 
 > **Követelmények és források felülvizsgálata:** [a helyiség összes kategóriája](../kategoria-felulvizsgalat.md#04-nappali) · [közös beszerzési módszer és döntések](../beszerzesi-modszer.md). A követelményfelmérés nem jelent új teljes ár- vagy készletellenőrzést.
+
+> **P1 döntési lap:** [javasolt összeállítás, teljes funkciólista és nyitott feltételek](P1-LEZARAS.md) · [házszintű P1 állapot](../P1-KUTATASI-ALLAPOT.md). A „javaslat kész” nem jelenti, hogy a termék már megrendelt vagy beépített.
 
 > **Aktuális kutatási brief:** [megerősített igények és nyitott kérdések](KUTATASI-BRIEF.md). Az új követelményekhez a korábbi termékjelöltek illeszkedését még ellenőrizni kell.
 
@@ -21,7 +23,7 @@
 
 **Ráér később:** Dohányzóasztal, plusz fotel, TV-szekrény, tálaló, dekorációs szőnyegek, párnák és plédek. A játszóhelynek meglévő megfelelő megoldás is használható.
 
-**Feltétel / kiváltás:** Kanapé: kb. 300×200 cm, L alakú, inkább puha, alkalmi ágy két felnőttnek; a megfelelő jelöltek legalacsonyabb teljes szállított árát keressük, előzetes árplafon nélkül. Fix vagy mosható kárpit elfogadható. Az oldalirány és a komfort még ellenőrizendő. A kandalló pusztán dekoratív burkolata halasztható, ha a berendezés használaton kívül vagy a kivitelező szerint kész, használható állapotban van. A működéshez szükséges befejezés nem Prio 2. A poros burkolási munkát célszerű a kanapé beköltöztetése előtt elvégezni, ha belefér.
+**Feltétel / kiváltás:** Kanapé: kb. 300×200 cm, L alakú, inkább puha, alkalmi ágy két felnőttnek; a megfelelő jelöltek legalacsonyabb teljes szállított árát keressük, előzetes árplafon nélkül. Fix vagy mosható kárpit elfogadható. Szemből balos kivitel kell; a komfort még próbálandó. A kandalló pusztán dekoratív burkolata halasztható, ha a berendezés használaton kívül vagy a kivitelező szerint kész, használható állapotban van. A működéshez szükséges befejezés nem Prio 2. A poros burkolási munkát célszerű a kanapé beköltöztetése előtt elvégezni, ha belefér. A tulajdonos a Las Vegast választotta első próbajelöltnek, krómozott lábbal is, megfelelő komfort és kárpit esetén. Közlése szerint a kandalló a dekorburkolat nélkül használható; a dekorburkolat P2, ez nem független műszaki felülvizsgálat.
 
 > **Még külön ellenőrizendő, nem árazott:** A megfelelő kanapé költsége hiányzik az ajánlott összegből; ez nem nulla költség; nincs előre rögzített kategóriaárplafon. A korábbi ajánlott kanapé 169 900 Ft-os kizárása nem megtakarítás. A kandalló burkolati/rendszerbefejezésének egyedi költsége sincs a termékösszegben.
 
@@ -32,61 +34,73 @@
 | Kanapé | Egy alap közös ülő- és pihenőhely kell; meglévő kanapéval az új vásárlás halasztható. |
 | Kandalló védőrács | A használatba vett vagy hozzáférhető kandalló szükséges gyerekvédelmét előre kell rendezni. **Feltétel:** A kandalló tervezett használata és a helyszíni védelem szerint; a dekorburkolat ettől külön kérdés. |
 | Kanapé | Egy alap közös ülő- és pihenőhely kell; meglévő kanapéval az új vásárlás halasztható. **Feltétel:** A funkció Prio 1; ez a konkrét jelölt csak vendégágy- és komfortellenőrzés után választható. |
+| Kanapé | Egy alap közös ülő- és pihenőhely szükséges. **Feltétel:** A kért L alakú, puhább, két felnőttnek ágyazható kivitelhez próba és címre szállítási vállalás kell. |
 
 | Ajánlott tételek fázisonként | Listázott összeg |
 | --- | --- |
-| Prio 1 – beköltözéshez előre sorolt | **47 900 Ft** |
+| Prio 1 – beköltözéshez előre sorolt | **0 Ft** |
 | Prio 2 – későbbi új beszerzés | **542 190 Ft** |
 
 > Ezek a korábbi teljes tervezett darabszámokkal számolt, feltételes részösszegek; nem a legolcsóbb beköltözési kosár árai. Egy szükséglethez egy megfelelő megoldást válassz. A meglevővel kiváltott cserejelölt, a kizárt referencia, EUR-os vagy elfogyott termék és az árazatlan hiány nem szerepel bennük. A szükséges induló darabszámok és az átfedések még pontosítandók.
 
-> **Prio 1 funkció, de nincs az ajánlott HUF-részösszegben számolható jelölt:** Kanapé. Ez nem nulla költség.
+> **Prio 1 funkció, de nincs az ajánlott HUF-részösszegben számolható jelölt:** Kanapé, Kandalló védőrács. Ez nem nulla költség.
 
 ## Költség ebben a helyiségben
 
 | Számítás | Összeg |
 | --- | --- |
-| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **590 090 Ft** |
-| 💰 Kategóriánként a legolcsóbb sor összege | 430 655 Ft |
-| 💎 Kategóriánként a legdrágább sor összege | 739 000 Ft |
+| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **542 190 Ft** |
+| 💰 Kategóriánként a legolcsóbb sor összege | 382 755 Ft |
+| 💎 Kategóriánként a legdrágább sor összege | 691 100 Ft |
 
 > A darabszám javaslat. A forintos költségutak az EUR-os, készlethiányos, meglévővel kiváltott és külön kizárt referenciatételeket kihagyják; ezek ára nem nulla. A feltételes ajánlások szerepelnek a tervezési összegben. A kategóriánkénti alsó/felső összeg nem összeillő bevásárlócsomag: az opcionális és egymást átfedő tételeket külön kell kiválasztani. A szállítás nincs benne; az ár és készlet rendelés előtt ellenőrizendő.
 
-> A forintos költségutakból kimaradó kategória (nincs számolható tétel): **Kanapé**.
+> A forintos költségutakból kimaradó kategória (nincs számolható tétel): **Kanapé, Kandalló védőrács**.
 
 ## Termékek
 
-⭐ = ezt venném · 💰 = olcsóbb, még vállalható · 💎 = jobb minőség, még észszerű áron
+⭐ = első javaslat, feltételekkel · 💰 = olcsóbb referencia · 💎 = magasabb árú összevetés
 
 ### Kanapé — Prio 1
 
 | Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Prio 1** | Alternatíva | [Las Vegas ágyazható sarokkanapé – tisztítható szövettel konfigurálandó](https://comfortbutor.hu/termek/las-vegas-sarokkanape/) | **Comfort Line** – comfortbutor.hu; áruházban konkrét modell próbahelye előzetesen ellenőrizendő | Tömörfa és egyéb fa váz, hullámrugó és PUR hab; választható szövet, krómozott láb | 299×180 cm; vendégágy 140×250 cm | **577 900 Ft** <br>*Induló ár; SoftClean kárpit, szín és fuvar külön árajánlat. Nem igazolt bézs végár.* <br>*Konkrét kivitel készlete és október 30. előtti érkezése nincs igazolva.* | 1 |
 | **Prio 1** | Figyelőlista | [EKTORP 3 személyes kanapé, Blekinge fehér](https://www.ikea.com/hu/hu/p/ektorp-3-szemelyes-kanape-blekinge-feher-s79633759/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | 100% pamut huzat, levehető és mosógépben mosható, törtfehér | 218x88 cm, ülésmagasság 45 cm | **169 900 Ft** | 1 |
 | **Prio 1** | Figyelőlista | [VIMLE 3 személyes kanapé, Gunnared bézs](https://www.ikea.com/hu/hu/p/vimle-3-szemelyes-kanape-gunnared-bezs-s19399033/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | poliészter huzat (min. 90% újrahasznosított), levehető, mosógépben mosható 40°C-on, bézs | 241x98 cm, ülésmagasság 48 cm, 6 cm szabad tér a lábaknál | **267 900 Ft** | 1 |
 | **Prio 1** | Figyelőlista | [ROCKY ágyazható sarokkanapé, szürke, jobbos (0812007402)](https://www.moemax.hu/p/sarokkanape-rocky-000812007402) | **Mömax** – moemax.hu; a III. kerületi üzletnél nem jelzett kiállított példányt | 100% poliészter, szürke; hideghab/hab + hullámrugó; teljes vázanyag ellenőrizendő | 293×195×93 cm; ágy 128×241 cm; ülésmagasság 44 cm; láb 4,5 cm | **369 900 Ft** <br>*2080 Pilisjászfalu: +31 900 Ft szállítás = 401 800 Ft. Opcionális szerelés +65 900 Ft; együtt 467 700 Ft.* <br>*Élő oldalon 2080 Pilisjászfalut kiválasztva kb. 1–2 hét; becslés, nem lefoglalt időpont. Szerelés külön időpont-egyeztetéssel.* | 1 |
 | **Prio 1** | Figyelőlista | [Tommy ágyazható sarokkanapé, bézs – határidős tartalék](https://begaoutlet.hu/termek/tommy-sarokkanape-krem/) | **Bega Outlet** – begaoutlet.hu; konkrét próbadarab/készlet egyeztetendő | bézs síkszövet; krómozott műanyag láb; váz és kárpitápolás nem igazolt | 310×210 cm; ágy 180×200 cm; ülésmagasság 45 cm | **319 000 Ft** <br>*Fuvar nem igazolt: oldalon 15 000 Ft-tól és 30 000 Ft is szerepel; színfüggő ár lehet.* <br>*Fő jelzés 6–8 hét rendelésre: szeptember 20-tól kb. november 1–15.; október 30-ra nem igazolt.* | 1 |
 | **Prio 1** | Figyelőlista | [Galaxy ágygépes sarokkanapé, Rhapsody 5 Beige, balos árreferencia](https://studioobject.hu/products/galaxy-agyazhato-sarokkanape) | **Studio Object** – studioobject.hu; szövetminta bemutatóteremben, konkrét üléspróba egyeztetendő | bézs Rhapsody 5 szövet; fa ágyrács; teljes váz és szálösszetétel ellenőrizendő | 280×195 cm; ágy 140×198 cm, matrac 12 cm; ülésmagasság 46 cm | **849 990 Ft** <br>*Fuvar-szcenárió +24 990 vagy +34 990 Ft; teljes 874 980–884 980 Ft szerelés nélkül, konkrét alkalmazás ellenőrizendő.* <br>*Általános átvételi jelzés mellett rendelésre 6–8 hét is szerepel; konkrét bézs darabszám/érkezés nincs igazolva.* | 1 |
 
-**Prio 1:** Egy alap közös ülő- és pihenőhely kell; meglévő kanapéval az új vásárlás halasztható. Egy alap közös ülő- és pihenőhely kell; meglévő kanapéval az új vásárlás halasztható. Feltétel: A funkció Prio 1; ez a konkrét jelölt csak vendégágy- és komfortellenőrzés után választható.
+**Prio 1:** Egy alap közös ülő- és pihenőhely szükséges. Feltétel: A kért L alakú, puhább, két felnőttnek ágyazható kivitelhez próba és címre szállítási vállalás kell. Egy alap közös ülő- és pihenőhely kell; meglévő kanapéval az új vásárlás halasztható. Egy alap közös ülő- és pihenőhely kell; meglévő kanapéval az új vásárlás halasztható. Feltétel: A funkció Prio 1; ez a konkrét jelölt csak vendégágy- és komfortellenőrzés után választható.
 
-> **A beszerzési összegből kizárva:** Ez a konkrét egyenes, nem ágyazható összeállítás nem teljesíti az új L alakú, két felnőtt alkalmi vendégágyaként használható kanapé igényét. A két felnőttes vendégágy 128 cm-es kompromisszuma és a puhaság nincs elfogadva; nem számolható megfelelő minimummegoldásként. Határidő, méret, komfort és tisztítás nincs igazolva. Komfort, készlet, határidő és végleges teljes ár nincs igazolva.
+> **A beszerzési összegből kizárva:** Induló ár, még nincs meghatározott szövetkódú, kipróbált, címre vállalt csomag. Ez a konkrét egyenes, nem ágyazható összeállítás nem teljesíti az új L alakú, két felnőtt alkalmi vendégágyaként használható kanapé igényét. A konkrét jobbos változat nem teljesíti a rögzített balos követelményt; a 128 cm vendégágy és komfort sem elfogadott. Határidő, méret, komfort és tisztítás nincs igazolva. Komfort, készlet, határidő és végleges teljes ár nincs igazolva.
 
+- **Las Vegas ágyazható sarokkanapé – tisztítható szövettel konfigurálandó** – Elsőként próbálandó irány a megfelelő közelítő méret és konfigurálható tisztítható kárpit miatt; az ár az ágyfunkciót tartalmazza. ⚠️ *A puhaság és két felnőtt 140 cm-es fekvőkomfortja próbálandó. Krómozott láb formai kompromisszum; bézs/homok SoftClean mintához pontos felár és határidő kell.*
+  **Döntési státusz:** Első próbajelölt kiválasztva. **Következő lépés:** Balos ülés- és vendégágypróba, megfelelő homok/bézs tisztítható szövetkód, teljes szállított ár és október 30. előtti vállalás. Krómozott láb megfelelő kényelem/kárpit esetén tulajdonos által elfogadva.
 - **EKTORP 3 személyes kanapé, Blekinge fehér** – Korábbi referencia; az új követelmény alapján nem vásárlási ajánlás. ⚠️ *A kb. 300×200 cm-es, L alakú ágyazható konfigurációt külön kell kiválasztani. A család más változatának ára és funkciója nem azonos ezzel a sorral.*
+  **Döntési státusz:** Kizárt referencia. **Következő lépés:** A konkrét egyenes/nem ágyazható változat nem megfelelő; ne rendeld.
 - **VIMLE 3 személyes kanapé, Gunnared bézs** – Korábbi referencia; az új követelmény alapján nem vásárlási ajánlás. ⚠️ *A kb. 300×200 cm-es, L alakú ágyazható konfigurációt külön kell kiválasztani. A család más változatának ára és funkciója nem azonos ezzel a sorral.*
+  **Döntési státusz:** Kizárt referencia. **Következő lépés:** A konkrét egyenes/nem ágyazható változat nem megfelelő; ne rendeld.
 - **ROCKY ágyazható sarokkanapé, szürke, jobbos (0812007402)** – Illeszkedés: célhoz közeli méret, ellenőrzött szállított ár. Csak kutatási tartalék: szürke kárpit és alacsony láb eltér a preferált homok–bézs, légies iránytól. ⚠️ *A 128 cm-es fekvőszélesség két felnőttnek szűk kompromisszum; puhaság, oldalirány és szürke színminta nem jóváhagyott. Porszívózás/száraz törlés szerepel; moshatóság és folttisztíthatóság nem igazolt.*
+  **Döntési státusz:** Kizárt referencia. **Következő lépés:** A konkrét termék jobbos, az új igény balos; ne rendeld. Balos változatot csak külön adatellenőrzés után lehet összevetni.
 - **Tommy ágyazható sarokkanapé, bézs – határidős tartalék** – Nagy kétszemélyes vendégágy, kedvező termékár és bézs irány; csak tartalék, nem kész P1 választás. ⚠️ *Kb. 10 cm-rel nagyobb mindkét célméretnél; puhaság, folttisztítás és vázanyag hiányzik. Krómozott láb stíluskompromisszum.*
+  **Döntési státusz:** Határidő miatt visszatartva. **Következő lépés:** Balos kivitel és helyszíni méret, kétszemélyes fekvés- és üléspróba, kárpitkezelés és október 30. előtti címre vállalt érkezés.
 - **Galaxy ágygépes sarokkanapé, Rhapsody 5 Beige, balos árreferencia** – Külön matracos vendégágy, bézs és bal/jobb kivitel; magasabb árú funkcionális összehasonlítás. ⚠️ *140×198 cm két felnőttre próbálandó. A kereskedő puha párnázatot ír, ez nem üléspróba; tisztítás, váz és határidő hiányzik.*
+  **Döntési státusz:** Próbára és választásra vár. **Következő lépés:** Balos kivitel és helyszíni méret, kétszemélyes fekvés- és üléspróba, kárpitkezelés és október 30. előtti címre vállalt érkezés.
 
 ### Kandalló védőrács — Prio 1
 
 | Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 1** | ⭐ ajánlott | [Gyermek védőrács (kandallóhoz)](https://szabokandallobolt.hu/gyermek-vedoracs) | **Szabó Kandalló Bolt** – online (szabokandallobolt.hu), szállítás egész Magyarországra | fekete, összecsukható fém | 300x75 cm, 5 elemes, zárható ajtóval | **47 900 Ft** | 1 |
+| **Prio 1** | ⭐ ajánlott | [Gyermek védőrács (kandallóhoz)](https://szabokandallobolt.hu/gyermek-vedoracs) | **Szabó Kandalló Bolt** – online (szabokandallobolt.hu), szállítás egész Magyarországra | fekete, összecsukható fém | 300 cm kiterített hossz × 75 cm magasság; 5 csuklós elem | **47 900 Ft** | 1 |
 
 **Prio 1:** A használatba vett vagy hozzáférhető kandalló szükséges gyerekvédelmét előre kell rendezni. Feltétel: A kandalló tervezett használata és a helyszíni védelem szerint; a dekorburkolat ettől külön kérdés.
 
-- **Gyermek védőrács (kandallóhoz)** – Matt fekete fém, zárható ajtós, falra rögzíthető rács – ez a zárt égésterű Pan-Tech kandalló körüli kötelező babavédelem, illik a ház egységes matt fekete fém-döntéséhez is. ⚠️ *Falra csavarozva rögzítendő a stabilitás miatt; a kandalló üvege zárt égésterű is felforrósodhat, a rácsot megfelelő távolságra kell állítani.*
+> **A beszerzési összegből kizárva:** A 300 cm-es rács megfelelő kiosztása és falrögzítése a konkrét kandallónál még nincs ellenőrizve; nem automatikus kész csomag.
+
+- **Gyermek védőrács (kandallóhoz)** – Matt fekete fém, zárható ajtós, falra rögzíthető rács – ez a zárt égésterű Pan-Tech kandalló körüli kötelező babavédelem, illik a ház egységes matt fekete fém-döntéséhez is. ⚠️ *A feketére festett fém funkcionális kivétel a sárgaréz preferencia alól. A teljes kiterített hossz nem a védett falszakasz szélessége. A kandalló rendszerbefejezését nem helyettesíti.*
+  **Döntési státusz:** Méretre és kivitelezői ellenőrzésre vár. **Következő lépés:** Kandalló körüli szükséges elkerítés, hőtávolság, rögzítési pontok és átjárás helyszíni ellenőrzése; ezek alapján hossz és elemek.
 
 ### Fotel — Prio 2
 

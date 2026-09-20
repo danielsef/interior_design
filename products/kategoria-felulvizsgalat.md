@@ -1,6 +1,8 @@
 # Teljes kategória-felülvizsgálat
 
-2026-09-20 · 16 helyiségcsoport · 188 helyiség–kategória · 329 termékjelölt (a kizárt referenciákkal együtt).
+2026-09-20 · Történeti követelményfelmérés: 16 helyiségcsoport, akkor 188 helyiség–kategória és 329 jelölt. Az aktuális állomány száma a [fő listában](README.md) olvasható.
+
+**Aktuális P1 státusz:** a [teljes P1 állapotlap](P1-KUTATASI-ALLAPOT.md) és a helyiségi döntési lapok felülírják e korábbi követelményfelmérés P1 következő lépéseit. A jelen lap a P2 kutatási irányokat és a követelmények történetét is őrzi; nem aktuális rendelési lista.
 
 **Az áttekintés tárgya:** minden aktív kategória követelménye, jelenlegi forráslefedettsége és következő ellenőrzési lépése. A termékoldalak teljes körű újraellenőrzése még nincs kész; a lent szereplő boltok kutatási célpontok, nem új ajánlások. Az étkező első konkrét frissítése már megtörtént: [összehasonlítás](03-etkezo/OSSZEHASONLITAS.md); a [kanapék](04-nappali/OSSZEHASONLITAS.md), [ágyak](05-halo/OSSZEHASONLITAS.md), valamint [matracok és ágyrácsok](05-halo/MATRAC-OSSZEHASONLITAS.md) részleges termékvizsgálata is elkészült. Ezek még nem lezárt beszerzési döntések; az előszobai [három Prio 1 alaptétel összevetése](01-eloszoba/OSSZEHASONLITAS.md) is elkészült. A további kategóriák állapota követelményfelmérés.
 
@@ -393,4 +395,4 @@ Ezeket a keresésben megtalált forrásokat a következő termékkörben konkré
 
 ## Új szobai ruhatárolás és sínválasztás
 
-Az 05 és 06 szobában új **Ajtós gardróbszekrény, P1** kategória szerepel, hat-hat árazott referenciával: Fenyőbútor24, IKEA, Bútor Mirek, easybútor. Elsőként bútorlapos modulrendszert és önszerelős egyedi lapanyagot vizsgálunk; a fa/furnér itt nem követelmény. Az easybútor konfigurált részösszege már ellenőrzött (116 400 Ft/100 cm), de rendelhetőség és csomagtartalom még tisztázandó; Woodexpress továbbra is egyedi ajánlatos. [Aktuális összevetés](05-halo/GARDROB-OSSZEHASONLITAS.md). A fenti korábbi kategóriaszámok történeti pillanatképek. A mennyezeti sín rögzített választás, a sárgaréz/arany rudak kizártak.
+Az 05 és 06 szobában új **Ajtós gardróbszekrény, P1** kategória szerepel, hat-hat árazott referenciával: Fenyőbútor24, IKEA, Bútor Mirek, easybútor. Elsőként bútorlapos modulrendszert és önszerelős egyedi lapanyagot vizsgálunk; a fa/furnér itt nem követelmény. Az easybútor konfigurált részösszege már ellenőrzött (116 400 Ft/100 cm), de rendelhetőség és csomagtartalom még tisztázandó; Woodexpress továbbra is egyedi ajánlatos. [Aktuális összevetés](05-halo/GARDROB-OSSZEHASONLITAS.md). A fenti korábbi kategóriaszámok történeti pillanatképek. Az új rögzített választás kétsoros fa karnis, alumínium nélkül; a rúdkarnisok is kizártak. A korábbi fehér mennyezeti sín irány felülírva.

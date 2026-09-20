@@ -4,6 +4,8 @@
 
 **Aktuális követelmény: a gardróbszekrénynek nem kell tömörfának vagy furnérosnak lennie.** Jó minőségű bútorlap, egyszerű fehér front és helyszíni összeszerelés elfogadható. Elsőként a kedvező teljes árú, állítható belsővel rendelkező megoldást keressük. A tömörfa termékek korábbi kutatási referenciák, nem az elsődleges irány.
 
+**Legújabb tulajdonosi döntés:** első választás a fehér, közel mennyezetig érő, méretre előkészített önszerelős **easybútor/asztalos** megoldás. A **PAX ár-összehasonlító alternatíva**. Az összeszerelést és a falrögzítést saját segítséggel oldjátok meg; kész helyszíni méretek még szükségesek. A lent árazott 236,4 cm-es PAX nem automatikusan mennyezetig érő végmegoldás.
+
 ## Alaprajzi elhelyezés
 
 A tulajdonos az [alaprajzon](../../principles/alaprajz.pdf) berajzolt helyeket választotta. A rajz elhelyezést és előzetes méretet ad; gyártási méret helyszíni ellenőrzés után lesz.
@@ -13,14 +15,14 @@ A tulajdonos az [alaprajzon](../../principles/alaprajz.pdf) berajzolt helyeket v
 | 05 háló | A konyhával közös fal mellett, a rajzlapon bal oldalt. A rajz aránya és 3,45 m-es belső mérete alapján kb. 345 cm hosszú, kb. 60 cm mély sáv. | **300 cm széles**, kb. 60 cm mély sor; a fennmaradó helyet nem kell drágább egyedi bútorral kitölteni. Az ágy külső mérete, a bejárati ajtó és a szekrényajtók nyitása együtt ellenőrizendő. |
 | 06 babaszoba | A háló felőli falon, a rajzon alul, kb. **250 cm széles**, kb. 60 cm mély szekrénysáv; közvetlenül mellette a szobaajtó. | **200 cm széles** induló sor, későbbi bővíthetőséggel. A 250 cm-es névleges bútort ne rendeljük meg automatikusan egy 250 cm-es tervméretű falhoz: szerelési hézag és ajtónyitás is kell. |
 
-A 300/200 cm javaslat, nem tulajdonosi jóváhagyás vagy kötelező teljes P1 kapacitás. A korábbi mennyezetig érő igény a külön gardróbhelyiségnél merült fel; a szobákban a teljes magasság kihasználása opcionális. A háló rajzán padlásfeljáró is szerepel: a létra használati helyét szabadon kell hagyni.
+A 300/200 cm javaslat, nem tulajdonosi jóváhagyás vagy kötelező teljes P1 kapacitás. A legújabb választás már a két szobában is közel mennyezetig érő szekrény. A végmagasság kész helyszíni mérésből és szerelési hézagból adódik; szükség esetén külön felső tárolómodullal. A háló rajzán padlásfeljáró is szerepel: a létra használati helyét szabadon kell hagyni.
 
 ## Három racionális irány
 
 | Megoldás | Mi alakítható? | Ellenőrzött ár / mi hiányzik? | Értékelés |
 | --- | --- | --- | --- |
-| **[IKEA PAX / FORSAND fehér, 795.010.37](https://www.ikea.com/hu/hu/p/pax-forsand-gardrob-feher-feher-s79501037/)** | Polcok és akasztók helye, későbbi belső kiegészítők; a külső méret szabványos modulokból áll. | **206 000 Ft**, 200×60×236,4 cm. Két váz, négy ajtó és pántcsomag, négy polc, két rúd. Fogantyúk, falcsavarok, fuvar és szerelés külön. | **Első ár- és funkcióreferencia.** Lapraszerelt, két emberrel összeállítható; a fehér felület nyugodt háttér a fa parketta és RAL 1019 mellett. Nem tömörfa: lapanyag korpusz és könnyített ajtó. |
-| **[easybútor – méretre gyártott önszerelős elemek](https://easybutor.hu/product-category/szekrenyek/56-mely-szekrenyek/)** | Gyártás előtt az engedett méreteken belül testre szabható; a későbbi polcáthelyezés furatsorát külön igazolni kell. | **116 400 Ft / 100 cm-es fehér elem** a lent részletezett konfigurációban. A pánt/fogantyú csomagtartalma, fuvar és szerelés még tisztázandó; online rendelés jelenleg nem elérhető. | Jó lehetséges középút a kész modul és a teljesen egyedi asztalosbútor között. Méretre szabott, 18 mm-es Egger bútorlap, számozott önszerelős elemek a szolgáltató szerint. |
+| **[IKEA PAX / FORSAND fehér, 795.010.37](https://www.ikea.com/hu/hu/p/pax-forsand-gardrob-feher-feher-s79501037/)** | Polcok és akasztók helye, későbbi belső kiegészítők; a külső méret szabványos modulokból áll. | **206 000 Ft**, 200×60×236,4 cm. Két váz, négy ajtó és pántcsomag, négy polc, két rúd. Fogantyúk, falcsavarok, fuvar és szerelés külön. | **Ár- és funkció-összehasonlító alternatíva.** Lapraszerelt, két emberrel összeállítható; a fehér felület nyugodt háttér a fa parketta és RAL 1019 mellett. Nem tömörfa: lapanyag korpusz és könnyített ajtó. |
+| **[easybútor – méretre gyártott önszerelős elemek](https://easybutor.hu/product-category/szekrenyek/56-mely-szekrenyek/)** | Gyártás előtt az engedett méreteken belül testre szabható; a későbbi polcáthelyezés furatsorát külön igazolni kell. | **116 400 Ft / 100 cm-es fehér elem** a lent részletezett konfigurációban. A pánt/fogantyú csomagtartalma, fuvar és szerelési dokumentáció és kötőelemek még tisztázandók; szerelés saját segítséggel; online rendelés jelenleg nem elérhető. | **Első választott irány**, ha a mért magassághoz szükséges kialakítás ténylegesen gyártható. Méretre szabott, 18 mm-es Egger bútorlap, számozott önszerelős elemek a szolgáltató szerint. |
 | **[Woodexpress – lapszabászat és CNC előkészítés](https://www.woodexpress.hu/cnc-megmunkalas/)** | Külső méret és belső kiosztás tervezhető; előre kért polcfuratsorral később is módosítható. | Nincs kész gardróbár. Lap + szabás + élzárás + furatok + hátfal + front + vasalat + fuvar + helyszíni munka együtt árazandó. | Akkor különösen jó irány, ha van hozzáértő összeszerelő. A pánt- és kötőelemfuratok műhelyben készüljenek, a helyszínen az összeállítás és beállítás maradjon. [Budapesti műhely](https://www.woodexpress.hu/kapcsolat/): IV. kerület, Megyeri út 25. |
 
 Az easybútor főoldala országos GLS-szállítást és 15 munkanapos gyártást ír; egy megnyitott [termékoldal régebbi tájékoztatója](https://easybutor.hu/termekek/polcos-szekreny-200x100x43/) még veszprémi átvételt említ. Ezért a szállítást és a vállalt átadást tisztázni kell. A főoldali látvány-konfigurátor 89 400 Ft-os példája nem a mi méretezett szekrényünk ára. A mélyebb fehér korpusz konfigurátorát a folytatásban sikerült élőben ellenőrizni; az alábbi bontás ezt rögzíti. Az élő termékoldal szerint a webshop online rendelése még nem indult el. A gyártási határidőt ezért nem kezeljük vállalt teljesítésként.
@@ -48,7 +50,7 @@ A 236,4 cm-es váz állítva szereléséhez a gyártó legalább 237 cm magassá
 
 ## PAX és easybútor: részletes ár- és állíthatósági ellenőrzés
 
-**Mindkét márka aktív jelölt.** A PAX jelenleg kedvezőbb ellenőrzött termékárral és igazoltan átrendezhető belsővel rendelkezik; az easybútor méretre igazíthatósága lehet érdemi előny. Teljes szállított árverseny még nincs lezárva.
+**Mindkét márka megmarad, eltérő szereppel.** A PAX ellenőrzött ár- és állíthatósági referencia; az easybútor/asztalos méretre készített, magas kialakítása a kiválasztott első irány. Teljes szállított árverseny még nincs lezárva.
 
 Az [easybútor 200×100×56 cm-es termékének](https://easybutor.hu/termekek/polcos-szekreny-200x100x56/) élő konfigurátorában **Fehér W 960**, névleges szélesség, fehér ajtó, két polc, egy rúd és 80 mm-es lábazat szerepelt. A lábazat kiválasztása automatikusan hozzáadta a megfelelő lábcsomagot; annak külön választója ezért letiltott.
 
@@ -117,3 +119,9 @@ Első színirány: matt vagy visszafogott fényű **fehér front**, fehér bels�
 - JYSK [VEDDE](https://jysk.hu/tarolas/ruhasszekrenyek-0/ruhasszekreny-vedde-167x197-tukorrel-sotet-tolgy) dekoros kész szekrény; a látott ár elavult akcióhoz kapcsolódott. A bútorlap most elfogadott, de ettől még nincs igazolt aktuális teljes ár és kívánt moduláris bővíthetőség.
 
 Ár- és forrásellenőrzés: 2026-09-20. A PAX oldalára mutató linkek a konkrét elemeket azonosítják; helyi készlet és 2026-10-30 előtti átadás nincs visszaigazolva. Nem történt rendelés, regisztráció vagy külső megkeresés. A szobai szekrényjelöltek kiválasztásig kimaradnak a költségutakból.
+
+## P1 lezárás – fogantyúk és használatra kész átadás
+
+A részletes [05 P1](P1-LEZARAS.md) és [06 P1](../06-szoba/P1-LEZARAS.md) lap a fenti használati kiosztást fogantyúval is árazza. A [BAGGANÄS 21 mm-es sárgarézbevonatos gomb](https://www.ikea.com/hu/hu/p/bagganaes-fogantyu-sargarez-00338412/) 1 990 Ft/2 db, csavarokkal. A 05 hat ajtójához 3 csomag: **357 970 Ft**; a 06 négy ajtójához 2 csomag: **261 480 Ft**. Együtt **619 450 Ft** termékár, falrögzítő csavarok, fuvar és szerelés nélkül. A 16–21 mm ajtóhoz való gomb a 18 mm FORSAND vastagságához illeszkedik; a fogását és rézszínét mintán kell véglegesíteni. A 143 mm-es fogantyú 2 490 Ft/pár alternatíva, nem kötelező felár.
+
+A pontos javaslatok a JSON-ban is külön összeadott csomagként szerepelnek. Az alapcsomagok és az easybútor 100 cm-es referencia továbbra is összehasonlítási adatok, nem a használati kiosztások végleges árai.

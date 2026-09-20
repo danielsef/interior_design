@@ -1,6 +1,6 @@
 # Gardrób – easybútor egyeztetési vázlat
 
-2026-09-20 · **Előkészített szöveg, nincs elküldve.** A kész méreteket rendelés előtt helyszínen kell ellenőrizni. A funkcióarányt a tulajdonos megerősítette; a modulszélesség, magasság és polcszám tervezési javaslat.
+2026-09-20 · **Előkészített szöveg, nincs elküldve.** A kész méreteket rendelés előtt helyszínen kell ellenőrizni. A funkcióarányt a tulajdonos megerősítette; a modulszélesség és polcszám tervezési javaslat. **Fehér, közel mennyezetig érő, méretre előkészített önszerelős megoldás az első választás; kész belmagasságot még mérni kell.**
 
 Tisztelt easybútor!
 
@@ -8,7 +8,7 @@ Két ajtós, önszerelős gardróbra szeretnénk tételes tájékoztató ajánla
 
 - Hálószoba: kb. 300 cm összszélesség, fele akasztós és fele polcos tárolás. Összevetési kiosztás: 100 és 50 cm-es akasztós modul egy-egy rúddal/felső polccal; 100 és 50 cm-es polcos modul öt-öt polccal.
 - Babaszoba: kb. 200 cm összszélesség, főleg polcos tárolás. Összevetési kiosztás: 100 és 50 cm-es polcos modul öt-öt polccal, 50 cm-es akasztós modul két polccal és egy rúddal.
-- Kb. 60 cm kész mélység. Kérjük külön a 200 cm magas korpuszból és a kb. 236 cm kész magasságú változatból készülő sor árát, a lábazattal együtt értelmezett külméretekkel. Magasításnál a felső elemeket külön kérjük feltüntetni.
+- Kb. 60 cm kész mélység. A helyszíni mérés után a kész belmagassághoz igazított, közel mennyezetig érő változatot kérjük, szükséges szerelési hézaggal és külön feltüntetett felső tárolómodullal. A 236,4 cm-es PAX csak összehasonlítási alap, nem a kért végmagasság. Kérjük a lábazat, felső elem és takaró külön méretét; a takaróléc önmagában nem tároló.
 
 Kérjük tisztázni:
 
@@ -19,7 +19,7 @@ Kérjük tisztázni:
 5. Kérjük külön a korpusz, front, összes vasalat, polc, rúd, lábazat/láb, szükséges takarók és csomagolás bruttó árát, valamint a kiszállítás és esetleges behordás díját.
 6. Az oldal szerint az online rendelés még nem érhető el. Fogadnak-e jelenleg egyedi megrendelést, és vállalható-e a fenti átadás? Kapható-e W 960 felületminta?
 
-Összeszerelést helyben oldanánk meg; kérjük a számozott elemjegyzéket, szerelési útmutatót és az előfúrások tartalmát is megadni.
+Összeszerelést és falhoz rögzítést saját segítséggel, helyben oldjuk meg; kérjük a számozott elemjegyzéket, szerelési útmutatót és az előfúrások tartalmát is megadni.
 
 ## Értékeléshez
 

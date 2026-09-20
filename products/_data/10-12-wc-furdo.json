@@ -136,24 +136,28 @@
  },
  {
   "room": "12-furdo",
-  "category": "Csúszásgátló kádbetét",
+  "category": "Lépcső-csúszásgátló (fürdőhöz kizárt referencia)",
   "name": "PATRULL csúszásgátló csík",
   "store": "IKEA",
   "where": "online (ikea.com/hu) + áruház (Budaörs)",
-  "material_color": "áttetsző, öntapadós",
-  "size": "5 m (szabható)",
+  "material_color": "fekete, öntapadós polietilén szalag",
+  "size": "5 m × 2,5 cm",
   "price_huf": 1690,
   "price_note": "",
   "url": "https://www.ikea.com/hu/hu/p/patrull-csuszasgatlo-60098895/",
-  "tier": "ajánlott",
+  "tier": "figyelőlista",
   "qty": 1,
-  "why": "Kádra/zuhanytálcára ragasztható csúszásgátló csík – a kisbabás háztartás egyik alapvető biztonsági eleme.",
-  "caveat": "Szabni kell méretre, nem kész szőnyeg formájú.",
-  "verified": "listing",
+  "why": "A gyártó lépcsőfokokra ajánlja; kádban vagy zuhanyban nem igazolt.",
+  "caveat": "A korábbi kádbetét-ajánlás téves volt. A fürdős funkcióhoz külön, kifejezetten kádhoz gyártott jelölt szerepel.",
+  "verified": "product_page",
   "checked": "2026-09-20",
-  "priority": 1,
-  "priority_reason": "A használatba vett kádban szükséges csúszásvédelem ne maradjon későbbre.",
-  "priority_condition": ""
+  "priority": 2,
+  "priority_reason": "Fürdős beszerzésként kizárt, nem elhalasztott kádbetét.",
+  "priority_condition": "",
+  "budget_include": false,
+  "budget_exclusion_reason": "Nem kádbetét: a gyártó lépcsőre ajánlja.",
+  "decision_status": "Kizárt referencia",
+  "next_step": "Ne rendeljük meg a fürdőbe; VALVATTNET kádhoz való alternatíva ellenőrzése."
  },
  {
   "room": "12-furdo",
@@ -168,13 +172,15 @@
   "url": "https://www.ikea.com/hu/hu/p/bekvaem-fellepo-3-foku-buekk-90190411/",
   "tier": "ajánlott",
   "qty": 1,
-  "why": "Tömör fa fellépő, hogy a gyerek magától elérje a mosdót – összecsukható, így nem foglal helyet a kis fürdőben.",
-  "caveat": "Bükkfa, nem tölgy – világos tónusa így is jól illeszkedik a ház egy domináns világos fatónus elvéhez, de színben nem 100%-ig azonos a tölggyel.",
+  "why": "Felnőtt háztartási fellépőként külön helyigény esetén vizsgálható; nem önállóan használható babafellépő-ajánlat.",
+  "caveat": "A 63 cm-es háromfokú fellépő nem az egyéves gyermek mosdóhasználatára kiválasztott termék; ehhez később életkorhoz és használathoz megfelelő külön megoldás kell.",
   "verified": "product_page",
   "checked": "2026-09-20",
   "priority": 2,
   "priority_reason": "Legalább egy teljesen működő fürdő mellett a második helyiség befejezése vagy a végleges kiegészítő későbbre ütemezhető.",
-  "priority_condition": ""
+  "priority_condition": "",
+  "budget_include": false,
+  "budget_exclusion_reason": "Nem igazolt babafellépő, külön háztartási szükséglet nélkül nem ajánlott."
  },
  {
   "room": "10-wc",
@@ -529,15 +535,15 @@
   "price_huf": 20090,
   "price_note": "/db",
   "url": "https://www.szaniteronline.hu/DE-ADRR711-Deante-Round-WC-kefe-fali-tartoval-szal",
-  "tier": "ajánlott",
+  "tier": "prémium",
   "qty": 2,
-  "why": "Fali kefe: a padló szabad marad (könnyű felmosni, a baba nem éri el olyan könnyen), és egyezik a papírtartóval.",
+  "why": "Opcionális végleges stílusválasztás a meglévő sárgarézhez mintával egyeztetve; nem minimális beköltözési követelmény.",
   "caveat": "Rendelésre érkezik. Zárt tartályos fali változat (ADR_R721) 31 590 Ft, szabadon álló (ADR_R712) 32 690 Ft.",
   "verified": "product_page",
   "checked": "2026-09-20",
-  "priority": 1,
-  "priority_reason": "Minden használatba vett WC-hez kell alap tisztítóeszköz; nem feltétel a drága fali változat.",
-  "priority_condition": ""
+  "priority": 2,
+  "priority_reason": "A WC-kefe funkció P1; a szálcsiszolt arany fali kivitel P2 esztétikai többlet.",
+  "priority_condition": "A P1 funkció egyszerű fehér álló kefével megoldható."
  },
  {
   "room": "12-furdo",
@@ -559,7 +565,11 @@
   "recommendation_condition": "a megrendelt bútorhoz végzett méretpróba után",
   "priority": 1,
   "priority_reason": "Egy használható mosdótükör a napi készülődéshez kell; meglévővel helyettesíthető.",
-  "priority_condition": ""
+  "priority_condition": "",
+  "decision_status": "Méretre vár",
+  "next_step": "Meglévő tükör ellenőrzése; mosdóbútor szélessége, szabad falfelület, szerelési magasság és ajtónyitás alapján egyetlen megfelelő jelölt kiválasztása.",
+  "budget_include": false,
+  "budget_exclusion_reason": "A meglévő tükörkészlet, a szabad falméret és a megrendelt mosdóbútorhoz való illeszkedés nincs igazolva; 1 db-os árreferencia."
  },
  {
   "room": "12-furdo",
@@ -573,14 +583,18 @@
   "price_note": "/db – a két mosdó fölé 2 db",
   "url": "https://www.westwing.hu/ida-kerek-falitukor-hu-21wes99879.html",
   "tier": "prémium",
-  "qty": 2,
+  "qty": 1,
   "why": "Kerek, vékony aranyszínű keret a meglévő szerelvények mellé. A két darabos változat csak akkor indokolt, ha a megrendelt mosdóösszeállítás kiosztása ezt támogatja.",
   "caveat": "A termékoldal nem ír fürdőszobai (párás) használatról és a keret fényességéről sem – jó szellőzés mellett használható, de a zuhany közvetlen közelébe ne kerüljön. A kért 50–60 cm-es tartomány közepe. A végleges méretet és darabszámot a megrendelt szekrény/mosdó kiosztásához kell igazítani; a korábbi dupla mosdós elrendezés csak feltevés.",
   "verified": "product_page",
   "checked": "2026-09-20",
   "priority": 1,
   "priority_reason": "Egy használható mosdótükör a napi készülődéshez kell; meglévővel helyettesíthető.",
-  "priority_condition": ""
+  "priority_condition": "",
+  "decision_status": "Méretre vár",
+  "next_step": "Meglévő tükör ellenőrzése; mosdóbútor szélessége, szabad falfelület, szerelési magasság és ajtónyitás alapján egyetlen megfelelő jelölt kiválasztása.",
+  "budget_include": false,
+  "budget_exclusion_reason": "A meglévő tükörkészlet, a szabad falméret és a megrendelt mosdóbútorhoz való illeszkedés nincs igazolva; 1 db-os árreferencia."
  },
  {
   "room": "12-furdo",
@@ -601,7 +615,11 @@
   "checked": "2026-09-20",
   "priority": 2,
   "priority_reason": "Legalább egy teljesen működő fürdő mellett a második helyiség befejezése vagy a végleges kiegészítő későbbre ütemezhető.",
-  "priority_condition": "Második tükörként P2; indulásra egy napi használatra alkalmas mosdótükörrel számolunk."
+  "priority_condition": "Második tükörként P2; indulásra egy napi használatra alkalmas mosdótükörrel számolunk.",
+  "budget_include": false,
+  "budget_exclusion_reason": "A meglévő tükörkészlet, a szabad falméret és a megrendelt mosdóbútorhoz való illeszkedés nincs igazolva; 1 db-os árreferencia.",
+  "decision_status": "Méretre vár",
+  "next_step": "Meglévő tükör ellenőrzése; mosdóbútor szélessége, szabad falfelület, szerelési magasság és ajtónyitás alapján egyetlen megfelelő jelölt kiválasztása."
  },
  {
   "room": "12-furdo",
@@ -622,7 +640,11 @@
   "checked": "2026-09-20",
   "priority": 2,
   "priority_reason": "Legalább egy teljesen működő fürdő mellett a második helyiség befejezése vagy a végleges kiegészítő későbbre ütemezhető.",
-  "priority_condition": "Második tükörként P2; indulásra egy napi használatra alkalmas mosdótükörrel számolunk."
+  "priority_condition": "Második tükörként P2; indulásra egy napi használatra alkalmas mosdótükörrel számolunk.",
+  "budget_include": false,
+  "budget_exclusion_reason": "A meglévő tükörkészlet, a szabad falméret és a megrendelt mosdóbútorhoz való illeszkedés nincs igazolva; 1 db-os árreferencia.",
+  "decision_status": "Méretre vár",
+  "next_step": "Meglévő tükör ellenőrzése; mosdóbútor szélessége, szabad falfelület, szerelési magasság és ajtónyitás alapján egyetlen megfelelő jelölt kiválasztása."
  },
  {
   "room": "10-wc",
@@ -643,7 +665,11 @@
   "checked": "2026-09-20",
   "priority": 2,
   "priority_reason": "A működő WC/kézmosó és alap kellékek mellett a végleges tartó vagy esztétikai csere halasztható.",
-  "priority_condition": ""
+  "priority_condition": "",
+  "budget_include": false,
+  "budget_exclusion_reason": "A meglévő tükörkészlet, a szabad falméret és a megrendelt mosdóbútorhoz való illeszkedés nincs igazolva; 1 db-os árreferencia.",
+  "decision_status": "Méretre vár",
+  "next_step": "Meglévő tükör ellenőrzése; mosdóbútor szélessége, szabad falfelület, szerelési magasság és ajtónyitás alapján egyetlen megfelelő jelölt kiválasztása."
  },
  {
   "room": "10-wc",
@@ -664,7 +690,11 @@
   "checked": "2026-09-20",
   "priority": 2,
   "priority_reason": "A működő WC/kézmosó és alap kellékek mellett a végleges tartó vagy esztétikai csere halasztható.",
-  "priority_condition": ""
+  "priority_condition": "",
+  "budget_include": false,
+  "budget_exclusion_reason": "A meglévő tükörkészlet, a szabad falméret és a megrendelt mosdóbútorhoz való illeszkedés nincs igazolva; 1 db-os árreferencia.",
+  "decision_status": "Méretre vár",
+  "next_step": "Meglévő tükör ellenőrzése; mosdóbútor szélessége, szabad falfelület, szerelési magasság és ajtónyitás alapján egyetlen megfelelő jelölt kiválasztása."
  },
  {
   "room": "10-wc",
@@ -685,7 +715,11 @@
   "checked": "2026-09-20",
   "priority": 2,
   "priority_reason": "A működő WC/kézmosó és alap kellékek mellett a végleges tartó vagy esztétikai csere halasztható.",
-  "priority_condition": ""
+  "priority_condition": "",
+  "budget_include": false,
+  "budget_exclusion_reason": "A meglévő tükörkészlet, a szabad falméret és a megrendelt mosdóbútorhoz való illeszkedés nincs igazolva; 1 db-os árreferencia.",
+  "decision_status": "Méretre vár",
+  "next_step": "Meglévő tükör ellenőrzése; mosdóbútor szélessége, szabad falfelület, szerelési magasság és ajtónyitás alapján egyetlen megfelelő jelölt kiválasztása."
  },
  {
   "room": "12-furdo",
@@ -761,15 +795,19 @@
   "price_huf": 6990,
   "price_note": "/db",
   "url": "https://jysk.hu/furdoszoba/furdoszobaszonyegek/kadkilepo-almvik-50x80-natur-kronborg",
-  "tier": "ajánlott",
-  "qty": 3,
-  "why": "Tiszta pamut, natúr (festetlen hatású) kádkilépő csúszásgátló hátoldallal – a kád, a zuhany és a mosdó elé; a törtfehér–homok textilpalettába illik, és a hideg lapburkolaton a babás fürdetésnél is kell.",
+  "tier": "prémium",
+  "qty": 1,
+  "why": "Opcionális magasabb árú natúr pamutkilépő; a P1 funkcióhoz kedvezőbb MANTORP és ALSTERN jelöltek is szerepelnek.",
   "caveat": "Mosási hőfokot a címkén ellenőrizni; a gumírozott hátoldal miatt szárítógépbe ne kerüljön.",
   "verified": "product_page",
   "checked": "2026-09-20",
   "priority": 1,
   "priority_reason": "A használatba vett kád/zuhany mellé kell megfelelő kilépő; a három darab nem automatikus induló minimum.",
-  "priority_condition": ""
+  "priority_condition": "",
+  "decision_status": "Méretre vár",
+  "next_step": "Ellenőrizni, hoztok-e megfelelő kilépőt; egy használt fürdőben szabad padlófelület, ajtónyitás és csúszáspróba után darabszámot rögzíteni.",
+  "budget_include": false,
+  "budget_exclusion_reason": "Egy használt fürdőhöz 1 db-os árreferencia; meglévő készlet és szabad padlóméret még nem tisztázott."
  },
  {
   "room": "12-furdo",

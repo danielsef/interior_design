@@ -2,7 +2,7 @@
 
 2026-09-20 · [Asztalok és csomagok](OSSZEHASONLITAS.md) · [Aktív lista](README.md)
 
-**Megerősített feltétel: párnázott vagy fonott ülés.** A csupasz fa ülőlap nem megfelelő. Hat székhez hasonlítunk, de az induló darabszám továbbra sem rögzített. A tömörfa/valódi furnér anyagigény mellett a szék színe, használata és komfortja is számít. A fonott háttámla önmagában nem teljesíti a fonott ülés igényét.
+**Megerősített feltétel: párnázott vagy fonott ülés.** A csupasz fa ülőlap nem megfelelő. Hat székhez hasonlítunk, de beköltözéskor mind a hat darabot megvesszük. A tömörfa/valódi furnér anyagigény mellett a szék színe, használata és komfortja is számít. A fonott háttámla önmagában nem teljesíti a fonott ülés igényét.
 
 ## Három jelölt ülés- és mintapróbára, ár szerint
 
@@ -47,6 +47,6 @@ Az Eva drevo és Evera kizárása követelményváltozás, nem ármegtakarítás
 
 A 24 990 Ft-os listaár változatlan. Az élő oldal a **SZULINAP20** kupont erre a termékre beválthatónak jelzi; a [promóció feltételei](https://www.xxxlutz.hu/c/reklamunkbol) szerint **2026. szeptember 20-ig** érvényes. Elméleti kedvezményes ár 19 992 Ft/db, hat darab 119 952 Ft; kosárban nem ellenőriztük, ezért nem írja felül a tartós listaárreferenciát, és nem indokol próba nélküli vásárlást. A korábbi XXXL20 kód történeti megfigyelés, nem a mostani kód.
 
-A korábbi hat székes összevetés mellé a kezdeti négyszékes változat termékára: TONSTAD asztal + 4 Carryhome **219 860 Ft**, + 4 TONSTAD szék **239 860 Ft**, + 4 ISLEV **273 900 Ft**. Hat szék cél továbbra is megmarad, az induló négy/hat darab kérdés nyitott. A hátrahagyott két szék későbbi ára/készlete nem garantált. Az asztal alapállapotban hat főre kell.
+**Történeti, felülírt négyszékes példa:** TONSTAD asztal + 4 Carryhome **219 860 Ft**, + 4 TONSTAD szék **239 860 Ft**, + 4 ISLEV **273 900 Ft**. **Új döntés: induláskor hat szék kell, ezért a négyszékes példa nem aktív P1 csomag.** Az asztal alapállapotban hat főre kell.
 
 **Javasolt döntési menet:** Carryhome ülés- és mintapróba Budaörsön, majd TONSTAD huzat/felület összevetése. A TONSTAD felára hat széknél 30 000 Ft a Carryhome listaárához képest; ezért a levehető, mosható huzat konkrét funkcionális előny, nem pusztán márkafelár. A hat szék asztal alatti elhelyezése és a helyszíni székkihúzás továbbra is ellenőrzendő. Az asztal 119 900 Ft-os és a TONSTAD szék 29 990 Ft-os ára ismét megerősítve; az IKEA-fuvar nincs hozzáadva.

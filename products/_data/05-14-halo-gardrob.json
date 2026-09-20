@@ -21,7 +21,9 @@
   "priority_condition": "",
   "budget_include": false,
   "budget_exclusion_reason": "A konkrét 140/160×200-as ágy nem fogadja a kért közös 180×200-as matracot.",
-  "verification_note": "Méret szerinti felülvizsgálat 2026-09-20; a feltüntetett ár korábbi referencia."
+  "verification_note": "Méret szerinti felülvizsgálat 2026-09-20; a feltüntetett ár korábbi referencia.",
+  "decision_status": "Kizárt referencia",
+  "next_step": "A kért közös 180×200-as fekhelyhez válassz a külön 180-as jelöltek közül; ez a méret nem megfelelő."
  },
  {
   "room": "05-halo",
@@ -45,7 +47,9 @@
   "priority_condition": "",
   "budget_include": false,
   "budget_exclusion_reason": "A konkrét 140/160×200-as ágy nem fogadja a kért közös 180×200-as matracot.",
-  "verification_note": "Méret szerinti felülvizsgálat 2026-09-20; a feltüntetett ár korábbi referencia."
+  "verification_note": "Méret szerinti felülvizsgálat 2026-09-20; a feltüntetett ár korábbi referencia.",
+  "decision_status": "Kizárt referencia",
+  "next_step": "A kért közös 180×200-as fekhelyhez válassz a külön 180-as jelöltek közül; ez a méret nem megfelelő."
  },
  {
   "room": "05-halo",
@@ -69,7 +73,9 @@
   "priority_condition": "",
   "budget_include": false,
   "budget_exclusion_reason": "A konkrét 140/160×200-as ágy nem fogadja a kért közös 180×200-as matracot.",
-  "verification_note": "Méret szerinti felülvizsgálat 2026-09-20; a feltüntetett ár korábbi referencia."
+  "verification_note": "Méret szerinti felülvizsgálat 2026-09-20; a feltüntetett ár korábbi referencia.",
+  "decision_status": "Kizárt referencia",
+  "next_step": "A kért közös 180×200-as fekhelyhez válassz a külön 180-as jelöltek közül; ez a méret nem megfelelő."
  },
  {
   "room": "05-halo",
@@ -124,15 +130,19 @@
   "price_huf": 8990,
   "price_note": "/garnitúra",
   "url": "https://www.ikea.com/hu/hu/p/aengslilja-paplanhuzat-2-parnahuzat-natur-70591966/",
-  "tier": "ajánlott",
+  "tier": "figyelőlista",
   "qty": 1,
   "why": "Sima, mintátlan, előmosott pamut natúr színben – matt textúra, pontosan a 'mosott len vagy pamut, törtfehér' irányelvhez illik.",
-  "caveat": "Pamut, nem len. A H&M 100% len alternatívája bekerült a figyelőlistába, de a 200×200 / 50×60 méret az ellenőrzéskor elfogyott.",
+  "caveat": "2026-09-20: a tulajdonos az ágynemű meglétét megerősítette. Új vásárlás nem javasolt.",
   "verified": "product_page",
   "checked": "2026-09-20",
-  "priority": 1,
-  "priority_reason": "Legalább egy használható, megfelelő méretű garnitúra szükséges.",
-  "priority_condition": ""
+  "priority": 2,
+  "priority_reason": "Meglévő felnőtt ágynemű mellett új huzat nem beköltözési feladat.",
+  "priority_condition": "",
+  "budget_include": false,
+  "decision_status": "Hozott-megrendelt",
+  "next_step": "A tulajdonos szerint a felnőtt ágynemű megvan; új huzatot nem kell beszerezni.",
+  "budget_exclusion_reason": "A felnőtt ágynemű meglévő; ez csak korábbi termékreferencia."
  },
  {
   "room": "05-halo",
@@ -145,15 +155,19 @@
   "price_huf": 12990,
   "price_note": "akciós, eredeti ár 17 990 Ft",
   "url": "https://www.ikea.com/hu/hu/p/nattjasmin-paplanhuzat-2-parnahuzat-vilagosbezs-10442601/",
-  "tier": "prémium",
+  "tier": "figyelőlista",
   "qty": 1,
   "why": "Puhább lyocell-pamut keverék, homok/bézs tónus – finomabb fogású felsőkategóriás választás a hálóba.",
-  "caveat": "Szatén kötésű, enyhén fényes felület – az irányelv a fényes szatént nagy felületen kerülendőnek tartja, ágyneműnél ez kompromisszum.",
+  "caveat": "2026-09-20: a tulajdonos az ágynemű meglétét megerősítette. Új vásárlás nem javasolt.",
   "verified": "product_page",
   "checked": "2026-09-20",
-  "priority": 1,
-  "priority_reason": "Legalább egy használható, megfelelő méretű garnitúra szükséges.",
-  "priority_condition": ""
+  "priority": 2,
+  "priority_reason": "Meglévő felnőtt ágynemű mellett új huzat nem beköltözési feladat.",
+  "priority_condition": "",
+  "budget_include": false,
+  "decision_status": "Hozott-megrendelt",
+  "next_step": "A tulajdonos szerint a felnőtt ágynemű megvan; új huzatot nem kell beszerezni.",
+  "budget_exclusion_reason": "A felnőtt ágynemű meglévő; ez csak korábbi termékreferencia."
  },
  {
   "room": "05-halo",
@@ -257,7 +271,7 @@
   "url": "https://www.ikea.com/hu/hu/p/ankarudden-4-fiokos-szekreny-toelgyfa-hatasu-80627149/",
   "tier": "ajánlott",
   "qty": 1,
-  "why": "Zárt tárolás, tölgy tónus – a 'nyitott/zárt 30/70' elv szerint ez a szoba fő zárt tárolója, falhoz rögzíthető a babás biztonság miatt.",
+  "why": "Zárt tárolás, tölgy tónus – a 'nyitott/zárt 30/70' elv szerint ez a szoba későbbi kiegészítő zárt tárolója; az alap ruhatárolást az egyedi gardrób biztosítja, falhoz rögzíthető a babás biztonság miatt.",
   "caveat": "Fólia bevonatú, nem valódi tölgy furnér; falhoz rögzítő szett használata kötelező jellegű kisgyerekes háztartásban.",
   "verified": "listing",
   "checked": "2026-09-20",

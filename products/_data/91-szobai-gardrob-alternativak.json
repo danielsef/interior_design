@@ -7,7 +7,7 @@
     "checked": "2026-09-20",
     "priority": 1,
     "priority_reason": "Tulajdonosi kérés: elsőként az 05 hálóba és a 06 babaszobába ajtós ruhatároló kell.",
-    "priority_condition": "A terven berajzolt hely; kész méret, nyitás, szín és szükséges kapacitás ellenőrizendő.",
+    "priority_condition": "Fehér, közel mennyezetig érő méretre előkészített gardrób az első irány; kész helyszíni mérés szükséges. Saját segítséggel szerelik és rögzítik.",
     "budget_include": false,
     "budget_exclusion_reason": "Méret- és árreferencia, nem végleges szobai darabszám; teljes szállított csomag még nincs kiválasztva.",
     "availability": "verify",
@@ -22,7 +22,9 @@
     "why": "Opcionális fa/furnér referencia; a gardróbhoz a tulajdonos praktikus bútorlapot is elfogadott. Akasztós és polcos rész, egy fiók; a vizsgált három jelölt közül a legkisebb darabár.",
     "caveat": "Sárgás felület kizáró ok lehet mintapróbán. A webes kivonat régi ára eltért; 209 900 Ft az élő oldal ára. Egyben érkezik: beviteli út és falrögzítés tisztázandó.",
     "verification_note": "Élő böngésző: raktáron, 7 munkanapon belül; címre vállalt októberi átadás nincs megerősítve.",
-    "room": "05-halo"
+    "room": "05-halo",
+    "decision_status": "Méretre vár",
+    "next_step": "Kész szobai belmagasság és falszélesség, ajtónyitás/falanyag mérése; teljes, közel mennyezetig érő önszerelős ajánlat. PAX ár-összehasonlító alternatíva, a 236,4 cm nem elfogadott végmagasság."
   },
   {
     "category": "Ajtós gardróbszekrény",
@@ -32,7 +34,7 @@
     "checked": "2026-09-20",
     "priority": 1,
     "priority_reason": "Tulajdonosi kérés: elsőként az 05 hálóba és a 06 babaszobába ajtós ruhatároló kell.",
-    "priority_condition": "A terven berajzolt hely; kész méret, nyitás, szín és szükséges kapacitás ellenőrizendő.",
+    "priority_condition": "Fehér, közel mennyezetig érő méretre előkészített gardrób az első irány; kész helyszíni mérés szükséges. Saját segítséggel szerelik és rögzítik.",
     "budget_include": false,
     "budget_exclusion_reason": "Méret- és árreferencia, nem végleges szobai darabszám; teljes szállított csomag még nincs kiválasztva.",
     "availability": "verify",
@@ -44,9 +46,11 @@
     "price_huf": 304000,
     "price_note": "/kombináció; fuvar, szerelés és falcsavar külön",
     "url": "https://www.ikea.com/hu/hu/p/pax-tonstad-gardrob-komb-feher-toelgy-furner-s59566732/",
-    "why": "Opcionális fa/furnér referencia; a gardróbhoz a tulajdonos praktikus bútorlapot is elfogadott. Magasabb, bővíthető rendszer valódi fa fronttal; a látható felület illeszkedik az anyagpreferenciához.",
+    "why": "PAX ár-összehasonlító alternatíva; nem az első választott gardróbrendszer. Opcionális fa/furnér referencia; a gardróbhoz a tulajdonos praktikus bútorlapot is elfogadott. Magasabb, bővíthető rendszer valódi fa fronttal; a látható felület illeszkedik az anyagpreferenciához.",
     "caveat": "A fehér belső lapanyag jelölt kompromisszum. Tartalom: 100+50 cm váz, három ajtó és pántcsomag, egy rúd, nyolc polc, három kosár sínekkel. Rögzítés és a legalább 237 cm-es szerelési magasság ellenőrizendő.",
-    "room": "05-halo"
+    "room": "05-halo",
+    "decision_status": "Méretre vár",
+    "next_step": "Kész szobai belmagasság és falszélesség, ajtónyitás/falanyag mérése; teljes, közel mennyezetig érő önszerelős ajánlat. PAX ár-összehasonlító alternatíva, a 236,4 cm nem elfogadott végmagasság."
   },
   {
     "category": "Ajtós gardróbszekrény",
@@ -56,7 +60,7 @@
     "checked": "2026-09-20",
     "priority": 1,
     "priority_reason": "Tulajdonosi kérés: elsőként az 05 hálóba és a 06 babaszobába ajtós ruhatároló kell.",
-    "priority_condition": "A terven berajzolt hely; kész méret, nyitás, szín és szükséges kapacitás ellenőrizendő.",
+    "priority_condition": "Fehér, közel mennyezetig érő méretre előkészített gardrób az első irány; kész helyszíni mérés szükséges. Saját segítséggel szerelik és rögzítik.",
     "budget_include": false,
     "budget_exclusion_reason": "Méret- és árreferencia, nem végleges szobai darabszám; teljes szállított csomag még nincs kiválasztva.",
     "availability": "verify",
@@ -70,7 +74,9 @@
     "url": "https://www.butormirek.hu/ruhasszekrenyek/521-provence-ketajtos-ruhasszekreny-feher-tomor-fenyo.html",
     "why": "Opcionális fa/furnér referencia; a gardróbhoz a tulajdonos praktikus bútorlapot is elfogadott. Fehér tömörfa irány; egy akasztórúd, egy polc és két alsó fiók.",
     "caveat": "Díszesebb provence-i front, ezért a letisztult Forest Wood Coastal mellett stíluskompromisszum. Egyben érkezik; beviteli út ellenőrizendő. Látott jelzés: kevesebb mint öt darab, 1–2 hét; címre vállalt határidő nincs.",
-    "room": "05-halo"
+    "room": "05-halo",
+    "decision_status": "Méretre vár",
+    "next_step": "Kész szobai belmagasság és falszélesség, ajtónyitás/falanyag mérése; teljes, közel mennyezetig érő önszerelős ajánlat. PAX ár-összehasonlító alternatíva, a 236,4 cm nem elfogadott végmagasság."
   },
   {
     "category": "Ajtós gardróbszekrény",
@@ -80,7 +86,7 @@
     "checked": "2026-09-20",
     "priority": 1,
     "priority_reason": "Tulajdonosi kérés: elsőként az 05 hálóba és a 06 babaszobába ajtós ruhatároló kell.",
-    "priority_condition": "A terven berajzolt hely; kész méret, nyitás, szín és szükséges kapacitás ellenőrizendő.",
+    "priority_condition": "Fehér, közel mennyezetig érő méretre előkészített gardrób az első irány; kész helyszíni mérés szükséges. Saját segítséggel szerelik és rögzítik.",
     "budget_include": false,
     "budget_exclusion_reason": "Méret- és árreferencia, nem végleges szobai darabszám; teljes szállított csomag még nincs kiválasztva.",
     "availability": "verify",
@@ -95,7 +101,9 @@
     "why": "Opcionális fa/furnér referencia; a gardróbhoz a tulajdonos praktikus bútorlapot is elfogadott. Akasztós és polcos rész, egy fiók; a vizsgált három jelölt közül a legkisebb darabár.",
     "caveat": "Sárgás felület kizáró ok lehet mintapróbán. A webes kivonat régi ára eltért; 209 900 Ft az élő oldal ára. Egyben érkezik: beviteli út és falrögzítés tisztázandó.",
     "verification_note": "Élő böngésző: raktáron, 7 munkanapon belül; címre vállalt októberi átadás nincs megerősítve.",
-    "room": "06-szoba"
+    "room": "06-szoba",
+    "decision_status": "Méretre vár",
+    "next_step": "Kész szobai belmagasság és falszélesség, ajtónyitás/falanyag mérése; teljes, közel mennyezetig érő önszerelős ajánlat. PAX ár-összehasonlító alternatíva, a 236,4 cm nem elfogadott végmagasság."
   },
   {
     "category": "Ajtós gardróbszekrény",
@@ -105,7 +113,7 @@
     "checked": "2026-09-20",
     "priority": 1,
     "priority_reason": "Tulajdonosi kérés: elsőként az 05 hálóba és a 06 babaszobába ajtós ruhatároló kell.",
-    "priority_condition": "A terven berajzolt hely; kész méret, nyitás, szín és szükséges kapacitás ellenőrizendő.",
+    "priority_condition": "Fehér, közel mennyezetig érő méretre előkészített gardrób az első irány; kész helyszíni mérés szükséges. Saját segítséggel szerelik és rögzítik.",
     "budget_include": false,
     "budget_exclusion_reason": "Méret- és árreferencia, nem végleges szobai darabszám; teljes szállított csomag még nincs kiválasztva.",
     "availability": "verify",
@@ -117,9 +125,11 @@
     "price_huf": 304000,
     "price_note": "/kombináció; fuvar, szerelés és falcsavar külön",
     "url": "https://www.ikea.com/hu/hu/p/pax-tonstad-gardrob-komb-feher-toelgy-furner-s59566732/",
-    "why": "Opcionális fa/furnér referencia; a gardróbhoz a tulajdonos praktikus bútorlapot is elfogadott. Magasabb, bővíthető rendszer valódi fa fronttal; a látható felület illeszkedik az anyagpreferenciához.",
+    "why": "PAX ár-összehasonlító alternatíva; nem az első választott gardróbrendszer. Opcionális fa/furnér referencia; a gardróbhoz a tulajdonos praktikus bútorlapot is elfogadott. Magasabb, bővíthető rendszer valódi fa fronttal; a látható felület illeszkedik az anyagpreferenciához.",
     "caveat": "A fehér belső lapanyag jelölt kompromisszum. Tartalom: 100+50 cm váz, három ajtó és pántcsomag, egy rúd, nyolc polc, három kosár sínekkel. Rögzítés és a legalább 237 cm-es szerelési magasság ellenőrizendő.",
-    "room": "06-szoba"
+    "room": "06-szoba",
+    "decision_status": "Méretre vár",
+    "next_step": "Kész szobai belmagasság és falszélesség, ajtónyitás/falanyag mérése; teljes, közel mennyezetig érő önszerelős ajánlat. PAX ár-összehasonlító alternatíva, a 236,4 cm nem elfogadott végmagasság."
   },
   {
     "category": "Ajtós gardróbszekrény",
@@ -129,7 +139,7 @@
     "checked": "2026-09-20",
     "priority": 1,
     "priority_reason": "Tulajdonosi kérés: elsőként az 05 hálóba és a 06 babaszobába ajtós ruhatároló kell.",
-    "priority_condition": "A terven berajzolt hely; kész méret, nyitás, szín és szükséges kapacitás ellenőrizendő.",
+    "priority_condition": "Fehér, közel mennyezetig érő méretre előkészített gardrób az első irány; kész helyszíni mérés szükséges. Saját segítséggel szerelik és rögzítik.",
     "budget_include": false,
     "budget_exclusion_reason": "Méret- és árreferencia, nem végleges szobai darabszám; teljes szállított csomag még nincs kiválasztva.",
     "availability": "verify",
@@ -143,7 +153,9 @@
     "url": "https://www.butormirek.hu/ruhasszekrenyek/521-provence-ketajtos-ruhasszekreny-feher-tomor-fenyo.html",
     "why": "Opcionális fa/furnér referencia; a gardróbhoz a tulajdonos praktikus bútorlapot is elfogadott. Fehér tömörfa irány; egy akasztórúd, egy polc és két alsó fiók.",
     "caveat": "Díszesebb provence-i front, ezért a letisztult Forest Wood Coastal mellett stíluskompromisszum. Egyben érkezik; beviteli út ellenőrizendő. Látott jelzés: kevesebb mint öt darab, 1–2 hét; címre vállalt határidő nincs.",
-    "room": "06-szoba"
+    "room": "06-szoba",
+    "decision_status": "Méretre vár",
+    "next_step": "Kész szobai belmagasság és falszélesség, ajtónyitás/falanyag mérése; teljes, közel mennyezetig érő önszerelős ajánlat. PAX ár-összehasonlító alternatíva, a 236,4 cm nem elfogadott végmagasság."
   },
   {
     "category": "Ajtós gardróbszekrény",
@@ -152,7 +164,7 @@
     "checked": "2026-09-20",
     "priority": 1,
     "priority_reason": "Tulajdonosi kérés: elsőként az 05 hálóba és a 06 babaszobába ajtós ruhatároló kell.",
-    "priority_condition": "A terven berajzolt hely; kész méret, nyitás, szín és szükséges kapacitás ellenőrizendő.",
+    "priority_condition": "Fehér, közel mennyezetig érő méretre előkészített gardrób az első irány; kész helyszíni mérés szükséges. Saját segítséggel szerelik és rögzítik.",
     "budget_include": false,
     "budget_exclusion_reason": "Méret- és árreferencia, nem végleges szobai darabszám; teljes szállított csomag még nincs kiválasztva.",
     "availability": "verify",
@@ -166,8 +178,10 @@
     "price_huf": 206000,
     "price_note": "/200 cm-es összeállítás; fogantyú, további belső, fuvar és szerelés nélkül",
     "url": "https://www.ikea.com/hu/hu/p/pax-forsand-gardrob-feher-feher-s79501037/",
-    "why": "Első racionális árreferencia: helyszínen összeszerelhető, átrendezhető belső; két váz, négy ajtó és pántcsomag, négy polc, két akasztórúd.",
-    "caveat": "A külső méret nem fokozatmentesen állítható. A váz állítva szereléséhez legalább 237 cm magasság kell; falrögzítés szükséges. A 300 cm-es hálós sor ellenőrzött alkatrészára 309 000 Ft, nem ennek az egy darabos sornak az ára."
+    "why": "PAX ár-összehasonlító alternatíva; nem az első választott gardróbrendszer. Első racionális árreferencia: helyszínen összeszerelhető, átrendezhető belső; két váz, négy ajtó és pántcsomag, négy polc, két akasztórúd.",
+    "caveat": "A külső méret nem fokozatmentesen állítható. A váz állítva szereléséhez legalább 237 cm magasság kell; falrögzítés szükséges. A 300 cm-es hálós sor ellenőrzött alkatrészára 309 000 Ft, nem ennek az egy darabos sornak az ára.",
+    "decision_status": "Méretre vár",
+    "next_step": "Kész szobai belmagasság és falszélesség, ajtónyitás/falanyag mérése; teljes, közel mennyezetig érő önszerelős ajánlat. PAX ár-összehasonlító alternatíva, a 236,4 cm nem elfogadott végmagasság."
   },
   {
     "category": "Ajtós gardróbszekrény",
@@ -176,7 +190,7 @@
     "checked": "2026-09-20",
     "priority": 1,
     "priority_reason": "Tulajdonosi kérés: elsőként az 05 hálóba és a 06 babaszobába ajtós ruhatároló kell.",
-    "priority_condition": "A terven berajzolt hely; kész méret, nyitás, szín és szükséges kapacitás ellenőrizendő.",
+    "priority_condition": "Fehér, közel mennyezetig érő méretre előkészített gardrób az első irány; kész helyszíni mérés szükséges. Saját segítséggel szerelik és rögzítik.",
     "budget_include": false,
     "budget_exclusion_reason": "Méret- és árreferencia, nem végleges szobai darabszám; teljes szállított csomag még nincs kiválasztva.",
     "availability": "verify",
@@ -190,8 +204,10 @@
     "price_huf": 206000,
     "price_note": "/200 cm-es összeállítás; fogantyú, további belső, fuvar és szerelés nélkül",
     "url": "https://www.ikea.com/hu/hu/p/pax-forsand-gardrob-feher-feher-s79501037/",
-    "why": "Első racionális árreferencia: helyszínen összeszerelhető, átrendezhető belső; két váz, négy ajtó és pántcsomag, négy polc, két akasztórúd.",
-    "caveat": "A külső méret nem fokozatmentesen állítható. A váz állítva szereléséhez legalább 237 cm magasság kell; falrögzítés szükséges. A 300 cm-es hálós sor ellenőrzött alkatrészára 309 000 Ft, nem ennek az egy darabos sornak az ára."
+    "why": "PAX ár-összehasonlító alternatíva; nem az első választott gardróbrendszer. Első racionális árreferencia: helyszínen összeszerelhető, átrendezhető belső; két váz, négy ajtó és pántcsomag, négy polc, két akasztórúd.",
+    "caveat": "A külső méret nem fokozatmentesen állítható. A váz állítva szereléséhez legalább 237 cm magasság kell; falrögzítés szükséges. A 300 cm-es hálós sor ellenőrzött alkatrészára 309 000 Ft, nem ennek az egy darabos sornak az ára.",
+    "decision_status": "Méretre vár",
+    "next_step": "Kész szobai belmagasság és falszélesség, ajtónyitás/falanyag mérése; teljes, közel mennyezetig érő önszerelős ajánlat. PAX ár-összehasonlító alternatíva, a 236,4 cm nem elfogadott végmagasság."
   },
   {
     "category": "Ajtós gardróbszekrény",
@@ -200,7 +216,7 @@
     "checked": "2026-09-20",
     "priority": 1,
     "priority_reason": "Tulajdonosi kérés: elsőként az 05 hálóba és a 06 babaszobába ajtós ruhatároló kell.",
-    "priority_condition": "A terven berajzolt hely; kész méret, nyitás, szín és szükséges kapacitás ellenőrizendő.",
+    "priority_condition": "Fehér, közel mennyezetig érő méretre előkészített gardrób az első irány; kész helyszíni mérés szükséges. Saját segítséggel szerelik és rögzítik.",
     "budget_include": false,
     "budget_exclusion_reason": "Méret- és árreferencia, nem végleges szobai darabszám; teljes szállított csomag még nincs kiválasztva.",
     "availability": "verify",
@@ -214,8 +230,10 @@
     "price_huf": 116400,
     "price_note": "/1 konfigurált 100 cm-es elem; 200 cm: 232 800 Ft; nem teljes szállított ár",
     "url": "https://easybutor.hu/termekek/polcos-szekreny-200x100x56/",
-    "why": "Élő konfigurátor: 66 000 korpusz + 36 000 ajtó + 4 000 két polc + 5 000 rúd + 4 200 lábazat + 1 200 lábcsomag. Méretre gyártható, helyszínen összeszerelhető.",
-    "caveat": "Ajtólapszám, pánt/fogantyú tartalma és polcfuratsor nem igazolt. A webshop nem fogad online rendelést; fuvar, kész méret és október 30. előtti átadás megerősítendő. Qty 1 áregység, nem szobai rendelési darabszám."
+    "why": "Első választott beszerzési irány: fehér, méretre előkészített önszerelős easybútor/asztalos gardrób. Ez a 100 cm-es alapelem csak árreferencia; a közel mennyezetig érő végső sor külön kiírandó.",
+    "caveat": "Ajtólapszám, pánt/fogantyú tartalma és polcfuratsor nem igazolt. A webshop nem fogad online rendelést; fuvar, kész méret és október 30. előtti átadás megerősítendő. Qty 1 áregység, nem szobai rendelési darabszám.",
+    "decision_status": "Méretre vár",
+    "next_step": "Kész szobai belmagasság és falszélesség, ajtónyitás/falanyag mérése; teljes, közel mennyezetig érő önszerelős ajánlat. PAX ár-összehasonlító alternatíva, a 236,4 cm nem elfogadott végmagasság. Gyártható magasság/felső modul, belső kiosztás, vasalat, előfúrás és fuvar tételes ajánlata szükséges."
   },
   {
     "category": "Ajtós gardróbszekrény",
@@ -224,7 +242,7 @@
     "checked": "2026-09-20",
     "priority": 1,
     "priority_reason": "Tulajdonosi kérés: elsőként az 05 hálóba és a 06 babaszobába ajtós ruhatároló kell.",
-    "priority_condition": "A terven berajzolt hely; kész méret, nyitás, szín és szükséges kapacitás ellenőrizendő.",
+    "priority_condition": "Fehér, közel mennyezetig érő méretre előkészített gardrób az első irány; kész helyszíni mérés szükséges. Saját segítséggel szerelik és rögzítik.",
     "budget_include": false,
     "budget_exclusion_reason": "Méret- és árreferencia, nem végleges szobai darabszám; teljes szállított csomag még nincs kiválasztva.",
     "availability": "verify",
@@ -238,8 +256,10 @@
     "price_huf": 174000,
     "price_note": "/alapcsomag 2 polccal; 4 polcra kiegészítve 186 000 Ft, fuvar/szerelés nélkül",
     "url": "https://www.ikea.com/hu/hu/p/pax-forsand-gardrob-feher-feher-s69501033/",
-    "why": "Olcsóbb és alacsonyabb moduláris alternatíva: két váz, négy ajtó és pántcsomag, két polc, két akasztórúd.",
-    "caveat": "A magas PAX négy polcához két további 6 000 Ft-os polc kell. Fogantyú és fuvar külön; falrögzítés szükséges, állítva szereléshez legalább 202 cm belmagasság. Helyi készlet nincs megerősítve."
+    "why": "PAX ár-összehasonlító alternatíva; nem az első választott gardróbrendszer. Olcsóbb és alacsonyabb moduláris alternatíva: két váz, négy ajtó és pántcsomag, két polc, két akasztórúd.",
+    "caveat": "A magas PAX négy polcához két további 6 000 Ft-os polc kell. Fogantyú és fuvar külön; falrögzítés szükséges, állítva szereléshez legalább 202 cm belmagasság. Helyi készlet nincs megerősítve.",
+    "decision_status": "Méretre vár",
+    "next_step": "Kész szobai belmagasság és falszélesség, ajtónyitás/falanyag mérése; teljes, közel mennyezetig érő önszerelős ajánlat. PAX ár-összehasonlító alternatíva, a 236,4 cm nem elfogadott végmagasság."
   },
   {
     "category": "Ajtós gardróbszekrény",
@@ -248,7 +268,7 @@
     "checked": "2026-09-20",
     "priority": 1,
     "priority_reason": "Tulajdonosi kérés: elsőként az 05 hálóba és a 06 babaszobába ajtós ruhatároló kell.",
-    "priority_condition": "A terven berajzolt hely; kész méret, nyitás, szín és szükséges kapacitás ellenőrizendő.",
+    "priority_condition": "Fehér, közel mennyezetig érő méretre előkészített gardrób az első irány; kész helyszíni mérés szükséges. Saját segítséggel szerelik és rögzítik.",
     "budget_include": false,
     "budget_exclusion_reason": "Méret- és árreferencia, nem végleges szobai darabszám; teljes szállított csomag még nincs kiválasztva.",
     "availability": "verify",
@@ -262,8 +282,10 @@
     "price_huf": 116400,
     "price_note": "/1 konfigurált 100 cm-es elem; 200 cm: 232 800 Ft; nem teljes szállított ár",
     "url": "https://easybutor.hu/termekek/polcos-szekreny-200x100x56/",
-    "why": "Élő konfigurátor: 66 000 korpusz + 36 000 ajtó + 4 000 két polc + 5 000 rúd + 4 200 lábazat + 1 200 lábcsomag. Méretre gyártható, helyszínen összeszerelhető.",
-    "caveat": "Ajtólapszám, pánt/fogantyú tartalma és polcfuratsor nem igazolt. A webshop nem fogad online rendelést; fuvar, kész méret és október 30. előtti átadás megerősítendő. Qty 1 áregység, nem szobai rendelési darabszám."
+    "why": "Első választott beszerzési irány: fehér, méretre előkészített önszerelős easybútor/asztalos gardrób. Ez a 100 cm-es alapelem csak árreferencia; a közel mennyezetig érő végső sor külön kiírandó.",
+    "caveat": "Ajtólapszám, pánt/fogantyú tartalma és polcfuratsor nem igazolt. A webshop nem fogad online rendelést; fuvar, kész méret és október 30. előtti átadás megerősítendő. Qty 1 áregység, nem szobai rendelési darabszám.",
+    "decision_status": "Méretre vár",
+    "next_step": "Kész szobai belmagasság és falszélesség, ajtónyitás/falanyag mérése; teljes, közel mennyezetig érő önszerelős ajánlat. PAX ár-összehasonlító alternatíva, a 236,4 cm nem elfogadott végmagasság. Gyártható magasság/felső modul, belső kiosztás, vasalat, előfúrás és fuvar tételes ajánlata szükséges."
   },
   {
     "category": "Ajtós gardróbszekrény",
@@ -272,7 +294,7 @@
     "checked": "2026-09-20",
     "priority": 1,
     "priority_reason": "Tulajdonosi kérés: elsőként az 05 hálóba és a 06 babaszobába ajtós ruhatároló kell.",
-    "priority_condition": "A terven berajzolt hely; kész méret, nyitás, szín és szükséges kapacitás ellenőrizendő.",
+    "priority_condition": "Fehér, közel mennyezetig érő méretre előkészített gardrób az első irány; kész helyszíni mérés szükséges. Saját segítséggel szerelik és rögzítik.",
     "budget_include": false,
     "budget_exclusion_reason": "Méret- és árreferencia, nem végleges szobai darabszám; teljes szállított csomag még nincs kiválasztva.",
     "availability": "verify",
@@ -286,7 +308,63 @@
     "price_huf": 174000,
     "price_note": "/alapcsomag 2 polccal; 4 polcra kiegészítve 186 000 Ft, fuvar/szerelés nélkül",
     "url": "https://www.ikea.com/hu/hu/p/pax-forsand-gardrob-feher-feher-s69501033/",
-    "why": "Olcsóbb és alacsonyabb moduláris alternatíva: két váz, négy ajtó és pántcsomag, két polc, két akasztórúd.",
-    "caveat": "A magas PAX négy polcához két további 6 000 Ft-os polc kell. Fogantyú és fuvar külön; falrögzítés szükséges, állítva szereléshez legalább 202 cm belmagasság. Helyi készlet nincs megerősítve."
+    "why": "PAX ár-összehasonlító alternatíva; nem az első választott gardróbrendszer. Olcsóbb és alacsonyabb moduláris alternatíva: két váz, négy ajtó és pántcsomag, két polc, két akasztórúd.",
+    "caveat": "A magas PAX négy polcához két további 6 000 Ft-os polc kell. Fogantyú és fuvar külön; falrögzítés szükséges, állítva szereléshez legalább 202 cm belmagasság. Helyi készlet nincs megerősítve.",
+    "decision_status": "Méretre vár",
+    "next_step": "Kész szobai belmagasság és falszélesség, ajtónyitás/falanyag mérése; teljes, közel mennyezetig érő önszerelős ajánlat. PAX ár-összehasonlító alternatíva, a 236,4 cm nem elfogadott végmagasság."
+  },
+  {
+    "category": "Ajtós gardróbszekrény",
+    "qty": 1,
+    "verified": "product_page",
+    "checked": "2026-09-20",
+    "priority": 1,
+    "priority_reason": "Tulajdonosi kérés: elsőként az 05 hálóba és a 06 babaszobába ajtós ruhatároló kell.",
+    "priority_condition": "Fehér, közel mennyezetig érő méretre előkészített gardrób az első irány; kész helyszíni mérés szükséges. Saját segítséggel szerelik és rögzítik.",
+    "budget_include": false,
+    "budget_exclusion_reason": "A használati csomagjavaslat még nem kiválasztott, méretben és szállítással nem véglegesített.",
+    "availability": "verify",
+    "room": "05-halo",
+    "tier": "figyelőlista",
+    "name": "PAX/FORSAND használatra szabott 300 cm-es sor, polcokkal és sárgarézszínű gombokkal",
+    "store": "IKEA",
+    "where": "ikea.com/hu; magyar készlet és fuvar ellenőrizendő",
+    "material_color": "fehér PAX lapanyag korpusz és FORSAND könnyített ajtó; BAGGANÄS sárgarézzel futtatott acél gomb",
+    "size": "300×kb. 60×236,4 cm; javasolt méret, helyszínen ellenőrizendő",
+    "price_huf": 357970,
+    "price_note": "Összeadott termékcsomag, nem gyári kész kombináció; fuvar, falcsavar és szerelés külön.",
+    "url": "https://www.ikea.com/hu/hu/p/forsand-ajto-feher-60391091/",
+    "why": "PAX ár-összehasonlító alternatíva; nem az első választott gardróbrendszer. Fele akasztós és fele polcos névleges modulszélesség. Tételes jelenlegi javaslat, nem a korábbi alapcsomag méretarányos ára.",
+    "caveat": "2×100-as és 2×50-es váz; 6 ajtó, 6 négyes pántcsomag, 6×100-as és 6×50-es polc, 1×100-as és 1×50-es rúd, 6 BAGGANÄS gomb. A színminta, nyitás és falrögzítés még ellenőrizendő.",
+    "decision_status": "Méretre vár",
+    "next_step": "Kész szobai belmagasság és falszélesség, ajtónyitás/falanyag mérése; teljes, közel mennyezetig érő önszerelős ajánlat. PAX ár-összehasonlító alternatíva, a 236,4 cm nem elfogadott végmagasság.",
+    "verification_note": "2026-09-20: elemenként ellenőrzött árak összege; részletes elemjegyzék a szoba P1-LEZARAS.md és az 05 GARDROB-OSSZEHASONLITAS.md lapján. A link a csomag FORSAND frontját azonosítja."
+  },
+  {
+    "category": "Ajtós gardróbszekrény",
+    "qty": 1,
+    "verified": "product_page",
+    "checked": "2026-09-20",
+    "priority": 1,
+    "priority_reason": "Tulajdonosi kérés: elsőként az 05 hálóba és a 06 babaszobába ajtós ruhatároló kell.",
+    "priority_condition": "Fehér, közel mennyezetig érő méretre előkészített gardrób az első irány; kész helyszíni mérés szükséges. Saját segítséggel szerelik és rögzítik.",
+    "budget_include": false,
+    "budget_exclusion_reason": "A használati csomagjavaslat még nem kiválasztott, méretben és szállítással nem véglegesített.",
+    "availability": "verify",
+    "room": "06-szoba",
+    "tier": "figyelőlista",
+    "name": "PAX/FORSAND használatra szabott 200 cm-es sor, polcokkal és sárgarézszínű gombokkal",
+    "store": "IKEA",
+    "where": "ikea.com/hu; magyar készlet és fuvar ellenőrizendő",
+    "material_color": "fehér PAX lapanyag korpusz és FORSAND könnyített ajtó; BAGGANÄS sárgarézzel futtatott acél gomb",
+    "size": "200×kb. 60×236,4 cm; javasolt méret, helyszínen ellenőrizendő",
+    "price_huf": 261480,
+    "price_note": "Összeadott termékcsomag, nem gyári kész kombináció; fuvar, falcsavar és szerelés külön.",
+    "url": "https://www.ikea.com/hu/hu/p/forsand-ajto-feher-60391091/",
+    "why": "PAX ár-összehasonlító alternatíva; nem az első választott gardróbrendszer. Főleg polcos belső, kisebb akasztós modullal. Tételes jelenlegi javaslat, nem a korábbi alapcsomag méretarányos ára.",
+    "caveat": "1×100-as és 2×50-es váz; 4 ajtó, 4 négyes pántcsomag, 5×100-as és 7×50-es polc, 1×50-es rúd, 4 BAGGANÄS gomb. A színminta, nyitás és falrögzítés még ellenőrizendő.",
+    "decision_status": "Méretre vár",
+    "next_step": "Kész szobai belmagasság és falszélesség, ajtónyitás/falanyag mérése; teljes, közel mennyezetig érő önszerelős ajánlat. PAX ár-összehasonlító alternatíva, a 236,4 cm nem elfogadott végmagasság.",
+    "verification_note": "2026-09-20: elemenként ellenőrzött árak összege; részletes elemjegyzék a szoba P1-LEZARAS.md és az 05 GARDROB-OSSZEHASONLITAS.md lapján. A link a csomag FORSAND frontját azonosítja."
   }
 ]

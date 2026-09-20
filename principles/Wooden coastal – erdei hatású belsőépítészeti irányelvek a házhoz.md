@@ -40,9 +40,17 @@ Ezek adottságok; a további válogatás ezekhez igazodik.
 | Meglévő szerelvények és szaniterek | szálcsiszolt sárgaréz/arany szerelvények, kád, zuhany, fali WC-k, a külön WC-ben kis Geberit kézmosó | a korábbi helyszíni dokumentáció szerinti meglévő elemekhez igazodunk |
 | Kádas fürdő bútorozása | **szekrény, mosdó és pult megvan / megrendelve** | ezek kikerülnek a beszerzési körből |
 | Zuhanyzós fürdő bútorozása | **szekrény és mosdó megvan; pult még nincs** | csak a meglévőkhöz illő pultot kell megtervezni |
-| Ablakok textilrendszere | **fehér mennyezeti sín, függöny és sötétítő; külső redőny/zsaluzia nincs és nem lesz** | függönyös rendszer méretezendő, roló nem beszerzendő |
+| Ablakok textilrendszere | **kétsoros valódi fa előlapos/dobozos karnis, műanyag sínek megengedettek; alumínium és rúdkarnis kizárva; függöny és sötétítő; külső redőny/zsaluzia nincs és nem lesz** | függönyös rendszer méretezendő, roló nem beszerzendő |
 | Meglévő háztartási textilek és eszköz | **törölközőket és összecsukható ruhaszárítót hozzátok** | új darabok nem részei a beköltözési kosárnak |
 | Világítás | **megvan** | termékek és műszaki specifikációk törölve a további válogatásból |
+
+### Megerősített beköltözési beszerzési döntések
+
+- Kanapé: szemből nézve bal oldali hosszabb fekvőrész, kb. 300×200 cm, inkább puha; alkalmi vendégágy két felnőttnek.
+- Étkező: téglalap asztal alapállapotban hat főre, **mind a hat párnázott vagy fonott ülésű szék kell beköltözéskor**.
+- Háló: egy közös 180×200-as matrac; közepesnél kissé keményebb, szállodai jellegű érzet, próbával véglegesítve. Ágyneműtartó előny, nem kötelező. Jellemző alváshelyzet oldalt/hason; első ágyirány natúr tölgy/furnér OLSKER vagy STUBBERUP.
+- Megvan a hűtő, főzőlap, sütő, mosógép, páraelszívó, konyhai csap, edények–étkészlet és felnőtt ágynemű. A fogantyú és hulladékgyűjtő a konyharendelés része; a takarítóeszközöket hozzák, a babavédelmet megoldottnak jelezték. **A mosogató még hiányzik:** ez helyesbíti a korábbi meglévő státuszt.
+- Az aktuális [P1 döntési lapok](../products/P1-KUTATASI-ALLAPOT.md) külön jelölik a kész javaslatot, a választásra/mérésre/próbára váró terméket és a meglévő felszerelést.
 
 ### Preferenciák és elfogadható kompromisszumok
 
@@ -51,7 +59,7 @@ A preferencia a jelöltek rangsorolását segíti. A kompromisszumot termékenk�
 | Szempont | Preferencia | Elfogadható kompromisszum |
 | --- | --- | --- |
 | Fa | világos–közép, nyugodt rajzolatú valódi fa; kulcsdarabnál tömörfa vagy furnér | eltérő fafaj és enyhén eltérő tónus, ha a közös mintasorral harmonizál; dekoros tároló kedvezőbb áron, egyértelmű anyagjelöléssel |
-| Gardróbszekrény | racionális ár, állítható belső, ajtós szobai tárolás | bútorlapos korpusz és front kifejezetten elfogadott; tömörfa/furnér nem szükséges |
+| Gardróbszekrény | fehér, közel mennyezetig érő, méretre előkészített önszerelős ajtós rendszer az 05/06 szobába; helyszíni mérés szükséges | bútorlapos korpusz és front kifejezetten elfogadott; tömörfa/furnér nem szükséges |
 | Felület | matt vagy visszafogott fényű | selyemmatt, ha illik a meglévő felületekhez és praktikusabb |
 | Textil | len, pamut, gyapjú; kellemes tapintás és tisztíthatóság | szintetikus keverék vagy poliészter, ha a kezelhetőség/ár indokolja, az összetétel feltüntetésével |
 | Szín | törtfehér–homok textilek, visszafogott zöld akcentus | rokon bézs vagy tompa kék kisebb felületen, helyszíni mintával; a fal ettől továbbra is fehér |
@@ -189,13 +197,13 @@ A nappaliban a kandalló, kilátás és tévé tényleges használata alapján v
 
 ## Természetes fény és függöny
 
-**Rögzített döntés: karnis, függöny és sötétítő készül; külső redőny vagy zsaluzia nincs és nem lesz.** Rolót nem tervezünk. Első javaslat a két külön mozgatható réteg: törtfehér/natúr fényszűrő és matt homok/greige fényzáró. **Fehér mennyezeti sín a rögzített választás.** Két textilréteghez két pálya szükséges; látható rudas karnist nem választunk.
+**Rögzített döntés: karnis, függöny és sötétítő készül; külső redőny vagy zsaluzia nincs és nem lesz.** Rolót nem tervezünk. Első javaslat a két külön mozgatható réteg: törtfehér/natúr fényszűrő és matt homok/greige fényzáró. **Kétsoros fa karnis a rögzített választás, alumínium nem lehet benne.** Ez felülírja a korábbi fehér mennyezeti sín döntést. **Rúdkarnis sem lehet.** **A legújabb pontosítás szerint a két csúszópálya műanyag is lehet.** A látható előlap/doboz valódi fa legyen; a faerezetes műanyag takaróléc nem egyenértékű. Alumínium belső sín sem elfogadható. Elsőként valódi fa előlapos, kétsoros műanyag sínes készrendszert vizsgálunk; nincs szükség kizárólag fa futópálya tervezésére. A tartozékok anyaga is ellenőrizendő. Első színjavaslat a matt natúr/világos fa, RAL 1019 és parkettaminta mellett ellenőrizve; fehér festett fa alternatíva. A fal- vagy mennyezeti rögzítés pontosítása még folyamatban. A fényszűrőnél kb. kétszeres textilbőség a tulajdonosi választás; a varrást és szerelést saját segítséggel oldják meg.
 
 A függöny széthúzva lehetőleg az ablak mellé kerüljön. A karnis/sín helyét az ablak nyitása, a párkány és a teljes függönycsomag helyigénye szerint válasszuk. A párkány már rögzített, a textil ehhez alkalmazkodik.
 
 Fényszűrőnek semleges törtfehér vagy natúr lenhatású bézs jó kiindulás. A grey beige mintával együtt nézzük meg, hogy a textil sárgás vagy hűvös szürke alaptónusa hogyan viselkedik; a korábbi bézs jelöltek illeszkedése újraellenőrizendő. Az anyagmennyiséget a sín hossza és a választott redőzés határozza meg; a kétszeres bőség gyakori kiindulás, nem minden rendszerre kötelező szabály.
 
-Az első naptól használt alvóhely teljes függönyös sötétítése a rögzítéssel együtt Prio 1; a vendégszobáé Prio 2. A fénytompító (dimout) szövet nem automatikusan fényzáró (blackout), és a fényzáró anyag mellett az oldalsó/felső rések is számítanak. A darabszámot a tényleges sín, magasság, redőzés és széthúzási hely határozza meg; nincs igazolt egész házas 11 páras rendelési mennyiség. [Függönyös összehasonlítás](../products/00-altalanos-hangulat/OSSZEHASONLITAS.md). Kisgyerekes használatnál előny a padló fölött végződő, könnyen tisztítható függöny; a zsinórok ne legyenek elérhetők.
+Az első naptól használt alvóhely teljes függönyös sötétítése a rögzítéssel együtt Prio 1; a vendégszobáé Prio 2. A fénytompító (dimout) szövet nem automatikusan fényzáró (blackout), és a fényzáró anyag mellett az oldalsó/felső rések is számítanak. A darabszámot a tényleges pályahossz, felfüggesztési magasság, redőzés és széthúzási hely határozza meg; nincs igazolt egész házas 11 páras rendelési mennyiség. [Függönyös összehasonlítás](../products/00-altalanos-hangulat/OSSZEHASONLITAS.md). Kisgyerekes használatnál előny a padló fölött végződő, könnyen tisztítható függöny; a zsinórok ne legyenek elérhetők.
 
 ## Textilek és rétegzés
 

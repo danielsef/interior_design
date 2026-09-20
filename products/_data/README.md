@@ -57,3 +57,13 @@ A `94-halo-matrac-agyracs.json` két matracot és két ágyrácsot ad hozzá: **
 ## Függöny és gardrób pontosítása, hozott textilek – 2026-09-20
 
 A `92-fuggony-alternativak.json` három kizárt áregység-referenciát ad hozzá: 332 rekord, 189 helyiség–kategória. A hozott törölközők és ruhaszárító cserejelöltként P2, `budget_include: false`. A rolóreferenciák kizártak; a korábbi függöny-/karnisbecslések és három gardróbcsomag mérésig ugyancsak kizártak. A függönyreferenciák `qty: 1` értéke egy áregységet jelent, nem rendelési darabszámot. A P1 funkció és hiányzó teljes költség a helyiségjegyzetekben is szerepel.
+
+## Aktuális P1 státuszmodell – 2026-09-20
+
+A fenti rekordszámok a korábbi kutatási körök történeti pillanatképei. Az aktuális számot a generált fő README tartalmazza. Mind a 16 helyiségcsoport kapott `P1-LEZARAS.md` döntési lapot; a közös belépő a [P1 állapotlap](../P1-KUTATASI-ALLAPOT.md).
+
+Minden P1 terméksor kötelező mezője a `decision_status` és `next_step`. A generátor hiányuk esetén hibával leáll. Ezek megjelennek a helyiség termékleírása alatt és a CSV végén: `Döntési státusz`, `Következő lépés` (30 oszlop). A „javaslat kész” nem megrendelés; a nem termék jellegű funkciókat és árazatlan egyedi kivitelezést a döntési lapok tartalmazzák, nem nulla árú termékek. A P2 tételeknél a CSV alapértelmezett jelölése „P2 – későbbi választás”.
+
+Új tulajdonosi tények: balos kanapé; hat szék már induláskor; közepesnél kissé keményebb matrac; gépek/mosogató-csap/edények és felnőtt ágynemű megvan. Kizárt régi juniorágy nem keverhető kisággyal; PATRULL lépcsőszalag nem kádbetét; a tényleges darabszám nélkül listázott gyermekvédelmi eszközök árreferenciák.
+
+A legújabb tulajdonosi válaszok a [P1 kérdésnaplóban](../P1-KERDESEK.md) szerepelnek. A karnis valódi fa előlapos/dobozos, kétsoros; a műanyag síneket a tulajdonos legutóbb elfogadta, alumínium és rúdkarnis kizárt. A teljes, méretre összeállított rendszer ára a döntési lapon vezetett hiány. A mosogató még hiányzik, csap/elszívó/fogantyú/hulladékgyűjtő rendezett.

@@ -4,6 +4,8 @@
 
 **Állapot: előkészítve, nincs elküldve.** Az alábbi elérhetőségeket a cégek közzétett oldalai alapján gyűjtöttük. Nem érkezett egyedi ár, készlet-, minta- vagy határidő-visszaigazolás. A cél a követelményeknek megfelelő legalacsonyabb teljes ár; nincs kategóriaárplafon.
 
+**Tulajdonosi pontosítás:** a főzőlap és csap megvan, de **a mosogató még beszerzendő P1 tétel**. A főzőlap 80×60 cm-es megadott külső mérete nem a kivágás mérete. A főzőlap pontos típusa és sablonja, valamint a később kiválasztott mosogató beépítési dokumentációja kell a végleges pulttervhez. Az alulról beépített mosogató vélhető igény, egyelőre nem rögzített döntés.
+
 ## Első kör: három hazai ajánlati forrás
 
 | Cég | Ellenőrzött kínálat / feladat | Elérhetőség | Mit kell még visszaigazolni? |
@@ -46,8 +48,8 @@ Csak a ténylegesen vállalható változatra kérünk ajánlatot. A 12 mm össze
 | L pult felülete | 3,15 m², a 60×60 cm-es sarok egyszer számolva |
 | Sziget | 160×90 cm = 1,44 m²; **nincs oldalsó kőlefordítás** |
 | Összes felső pultfelület | 4,59 m², kivágások és szabási veszteség előtt |
-| Főzőlap | **a szigetre kerül**; pontos típus és kivágási hely még egyeztetendő |
-| Mosogató | **az L pultra kerül**; pontos típus és kivágási hely még egyeztetendő |
+| Főzőlap | **a szigetre kerül, megvan**; külső méret 80×60 cm, pontos típus, gyártói kivágási sablon és hely még szükséges |
+| Mosogató | **az L pultra kerül, még nincs meg**; konkrét termékválasztás és beépítési mód után adható sablon és végleges kivágási hely |
 
 Ezek előzetes tulajdonosi méretek, nem gyártási méretek vagy előírt darabolás. A sarokillesztés helyére és a gazdaságos táblakiosztásra kérjük az Önök javaslatát. Kérjük jelezni, hogy egész táblát, felhasznált felületet vagy más mennyiséget számláznak, illetve kié lesz a használható maradék.
 

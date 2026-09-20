@@ -1,6 +1,6 @@
 # Kanapé – forrásszűrés és ellenőrzési napló
 
-2026-09-20 · Igény: kb. 300×200 cm, L alakú, ágyazható, inkább puha. Árplafon nélkül, a megfelelő jelöltek legalacsonyabb teljes árára keresve; alkalmi ágy két felnőttnek; fix vagy mosható kárpit is elfogadható. Az oldalirány még nyitott. Beköltözés 2026-10-30.
+2026-09-20 · Igény: kb. 300×200 cm, L alakú, ágyazható, inkább puha. Árplafon nélkül, a megfelelő jelöltek legalacsonyabb teljes árára keresve; alkalmi ágy két felnőttnek; fix vagy mosható kárpit is elfogadható. Az oldalirány rögzített: szemből nézve bal oldali hosszabb fekvőrész. Beköltözés 2026-10-30.
 
 Az első kör nyomai és a folytatás ellenőrzései alább. A részletes [összehasonlítás](OSSZEHASONLITAS.md) tartalmazza az élőben ellenőrzött szállított árat is. Még nincs minden igényt teljesítő, döntésre kész ajánlás.
 

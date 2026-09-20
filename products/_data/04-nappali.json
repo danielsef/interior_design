@@ -21,7 +21,9 @@
   "priority_condition": "",
   "budget_include": false,
   "budget_exclusion_reason": "Ez a konkrét egyenes, nem ágyazható összeállítás nem teljesíti az új L alakú, két felnőtt alkalmi vendégágyaként használható kanapé igényét.",
-  "verification_note": "2026-09-20: követelmény szerinti kizárás; az ár korábbi referencia, nem új beszerzési ajánlat."
+  "verification_note": "2026-09-20: követelmény szerinti kizárás; az ár korábbi referencia, nem új beszerzési ajánlat.",
+  "decision_status": "Kizárt referencia",
+  "next_step": "A konkrét egyenes/nem ágyazható változat nem megfelelő; ne rendeld."
  },
  {
   "category": "Kanapé",
@@ -45,7 +47,9 @@
   "priority_condition": "",
   "budget_include": false,
   "budget_exclusion_reason": "Ez a konkrét egyenes, nem ágyazható összeállítás nem teljesíti az új L alakú, két felnőtt alkalmi vendégágyaként használható kanapé igényét.",
-  "verification_note": "2026-09-20: követelmény szerinti kizárás; az ár korábbi referencia, nem új beszerzési ajánlat."
+  "verification_note": "2026-09-20: követelmény szerinti kizárás; az ár korábbi referencia, nem új beszerzési ajánlat.",
+  "decision_status": "Kizárt referencia",
+  "next_step": "A konkrét egyenes/nem ágyazható változat nem megfelelő; ne rendeld."
  },
  {
   "category": "Fotel",
@@ -431,20 +435,25 @@
   "store": "Szabó Kandalló Bolt",
   "where": "online (szabokandallobolt.hu), szállítás egész Magyarországra",
   "material_color": "fekete, összecsukható fém",
-  "size": "300x75 cm, 5 elemes, zárható ajtóval",
+  "size": "300 cm kiterített hossz × 75 cm magasság; 5 csuklós elem",
   "price_huf": 47900,
   "url": "https://szabokandallobolt.hu/gyermek-vedoracs",
   "tier": "ajánlott",
   "qty": 1,
   "why": "Matt fekete fém, zárható ajtós, falra rögzíthető rács – ez a zárt égésterű Pan-Tech kandalló körüli kötelező babavédelem, illik a ház egységes matt fekete fém-döntéséhez is.",
-  "caveat": "Falra csavarozva rögzítendő a stabilitás miatt; a kandalló üvege zárt égésterű is felforrósodhat, a rácsot megfelelő távolságra kell állítani.",
+  "caveat": "A feketére festett fém funkcionális kivétel a sárgaréz preferencia alól. A teljes kiterített hossz nem a védett falszakasz szélessége. A kandalló rendszerbefejezését nem helyettesíti.",
   "verified": "product_page",
   "room": "04-nappali",
   "price_note": "",
   "checked": "2026-09-20",
   "priority": 1,
   "priority_reason": "A használatba vett vagy hozzáférhető kandalló szükséges gyerekvédelmét előre kell rendezni.",
-  "priority_condition": "A kandalló tervezett használata és a helyszíni védelem szerint; a dekorburkolat ettől külön kérdés."
+  "priority_condition": "A kandalló tervezett használata és a helyszíni védelem szerint; a dekorburkolat ettől külön kérdés.",
+  "budget_include": false,
+  "budget_exclusion_reason": "A 300 cm-es rács megfelelő kiosztása és falrögzítése a konkrét kandallónál még nincs ellenőrizve; nem automatikus kész csomag.",
+  "decision_status": "Méretre és kivitelezői ellenőrzésre vár",
+  "next_step": "Kandalló körüli szükséges elkerítés, hőtávolság, rögzítési pontok és átjárás helyszíni ellenőrzése; ezek alapján hossz és elemek.",
+  "verification_note": "2026-09-20 termékoldal: 47 900 Ft, 300 cm, 75 cm, 5 elem; a konkrét kandallóhoz való illeszkedés nem igazolt."
  },
  {
   "category": "Alacsony tálalószekrény",

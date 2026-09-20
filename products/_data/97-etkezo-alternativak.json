@@ -23,7 +23,9 @@
     "priority_reason": "Egy használható közös étkezési felület az induló berendezés része.",
     "priority_condition": "",
     "budget_include": false,
-    "budget_exclusion_reason": "Ovális asztal; a tulajdonos téglalap formát kért."
+    "budget_exclusion_reason": "Ovális asztal; a tulajdonos téglalap formát kért.",
+    "decision_status": "Kizárt referencia",
+    "next_step": "A rögzített téglalap/alapállapotban hatfős igényhez ne rendeld; az aktuális döntési lap jelöltjeiből válassz."
   },
   {
     "room": "03-etkezo",
@@ -49,7 +51,9 @@
     "priority_reason": "Egy használható közös étkezési felület az induló berendezés része.",
     "priority_condition": "",
     "budget_include": false,
-    "budget_exclusion_reason": "A 160 cm-es alapállapotban hat kényelmes székhely nincs igazolva."
+    "budget_exclusion_reason": "A 160 cm-es alapállapotban hat kényelmes székhely nincs igazolva.",
+    "decision_status": "Kizárt referencia",
+    "next_step": "A rögzített téglalap/alapállapotban hatfős igényhez ne rendeld; az aktuális döntési lap jelöltjeiből válassz."
   },
   {
     "room": "03-etkezo",
@@ -73,7 +77,9 @@
     "availability_note": "Bonami: 3 db azonnal szállítható, kézbesítés szeptember 23-tól; Pilisjászfalu címére nincs megerősítés.",
     "priority": 1,
     "priority_reason": "Egy használható közös étkezési felület az induló berendezés része.",
-    "priority_condition": ""
+    "priority_condition": "",
+    "decision_status": "Próbára és választásra vár",
+    "next_step": "200×85-ös asztal helyét, székkihúzást és hat szék lábterét ellenőrizni; választás után címre árazott fuvar."
   },
   {
     "room": "03-etkezo",
@@ -96,10 +102,12 @@
     "availability": "verify",
     "availability_note": "Az elért termékoldal szeptember 7–21-i becslést mutat, a lista raktáron jelzést. Ez nem igazolja hat darab aktuális elérhetőségét.",
     "priority": 1,
-    "priority_reason": "A beköltözők napi ülőhelye kell; a hatdarabos végső készlet teljes megvásárlása nem feltétel.",
-    "priority_condition": "Az induló darabszám a beköltözőké; a listázott 6 db végső célmennyiség.",
+    "priority_reason": "Tulajdonosi döntés: beköltözéskor hat párnázott vagy fonott ülésű étkezőszék szükséges.",
+    "priority_condition": "Mind a hat darab induló P1; a konkrét változat ülés-, szín- és asztalilleszkedési próbája szükséges.",
     "budget_include": false,
-    "budget_exclusion_reason": "Fa ülőlap; a tulajdonos párnázott vagy fonott ülést kért."
+    "budget_exclusion_reason": "Fa ülőlap; a tulajdonos párnázott vagy fonott ülést kért.",
+    "decision_status": "Kizárt referencia",
+    "next_step": "Nem felel meg a rögzített üléskövetelménynek vagy nem igazolt megfelelő változat; ne rendeld."
   },
   {
     "room": "03-etkezo",
@@ -123,7 +131,9 @@
     "availability_note": "Kevesebb mint 5 db, 1–2 hét az oldalon; nincs címre igazolt vállalás. 200 000 Ft feletti ingyenes fuvarjelzés eltér a táblázattól.",
     "priority": 1,
     "priority_reason": "Egy használható közös étkezési felület az induló berendezés része.",
-    "priority_condition": ""
+    "priority_condition": "",
+    "decision_status": "Próbára és választásra vár",
+    "next_step": "200×85-ös asztal helyét, székkihúzást és hat szék lábterét ellenőrizni; választás után címre árazott fuvar."
   },
   {
     "room": "03-etkezo",
@@ -136,7 +146,7 @@
     "price_huf": 24990,
     "price_note": "6 db listaáron 149 940 Ft. SZULINAP20 2026-09-20-ig jelzett jogosultság; 19 992 Ft/db számított kuponár, kosárban nem ellenőrizve. Fuvarjelzés 10 900 Ft, 6 darabra még nem igazolt.",
     "url": "https://www.xxxlutz.hu/p/carryhome-szek-fa-textil-zoeld-buekkszin-001013003603",
-    "tier": "alternatíva",
+    "tier": "ajánlott",
     "qty": 6,
     "why": "Olcsó párnázott, valódi fa vázas árjelölt; a zöld a forest palettához vizsgálható.",
     "caveat": "Magasabb háttámla és 49 cm-es ülés; stílus-, szín-, combhely- és üléspróba szükséges. Fix műszálas kárpit: tisztítási előírás hiányzik.",
@@ -146,9 +156,12 @@
     "availability": "verify",
     "availability_note": "Élő településválasztás után 2080: kb. 1–2 hét; Budaörs kiállítva/készleten jelzés. Hat darab készlet és kosárfuvar még nincs igazolva.",
     "priority": 1,
-    "priority_reason": "A napi étkezéshez szükséges ülőhely; hat darab a teljes célmennyiség.",
-    "priority_condition": "Az induló székdarabszám nincs külön rögzítve.",
-    "budget_include": true
+    "priority_reason": "Tulajdonosi döntés: beköltözéskor hat párnázott vagy fonott ülésű étkezőszék szükséges.",
+    "priority_condition": "Mind a hat darab induló P1; a konkrét változat ülés-, szín- és asztalilleszkedési próbája szükséges.",
+    "budget_include": true,
+    "decision_status": "Első próbajelölt kiválasztva",
+    "next_step": "Hat zöld/bükk szék ülés- és színpróbája a TONSTAD asztalhoz; beférés, hatdarabos készlet, teljes fuvar és október 30. előtti érkezés ellenőrzése.",
+    "recommendation_condition": "első árjelölt; csak sikeres ülés-, szín- és lábtérpróba után"
   },
   {
     "room": "03-etkezo",
@@ -171,9 +184,11 @@
     "availability": "verify",
     "availability_note": "Címre elérhetőség és hat darab készlete még nem ismert.",
     "priority": 1,
-    "priority_reason": "A napi étkezéshez szükséges ülőhely; hat darab a teljes célmennyiség.",
-    "priority_condition": "Az induló székdarabszám nincs külön rögzítve.",
-    "budget_include": true
+    "priority_reason": "Tulajdonosi döntés: beköltözéskor hat párnázott vagy fonott ülésű étkezőszék szükséges.",
+    "priority_condition": "Mind a hat darab induló P1; a konkrét változat ülés-, szín- és asztalilleszkedési próbája szükséges.",
+    "budget_include": true,
+    "decision_status": "Próbára és választásra vár",
+    "next_step": "Carryhome és TONSTAD ülés-/színpróba, asztal alatti hely; a választott szék hatdarabos készlete és címre fuvara."
   },
   {
     "room": "03-etkezo",
@@ -196,8 +211,10 @@
     "availability": "verify",
     "availability_note": "Oldal: raktáron, 1–2 hét; hat darabra/címre megerősítendő. Fuvarnál a 200 000 Ft-os ingyenesség és táblázat eltér.",
     "priority": 1,
-    "priority_reason": "A napi étkezéshez szükséges ülőhely; hat darab a teljes célmennyiség.",
-    "priority_condition": "Az induló székdarabszám nincs külön rögzítve.",
-    "budget_include": true
+    "priority_reason": "Tulajdonosi döntés: beköltözéskor hat párnázott vagy fonott ülésű étkezőszék szükséges.",
+    "priority_condition": "Mind a hat darab induló P1; a konkrét változat ülés-, szín- és asztalilleszkedési próbája szükséges.",
+    "budget_include": true,
+    "decision_status": "Próbára és választásra vár",
+    "next_step": "Carryhome és TONSTAD ülés-/színpróba, asztal alatti hely; a választott szék hatdarabos készlete és címre fuvara."
   }
 ]

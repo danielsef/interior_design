@@ -3,36 +3,41 @@
 | | |
 | --- | --- |
 | **Helyiség** | 5,01 m² · kerámia |
-| **Termékek** | 21 db |
+| **Termékek** | 23 db |
 | **Áradatok dátuma** | 2026-09-20 |
 | **Inspirációs képek** | [`../../inpiration/11-haztartasi/`](../../inpiration/11-haztartasi/README.md) |
 
 > **Követelmények és források felülvizsgálata:** [a helyiség összes kategóriája](../kategoria-felulvizsgalat.md#11-haztartasi) · [közös beszerzési módszer és döntések](../beszerzesi-modszer.md). A követelményfelmérés nem jelent új teljes ár- vagy készletellenőrzést.
 
+> **P1 döntési lap:** [javasolt összeállítás, teljes funkciólista és nyitott feltételek](P1-LEZARAS.md) · [házszintű P1 állapot](../P1-KUTATASI-ALLAPOT.md). A „javaslat kész” nem jelenti, hogy a termék már megrendelt vagy beépített.
+
 ## Beköltözési prioritás
 
 **Prio 1:** a minimális beköltözéshez szükséges új beszerzés, a jelzett feltételekkel. **Prio 2:** körülbelül fél évig halasztható, vagy csak későbbi cserejelölt. Ez külön szempont az ajánlott/olcsóbb/prémium minősítéstől.
 
-**Induló minimum:** Működő mosás és szárítás, valamint megfelelően elzárt hely a tisztítószereknek/eszközöknek. Az összecsukható ruhaszárítót hozzátok, új darab nem szükséges.
+**Induló minimum:** A mosógép és az összecsukható ruhaszárító megvan. P1 a szükséges bekötés és a tisztítószerek megfelelően elzárt tárolása; új teljes magasszekrény nem automatikus minimum.
 
 **Ráér később:** A teljes szekrénysor, második mosogató/csap, munkalap, design szennyeskosarak és kényelmi rendszerezők.
 
 **Feltétel / kiváltás:** Az összeépítő készlet és a kényelmi magasító külön funkció: egymásra helyezett gépeknél a megfelelő összeépítő elem a használat előfeltétele. A konkrét géphez illeszkedését ellenőrizni kell.
 
-> **Még külön ellenőrizendő, nem árazott:** Ha nem hozzátok/nincs megrendelve, a mosógép és alap takarítóeszközök költsége külön hiányzik. A gépek nem részei a jelenlegi termékösszegnek.
+> **Még külön ellenőrizendő, nem árazott:** A mosógép, összecsukható ruhaszárító és takarítóeszközök megvannak/hozottak. A tisztítószerek elzárására rendelkezésre álló hely még pontosítandó; új szekrény nem automatikus vásárlás.
 
 ### Prio 1 – előre sorolt tételek
 
 | Tételkör | Miért / milyen feltétellel? |
 | --- | --- |
-| Magas szekrény (takarítóeszközöknek) | A tisztítószereknek és eszközöknek szükség szerint elzárt, megfelelő hely kell. **Feltétel:** Meglévő megfelelően elzárt tárolóval az új szekrény vásárlása P2. |
+| Meglévő szekrény gyermekzára | Beköltözési alapfunkció, amennyiben nincs megfelelő meglévő darab. **Feltétel:** A hozott készletből csak a tényleges hiány pótlása szükséges. |
+| Elzárható alaptároló (feltételes P1) | Beköltözési alapfunkció, amennyiben nincs megfelelő meglévő darab. **Feltétel:** A hozott készletből csak a tényleges hiány pótlása szükséges. |
 
 | Ajánlott tételek fázisonként | Listázott összeg |
 | --- | --- |
-| Prio 1 – beköltözéshez előre sorolt | **70 900 Ft** |
-| Prio 2 – későbbi új beszerzés | **327 934 Ft** |
+| Prio 1 – beköltözéshez előre sorolt | **0 Ft** |
+| Prio 2 – későbbi új beszerzés | **398 834 Ft** |
 
 > Ezek a korábbi teljes tervezett darabszámokkal számolt, feltételes részösszegek; nem a legolcsóbb beköltözési kosár árai. Egy szükséglethez egy megfelelő megoldást válassz. A meglevővel kiváltott cserejelölt, a kizárt referencia, EUR-os vagy elfogyott termék és az árazatlan hiány nem szerepel bennük. A szükséges induló darabszámok és az átfedések még pontosítandók.
+
+> **Prio 1 funkció, de nincs az ajánlott HUF-részösszegben számolható jelölt:** Elzárható alaptároló (feltételes P1), Meglévő szekrény gyermekzára. Ez nem nulla költség.
 
 ## Költség ebben a helyiségben
 
@@ -44,23 +49,49 @@
 
 > A darabszám javaslat. A forintos költségutak az EUR-os, készlethiányos, meglévővel kiváltott és külön kizárt referenciatételeket kihagyják; ezek ára nem nulla. A feltételes ajánlások szerepelnek a tervezési összegben. A kategóriánkénti alsó/felső összeg nem összeillő bevásárlócsomag: az opcionális és egymást átfedő tételeket külön kell kiválasztani. A szállítás nincs benne; az ár és készlet rendelés előtt ellenőrizendő.
 
-> A forintos költségutakból kimaradó kategória (nincs számolható tétel): **Összecsukható ruhaszárító**.
+> A forintos költségutakból kimaradó kategória (nincs számolható tétel): **Meglévő szekrény gyermekzára, Elzárható alaptároló (feltételes P1), Összecsukható ruhaszárító**.
 
 ## Termékek
 
-⭐ = ezt venném · 💰 = olcsóbb, még vállalható · 💎 = jobb minőség, még észszerű áron
+⭐ = első javaslat, feltételekkel · 💰 = olcsóbb referencia · 💎 = magasabb árú összevetés
 
-### Magas szekrény (takarítóeszközöknek) — Prio 1
+### Meglévő szekrény gyermekzára — Prio 1
 
 | Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 1** | ⭐ ajánlott | [METOD Magasszekrény polcokkal/2 ajtó, fehér Enköping](https://www.ikea.com/hu/hu/p/metod-magasszekreny-polcokkal-2-ajto-feher-enkoeping-feher-fa-hat-s59473511/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs, Örs vezér tere, Soroksár) | Enköping fehér, fa hatású front (fólia), fehér korpusz | Sz 40 × Mé 61,9 × Ma 228 cm | **70 900 Ft** | 1 |
-| **Prio 1** | 💰 olcsóbb | [ENHET Állószkr+ajtóval, fehér](https://www.ikea.com/hu/hu/p/enhet-alloszkr-ajtoval-feher-10623036/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs, Örs vezér tere, Soroksár) | forgácslemez, műanyag fólia front, fehér | Sz 30 × Mé 32,1 × Ma 180 cm | **39 990 Ft** | 1 |
+| **Prio 1** | Alternatíva | [babylove multifunkcionális biztonsági zár](https://www.dm.hu/p/d/1467738/babylove-multifunkcionalis-biztonsagi-zar) | **dm** – Magyar termékoldal; áruházi vagy címspecifikus elérhetőség rendelés előtt ellenőrizendő. | műanyag, visszafogott megjelenés; meglévő szekrényre | 1 db/csomag; szükséges darabszám helyszín szerint | **1 099 Ft** <br>*2026-09-20 közzétett termékár, fuvar/szerelés külön; nem teljes háztartási csomagár.* | 1 |
 
-**Prio 1:** A tisztítószereknek és eszközöknek szükség szerint elzárt, megfelelő hely kell. Feltétel: Meglévő megfelelően elzárt tárolóval az új szekrény vásárlása P2.
+**Prio 1:** Beköltözési alapfunkció, amennyiben nincs megfelelő meglévő darab. Feltétel: A hozott készletből csak a tényleges hiány pótlása szükséges.
 
-- **METOD Magasszekrény polcokkal/2 ajtó, fehér Enköping** – A METOD rendszer erősebb korpusszal, lágyan záródó pántokkal és teljes belmagassággal (228 cm) készül – ide fér a vasalódeszka, felmosó és a magasabb flakonok is, ahogy az irányelv 'a szükségesnél is több zárt tárolót' javasol az erdős telek miatt. ⚠️ *Az Enköping front fólia, nem valódi fa; drágább, tömörfa hatású METOD front is választható, ha ez fontos szempont.*
-- **ENHET Állószkr+ajtóval, fehér** – Keskeny (30 cm), padlótól plafonig érő zárt fehér szekrény – ide fér a porszívó, felmosóvödör, tisztítószerek; megfelel a helyiségre előírt 'zárt, fehér frontok' elvnek. ⚠️ *Fóliázott forgácslemez, nem tömör fa vagy furnér – nedves törlőkendővel tisztítható, de tartós nedvességnek ne tegyék ki.*
+> **A beszerzési összegből kizárva:** Feltételes jelölt; meglévő készlet, pontos szükséglet vagy méret még nem tisztázott.
+
+- **babylove multifunkcionális biztonsági zár** – Elsőként meglévő alkalmas szekrény lezárását érdemes vizsgálni egy új magas bútor helyett. ⚠️ *A ragasztási felület és mechanika kompatibilitása ellenőrizendő; nem záródik vissza automatikusan. Nem állítunk gyermekbiztos vegyszertároló-minősítést a teljes bútorra.*
+  **Döntési státusz:** Leltárra vár. **Következő lépés:** A helyiség P1-LEZARAS.md dokumentuma szerinti készlet- és illeszkedésellenőrzés.
+
+### Elzárható alaptároló (feltételes P1) — Prio 1
+
+| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Prio 1** | Alternatíva | [KETER PLANET egy polcos tárolószekrény](https://www.bauhaus.hu/taroloszekreny/keter-planet-muanyag-szekreny-1-polcos-90x68x39cm/27281585.html) | **BAUHAUS** – Magyar termékoldal; áruházi vagy címspecifikus elérhetőség rendelés előtt ellenőrizendő. | 80%-ban újrahasznosított műanyag; utility megjelenés | Sz68×Mé39×Ma90 cm; 15 kg/polc | **24 990 Ft** <br>*2026-09-20 közzétett termékár, fuvar/szerelés külön; nem teljes háztartási csomagár.* | 1 |
+
+**Prio 1:** Beköltözési alapfunkció, amennyiben nincs megfelelő meglévő darab. Feltétel: A hozott készletből csak a tényleges hiány pótlása szükséges.
+
+> **A beszerzési összegből kizárva:** Feltételes jelölt; meglévő készlet, pontos szükséglet vagy méret még nem tisztázott.
+
+- **KETER PLANET egy polcos tárolószekrény** – Alacsonyabb árú lakattal zárható tároló, ha nincs használható meglévő szekrény. ⚠️ *Lakat külön; nem magas felmosó/vasalódeszka-szekrény. 68 cm hely, stabil elhelyezés/rögzítés és tárolt szerek előírásai ellenőrizendők. A műanyag a háztartási helyiségben praktikus kompromisszum.*
+  **Döntési státusz:** Méretre vár. **Következő lépés:** A helyiség P1-LEZARAS.md dokumentuma szerinti készlet- és illeszkedésellenőrzés.
+
+### Magas szekrény (takarítóeszközöknek) — Prio 2
+
+| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Prio 2** | ⭐ ajánlott | [METOD Magasszekrény polcokkal/2 ajtó, fehér Enköping](https://www.ikea.com/hu/hu/p/metod-magasszekreny-polcokkal-2-ajto-feher-enkoeping-feher-fa-hat-s59473511/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs, Örs vezér tere, Soroksár) | Enköping fehér, fa hatású front (fólia), fehér korpusz | Sz 40 × Mé 61,9 × Ma 228 cm | **70 900 Ft** | 1 |
+| **Prio 2** | 💰 olcsóbb | [ENHET Állószkr+ajtóval, fehér](https://www.ikea.com/hu/hu/p/enhet-alloszkr-ajtoval-feher-10623036/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs, Örs vezér tere, Soroksár) | forgácslemez, műanyag fólia front, fehér | Sz 30 × Mé 32,1 × Ma 180 cm | **39 990 Ft** | 1 |
+
+**Prio 2:** A tisztítószerek hozzáférésének megakadályozása P1; teljes magas takarítószekrény csak akkor kell rögtön, ha nincs egyszerűbb megfelelő hely. Feltétel: Először meglévő szekrény alkalmassá tétele; új tároló hiány esetén, a P1-LEZARAS.md szerint.
+
+- **METOD Magasszekrény polcokkal/2 ajtó, fehér Enköping** – Fehér zárt tárolási lehetőség, ha a magas eszközök ténylegesen elférnek benne. A 228 cm magasság nem teljes belmagasság, és nem igazolja a polcos belsőbe a vasalódeszka vagy felmosó beférését. ⚠️ *Az Enköping front fólia, nem valódi fa; drágább, tömörfa hatású METOD front is választható, ha ez fontos szempont. A csukott ajtó nem jelent gyermekzárat. Belső polckiosztás, magas eszközök befoglalása, zárolás és falrögzítés ellenőrizendő.*
+- **ENHET Állószkr+ajtóval, fehér** – Keskeny (30 cm), padlótól plafonig érő zárt fehér szekrény – ide fér a porszívó, felmosóvödör, tisztítószerek; megfelel a helyiségre előírt 'zárt, fehér frontok' elvnek. ⚠️ *Fóliázott forgácslemez, nem tömör fa vagy furnér – nedves törlőkendővel tisztítható, de tartós nedvességnek ne tegyék ki. A csukott ajtó nem jelent gyermekzárat. Belső polckiosztás, magas eszközök befoglalása, zárolás és falrögzítés ellenőrizendő.*
 
 ### Faliszekrény (fehér, zárt) — Prio 2
 
@@ -105,8 +136,8 @@
 
 **Prio 2:** A működő mosás-szárítás és megfelelő eszköztárolás mellett a végleges bútorozás/kényelmi kiegészítő későbbre tehető. Feltétel: Kényelmi magasító P2; ha a gépeket egymásra teszitek, a gyártóhoz illő összeépítő készlet a használat előtt P1. A két funkció nem azonos.
 
-- **ENHET Magasítóelem mosógép/szárítógép alá, fehér** – Derékmagasságba emeli a gépet, fiókja a mosószereknek, kihúzható polca a szennyeskosárnak – napi használatra kényelmesebb, mint egy sima keret, és illik az ENHET szekrénysorhoz. ⚠️ *FONTOS: ez egy gép (nem két gép egymásra épített) magasítására való; ha ténylegesen mosógép fölé kell szárítógépet tenni, a vidaXL keret (fenti sor) kell helyette.*
-- **vidaXL mosógép összeépítő keret kihúzható polccal** – Univerzális keret, ami biztonságosan rögzíti a szárítógépet a mosógép tetejére, kihúzható polccal a szennyeskosárnak – ez a klasszikus 'egymásra pakolós' megoldás. ⚠️ *Csak a keretet adja; a gépek pontos szélességét/mélységét a vásárlás előtt egyeztetni kell, mert nem minden márkához illik egyformán.*
+- **ENHET Magasítóelem mosógép/szárítógép alá, fehér** – Derékmagasságba emeli a gépet, fiókja a mosószereknek, kihúzható polca a szennyeskosárnak – napi használatra kényelmesebb, mint egy sima keret, és illik az ENHET szekrénysorhoz. ⚠️ *Egy gép magasítója, nem összeépítő keret. Egymásra építéshez a konkrét mosó- és szárítógéphez jóváhagyott készlet kell; a vidaXL univerzális keret kompatibilitása sincs még igazolva.*
+- **vidaXL mosógép összeépítő keret kihúzható polccal** – Feltételes összeépítőkeret-jelölt; csak a konkrét géppárhoz igazolt kompatibilitással használható. ⚠️ *Csak a keretet adja; a gépek pontos szélességét/mélységét a vásárlás előtt egyeztetni kell, mert nem minden márkához illik egyformán.*
 
 ### Fonott szennyeskosár fedéllel (2 db, világos/sötét) — Prio 2
 

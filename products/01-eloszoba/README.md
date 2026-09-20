@@ -9,6 +9,8 @@
 
 > **Követelmények és források felülvizsgálata:** [a helyiség összes kategóriája](../kategoria-felulvizsgalat.md#01-eloszoba) · [közös beszerzési módszer és döntések](../beszerzesi-modszer.md). A követelményfelmérés nem jelent új teljes ár- vagy készletellenőrzést.
 
+> **P1 döntési lap:** [javasolt összeállítás, teljes funkciólista és nyitott feltételek](P1-LEZARAS.md) · [házszintű P1 állapot](../P1-KUTATASI-ALLAPOT.md). A „javaslat kész” nem jelenti, hogy a termék már megrendelt vagy beépített.
+
 > **Új termék-összehasonlítás:** [konkrét alternatívák, csomagárak és fennmaradó feltételek](OSSZEHASONLITAS.md).
 
 ## Beköltözési prioritás
@@ -49,7 +51,7 @@
 
 ## Termékek
 
-⭐ = ezt venném · 💰 = olcsóbb, még vállalható · 💎 = jobb minőség, még észszerű áron
+⭐ = első javaslat, feltételekkel · 💰 = olcsóbb referencia · 💎 = magasabb árú összevetés
 
 ### Fali akasztó / fogas — Prio 1
 
@@ -61,7 +63,9 @@
 **Prio 1:** Egy alap fogas elég lehet a kabátok napi elhelyezésére. A beköltözéskor szükséges alap fogas, külső lábtörlő vagy nedvescipő-hely egyik alternatívája; kategóriánként egy megoldás kell.
 
 - **HÖVOLM Fogas+6 gombfogantyú, tölgy** – Tömör tölgy, visszafogott forma; a vizsgált, igazolt anyagú fali fogasok közül kedvező termékár. A Forest Wood Coastal faanyag-preferenciáját követi. ⚠️ *Falhoz illő csavar és tipli külön szükséges. A rövid gombok kabátakasztó-hurokkal próbálandók; a napi kabátok helyigénye és a fal mérete ellenőrizendő. Nem szükséges automatikusan második fogas.*
+  **Döntési státusz:** Javaslat kész. **Következő lépés:** 57 cm szabad falszakasz, falanyag és napi kabátkapacitás ellenőrzése; 1 darab induló fogas.
 - **Umbra PICKET natúr, 5 lehajtható akasztó** – Lehajtható akasztós, természetes fa alternatíva, ha ez a funkció fontosabb a legalacsonyabb árnál. ⚠️ *Mozgalmasabb, bordás forma, kevesebb akasztó. Az oldal külső raktárt és 0 db-os akciós készletet is mutat; szállítás tisztázandó.*
+  **Döntési státusz:** Helyszíni ellenőrzésre vár. **Következő lépés:** Nem első választás; készlet csak igényelt formai felár esetén tisztázandó, a HÖVOLM olcsóbb induló jelölt.
 
 ### Lábtörlő (kültéri) — Prio 1
 
@@ -73,7 +77,9 @@
 **Prio 1:** A beköltözéskor szükséges alap fogas, külső lábtörlő vagy nedvescipő-hely egyik alternatívája; kategóriánként egy megoldás kell. Feltétel: Külső elhelyezés és ajtónyitás ellenőrzésével. A bejárat napi használatához és a behordott sár csökkentéséhez kell.
 
 - **Astra Kokosvelours natúr lábtörlő, 40×60 cm** – Természetes szálas, felirat nélküli megjelenés; kedvezőbb termékárú választás a NAVR helyett. ⚠️ *Bel-/kültéri a kereskedő szerint, de nem mosható és padlófűtésre nem alkalmas: a külső bejárati pontra javasolt. Ajtóhézag ellenőrizendő.*
+  **Döntési státusz:** Javaslat kész. **Következő lépés:** Ellenőrizd az ajtó 14 mm-es lábtörlő feletti nyitását és a kültéri elhelyezést; 1 db induló mennyiség, készlet/átvétel ellenőrzendő.
 - **Lábtörlő NAVR 40x60x3, kókusz natúr/fekete** – Natúr kókusz és fekete részlet; a korábbi referencia megmarad. A kedvezőbb árú Astra mellé vastagabb változatként mérlegelhető. ⚠️ *A 3 cm-es magasságot az ajtónyitáshoz ellenőrizni kell. A magasabb árhoz nem találtunk olyan igazolt előnyt, amely a minimális induló csomagban indokolná az elsőséget.*
+  **Döntési státusz:** Javaslat kész. **Következő lépés:** Az olcsóbb Astra az első választás; NAVR csak akkor, ha a 3 cm-es magasság és a helyszíni használat indokolja.
 
 ### Csizmatálca — Prio 1
 
@@ -85,7 +91,9 @@
 **Prio 1:** A nedves, sáros cipőnek már az első naptól legyen kijelölt helye. A beköltözéskor szükséges alap fogas, külső lábtörlő vagy nedvescipő-hely egyik alternatívája; kategóriánként egy megoldás kell.
 
 - **BAGGMUCK Cipőtartó (csizma-/cipőtálca), bel/kültéri, szürke** – Kedvező árú, magas peremű műanyag tálca a nedves cipők alá. A funkcionális kiegészítőnél elfogadott praktikus anyagkompromisszum; a megvizsgált OBI-változatnál olcsóbb. ⚠️ *A szürke műanyag nem dekorációs elem. A cipők és az elhelyezés méretét ellenőrizni kell; nedves cipőt szellőző helyen tartsunk, a tálcát ürítsük és tisztítsuk.*
+  **Döntési státusz:** Javaslat kész. **Következő lépés:** 71×35 cm szabad hely és a napi nedves cipők helyigényének ellenőrzése; 1 darab induló tálca.
 - **Cipőtartó tálca, fekete 78×38×2 cm** – A BAGGMUCK-nál nagyobb tálca; akkor indokolt, ha kell a többlethely vagy kedvezőbb a közös beszerzés. ⚠️ *Fekete műanyag, tudatos funkcionális kompromisszum. A nagyobb külső méret nem igazol konkrét cipődarabszámot.*
+  **Döntési státusz:** Javaslat kész. **Következő lépés:** Csak akkor válaszd a BAGGMUCK helyett, ha a nagyobb 78×38 cm-es méret kell és befér; 1 db, nem második tálca.
 
 ### Cipősszekrény — Prio 2
 

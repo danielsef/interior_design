@@ -272,7 +272,9 @@
   "priority_reason": "Egy alap fogas elég lehet a kabátok napi elhelyezésére.",
   "priority_condition": "",
   "availability": "verify",
-  "availability_note": "Az ár ellenőrizve; áruházi készlet és címre vállalt szállítás nincs igazolva."
+  "availability_note": "Az ár ellenőrizve; áruházi készlet és címre vállalt szállítás nincs igazolva.",
+  "decision_status": "Javaslat kész",
+  "next_step": "57 cm szabad falszakasz, falanyag és napi kabátkapacitás ellenőrzése; 1 darab induló fogas."
  },
  {
   "room": "01-eloszoba",
@@ -335,7 +337,9 @@
   "checked": "2026-09-20",
   "priority": 1,
   "priority_reason": "A bejárat napi használatához és a behordott sár csökkentéséhez kell.",
-  "priority_condition": ""
+  "priority_condition": "",
+  "decision_status": "Javaslat kész",
+  "next_step": "Az olcsóbb Astra az első választás; NAVR csak akkor, ha a 3 cm-es magasság és a helyszíni használat indokolja."
  },
  {
   "room": "01-eloszoba",
@@ -358,7 +362,9 @@
   "priority_reason": "A nedves, sáros cipőnek már az első naptól legyen kijelölt helye.",
   "priority_condition": "",
   "availability": "verify",
-  "availability_note": "Az ár ellenőrizve; áruházi készlet és címre vállalt szállítás nincs igazolva."
+  "availability_note": "Az ár ellenőrizve; áruházi készlet és címre vállalt szállítás nincs igazolva.",
+  "decision_status": "Javaslat kész",
+  "next_step": "71×35 cm szabad hely és a napi nedves cipők helyigényének ellenőrzése; 1 darab induló tálca."
  },
  {
   "room": "01-eloszoba",

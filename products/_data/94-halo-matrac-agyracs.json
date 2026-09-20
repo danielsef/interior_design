@@ -23,7 +23,9 @@
     "why": "Illeszkedés: takart funkcionális elem, mosható huzattal. A két árazott matrac közül alacsonyabb termékár; nem igazolt legolcsóbb megfelelő csomag.",
     "caveat": "Kemény komfort; a 100 kg-os súlykorlát személyenkénti vagy teljes értelmezése tisztázandó. Két felnőttre alkalmasság és rácselőírás nem igazolt.",
     "availability_note": "Aktuális ár, konkrét 180-as készlet, október 30. előtti kézbesítés és fuvar nem igazolt.",
-    "budget_exclusion_reason": "A két felnőttre megadott terhelhetőség, komfort és alátámasztás nem igazolt; árazott kutatási jelölt."
+    "budget_exclusion_reason": "A két felnőttre megadott terhelhetőség, komfort és alátámasztás nem igazolt; árazott kutatási jelölt.",
+    "decision_status": "Próbára és választásra vár",
+    "next_step": "Közepesnél kissé keményebb, szállodai érzet, jellemzően oldalt/hason alváshoz: két használó személyes próbája. Teherbírás, gyártói rácselőírás és októberi szállítás ellenőrzendő; egy közös 180×200 kell."
   },
   {
     "room": "05-halo",
@@ -49,7 +51,9 @@
     "why": "Illeszkedés: takart funkcionális elem; a szín az ágynemű alatt nem meghatározó. Zsákrugós alternatíva dokumentált 90 éjszakás próbával.",
     "caveat": "Kemény kivitel, 5 zóna; nem mosható huzat. Kibontott matrac próba utáni visszavétele jóváírókártyával, feltételekkel. Komfort, terhelhetőség és rácselőírás ellenőrizendő.",
     "availability_note": "Címre szóló készlet, fuvar és kézbesítési dátum még nincs ellenőrizve.",
-    "budget_exclusion_reason": "Személyes komfort és az ágy–rács–matrac összeállítás alkalmassága még nyitott; nem kiválasztott csomag."
+    "budget_exclusion_reason": "Személyes komfort és az ágy–rács–matrac összeállítás alkalmassága még nyitott; nem kiválasztott csomag.",
+    "decision_status": "Próbára és választásra vár",
+    "next_step": "Közepesnél kissé keményebb, szállodai érzet, jellemzően oldalt/hason alváshoz: két használó személyes próbája. Teherbírás, gyártói rácselőírás és októberi szállítás ellenőrzendő; egy közös 180×200 kell."
   },
   {
     "room": "05-halo",
@@ -75,7 +79,9 @@
     "why": "Illeszkedés: takart faalapú alátámasztás; a szerkezeti alkalmasság fontosabb a színnél. Kedvező páros termékár, még nem igazolt megfelelő megoldás.",
     "caveat": "Terhelhetőség, lamellaköz, középtámasz és keretbefogadás ellenőrizendő. Rögzítés tisztázandó; a termékoldal értékelései zaj-/stabilitási panaszokat is jeleznek, nem igazolt általános hibát.",
     "availability_note": "Konkrét készlet és címre szállítás nem igazolt.",
-    "budget_exclusion_reason": "A választott kerettel és matraccal nem igazolt párosítás. Alguema mellé nem kell külön rács, mert azt tartalmazza."
+    "budget_exclusion_reason": "A választott kerettel és matraccal nem igazolt párosítás. Alguema mellé nem kell külön rács, mert azt tartalmazza.",
+    "decision_status": "Próbára és választásra vár",
+    "next_step": "A kiválasztott keret felfekvése, középtámasza, matrac lamellaköz-előírása és terhelhetősége együtt ellenőrizendő; saját rácsos ágyhoz nem kell külön pár."
   },
   {
     "room": "05-halo",
@@ -101,7 +107,9 @@
     "why": "Illeszkedés: takart faalapú alátámasztás; a szerkezeti alkalmasság fontosabb a színnél. Keretes alternatíva; felára csak igazolt szerkezeti vagy komfortelőnnyel indokolt.",
     "caveat": "Terhelhetőség, lamellaköz, középtámasz és keretbefogadás ellenőrizendő. 7,5 cm magassága miatt a befekvési mélység külön ellenőrizendő; szerelendő.",
     "availability_note": "Konkrét készlet és címre szállítás nem igazolt.",
-    "budget_exclusion_reason": "A választott kerettel és matraccal nem igazolt párosítás. Alguema mellé nem kell külön rács, mert azt tartalmazza."
+    "budget_exclusion_reason": "A választott kerettel és matraccal nem igazolt párosítás. Alguema mellé nem kell külön rács, mert azt tartalmazza.",
+    "decision_status": "Próbára és választásra vár",
+    "next_step": "A kiválasztott keret felfekvése, középtámasza, matrac lamellaköz-előírása és terhelhetősége együtt ellenőrizendő; saját rácsos ágyhoz nem kell külön pár."
   },
   {
     "room": "05-halo",
@@ -127,6 +135,8 @@
     "why": "A kemény jelöltek mellé másik habos próbaalternatíva, mosható huzattal; tárolós ággyal gyári/kereskedői csomagként is kínálják.",
     "caveat": "Félkemény/kiegyensúlyozott leírás mellett H3 adat; nem közös keménységi skála. A 120 kg-os súlykorlát értelmezése és a komfort/rácselőírás tisztázandó. A gyártói marketingjelzők nem bizonyított egészségügyi előnyök.",
     "availability_note": "Élő oldalon raktáron, 7 munkanapon belül; kézbesítési dátum megerősítendő.",
-    "budget_exclusion_reason": "Személyes próba és terhelhetőség még nyitott; a teljes Anikó csomag választásakor nem külön beszerzés."
+    "budget_exclusion_reason": "Személyes próba és terhelhetőség még nyitott; a teljes Anikó csomag választásakor nem külön beszerzés.",
+    "decision_status": "Próbára és választásra vár",
+    "next_step": "Közepesnél kissé keményebb, szállodai érzet, jellemzően oldalt/hason alváshoz: két használó személyes próbája. Teherbírás, gyártói rácselőírás és októberi szállítás ellenőrzendő; egy közös 180×200 kell."
   }
 ]

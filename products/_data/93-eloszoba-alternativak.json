@@ -21,7 +21,9 @@
     "budget_include": true,
     "priority": 1,
     "priority_reason": "A beköltözéskor szükséges alap fogas, külső lábtörlő vagy nedvescipő-hely egyik alternatívája; kategóriánként egy megoldás kell.",
-    "priority_condition": "Külső elhelyezés és ajtónyitás ellenőrzésével."
+    "priority_condition": "Külső elhelyezés és ajtónyitás ellenőrzésével.",
+    "decision_status": "Javaslat kész",
+    "next_step": "Ellenőrizd az ajtó 14 mm-es lábtörlő feletti nyitását és a kültéri elhelyezést; 1 db induló mennyiség, készlet/átvétel ellenőrzendő."
   },
   {
     "room": "01-eloszoba",
@@ -45,7 +47,9 @@
     "budget_include": true,
     "priority": 1,
     "priority_reason": "A beköltözéskor szükséges alap fogas, külső lábtörlő vagy nedvescipő-hely egyik alternatívája; kategóriánként egy megoldás kell.",
-    "priority_condition": ""
+    "priority_condition": "",
+    "decision_status": "Javaslat kész",
+    "next_step": "Csak akkor válaszd a BAGGMUCK helyett, ha a nagyobb 78×38 cm-es méret kell és befér; 1 db, nem második tálca."
   },
   {
     "room": "01-eloszoba",
@@ -69,6 +73,8 @@
     "budget_include": false,
     "priority": 1,
     "priority_reason": "A beköltözéskor szükséges alap fogas, külső lábtörlő vagy nedvescipő-hely egyik alternatívája; kategóriánként egy megoldás kell.",
-    "priority_condition": ""
+    "priority_condition": "",
+    "decision_status": "Helyszíni ellenőrzésre vár",
+    "next_step": "Nem első választás; készlet csak igényelt formai felár esetén tisztázandó, a HÖVOLM olcsóbb induló jelölt."
   }
 ]

@@ -58,9 +58,9 @@
   "caveat": "",
   "verified": "product_page",
   "checked": "2026-09-20",
-  "priority": 1,
-  "priority_reason": "Az alap ételkészítéshez kell, ha nincs áthozható darab.",
-  "priority_condition": ""
+  "priority": 2,
+  "priority_reason": "A nagy akác tálaló-/vágódeszka későbbi méret- és megjelenési választás; egyszerű alapdeszka a meglévő készletből is megfelelő.",
+  "priority_condition": "Csak igazolt napi nagy felületigénynél kerül P1-be."
  },
  {
   "room": "02-konyha",
@@ -146,7 +146,9 @@
   "priority_reason": "Egy használható közös étkezési felület az induló berendezés része.",
   "priority_condition": "",
   "budget_include": false,
-  "budget_exclusion_reason": "A fix 150×80-as asztal hat kényelmes székhelye nem igazolt; nem számolható megfelelő olcsó hatfős alternatívaként."
+  "budget_exclusion_reason": "A fix 150×80-as asztal hat kényelmes székhelye nem igazolt; nem számolható megfelelő olcsó hatfős alternatívaként.",
+  "decision_status": "Kizárt referencia",
+  "next_step": "A rögzített téglalap/alapállapotban hatfős igényhez ne rendeld; az aktuális döntési lap jelöltjeiből válassz."
  },
  {
   "room": "03-etkezo",
@@ -171,7 +173,9 @@
   "availability": "verify",
   "availability_note": "A készlet/címre szállítás nem jelent meg az elért webes kivonatban.",
   "budget_include": false,
-  "budget_exclusion_reason": "Alapállapotban csak négyfős; az alapállapotban szükséges hat férőhelyet nem teljesíti."
+  "budget_exclusion_reason": "Alapállapotban csak négyfős; az alapállapotban szükséges hat férőhelyet nem teljesíti.",
+  "decision_status": "Kizárt referencia",
+  "next_step": "A rögzített téglalap/alapállapotban hatfős igényhez ne rendeld; az aktuális döntési lap jelöltjeiből válassz."
  },
  {
   "room": "03-etkezo",
@@ -196,7 +200,9 @@
   "recommendation_condition": "Helyszíni méret-, szék- és mintapróba után",
   "availability": "verify",
   "availability_note": "A készlet és Pilisjászfalura vállalt szállítás csak cím alapján ellenőrizhető.",
-  "verification_note": "Gyártói termékoldal: fix, hatfős, 119 900 Ft; 2026-09-20-án újraellenőrizve."
+  "verification_note": "Gyártói termékoldal: fix, hatfős, 119 900 Ft; 2026-09-20-án újraellenőrizve.",
+  "decision_status": "Próbára és választásra vár",
+  "next_step": "200×85-ös asztal helyét, székkihúzást és hat szék lábterét ellenőrizni; választás után címre árazott fuvar."
  },
  {
   "room": "03-etkezo",
@@ -216,8 +222,12 @@
   "verified": "product_page",
   "checked": "2026-09-20",
   "priority": 1,
-  "priority_reason": "A beköltözők napi ülőhelye kell; a hatdarabos végső készlet teljes megvásárlása nem feltétel.",
-  "priority_condition": "Az induló darabszám a beköltözőké; a listázott 6 db végső célmennyiség."
+  "priority_reason": "Tulajdonosi döntés: beköltözéskor hat párnázott vagy fonott ülésű étkezőszék szükséges.",
+  "priority_condition": "Mind a hat darab induló P1; a konkrét változat ülés-, szín- és asztalilleszkedési próbája szükséges.",
+  "decision_status": "Kompromisszum elfogadására vár",
+  "next_step": "Csak külön elfogadott rattan/bambusz váz és sikeres üléspróba esetén válassz belőle; nem automatikus árminimum.",
+  "budget_include": false,
+  "budget_exclusion_reason": "A fonott rattan/bambusz váz anyageltérése a fő bútorokra kért fa/furnér követelménytől nincs elfogadva."
  },
  {
   "room": "03-etkezo",
@@ -237,8 +247,10 @@
   "verified": "product_page",
   "checked": "2026-09-20",
   "priority": 1,
-  "priority_reason": "A beköltözők napi ülőhelye kell; a hatdarabos végső készlet teljes megvásárlása nem feltétel.",
-  "priority_condition": "Az induló darabszám a beköltözőké; a listázott 6 db végső célmennyiség."
+  "priority_reason": "Tulajdonosi döntés: beköltözéskor hat párnázott vagy fonott ülésű étkezőszék szükséges.",
+  "priority_condition": "Mind a hat darab induló P1; a konkrét változat ülés-, szín- és asztalilleszkedési próbája szükséges.",
+  "decision_status": "Próbára és választásra vár",
+  "next_step": "Carryhome és TONSTAD ülés-/színpróba, asztal alatti hely; a választott szék hatdarabos készlete és címre fuvara."
  },
  {
   "room": "03-etkezo",
@@ -258,8 +270,10 @@
   "verified": "product_page",
   "checked": "2026-09-20",
   "priority": 1,
-  "priority_reason": "A beköltözők napi ülőhelye kell; a hatdarabos végső készlet teljes megvásárlása nem feltétel.",
-  "priority_condition": "Az induló darabszám a beköltözőké; a listázott 6 db végső célmennyiség."
+  "priority_reason": "Tulajdonosi döntés: beköltözéskor hat párnázott vagy fonott ülésű étkezőszék szükséges.",
+  "priority_condition": "Mind a hat darab induló P1; a konkrét változat ülés-, szín- és asztalilleszkedési próbája szükséges.",
+  "decision_status": "Próbára és választásra vár",
+  "next_step": "Carryhome és TONSTAD ülés-/színpróba, asztal alatti hely; a választott szék hatdarabos készlete és címre fuvara."
  },
  {
   "room": "03-etkezo",
@@ -301,7 +315,11 @@
   "checked": "2026-09-20",
   "priority": 1,
   "priority_reason": "Ha már használjátok, a baba napi étkezési helye az induló berendezéshez tartozik.",
-  "priority_condition": "Akkor P1, ha beköltözéskor már szükséges; a gyermek használati igényéhez illő kivitel és tartozékok alapján."
+  "priority_condition": "Akkor P1, ha beköltözéskor már szükséges; a gyermek használati igényéhez illő kivitel és tartozékok alapján.",
+  "budget_include": false,
+  "budget_exclusion_reason": "A meglévő babafelszerelés és az etetőszék szükségletének egyeztetését a tulajdonos félretette; nem igazolt új vásárlás.",
+  "decision_status": "Kérésre félretéve",
+  "next_step": "A meglévő felszerelés kérdésének újranyitásakor egy kompatibilis teljes etetőszék-szettet válassz; most nincs beszerzési döntés."
  },
  {
   "room": "03-etkezo",
@@ -322,7 +340,11 @@
   "checked": "2026-09-20",
   "priority": 1,
   "priority_reason": "Ha már használjátok, a baba napi étkezési helye az induló berendezéshez tartozik.",
-  "priority_condition": "Akkor P1, ha beköltözéskor már szükséges; a gyermek használati igényéhez illő kivitel és tartozékok alapján."
+  "priority_condition": "Akkor P1, ha beköltözéskor már szükséges; a gyermek használati igényéhez illő kivitel és tartozékok alapján.",
+  "budget_include": false,
+  "budget_exclusion_reason": "A meglévő babafelszerelés és az etetőszék szükségletének egyeztetését a tulajdonos félretette; nem igazolt új vásárlás.",
+  "decision_status": "Kérésre félretéve",
+  "next_step": "A meglévő felszerelés kérdésének újranyitásakor egy kompatibilis teljes etetőszék-szettet válassz; most nincs beszerzési döntés."
  },
  {
   "room": "03-etkezo",
@@ -343,7 +365,11 @@
   "checked": "2026-09-20",
   "priority": 1,
   "priority_reason": "Ha már használjátok, a baba napi étkezési helye az induló berendezéshez tartozik.",
-  "priority_condition": "Akkor P1, ha beköltözéskor már szükséges; a gyermek használati igényéhez illő kivitel és tartozékok alapján."
+  "priority_condition": "Akkor P1, ha beköltözéskor már szükséges; a gyermek használati igényéhez illő kivitel és tartozékok alapján.",
+  "budget_include": false,
+  "budget_exclusion_reason": "A meglévő babafelszerelés és az etetőszék szükségletének egyeztetését a tulajdonos félretette; nem igazolt új vásárlás.",
+  "decision_status": "Kérésre félretéve",
+  "next_step": "A meglévő felszerelés kérdésének újranyitásakor egy kompatibilis teljes etetőszék-szettet válassz; most nincs beszerzési döntés."
  },
  {
   "room": "03-etkezo",

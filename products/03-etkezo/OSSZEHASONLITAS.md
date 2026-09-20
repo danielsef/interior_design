@@ -2,7 +2,7 @@
 
 2026-09-20 · Beköltözés: 2026-10-30 · [Terméklista](README.md) · [Forrásnapló](FORRASNAPLO.md)
 
-**Pontosított követelmény: téglalap alakú asztal, alapállapotban 6 kényelmes normál székhellyel.** Az első kérdésre adott „igen” választ alapállapotú hat férőhelyként rögzítettük. A bővíthetőség nem kötelező; az induló székdarabszám ettől külön döntés. A baba alvóhelyére és meglévő felszerelésére vonatkozó kérdést a tulajdonos most kihagyta.
+**Pontosított követelmény: téglalap alakú asztal, alapállapotban 6 kényelmes normál székhellyel.** Az első kérdésre adott „igen” választ alapállapotú hat férőhelyként rögzítettük. A bővíthetőség nem kötelező; a beköltözéskor megvásárolandó mennyiség is hat szék. A baba alvóhelyére és meglévő felszerelésére vonatkozó kérdést a tulajdonos most kihagyta.
 
 **Ár szerinti első jelölt a fix TONSTAD 200×85; tömörfa alternatíva a Mirek Košice 180×90.** A Filippa megmarad harmadik összehasonlításnak. Ezek előzetes jelöltek, nem igazoltan összeillő, címre árazott rendelési csomagok. A hat konkrét szék, a sziget és a közlekedés helyszíni ellenőrzése szükséges.
 

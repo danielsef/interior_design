@@ -2,7 +2,7 @@
 
 2026-09-20 · [Követelmények](KUTATASI-BRIEF.md) · [Forrásnapló](FORRASNAPLO.md) · [Terméklista](README.md)
 
-**Frissített módszer: nincs kategóriaárplafon.** A megfelelő jelöltek legalacsonyabb teljes árát keressük; a korábbi 500 000 Ft nem kizárási határ. L alakú, kb. 300×200 cm-es, inkább puha kanapé kell, alkalmi vendégággyal **két felnőtt számára**. A levehető/mosható és a tisztítható fix kárpit egyaránt elfogadható. Beköltözés: 2026. október 30. Az oldalirány még nyitott.
+**Frissített módszer: nincs kategóriaárplafon.** A megfelelő jelöltek legalacsonyabb teljes árát keressük; a korábbi 500 000 Ft nem kizárási határ. L alakú, kb. 300×200 cm-es, inkább puha kanapé kell, alkalmi vendégággyal **két felnőtt számára**. A levehető/mosható és a tisztítható fix kárpit egyaránt elfogadható. Beköltözés: 2026. október 30. Az oldalirány rögzített: szemből nézve bal oldali hosszabb fekvőrész.
 
 **Még nincs minden követelményre igazolt nyertes.** A Mömax Rocky ára és címre jelzett szállítása ellenőrizhető, de a vendégágya szűk kompromisszum. A szélesebb ágyat adó GigaKanapé-modelleknél adat-, illetve árhiány maradt. A korábban kizárólag ár miatt félretett modellek visszakerülnek a kutatásba; magasabb árhoz konkrét előnyt kell igazolni.
 
@@ -53,6 +53,6 @@ A Tommy oldalán több szállítási díj szerepel (15 000 Ft-tól, illetve 30 0
 
 A Galaxy [szállítási szabályzata](https://studioobject.hu/policies/shipping-policy) 30 kg felett HDT-vel 24 990 Ft-ot, saját fuvarral vidékre 34 990 Ft-ot közöl. Ha valamelyik alkalmazható, az előzetes termék+fuvar **874 980–884 980 Ft**, szerelés nélkül; a konkrét kosár/csomagszám nincs ellenőrizve. A termékoldali általános átvételi szöveg nem bizonyít készleten lévő darabot; a rendelésre készülő termékeknél 6–8 hét is megjelenik. A kínált 50 000 Ft-os későbbi vásárlási utalványt nem vonjuk le a kanapé árából. A bézs a palettához vizsgálható, de fizikai szövetmintával kell RAL 1019 és a padló mellé tenni.
 
-**Praktikus sorrend:** az olcsó Hamburg/Corano modelleknél a korábbi adat-/változatárhiány továbbra is fennáll. Ezek tisztázása mellett a Las Vegas üléspróbája, valamint a Galaxy konkrét próbadarabjának/készletének ellenőrzése vihet közelebb a döntéshez. A Tommy az októberi határidő miatt tartalék; a Rocky a 128 cm-es ágy miatt nem válik automatikusan elsővé. Az oldalirányra újra feltett kérdés még nyitott, ezért egyik oldalt sem rögzítjük tulajdonosi döntésként.
+**Praktikus sorrend:** az olcsó Hamburg/Corano modelleknél a korábbi adat-/változatárhiány továbbra is fennáll. Ezek tisztázása mellett a Las Vegas üléspróbája, valamint a Galaxy konkrét próbadarabjának/készletének ellenőrzése vihet közelebb a döntéshez. A Tommy az októberi határidő miatt tartalék; a Rocky a 128 cm-es ágy miatt nem válik automatikusan elsővé. Új tulajdonosi döntés: szemből balos kell. A jobbos Rocky konkrét változata kiesett; balos rokonmodell külön ellenőrzés nélkül nem tekinthető azonos árú ajánlatnak.
 
 További szűrés: [Abruzzo / Kanapé Budapest](https://kanapebudapest.hu/uzlet/abruzzo-kanape-sarokkanape/) 389 900 Ft, 150×200 ágy, de 210 cm-es, kihúzható ülőlapos kanapé, nem a kért kb. 300×200-as állandó L. Nem új döntős. Az MH Angel megnyitott oldala továbbra is 300×230 cm és keményebb ülés; a keresőben megjelenő 300×200 cm nem írja ezt felül.

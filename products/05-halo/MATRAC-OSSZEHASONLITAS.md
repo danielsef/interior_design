@@ -2,7 +2,9 @@
 
 2026-09-20 · [Ágykeretek](OSSZEHASONLITAS.md) · [Kutatási brief](KUTATASI-BRIEF.md) · [Terméklista](README.md)
 
-**Egy közös 180×200 cm-es matrac kell, Prio 1 beszerzésként.** Az alábbiak árazott kutatási jelöltek; a két használó komfortigénye és az ágy–rács–matrac kompatibilitás még nincs lezárva. Nincs kategóriaárplafon. A legalacsonyabb megfelelő, szállított csomagár a cél; jelenleg még nincs igazolt nyertes.
+**Egy közös 180×200 cm-es matrac kell, Prio 1 beszerzésként.** Az alábbiak árazott kutatási jelöltek; a két használó célja közepesnél kissé keményebb, szállodai jellegű érzet; a személyes próba és az ágy–rács–matrac kompatibilitás még nincs lezárva. Nincs kategóriaárplafon. A legalacsonyabb megfelelő, szállított csomagár a cél; jelenleg még nincs igazolt nyertes.
+
+**Legújabb döntés:** OLSKER/STUBBERUP natúr tölgy/furnér az első ágyirány; tároló opcionális. Egy közös 180×200-as matrac, közepesnél kissé keményebb, szállodai jellegű érzet, jellemzően oldalt/hason alváshoz. A szerelést saját segítséggel oldjátok meg. Ada olcsóbb fenyő árreferencia, Anikó csak tárolós alternatíva; az ársorrend nem írja felül a választott anyagirányt.
 
 ## Három továbbvizsgálandó út – azonos 180×200-as közös fekhely
 
@@ -10,11 +12,11 @@
 
 | Út | Pontos tartalom és számítás | Hiány és következő ellenőrzés |
 | --- | --- | --- |
-| **A – legalacsonyabb árazott fa keret–rács alap** | [Ada natúr 180×200](https://fenyobutor24.hu/Ada-agykeret-180039), saját ágyráccsal **92 990** + VALEVÅG kemény 180×200 **129 900** = **222 890 Ft**. Ada jelzett fuvarával **226 880 Ft + IKEA fuvar**. | Az Ada „raktáron” jelzése mellett 30 munkanapos határidő áll; ez nem biztosítja október 30-át. Ágyterhelhetőség, rácsköz és matracpárosítás ellenőrizendő. **Feltételes árreferencia**, csak korábbi kézbesítési vállalással lehet P1 jelölt. |
-| **B – natúr tölgy, nyitott lábazattal** | OLSKER **115 000** + 2× BALKJOSEN **12 500** + VALEVÅG **129 900** = **269 900 Ft + két kereskedő fuvara**. Az ugyanennyibe kerülő STUBBERUP 9 cm-rel rövidebb keret. | Keret–rács befogadás/rögzítés, középalátámasztás, teherbírás és lamellaköz szükséges. HEMSIL FIX párral a termékár **299 900 Ft**, de a felár önmagában nem bizonyít jobb alkalmasságot. |
+| **B – első választott irány: natúr tölgy/furnér** | OLSKER **115 000** + 2× BALKJOSEN **12 500** + VALEVÅG **129 900** = **269 900 Ft + két kereskedő fuvara**. Az ugyanennyibe kerülő STUBBERUP 9 cm-rel rövidebb keret. | Keret–rács befogadás/rögzítés, középalátámasztás, teherbírás és lamellaköz szükséges. HEMSIL FIX párral a termékár **299 900 Ft**, de a felár önmagában nem bizonyít jobb alkalmasságot. |
+| **A – olcsóbb fenyő árreferencia** | [Ada natúr 180×200](https://fenyobutor24.hu/Ada-agykeret-180039), saját ágyráccsal **92 990** + VALEVÅG kemény 180×200 **129 900** = **222 890 Ft**. Ada jelzett fuvarával **226 880 Ft + IKEA fuvar**. | Az Ada „raktáron” jelzése mellett 30 munkanapos határidő áll; ez nem biztosítja október 30-át. Ágyterhelhetőség, rácsköz és matracpárosítás ellenőrizendő. **Feltételes árreferencia**, csak korábbi kézbesítési vállalással lehet P1 jelölt. |
 | **C – valódi tárolós csomag, egy boltból** | [Anikó tárolós ágy + saját fa ágyrács + 1 db Perfect Fusion 180×200 matrac](https://fenyobutor24.hu/spd/10030_31893/Aniko-fenyo-agynemutartos-agy-180x200-premium-7-zo): **462 990 Ft**. A csomagoldal **9 990 Ft** fuvarával **472 980 Ft**. | Kereskedő által együtt kínált méret/szerkezet; nem csak tetszőleges termékek számtani összeadása. Raktáron / 10 munkanapon belül jelzés. Személyes komfort, a 120 kg-os matrac-súlykorlát értelmezése, teljes ágyterhelhetőség, gázrugós nyitás és címre vállalt dátum még hiányzik. |
 
-Mindháromhoz külön jön a szükséges szerelés, matracvédő és a ténylegesen hiányzó ágynemű. A jelzett fuvarok nem címre visszaigazolt ajánlatok. A C csomag ára már tartalmazza a matracot és a rácsot: ezeket **nem adjuk hozzá még egyszer**. Külön megvéve az Anikó 257 900 + Perfect Fusion 223 900 = 481 800 Ft; a csomag **18 810 Ft-tal olcsóbb a termékek jelenlegi külön áránál**, azonos szállítási feltétel esetén.
+Mindhárom összeállítása szükséges; ezt saját segítséggel oldjátok meg, fizetett szerelés nem automatikus csomagtétel. A felnőtt ágynemű a tulajdonos legújabb válasza szerint megvan; új textilkosarat nem adunk hozzá. A jelzett fuvarok nem címre visszaigazolt ajánlatok. A C csomag ára már tartalmazza a matracot és a rácsot: ezeket **nem adjuk hozzá még egyszer**. Külön megvéve az Anikó 257 900 + Perfect Fusion 223 900 = 481 800 Ft; a csomag **18 810 Ft-tal olcsóbb a termékek jelenlegi külön áránál**, azonos szállítási feltétel esetén.
 
 **Próbasorrend:** először a használók számára megfelelő matracérzetet tisztázzuk, utána az A/B kerethez az adott matrac által megkövetelt alátámasztást. C akkor indokolt, ha a tárolót és a matracot is szeretnétek; a tároló opcionális, ezért a felárát nem kezeljük kötelező P1 költségként. A közös matrac továbbra is egy darab 180×200; az Anikóhoz kínált két 90-es Orfeusz csomagot ezért nem vettük át.
 
@@ -28,7 +30,7 @@ Az árak a megnyitott magyar termékoldalak 180×200-as változatának árai. A 
 | [IKEA VALEVÅG, kemény/világoskék, 204.700.09](https://www.ikea.com/hu/hu/p/valevag-zsakrugos-matrac-kemeny-vilagoskek-20470009/) | **129 900 Ft** | 24 cm, zsákrugó és hab, 5 komfortzóna; poliészter felső/oldalsó huzat. **Nem mosható**, a termék kezelési előírása szerint tisztítandó. | Más szerkezeti megoldás, dokumentált otthoni próbával. A Hard Comforthoz képest +36 000 Ft, de ez önmagában nem bizonyít jobb komfortot vagy tartósságot. Próba, terhelhetőség, alátámasztási előírás és címre szállítás még ellenőrizendő. |
 | [Perfect Fusion 180×200 – Fenyőbútor24](https://fenyobutor24.hu/Perfect-Fusion-180) | **223 900 Ft** önállóan; a fenti Anikó-csomagban már benne | 20 cm teljes magasság, 18 cm HYBRID habmag, 36 kg/m³; 7 zóna, levehető 60 °C-on mosható huzat. | Élő oldalon 7 munkanap / ingyenes fuvar. A szöveg kiegyensúlyozott, a csomag félkemény, az adatmező **H3** megjelölést használ; próbával tisztázandó. A **120 kg-os súlykorlát** személyenkénti értelmezése nem egyértelmű. |
 
-**A Hard Comfort és VALEVÅG árazott változata kemény. Ez nem tulajdonosi keménységválasztás:** a Perfect Fusion eltérő habos próbaalternatíva, de a megnevezésből azt sem állítjuk, hogy biztosan puhább. A bolti keménységi címkék nem közös mérési skálát jelentenek. Az egy közös matrac követelményét nem váltjuk ki két 90-es matraccal.
+**A tulajdonosi komfortcél közepesnél kissé keményebb, szállodai jellegű. A Hard Comfort és VALEVÅG árazott változata kemény, de az elnevezés még nem bizonyítja a cél teljesülését:** a Perfect Fusion eltérő habos próbaalternatíva, de a megnevezésből azt sem állítjuk, hogy biztosan puhább. A bolti keménységi címkék nem közös mérési skálát jelentenek. Az egy közös matrac követelményét nem váltjuk ki két 90-es matraccal.
 
 ## Ágyrács – a darabár helyett a szükséges pár költsége
 
@@ -49,9 +51,9 @@ Egy 180-as matrac alatt két 90-es rács csak megfelelő középalátámasztáss
 | OLSKER vagy STUBBERUP + BALKJOSEN pár + VALEVÅG | 115 000 + 25 000 + 129 900 | **269 900 Ft** |
 | OLSKER vagy STUBBERUP + HEMSIL FIX pár + VALEVÅG | 115 000 + 55 000 + 129 900 | **299 900 Ft** |
 
-Ezek a kutatási jelöltek számtani kombinációi. **A 233 900 Ft nem igazolt beköltözési minimum**, mert a matrac terhelhetősége és az alátámasztás még nyitott. Minden sorhoz hozzájön az esetleges szükséges szerelés/rögzítés, a fuvar, valamint a hiányzó matracvédő és alap ágynemű. A két boltból érkező termékek szállítását külön kell számolni. A 115 000 Ft-os keretár a lapon október 13-ig jelzett akció; újraellenőrzendő.
+Ezek a kutatási jelöltek számtani kombinációi. **A 233 900 Ft nem igazolt beköltözési minimum**, mert a matrac terhelhetősége és az alátámasztás még nyitott. Minden sorhoz hozzájön az esetleges szükséges szerelés/rögzítés, a fuvar, a szövegben jelölt hiányzó szerelési elemekkel. A felnőtt ágynemű megvan. A két boltból érkező termékek szállítását külön kell számolni. A 115 000 Ft-os keretár a lapon október 13-ig jelzett akció; újraellenőrzendő.
 
-Összevetésként Alguema saját ágyráccsal + VALEVÅG: 443 700 + 129 900 = **573 600 Ft**, ugyancsak fuvar és alap ágynemű nélkül, kompatibilitási ellenőrzéssel. A jelentős felárhoz jelenleg nincs igazolt, szükséges funkcionális előny.
+Összevetésként Alguema saját ágyráccsal + VALEVÅG: 443 700 + 129 900 = **573 600 Ft**, ugyancsak fuvar és szerelés nélkül, kompatibilitási ellenőrzéssel. A jelentős felárhoz jelenleg nincs igazolt, szükséges funkcionális előny.
 
 ## Próba és további beszerzési források
 
@@ -65,7 +67,7 @@ Ezek a kutatási jelöltek számtani kombinációi. **A 233 900 Ft nem igazolt b
 
 A [belsőépítészeti irányelv](../../principles/Wooden%20coastal%20%E2%80%93%20erdei%20hat%C3%A1s%C3%BA%20bels%C5%91%C3%A9p%C3%ADt%C3%A9szeti%20ir%C3%A1nyelvek%20a%20h%C3%A1zhoz.md) alapján a látható ágykeret faanyaga/tónusa, a lepedő és ágynemű színe határozza meg az összképet. A matrac és a rács jórészt takart funkcionális elem: itt a kényelem, tisztíthatóság és megfelelő szerkezet az első. A VALEVÅG világoskék oldala nem önmagában kizáró ok, ha az ágynemű takarja. A műszálas huzat megnevezett praktikus kompromisszum; nem nevezünk szintetikus habot természetes anyagnak.
 
-A döntéshez még a két felnőtt külön komfortigénye/alvási helyzete és a terheléshez szükséges hozzávetőleges testsúlytartomány, bolti próba, majd a gyártói rácselőírás és címre vállalt ár/határidő szükséges. A korábban feltett komfortkérdés nyitott. Addig a matracok, rácsok és az új tárolós csomag **költségutakból kizárt kutatási sorok**; a P1 funkció nem nulla költség, csak még nincs kiválasztott megfelelő termék.
+A komfortcél és a jellemző oldalt/hason alvás rögzítve. A döntéshez még a terheléshez szükséges hozzávetőleges testsúlytartomány, a saját alvási helyzetekben végzett próba, a gyártói rácselőírás és a címre vállalt ár/határidő szükséges. Addig a matracok, rácsok és az új tárolós csomag **költségutakból kizárt kutatási sorok**; a P1 funkció nem nulla költség, csak még nincs kiválasztott megfelelő termék.
 
 ### A következő tulajdonosi kérdés
 

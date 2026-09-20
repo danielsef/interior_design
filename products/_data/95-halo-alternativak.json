@@ -19,9 +19,13 @@
     "price_huf": 115000,
     "price_note": "Ágyrács és matrac nélkül; a termékoldalon jelzett akció 2026-10-13-ig. Szállítás külön.",
     "url": "https://jysk.hu/haloszoba/agyak/agyalapok-agyracsok-agykeretek/agykeretek/agykeret-olsker-180x200-natur-tolgy",
-    "why": "Illeszkedés: valódi fa, natúr olajos felület, alacsony fejvég és szabad lábazat. A vizsgált megfelelő fekvőméretű keretek közül az egyik legalacsonyabb ellenőrzött termékár.",
+    "why": "A tulajdonos által választott első natúr tölgy/furnér ágyirány. Illeszkedés: valódi fa, natúr olajos felület, alacsony fejvég és szabad lábazat. A vizsgált megfelelő fekvőméretű keretek közül az egyik legalacsonyabb ellenőrzött termékár.",
     "caveat": "Kompromisszum: 216 cm külső hossz és kemény fa fejvég. A parkettával/grey beige mintával a tónus még egyeztetendő; 220 kg terhelhetőség. Rács és matrac költsége hiányzik.",
-    "availability_note": "Címre vállalt szállítási dátum és fuvardíj nem igazolt."
+    "availability_note": "Címre vállalt szállítási dátum és fuvardíj nem igazolt.",
+    "decision_status": "Próbára és választásra vár",
+    "next_step": "OLSKER/STUBBERUP irányon belül méret és fa minta, igazolt rácspár, közös matrac próba, terhelhetőség és októberi átadás. Szerelés saját segítséggel; tároló opcionális.",
+    "budget_include": false,
+    "budget_exclusion_reason": "Ágykeret-referencia: a teljes ágy–rács–matrac csomag kompatibilitása, választása és szállított ára még nem végleges. A keretár önmagában nem teljes fekhelyköltség."
   },
   {
     "room": "05-halo",
@@ -43,9 +47,13 @@
     "price_huf": 115000,
     "price_note": "Ágyrács és matrac nélkül; a termékoldalon jelzett akció 2026-10-13-ig. Szállítás külön.",
     "url": "https://jysk.hu/haloszoba/agyak/agyalapok-agyracsok-agykeretek/agykeretek/agykeret-stubberup-180x200-natur-tolgy",
-    "why": "Illeszkedés: valódi furnér és natúr felület, látszó lábazat. Az OLSKER-rel egyező ár, 9 cm-rel kisebb külső hossz.",
+    "why": "A tulajdonos által választott első natúr tölgy/furnér ágyirány. Illeszkedés: valódi furnér és natúr felület, látszó lábazat. Az OLSKER-rel egyező ár, 9 cm-rel kisebb külső hossz.",
     "caveat": "Kompromisszum: nem teljesen tömörfa és magasabb fejvég; 220 kg terhelhetőség. A fa színe fizikai mintával, az ágyrács/matrac és szállítás külön ellenőrizendő.",
-    "availability_note": "Címre vállalt szállítási dátum és fuvardíj nem igazolt."
+    "availability_note": "Címre vállalt szállítási dátum és fuvardíj nem igazolt.",
+    "decision_status": "Próbára és választásra vár",
+    "next_step": "OLSKER/STUBBERUP irányon belül méret és fa minta, igazolt rácspár, közös matrac próba, terhelhetőség és októberi átadás. Szerelés saját segítséggel; tároló opcionális.",
+    "budget_include": false,
+    "budget_exclusion_reason": "Ágykeret-referencia: a teljes ágy–rács–matrac csomag kompatibilitása, választása és szállított ára még nem végleges. A keretár önmagában nem teljes fekhelyköltség."
   },
   {
     "room": "05-halo",
@@ -67,9 +75,13 @@
     "price_huf": 443700,
     "price_note": "Rétegelt lemezes ágyrács benne; matrac és szállítás külön. N0100021MM40.",
     "url": "https://urbanhome.hu/en/products/alguema-bed-in-oak-veneer-with-natural-finish-for-180-x-200cm-mattress-n0100021mm40",
-    "why": "Illeszkedés: natúr tölgy/furnér és visszafogott fa megjelenés. Összevetési alternatíva mellékelt ágyráccsal; felára nem jelent automatikus minőségi előnyt.",
+    "why": "Összehasonlító tartalék: az első választott irány OLSKER/STUBBERUP natúr tölgy/furnér; tároló opcionális. Illeszkedés: natúr tölgy/furnér és visszafogott fa megjelenés. Összevetési alternatíva mellékelt ágyráccsal; felára nem jelent automatikus minőségi előnyt.",
     "caveat": "Kompromisszum: vegyes faalapú szerkezet és jelentős felár. Pontos felületkezelés, lábmagasság és fizikai színminta ellenőrizendő; a webes lábmagasság-adat hibásnak tűnik, nem vettük át.",
-    "availability_note": "Rendelésre, tájékoztató 2–3 hét; címre szállítás díja és konkrét határideje megerősítendő."
+    "availability_note": "Rendelésre, tájékoztató 2–3 hét; címre szállítás díja és konkrét határideje megerősítendő.",
+    "decision_status": "Próbára és választásra vár",
+    "next_step": "OLSKER/STUBBERUP irányon belül méret és fa minta, igazolt rácspár, közös matrac próba, terhelhetőség és októberi átadás. Szerelés saját segítséggel; tároló opcionális.",
+    "budget_include": false,
+    "budget_exclusion_reason": "Ágykeret-referencia: a teljes ágy–rács–matrac csomag kompatibilitása, választása és szállított ára még nem végleges. A keretár önmagában nem teljes fekhelyköltség."
   },
   {
     "room": "05-halo",
@@ -91,11 +103,13 @@
     "price_huf": 92990,
     "price_note": "Ágyrács és középső merevítő/támaszlábak a leírásban; matrac és fiók nélkül. Az élő lapon 3 990 Ft fuvar jelölve.",
     "url": "https://fenyobutor24.hu/Ada-agykeret-180039",
-    "why": "Valódi fa és mellékelt ágyrács: a JYSK 115 000 Ft-os, rács nélküli kereteknél kedvezőbb árazott referencia. A natúr fenyő illeszkedése mintával feltételes.",
+    "why": "Összehasonlító tartalék: az első választott irány OLSKER/STUBBERUP natúr tölgy/furnér; tároló opcionális. Valódi fa és mellékelt ágyrács: a JYSK 115 000 Ft-os, rács nélküli kereteknél kedvezőbb árazott referencia. A natúr fenyő illeszkedése mintával feltételes.",
     "caveat": "Az oldalon egyszerre raktáron és 30 munkanapon belül jelzés van; október 30-ra nem tekinthető biztos P1 megoldásnak. Teherbírás, lamellaköz és matrac-előírás hiányzik; a fenyő tónusa/csomóssága ellenőrizendő.",
     "availability_note": "Raktárjelzés mellett 30 munkanapos szállítás szerepel; konkrét, korábbi kézbesítési vállalás szükséges.",
     "budget_include": false,
-    "budget_exclusion_reason": "A teljes fekhely komfortja, terhelhetősége, helyszíni illeszkedése és címre vállalt kézbesítése nincs lezárva."
+    "budget_exclusion_reason": "A teljes fekhely komfortja, terhelhetősége, helyszíni illeszkedése és címre vállalt kézbesítése nincs lezárva.",
+    "decision_status": "Próbára és választásra vár",
+    "next_step": "OLSKER/STUBBERUP irányon belül méret és fa minta, igazolt rácspár, közös matrac próba, terhelhetőség és októberi átadás. Szerelés saját segítséggel; tároló opcionális."
   },
   {
     "room": "05-halo",
@@ -117,11 +131,13 @@
     "price_huf": 257900,
     "price_note": "Gázrugós tároló, fa ágyrács és szerelési tartozékok benne; matrac nélkül. Jelzett fuvar 9 990 Ft.",
     "url": "https://fenyobutor24.hu/Aniko-agynemutartos-agy-180",
-    "why": "A kért opcionális ágyneműtartót ténylegesen biztosító, valódi fa alternatíva; saját ágyrácsot tartalmaz.",
+    "why": "Összehasonlító tartalék: az első választott irány OLSKER/STUBBERUP natúr tölgy/furnér; tároló opcionális. A kért opcionális ágyneműtartót ténylegesen biztosító, valódi fa alternatíva; saját ágyrácsot tartalmaz.",
     "caveat": "A lakkozott fenyő tónusa/fénye és a zártabb alsó tömeg tudatos kompromisszum. Teherbírás, gázrugóhoz megengedett matractömeg és helyszíni méretpróba szükséges.",
     "availability_note": "Élő oldalon raktáron, 10 munkanapon belül; címre vállalt dátum és szállítási szolgáltatás tartalma megerősítendő.",
     "budget_include": false,
-    "budget_exclusion_reason": "A teljes fekhely komfortja, terhelhetősége, helyszíni illeszkedése és címre vállalt kézbesítése nincs lezárva."
+    "budget_exclusion_reason": "A teljes fekhely komfortja, terhelhetősége, helyszíni illeszkedése és címre vállalt kézbesítése nincs lezárva.",
+    "decision_status": "Próbára és választásra vár",
+    "next_step": "OLSKER/STUBBERUP irányon belül méret és fa minta, igazolt rácspár, közös matrac próba, terhelhetőség és októberi átadás. Szerelés saját segítséggel; tároló opcionális."
   },
   {
     "room": "05-halo",
@@ -143,10 +159,12 @@
     "price_huf": 462990,
     "price_note": "Egyetlen csomagár: ágy, tároló, saját fa ágyrács, 1 db Perfect Fusion 180×200 matrac. Jelzett fuvar 9 990 Ft; együtt 472 980 Ft, szerelés és ágynemű nélkül.",
     "url": "https://fenyobutor24.hu/spd/10030_31893/Aniko-fenyo-agynemutartos-agy-180x200-premium-7-zo",
-    "why": "Kereskedő által együtt kínált, egy közös matracos tárolós összeállítás. A saját ágyrács és matrac már benne van, nem kell külön még egyszer hozzáadni.",
+    "why": "Összehasonlító tartalék: az első választott irány OLSKER/STUBBERUP natúr tölgy/furnér; tároló opcionális. Kereskedő által együtt kínált, egy közös matracos tárolós összeállítás. A saját ágyrács és matrac már benne van, nem kell külön még egyszer hozzáadni.",
     "caveat": "A csomag nem igazolja a személyes komfortot: a matrac félkemény/kiegyensúlyozott leírása mellett H3 adat is szerepel; súlykorlát értelmezése, teljes teherbírás és felnyitás próbája szükséges. A külön Anikó keret és külön Perfect Fusion sora helyett választandó.",
     "availability_note": "Élő oldalon raktáron, 10 munkanapon belül; címre vállalt dátum és fuvar tartalma megerősítendő.",
     "budget_include": false,
-    "budget_exclusion_reason": "A teljes fekhely komfortja, terhelhetősége, helyszíni illeszkedése és címre vállalt kézbesítése nincs lezárva."
+    "budget_exclusion_reason": "A teljes fekhely komfortja, terhelhetősége, helyszíni illeszkedése és címre vállalt kézbesítése nincs lezárva.",
+    "decision_status": "Próbára és választásra vár",
+    "next_step": "OLSKER/STUBBERUP irányon belül méret és fa minta, igazolt rácspár, közös matrac próba, terhelhetőség és októberi átadás. Szerelés saját segítséggel; tároló opcionális."
   }
 ]

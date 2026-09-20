@@ -9,6 +9,8 @@
 
 > **Követelmények és források felülvizsgálata:** [a helyiség összes kategóriája](../kategoria-felulvizsgalat.md#07-dolgozo) · [közös beszerzési módszer és döntések](../beszerzesi-modszer.md). A követelményfelmérés nem jelent új teljes ár- vagy készletellenőrzést.
 
+> **P1 döntési lap:** [javasolt összeállítás, teljes funkciólista és nyitott feltételek](P1-LEZARAS.md) · [házszintű P1 állapot](../P1-KUTATASI-ALLAPOT.md). A „javaslat kész” nem jelenti, hogy a termék már megrendelt vagy beépített.
+
 ## Beköltözési prioritás
 
 **Prio 1:** a minimális beköltözéshez szükséges új beszerzés, a jelzett feltételekkel. **Prio 2:** körülbelül fél évig halasztható, vagy csak későbbi cserejelölt. Ez külön szempont az ajánlott/olcsóbb/prémium minősítéstől.
@@ -19,7 +21,7 @@
 
 **Feltétel / kiváltás:** A napi munkavégzés indulása nincs külön rögzítve: a szükséges függönyös fényvédelem és kábelelrendezés akkor Prio 1, amikor használatba veszitek a munkahelyet. A hozott bútorok helyett listázott új jelöltek minden költségútból ki vannak véve.
 
-> **Még külön ellenőrizendő, nem árazott:** Az új függönyös fényvédelem teljes rendszerára mérésig hiányzik; a korábbi roló kizárása nem megtakarítás.
+> **Még külön ellenőrizendő, nem árazott:** Az új függönyös fényvédelem teljes rendszerára mérésig hiányzik; a korábbi roló kizárása nem megtakarítás. A 2 990 Ft-os FÖRSÄSONG kábeltálca asztalilleszkedésig kizárt referencia, meglévő kábelrendezés kiválthatja.
 
 ### Prio 1 – előre sorolt tételek
 
@@ -29,36 +31,41 @@
 
 | Ajánlott tételek fázisonként | Listázott összeg |
 | --- | --- |
-| Prio 1 – beköltözéshez előre sorolt | **2 990 Ft** |
+| Prio 1 – beköltözéshez előre sorolt | **0 Ft** |
 | Prio 2 – későbbi új beszerzés | **150 720 Ft** |
 
 > Ezek a korábbi teljes tervezett darabszámokkal számolt, feltételes részösszegek; nem a legolcsóbb beköltözési kosár árai. Egy szükséglethez egy megfelelő megoldást válassz. A meglevővel kiváltott cserejelölt, a kizárt referencia, EUR-os vagy elfogyott termék és az árazatlan hiány nem szerepel bennük. A szükséges induló darabszámok és az átfedések még pontosítandók.
+
+> **Prio 1 funkció, de nincs az ajánlott HUF-részösszegben számolható jelölt:** Kábelrendszerező. Ez nem nulla költség.
 
 ## Költség ebben a helyiségben
 
 | Számítás | Összeg |
 | --- | --- |
-| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **153 710 Ft** |
-| 💰 Kategóriánként a legolcsóbb sor összege | 82 710 Ft |
-| 💎 Kategóriánként a legdrágább sor összege | 213 620 Ft |
+| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **150 720 Ft** |
+| 💰 Kategóriánként a legolcsóbb sor összege | 79 720 Ft |
+| 💎 Kategóriánként a legdrágább sor összege | 210 630 Ft |
 
 > A darabszám javaslat. A forintos költségutak az EUR-os, készlethiányos, meglévővel kiváltott és külön kizárt referenciatételeket kihagyják; ezek ára nem nulla. A feltételes ajánlások szerepelnek a tervezési összegben. A kategóriánkénti alsó/felső összeg nem összeillő bevásárlócsomag: az opcionális és egymást átfedő tételeket külön kell kiválasztani. A szállítás nincs benne; az ár és készlet rendelés előtt ellenőrizendő.
 
-> A forintos költségutakból kimaradó kategória (nincs számolható tétel): **Íróasztal, Irodai szék, Fényszűrő függöny, Roló (fényvédelem)**.
+> A forintos költségutakból kimaradó kategória (nincs számolható tétel): **Kábelrendszerező, Íróasztal, Irodai szék, Fényszűrő függöny, Roló (fényvédelem)**.
 
 ## Termékek
 
-⭐ = ezt venném · 💰 = olcsóbb, még vállalható · 💎 = jobb minőség, még észszerű áron
+⭐ = első javaslat, feltételekkel · 💰 = olcsóbb referencia · 💎 = magasabb árú összevetés
 
 ### Kábelrendszerező — Prio 1
 
 | Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 1** | ⭐ ajánlott | [FÖRSÄSONG Kábelrendszerező tálca, fehér](https://www.ikea.com/hu/hu/p/foersaesong-kabelrendszerezo-talca-feher-00573188/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | fehér porfestett acél, polipropilén heveder | 38x11x17 cm | **2 990 Ft** | 1 |
+| **Prio 1** | ⭐ ajánlott | [FÖRSÄSONG Kábelrendszerező tálca, fehér](https://www.ikea.com/hu/hu/p/foersaesong-kabelrendszerezo-talca-feher-00573188/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | fehér porfestett acél, polipropilén fogantyú; két tépőzáras kábelrögzítővel | 38x11x17 cm | **2 990 Ft** | 1 |
 
 **Prio 1:** A használatba vett munkahely kábeleit rendezni kell; a konkrét tálca helyettesíthető. Feltétel: Prio 1, ha a dolgozó már beköltözéstől napi munkára kell; egyébként Prio 2. Használható meglévő eszköz kiváltja az új vásárlást.
 
-- **FÖRSÄSONG Kábelrendszerező tálca, fehér** – Az asztal alá csavarozható tálca összefogja a kábeleket és a hosszabbítót – kisgyerekes házban fontos, hogy ne lógjon szabad zsinór.
+> **A beszerzési összegből kizárva:** A hozott asztal mérete és meglévő kábelkezelése még nincs igazolva. 1 darab áregység, nem szükségszerű új beszerzés.
+
+- **FÖRSÄSONG Kábelrendszerező tálca, fehér** – Az asztal szélére akasztható, áthelyezhető tálca a kábelek rendezésére; nem kell az asztallapot megfúrni. ⚠️ *1,2–4 cm vastag vízszintes laphoz, legfeljebb 3 kg terheléssel. Ellenőrizendő a hozott asztal pereme, a térdhely és az elosztó mérete. Nyitott kábelrendező, nem gyermekbiztonsági zár vagy érintésvédelmi burkolat.*
+  **Döntési státusz:** Méretre vár. **Következő lépés:** Mérd meg a hozott asztallap vastagságát és a perem szabad helyét; ellenőrizd, van-e már használható kábelrendező.
 
 ### Íróasztal — Prio 2
 
@@ -132,11 +139,11 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Prio 2** | Alternatíva | [LENDA Függöny elkötővel, 1 pár, törtfehér](https://www.ikea.com/hu/hu/p/lenda-fueggoeny-elkoetovel-1-par-toertfeher-fueggoenyrancolo-szalaggal-10633243/) | **IKEA** – online (IKEA.hu) + IKEA Budaörs áruház | 100% pamut (min. 50% újrahasznosított), törtfehér | 140x250 cm / panel | **11 990 Ft** | 1 |
 
-**Prio 2:** A ház további függönyei ütemezhetők; az első naptól szükséges alvási sötétítés és belátásvédelem P1. Feltétel: A használt helyiséghez szükséges függöny és karnis együtt P1. A darabszám itt csak 1 áregység, nem rendelési mennyiség.
+**Prio 2:** A ház további függönyei ütemezhetők; az első naptól szükséges alvási sötétítés és belátásvédelem P1. Feltétel: A tényleges munkavégzést zavaró fény vagy belátás esetén a szükséges fa előlapos/dobozos karnis két megengedett műanyag csúszópályával (alumínium és rúdkarnis nélkül) és függöny együtt P1; mérésig a 00 fejezet referenciacsomagjai használandók.
 
 > **A beszerzési összegből kizárva:** Nyílásonkénti mérés és egységes két rétegű rendszerkiosztás hiányzik; a szobai és házszintű becsléseket nem összegezzük.
 
-- **LENDA Függöny elkötővel, 1 pár, törtfehér** – Pamut fényszűrő, kedvezőbb árú természetes szálas jelölt. A 250 cm-es hossz csak a kész sín–padló távolsággal együtt ítélhető meg; nem feltételezünk padlóra omlást. ⚠️ *Nem valódi len, hanem pamut; ellenőrizni kell, hogy az ablak szélességéhez elég anyagmennyiséget ad-e (a szabály szerint az ablak 2x szélessége ajánlott).*
+- **LENDA Függöny elkötővel, 1 pár, törtfehér** – Pamut fényszűrő, kedvezőbb árú természetes szálas jelölt. A 250 cm-es hossz csak a kész sín–padló távolsággal együtt ítélhető meg; nem feltételezünk padlóra omlást. ⚠️ *Nem len, hanem pamut. A 250 cm-es hossz a kész sín–padló távolsággal ellenőrizendő; a redőzés a sín hosszából számolandó, nem az ablak szélességének automatikus kétszerezésével.*
 
 ### Roló (fényvédelem) — Prio 2
 
@@ -148,7 +155,7 @@
 
 > **A beszerzési összegből kizárva:** A tulajdonos függönyös megoldást választott; nincs külső árnyékoló, rolót sem tervezünk.
 
-- **SANDVEDEL Roló, bézs** – Korábbi referencia, a függönyös döntés után nem beszerzendő. ⚠️ *Az alvóhely sötétítési funkciója továbbra is P1, de függönnyel és hozzá illő karnissal kell biztosítani; ennek ára külön hiányzik.*
+- **SANDVEDEL Roló, bézs** – Korábbi referencia, a függönyös döntés után nem beszerzendő. ⚠️ *A munkához szükséges fényvédelmet függönnyel és fa előlapos/dobozos karnissal, két megengedett műanyag csúszópályával (alumínium és rúdkarnis nélkül) kell biztosítani. A korábbi roló nem beszerzendő.*
 
 ### Asztali rendszerező (bambusz) — Prio 2
 

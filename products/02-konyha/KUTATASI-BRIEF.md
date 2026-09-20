@@ -8,6 +8,8 @@
 - 60 cm mély L pult: egyik szár 240 cm + 60 cm közös sarok; másik szár 225 cm **a sarkon kívül**. Teljes külső méretek 300 és 285 cm; tervezett felület **3,15 m²**.
 - Sziget: **160×90 cm**, oldalsó kőlefordítás nélkül; felső lap **1,44 m²**.
 - **Főzőlap a szigeten, mosogató az L pulton.** A pontos modellek, beépítési mód és kivágási koordináták még hiányoznak.
+- **A hűtő, főzőlap (80×60 cm külső méret), sütő, páraelszívó, konyhai csap és edények–étkészlet megvan.** A mosógép is meglévő. A konyharendelés tartalmazza a fogantyút és hulladékgyűjtőt; a fogantyújavaslat stílusreferenciaként marad, új P1 vétel nélkül.
+- **A mosogató még nincs meg: nyitott P1 termékválasztás.** Az alulról beépítés vélhető igény, de a tulajdonosi megfogalmazás pontosításra vár. A mosogatószekrény belső szélessége, medencekiosztás és beépítési mód szükséges. A főzőlap külső mérete nem kivágási sablon.
 - Összes felső pultfelület **4,59 m²**, kivágások és szabási veszteség előtt. Nem azonos a megvásárolandó táblamennyiséggel.
 - Fehér fal, RAL 1019 grey beige nyílászárók, Norwich Arena padló. Preferált matt, világos, enyhén meleg és halk kőhatás, a szigeten a konyhapulttal azonos felület.
 

@@ -13,12 +13,12 @@
   "tier": "olcsóbb",
   "qty": 1,
   "why": "Keskeny (30 cm), padlótól plafonig érő zárt fehér szekrény – ide fér a porszívó, felmosóvödör, tisztítószerek; megfelel a helyiségre előírt 'zárt, fehér frontok' elvnek.",
-  "caveat": "Fóliázott forgácslemez, nem tömör fa vagy furnér – nedves törlőkendővel tisztítható, de tartós nedvességnek ne tegyék ki.",
+  "caveat": "Fóliázott forgácslemez, nem tömör fa vagy furnér – nedves törlőkendővel tisztítható, de tartós nedvességnek ne tegyék ki. A csukott ajtó nem jelent gyermekzárat. Belső polckiosztás, magas eszközök befoglalása, zárolás és falrögzítés ellenőrizendő.",
   "verified": "product_page",
   "checked": "2026-09-20",
-  "priority": 1,
-  "priority_reason": "A tisztítószereknek és eszközöknek szükség szerint elzárt, megfelelő hely kell.",
-  "priority_condition": "Meglévő megfelelően elzárt tárolóval az új szekrény vásárlása P2."
+  "priority": 2,
+  "priority_reason": "A tisztítószerek hozzáférésének megakadályozása P1; teljes magas takarítószekrény csak akkor kell rögtön, ha nincs egyszerűbb megfelelő hely.",
+  "priority_condition": "Először meglévő szekrény alkalmassá tétele; új tároló hiány esetén, a P1-LEZARAS.md szerint."
  },
  {
   "room": "11-haztartasi",
@@ -33,13 +33,13 @@
   "url": "https://www.ikea.com/hu/hu/p/metod-magasszekreny-polcokkal-2-ajto-feher-enkoeping-feher-fa-hat-s59473511/",
   "tier": "ajánlott",
   "qty": 1,
-  "why": "A METOD rendszer erősebb korpusszal, lágyan záródó pántokkal és teljes belmagassággal (228 cm) készül – ide fér a vasalódeszka, felmosó és a magasabb flakonok is, ahogy az irányelv 'a szükségesnél is több zárt tárolót' javasol az erdős telek miatt.",
-  "caveat": "Az Enköping front fólia, nem valódi fa; drágább, tömörfa hatású METOD front is választható, ha ez fontos szempont.",
+  "why": "Fehér zárt tárolási lehetőség, ha a magas eszközök ténylegesen elférnek benne. A 228 cm magasság nem teljes belmagasság, és nem igazolja a polcos belsőbe a vasalódeszka vagy felmosó beférését.",
+  "caveat": "Az Enköping front fólia, nem valódi fa; drágább, tömörfa hatású METOD front is választható, ha ez fontos szempont. A csukott ajtó nem jelent gyermekzárat. Belső polckiosztás, magas eszközök befoglalása, zárolás és falrögzítés ellenőrizendő.",
   "verified": "product_page",
   "checked": "2026-09-20",
-  "priority": 1,
-  "priority_reason": "A tisztítószereknek és eszközöknek szükség szerint elzárt, megfelelő hely kell.",
-  "priority_condition": "Meglévő megfelelően elzárt tárolóval az új szekrény vásárlása P2."
+  "priority": 2,
+  "priority_reason": "A tisztítószerek hozzáférésének megakadályozása P1; teljes magas takarítószekrény csak akkor kell rögtön, ha nincs egyszerűbb megfelelő hely.",
+  "priority_condition": "Először meglévő szekrény alkalmassá tétele; új tároló hiány esetén, a P1-LEZARAS.md szerint."
  },
  {
   "room": "11-haztartasi",
@@ -159,7 +159,7 @@
   "url": "https://www.vidaxl.hu/e/vidaxl-mosogep-osszeepito-keret-kihuzhato-polccal/8718475945369.html",
   "tier": "olcsóbb",
   "qty": 1,
-  "why": "Univerzális keret, ami biztonságosan rögzíti a szárítógépet a mosógép tetejére, kihúzható polccal a szennyeskosárnak – ez a klasszikus 'egymásra pakolós' megoldás.",
+  "why": "Feltételes összeépítőkeret-jelölt; csak a konkrét géppárhoz igazolt kompatibilitással használható.",
   "caveat": "Csak a keretet adja; a gépek pontos szélességét/mélységét a vásárlás előtt egyeztetni kell, mert nem minden márkához illik egyformán.",
   "verified": "product_page",
   "checked": "2026-09-20",
@@ -181,7 +181,7 @@
   "tier": "ajánlott",
   "qty": 1,
   "why": "Derékmagasságba emeli a gépet, fiókja a mosószereknek, kihúzható polca a szennyeskosárnak – napi használatra kényelmesebb, mint egy sima keret, és illik az ENHET szekrénysorhoz.",
-  "caveat": "FONTOS: ez egy gép (nem két gép egymásra épített) magasítására való; ha ténylegesen mosógép fölé kell szárítógépet tenni, a vidaXL keret (fenti sor) kell helyette.",
+  "caveat": "Egy gép magasítója, nem összeépítő keret. Egymásra építéshez a konkrét mosó- és szárítógéphez jóváhagyott készlet kell; a vidaXL univerzális keret kompatibilitása sincs még igazolva.",
   "verified": "product_page",
   "checked": "2026-09-20",
   "priority": 2,

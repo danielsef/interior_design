@@ -18,7 +18,7 @@ Tulajdonosi kérésre a [Bútor Mirek](https://www.butormirek.hu/) is keresési 
 
 ## Még nyitott
 
-- A fekvőrész oldala, a kanapéval szemben állva értelmezve; interaktív kérdés feltéve.
+- A fekvőrész oldala már rögzített: szemből balos; a kész helyszíni elhelyezés még ellenőrizendő.
 - Kétszemélyes fekvőkomfort és puhaság: próbával dönthető el; konkrét minimum fekvőszélességet a tulajdonos még nem rögzített.
 - Kész helyszíni méret, bejárati bejuttatás, kandallóhoz és fő közlekedőhöz viszonyított elhelyezés.
 

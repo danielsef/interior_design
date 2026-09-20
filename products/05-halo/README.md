@@ -3,11 +3,13 @@
 | | |
 | --- | --- |
 | **Helyiség** | 16,22 m² · fa parketta |
-| **Termékek** | 33 db |
+| **Termékek** | 34 db |
 | **Áradatok dátuma** | 2026-09-20 |
 | **Inspirációs képek** | [`../../inpiration/05-halo/`](../../inpiration/05-halo/README.md) |
 
 > **Követelmények és források felülvizsgálata:** [a helyiség összes kategóriája](../kategoria-felulvizsgalat.md#05-halo) · [közös beszerzési módszer és döntések](../beszerzesi-modszer.md). A követelményfelmérés nem jelent új teljes ár- vagy készletellenőrzést.
+
+> **P1 döntési lap:** [javasolt összeállítás, teljes funkciólista és nyitott feltételek](P1-LEZARAS.md) · [házszintű P1 állapot](../P1-KUTATASI-ALLAPOT.md). A „javaslat kész” nem jelenti, hogy a termék már megrendelt vagy beépített.
 
 > **Aktuális kutatási brief:** [megerősített igények és nyitott kérdések](KUTATASI-BRIEF.md). Az új követelményekhez a korábbi termékjelöltek illeszkedését még ellenőrizni kell.
 
@@ -17,28 +19,27 @@
 
 **Prio 1:** a minimális beköltözéshez szükséges új beszerzés, a jelzett feltételekkel. **Prio 2:** körülbelül fél évig halasztható, vagy csak későbbi cserejelölt. Ez külön szempont az ajánlott/olcsóbb/prémium minősítéstől.
 
-**Induló minimum:** Teljes, használható fekhely, megfelelő méretű alap ágynemű és sötétítés. Az alap ruhatárolást itt, ajtós gardróbszekrénnyel oldjuk meg (P1), a terven berajzolt helyen; fele akasztós, fele polcos belsővel.
+**Induló minimum:** Teljes, használható fekhely és sötétítés; a felnőtt ágynemű megvan. Az alap ruhatárolást itt, ajtós gardróbszekrénnyel oldjuk meg (P1), a terven berajzolt helyen; fele akasztós, fele polcos belsővel.
 
 **Ráér később:** Éjjeliszekrény, külön komód, ágyvégi pad, szőnyeg, tükör és díszpárnák. A fényszűrő csak akkor halasztható, ha a szükséges belátásvédelem már megoldott.
 
-**Feltétel / kiváltás:** Egy közös 180×200-as matrac; ágyneműtartó előny, de nem kötelező. A megfelelő csomagok közül a legalacsonyabb teljes árat keressük. A külső méret, kompatibilis ágyrács és matrackomfort ellenőrizendő. Két matrac- és két ágyrácsjelölt már árazott, de a komfort/kompatibilitás igazolásáig kimarad a költségutakból.
+**Feltétel / kiváltás:** Egy közös 180×200-as matrac; ágyneműtartó előny, de nem kötelező. A megfelelő csomagok közül a legalacsonyabb teljes árat keressük. A külső méret, kompatibilis ágyrács és matrackomfort ellenőrizendő. Matracérzet: közepesnél kissé keményebb, szállodai jellegű; az árazott csomagok próba és kompatibilitás ellenőrzéséig nem végleges választások. Első ágyirány OLSKER/STUBBERUP natúr tölgy/furnér; oldalt/hason alvás. Fehér, közel mennyezetig érő, méretre előkészített önszerelős gardrób az első út, easybútor/asztalos ajánlattal. PAX csak összevetés; kész méretek mérendők, szerelés saját segítséggel.
 
-> **Még külön ellenőrizendő, nem árazott:** Az új ágykeret még alternatíva, nincs az ajánlott összegben; a régi 100 000 Ft-os keret kivétele nem megtakarítás. A kiválasztott csomag szállítása, matracvédő, lepedő, paplan és párna még hiányzik. A listázott ágykeret/huzat nem automatikusan teljes alvási csomag. A háló karnis–fényszűrő–sötétítő rendszere P1, nyílásonkénti mérésig még árazatlan.
+> **Még külön ellenőrizendő, nem árazott:** Az új ágykeret még alternatíva, nincs az ajánlott összegben; a régi 100 000 Ft-os keret kivétele nem megtakarítás. A kiválasztott fekhely szállítása még hiányzik; a felnőtt ágynemű meglévő, új teljes textilcsomag nem szükséges. A meglévő lepedő 180×200-as illeszkedését és a matracvédőt külön ellenőrizni kell. A listázott ágykeret/huzat nem automatikusan teljes alvási csomag. A háló karnis–fényszűrő–sötétítő rendszere P1, nyílásonkénti mérésig még árazatlan.
 
 ### Prio 1 – előre sorolt tételek
 
 | Tételkör | Miért / milyen feltétellel? |
 | --- | --- |
 | Franciaágy | A mindennapi fekhely a beköltözési minimum része. |
-| Ágyneműhuzat garnitúra | Legalább egy használható, megfelelő méretű garnitúra szükséges. |
-| Ajtós gardróbszekrény | Tulajdonosi kérés: elsőként az 05 hálóba és a 06 babaszobába ajtós ruhatároló kell. **Feltétel:** A terven berajzolt hely; kész méret, nyitás, szín és szükséges kapacitás ellenőrizendő. |
+| Ajtós gardróbszekrény | Tulajdonosi kérés: elsőként az 05 hálóba és a 06 babaszobába ajtós ruhatároló kell. **Feltétel:** Fehér, közel mennyezetig érő méretre előkészített gardrób az első irány; kész helyszíni mérés szükséges. Saját segítséggel szerelik és rögzítik. |
 | Matrac | A mindennapi fekhely a beköltözési minimum része. **Feltétel:** Egy közös 180×200-as matrac, a kerettel és alátámasztással igazolt kompatibilitás; személyes komfortpróba és szállítás ellenőrizendő. |
 | Ágyrács | A mindennapi fekhely a beköltözési minimum része. **Feltétel:** Csak a külön rácsot igénylő kompatibilis kerethez két darab; Alguema, Ada és Anikó mellé a saját mellékelt rács kiváltja. |
 | Franciaágy | A mindennapi fekhely a beköltözési minimum része. **Feltétel:** Egy közös 180×200-as matraccal és kompatibilis alátámasztással; a teljes csomag és a helyszíni színminta ellenőrizendő. |
 
 | Ajánlott tételek fázisonként | Listázott összeg |
 | --- | --- |
-| Prio 1 – beköltözéshez előre sorolt | **8 990 Ft** |
+| Prio 1 – beköltözéshez előre sorolt | **0 Ft** |
 | Prio 2 – későbbi új beszerzés | **307 910 Ft** |
 
 > Ezek a korábbi teljes tervezett darabszámokkal számolt, feltételes részösszegek; nem a legolcsóbb beköltözési kosár árai. Egy szükséglethez egy megfelelő megoldást válassz. A meglevővel kiváltott cserejelölt, a kizárt referencia, EUR-os vagy elfogyott termék és az árazatlan hiány nem szerepel bennük. A szükséges induló darabszámok és az átfedések még pontosítandók.
@@ -49,17 +50,17 @@
 
 | Számítás | Összeg |
 | --- | --- |
-| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **316 900 Ft** |
-| 💰 Kategóriánként a legolcsóbb sor összege | 357 900 Ft |
-| 💎 Kategóriánként a legdrágább sor összege | 764 600 Ft |
+| ⭐ Csak az **ajánlott** tételek (javasolt darabszámmal) | **307 910 Ft** |
+| 💰 Kategóriánként a legolcsóbb sor összege | 233 910 Ft |
+| 💎 Kategóriánként a legdrágább sor összege | 307 910 Ft |
 
 > A darabszám javaslat. A forintos költségutak az EUR-os, készlethiányos, meglévővel kiváltott és külön kizárt referenciatételeket kihagyják; ezek ára nem nulla. A feltételes ajánlások szerepelnek a tervezési összegben. A kategóriánkénti alsó/felső összeg nem összeillő bevásárlócsomag: az opcionális és egymást átfedő tételeket külön kell kiválasztani. A szállítás nincs benne; az ár és készlet rendelés előtt ellenőrizendő.
 
-> A forintos költségutakból kimaradó kategória (nincs számolható tétel): **Ajtós gardróbszekrény, Matrac, Ágyrács, Függöny, Sötétítő roló (fényzáró réteg)**.
+> A forintos költségutakból kimaradó kategória (nincs számolható tétel): **Franciaágy, Ajtós gardróbszekrény, Matrac, Ágyrács, Ágyneműhuzat garnitúra, Függöny, Sötétítő roló (fényzáró réteg)**.
 
 ## Termékek
 
-⭐ = ezt venném · 💰 = olcsóbb, még vállalható · 💎 = jobb minőség, még észszerű áron
+⭐ = első javaslat, feltételekkel · 💰 = olcsóbb referencia · 💎 = magasabb árú összevetés
 
 ### Franciaágy — Prio 1
 
@@ -77,31 +78,26 @@
 
 **Prio 1:** A mindennapi fekhely a beköltözési minimum része. Feltétel: Egy közös 180×200-as matraccal és kompatibilis alátámasztással; a teljes csomag és a helyszíni színminta ellenőrizendő. A mindennapi fekhely a beköltözési minimum része.
 
-> **A beszerzési összegből kizárva:** A teljes fekhely komfortja, terhelhetősége, helyszíni illeszkedése és címre vállalt kézbesítése nincs lezárva. A konkrét 140/160×200-as ágy nem fogadja a kért közös 180×200-as matracot.
+> **A beszerzési összegből kizárva:** Ágykeret-referencia: a teljes ágy–rács–matrac csomag kompatibilitása, választása és szállított ára még nem végleges. A keretár önmagában nem teljes fekhelyköltség. A teljes fekhely komfortja, terhelhetősége, helyszíni illeszkedése és címre vállalt kézbesítése nincs lezárva. A konkrét 140/160×200-as ágy nem fogadja a kért közös 180×200-as matracot.
 
-- **Ágykeret OLSKER 180×200 natúr tölgy** – Illeszkedés: valódi fa, natúr olajos felület, alacsony fejvég és szabad lábazat. A vizsgált megfelelő fekvőméretű keretek közül az egyik legalacsonyabb ellenőrzött termékár. ⚠️ *Kompromisszum: 216 cm külső hossz és kemény fa fejvég. A parkettával/grey beige mintával a tónus még egyeztetendő; 220 kg terhelhetőség. Rács és matrac költsége hiányzik.*
-- **Ágykeret STUBBERUP 180×200 natúr tölgy** – Illeszkedés: valódi furnér és natúr felület, látszó lábazat. Az OLSKER-rel egyező ár, 9 cm-rel kisebb külső hossz. ⚠️ *Kompromisszum: nem teljesen tömörfa és magasabb fejvég; 220 kg terhelhetőség. A fa színe fizikai mintával, az ágyrács/matrac és szállítás külön ellenőrizendő.*
-- **Kave Home Alguema 180×200, natúr tölgy/furnér, ágyráccsal** – Illeszkedés: natúr tölgy/furnér és visszafogott fa megjelenés. Összevetési alternatíva mellékelt ágyráccsal; felára nem jelent automatikus minőségi előnyt. ⚠️ *Kompromisszum: vegyes faalapú szerkezet és jelentős felár. Pontos felületkezelés, lábmagasság és fizikai színminta ellenőrizendő; a webes lábmagasság-adat hibásnak tűnik, nem vettük át.*
-- **Ada natúr tömörfenyő ágy 180×200, saját ágyráccsal** – Valódi fa és mellékelt ágyrács: a JYSK 115 000 Ft-os, rács nélküli kereteknél kedvezőbb árazott referencia. A natúr fenyő illeszkedése mintával feltételes. ⚠️ *Az oldalon egyszerre raktáron és 30 munkanapon belül jelzés van; október 30-ra nem tekinthető biztos P1 megoldásnak. Teherbírás, lamellaköz és matrac-előírás hiányzik; a fenyő tónusa/csomóssága ellenőrizendő.*
-- **Anikó tömörfenyő ágyneműtartós ágy 180×200, saját ágyráccsal** – A kért opcionális ágyneműtartót ténylegesen biztosító, valódi fa alternatíva; saját ágyrácsot tartalmaz. ⚠️ *A lakkozott fenyő tónusa/fénye és a zártabb alsó tömeg tudatos kompromisszum. Teherbírás, gázrugóhoz megengedett matractömeg és helyszíni méretpróba szükséges.*
-- **Anikó 180×200 tárolós ágy + Perfect Fusion közös 180×200 matrac csomag** – Kereskedő által együtt kínált, egy közös matracos tárolós összeállítás. A saját ágyrács és matrac már benne van, nem kell külön még egyszer hozzáadni. ⚠️ *A csomag nem igazolja a személyes komfortot: a matrac félkemény/kiegyensúlyozott leírása mellett H3 adat is szerepel; súlykorlát értelmezése, teljes teherbírás és felnyitás próbája szükséges. A külön Anikó keret és külön Perfect Fusion sora helyett választandó.*
+- **Ágykeret OLSKER 180×200 natúr tölgy** – A tulajdonos által választott első natúr tölgy/furnér ágyirány. Illeszkedés: valódi fa, natúr olajos felület, alacsony fejvég és szabad lábazat. A vizsgált megfelelő fekvőméretű keretek közül az egyik legalacsonyabb ellenőrzött termékár. ⚠️ *Kompromisszum: 216 cm külső hossz és kemény fa fejvég. A parkettával/grey beige mintával a tónus még egyeztetendő; 220 kg terhelhetőség. Rács és matrac költsége hiányzik.*
+  **Döntési státusz:** Próbára és választásra vár. **Következő lépés:** OLSKER/STUBBERUP irányon belül méret és fa minta, igazolt rácspár, közös matrac próba, terhelhetőség és októberi átadás. Szerelés saját segítséggel; tároló opcionális.
+- **Ágykeret STUBBERUP 180×200 natúr tölgy** – A tulajdonos által választott első natúr tölgy/furnér ágyirány. Illeszkedés: valódi furnér és natúr felület, látszó lábazat. Az OLSKER-rel egyező ár, 9 cm-rel kisebb külső hossz. ⚠️ *Kompromisszum: nem teljesen tömörfa és magasabb fejvég; 220 kg terhelhetőség. A fa színe fizikai mintával, az ágyrács/matrac és szállítás külön ellenőrizendő.*
+  **Döntési státusz:** Próbára és választásra vár. **Következő lépés:** OLSKER/STUBBERUP irányon belül méret és fa minta, igazolt rácspár, közös matrac próba, terhelhetőség és októberi átadás. Szerelés saját segítséggel; tároló opcionális.
+- **Kave Home Alguema 180×200, natúr tölgy/furnér, ágyráccsal** – Összehasonlító tartalék: az első választott irány OLSKER/STUBBERUP natúr tölgy/furnér; tároló opcionális. Illeszkedés: natúr tölgy/furnér és visszafogott fa megjelenés. Összevetési alternatíva mellékelt ágyráccsal; felára nem jelent automatikus minőségi előnyt. ⚠️ *Kompromisszum: vegyes faalapú szerkezet és jelentős felár. Pontos felületkezelés, lábmagasság és fizikai színminta ellenőrizendő; a webes lábmagasság-adat hibásnak tűnik, nem vettük át.*
+  **Döntési státusz:** Próbára és választásra vár. **Következő lépés:** OLSKER/STUBBERUP irányon belül méret és fa minta, igazolt rácspár, közös matrac próba, terhelhetőség és októberi átadás. Szerelés saját segítséggel; tároló opcionális.
+- **Ada natúr tömörfenyő ágy 180×200, saját ágyráccsal** – Összehasonlító tartalék: az első választott irány OLSKER/STUBBERUP natúr tölgy/furnér; tároló opcionális. Valódi fa és mellékelt ágyrács: a JYSK 115 000 Ft-os, rács nélküli kereteknél kedvezőbb árazott referencia. A natúr fenyő illeszkedése mintával feltételes. ⚠️ *Az oldalon egyszerre raktáron és 30 munkanapon belül jelzés van; október 30-ra nem tekinthető biztos P1 megoldásnak. Teherbírás, lamellaköz és matrac-előírás hiányzik; a fenyő tónusa/csomóssága ellenőrizendő.*
+  **Döntési státusz:** Próbára és választásra vár. **Következő lépés:** OLSKER/STUBBERUP irányon belül méret és fa minta, igazolt rácspár, közös matrac próba, terhelhetőség és októberi átadás. Szerelés saját segítséggel; tároló opcionális.
+- **Anikó tömörfenyő ágyneműtartós ágy 180×200, saját ágyráccsal** – Összehasonlító tartalék: az első választott irány OLSKER/STUBBERUP natúr tölgy/furnér; tároló opcionális. A kért opcionális ágyneműtartót ténylegesen biztosító, valódi fa alternatíva; saját ágyrácsot tartalmaz. ⚠️ *A lakkozott fenyő tónusa/fénye és a zártabb alsó tömeg tudatos kompromisszum. Teherbírás, gázrugóhoz megengedett matractömeg és helyszíni méretpróba szükséges.*
+  **Döntési státusz:** Próbára és választásra vár. **Következő lépés:** OLSKER/STUBBERUP irányon belül méret és fa minta, igazolt rácspár, közös matrac próba, terhelhetőség és októberi átadás. Szerelés saját segítséggel; tároló opcionális.
+- **Anikó 180×200 tárolós ágy + Perfect Fusion közös 180×200 matrac csomag** – Összehasonlító tartalék: az első választott irány OLSKER/STUBBERUP natúr tölgy/furnér; tároló opcionális. Kereskedő által együtt kínált, egy közös matracos tárolós összeállítás. A saját ágyrács és matrac már benne van, nem kell külön még egyszer hozzáadni. ⚠️ *A csomag nem igazolja a személyes komfortot: a matrac félkemény/kiegyensúlyozott leírása mellett H3 adat is szerepel; súlykorlát értelmezése, teljes teherbírás és felnyitás próbája szükséges. A külön Anikó keret és külön Perfect Fusion sora helyett választandó.*
+  **Döntési státusz:** Próbára és választásra vár. **Következő lépés:** OLSKER/STUBBERUP irányon belül méret és fa minta, igazolt rácspár, közös matrac próba, terhelhetőség és októberi átadás. Szerelés saját segítséggel; tároló opcionális.
 - **Ágykeret OLSKER 160x200 natúr tölgy** – Korábbi, méret miatt kizárt referencia; nem vásárlási ajánlás. ⚠️ *A megfelelő 180-as változatot külön termékként, saját árral és tartozékokkal kell ellenőrizni. A rattan fejvég preferencia, nem kötelező feltétel.*
+  **Döntési státusz:** Kizárt referencia. **Következő lépés:** A kért közös 180×200-as fekhelyhez válassz a külön 180-as jelöltek közül; ez a méret nem megfelelő.
 - **VEVELSTAD Ágykeret 2 fejvéggel, fehér/Tolkning rattan** – Korábbi, méret miatt kizárt referencia; nem vásárlási ajánlás. ⚠️ *A megfelelő 180-as változatot külön termékként, saját árral és tartozékokkal kell ellenőrizni. A rattan fejvég preferencia, nem kötelező feltétel.*
+  **Döntési státusz:** Kizárt referencia. **Következő lépés:** A kért közös 180×200-as fekhelyhez válassz a külön 180-as jelöltek közül; ez a méret nem megfelelő.
 - **Tölgyfa franciaágy rattan ágytámlával 160x200 cm – Pola (The Beds)** – Korábbi, méret miatt kizárt referencia; nem vásárlási ajánlás. ⚠️ *A megfelelő 180-as változatot külön termékként, saját árral és tartozékokkal kell ellenőrizni. A rattan fejvég preferencia, nem kötelező feltétel.*
-
-### Ágyneműhuzat garnitúra — Prio 1
-
-| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Prio 1** | ⭐ ajánlott | [ÄNGSLILJA Paplanhuzat+2 párnahuzat, natúr](https://www.ikea.com/hu/hu/p/aengslilja-paplanhuzat-2-parnahuzat-natur-70591966/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | 100% pamut (min. 50% újrahasznosított), törtfehér/natúr | 200x200 cm paplanhuzat + 2x 50x60 cm párnahuzat | **8 990 Ft** <br>*/garnitúra* | 1 |
-| **Prio 1** | 💎 prémium | [NATTJASMIN Paplanhuzat+2 párnahuzat, világosbézs](https://www.ikea.com/hu/hu/p/nattjasmin-paplanhuzat-2-parnahuzat-vilagosbezs-10442601/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | 60% pamut, 40% lyocell, világosbézs, finom csíkos szatén szövés | 200x200 cm paplanhuzat + 2x 50x60 cm párnahuzat | **12 990 Ft** <br>*akciós, eredeti ár 17 990 Ft* | 1 |
-| **Prio 1** | Figyelőlista | [Kétszemélyes len ágyneműhuzat szett, bézs](https://www2.hm.com/hu_hu/productpage.0188589050.html) | **H&M Home** – online, házhozszállítás; készlet a megadott állapot szerint | 100% len, bézs; 60 °C-on mosható | 200 × 200 cm + 50 × 60 cm párnahuzatok | **59 995 Ft** <br>*/szett* <br>*A kiválasztott 200×200 / 50×60 méret nincs készleten; összesítőből kizárva.* | 1 |
-
-**Prio 1:** Legalább egy használható, megfelelő méretű garnitúra szükséges.
-
-- **ÄNGSLILJA Paplanhuzat+2 párnahuzat, natúr** – Sima, mintátlan, előmosott pamut natúr színben – matt textúra, pontosan a 'mosott len vagy pamut, törtfehér' irányelvhez illik. ⚠️ *Pamut, nem len. A H&M 100% len alternatívája bekerült a figyelőlistába, de a 200×200 / 50×60 méret az ellenőrzéskor elfogyott.*
-- **NATTJASMIN Paplanhuzat+2 párnahuzat, világosbézs** – Puhább lyocell-pamut keverék, homok/bézs tónus – finomabb fogású felsőkategóriás választás a hálóba. ⚠️ *Szatén kötésű, enyhén fényes felület – az irányelv a fényes szatént nagy felületen kerülendőnek tartja, ágyneműnél ez kompromisszum.*
-- **Kétszemélyes len ágyneműhuzat szett, bézs** – Valódi len alternatíva a projekt pamut garnitúrájához. ⚠️ *A 160×200 / 70×80 és 200×220 / 70×80 változat elérhetőnek látszott, de nem azonos a terv méretével. Nem automatikus mérethelyettesítés.*
+  **Döntési státusz:** Kizárt referencia. **Következő lépés:** A kért közös 180×200-as fekhelyhez válassz a külön 180-as jelöltek közül; ez a méret nem megfelelő.
 
 ### Ajtós gardróbszekrény — Prio 1
 
@@ -113,17 +109,26 @@
 | **Prio 1** | 💎 prémium | [Csanád 2 ajtós, 1 fiókos válaszfalas szekrény](https://fenyobutor24.hu/spd/10114010102010030553/Csanad-2-ajtos-1-fiokos-Valaszfalas-szekreny) | **Fenyőbútor24** – fenyobutor24.hu; egyben szállított bútor | tömör borovi fenyő; natúr fenyőszín, felületminta szükséges | 103×55×190 cm (szélesség×mélység×magasság) | **209 900 Ft** <br>*/db; élő böngészőár. Jelzett fuvar 9 990 Ft; több darabra és behordásra megerősítendő.* | 1 |
 | **Prio 1** | 💎 prémium | [PAX / TONSTAD gardrób kombináció 595.667.32](https://www.ikea.com/hu/hu/p/pax-tonstad-gardrob-komb-feher-toelgy-furner-s59566732/) | **IKEA** – ikea.com/hu; magyar készlet ellenőrizendő | valódi tölgyfurnér ajtó; fehér papírfóliás forgács-/farostlemez korpusz, nem tömörfa | 150×60×236,4 cm (szélesség×mélység×magasság) | **304 000 Ft** <br>*/kombináció; fuvar, szerelés és falcsavar külön* | 1 |
 | **Prio 1** | 💎 prémium | [Provence TYP 01 kétajtós ruhásszekrény fehér](https://www.butormirek.hu/ruhasszekrenyek/521-provence-ketajtos-ruhasszekreny-feher-tomor-fenyo.html) | **Bútor Mirek** – butormirek.hu; Magyarországra, összeszerelve szállítva | a kereskedő szerint tömör fenyő, fehér festés | 107×60×195 cm (szélesség×mélység×magasság) | **342 701 Ft** <br>*/db; az oldal 200 000 Ft fölött ingyenes szállítást jelez, behordás külön tisztázandó* | 1 |
+| **Prio 1** | Figyelőlista | [PAX/FORSAND használatra szabott 300 cm-es sor, polcokkal és sárgarézszínű gombokkal](https://www.ikea.com/hu/hu/p/forsand-ajto-feher-60391091/) | **IKEA** – ikea.com/hu; magyar készlet és fuvar ellenőrizendő | fehér PAX lapanyag korpusz és FORSAND könnyített ajtó; BAGGANÄS sárgarézzel futtatott acél gomb | 300×kb. 60×236,4 cm; javasolt méret, helyszínen ellenőrizendő | **357 970 Ft** <br>*Összeadott termékcsomag, nem gyári kész kombináció; fuvar, falcsavar és szerelés külön.* | 1 |
 
-**Prio 1:** Tulajdonosi kérés: elsőként az 05 hálóba és a 06 babaszobába ajtós ruhatároló kell. Feltétel: A terven berajzolt hely; kész méret, nyitás, szín és szükséges kapacitás ellenőrizendő.
+**Prio 1:** Tulajdonosi kérés: elsőként az 05 hálóba és a 06 babaszobába ajtós ruhatároló kell. Feltétel: Fehér, közel mennyezetig érő méretre előkészített gardrób az első irány; kész helyszíni mérés szükséges. Saját segítséggel szerelik és rögzítik.
 
-> **A beszerzési összegből kizárva:** Méret- és árreferencia, nem végleges szobai darabszám; teljes szállított csomag még nincs kiválasztva.
+> **A beszerzési összegből kizárva:** Méret- és árreferencia, nem végleges szobai darabszám; teljes szállított csomag még nincs kiválasztva. A használati csomagjavaslat még nem kiválasztott, méretben és szállítással nem véglegesített.
 
-- **PAX / FORSAND ajtós alapösszeállítás, fehér, 795.010.37** – Első racionális árreferencia: helyszínen összeszerelhető, átrendezhető belső; két váz, négy ajtó és pántcsomag, négy polc, két akasztórúd. ⚠️ *A külső méret nem fokozatmentesen állítható. A váz állítva szereléséhez legalább 237 cm magasság kell; falrögzítés szükséges. A 300 cm-es hálós sor ellenőrzött alkatrészára 309 000 Ft, nem ennek az egy darabos sornak az ára.*
-- **easybútor fehér 100 cm-es ajtós konfiguráció, 2 polc + rúd + 80 mm lábazat** – Élő konfigurátor: 66 000 korpusz + 36 000 ajtó + 4 000 két polc + 5 000 rúd + 4 200 lábazat + 1 200 lábcsomag. Méretre gyártható, helyszínen összeszerelhető. ⚠️ *Ajtólapszám, pánt/fogantyú tartalma és polcfuratsor nem igazolt. A webshop nem fogad online rendelést; fuvar, kész méret és október 30. előtti átadás megerősítendő. Qty 1 áregység, nem szobai rendelési darabszám.*
-- **PAX / FORSAND fehér alacsony csomag, 695.010.33** – Olcsóbb és alacsonyabb moduláris alternatíva: két váz, négy ajtó és pántcsomag, két polc, két akasztórúd. ⚠️ *A magas PAX négy polcához két további 6 000 Ft-os polc kell. Fogantyú és fuvar külön; falrögzítés szükséges, állítva szereléshez legalább 202 cm belmagasság. Helyi készlet nincs megerősítve.*
+- **PAX / FORSAND ajtós alapösszeállítás, fehér, 795.010.37** – PAX ár-összehasonlító alternatíva; nem az első választott gardróbrendszer. Első racionális árreferencia: helyszínen összeszerelhető, átrendezhető belső; két váz, négy ajtó és pántcsomag, négy polc, két akasztórúd. ⚠️ *A külső méret nem fokozatmentesen állítható. A váz állítva szereléséhez legalább 237 cm magasság kell; falrögzítés szükséges. A 300 cm-es hálós sor ellenőrzött alkatrészára 309 000 Ft, nem ennek az egy darabos sornak az ára.*
+  **Döntési státusz:** Méretre vár. **Következő lépés:** Kész szobai belmagasság és falszélesség, ajtónyitás/falanyag mérése; teljes, közel mennyezetig érő önszerelős ajánlat. PAX ár-összehasonlító alternatíva, a 236,4 cm nem elfogadott végmagasság.
+- **easybútor fehér 100 cm-es ajtós konfiguráció, 2 polc + rúd + 80 mm lábazat** – Első választott beszerzési irány: fehér, méretre előkészített önszerelős easybútor/asztalos gardrób. Ez a 100 cm-es alapelem csak árreferencia; a közel mennyezetig érő végső sor külön kiírandó. ⚠️ *Ajtólapszám, pánt/fogantyú tartalma és polcfuratsor nem igazolt. A webshop nem fogad online rendelést; fuvar, kész méret és október 30. előtti átadás megerősítendő. Qty 1 áregység, nem szobai rendelési darabszám.*
+  **Döntési státusz:** Méretre vár. **Következő lépés:** Kész szobai belmagasság és falszélesség, ajtónyitás/falanyag mérése; teljes, közel mennyezetig érő önszerelős ajánlat. PAX ár-összehasonlító alternatíva, a 236,4 cm nem elfogadott végmagasság. Gyártható magasság/felső modul, belső kiosztás, vasalat, előfúrás és fuvar tételes ajánlata szükséges.
+- **PAX / FORSAND fehér alacsony csomag, 695.010.33** – PAX ár-összehasonlító alternatíva; nem az első választott gardróbrendszer. Olcsóbb és alacsonyabb moduláris alternatíva: két váz, négy ajtó és pántcsomag, két polc, két akasztórúd. ⚠️ *A magas PAX négy polcához két további 6 000 Ft-os polc kell. Fogantyú és fuvar külön; falrögzítés szükséges, állítva szereléshez legalább 202 cm belmagasság. Helyi készlet nincs megerősítve.*
+  **Döntési státusz:** Méretre vár. **Következő lépés:** Kész szobai belmagasság és falszélesség, ajtónyitás/falanyag mérése; teljes, közel mennyezetig érő önszerelős ajánlat. PAX ár-összehasonlító alternatíva, a 236,4 cm nem elfogadott végmagasság.
 - **Csanád 2 ajtós, 1 fiókos válaszfalas szekrény** – Opcionális fa/furnér referencia; a gardróbhoz a tulajdonos praktikus bútorlapot is elfogadott. Akasztós és polcos rész, egy fiók; a vizsgált három jelölt közül a legkisebb darabár. ⚠️ *Sárgás felület kizáró ok lehet mintapróbán. A webes kivonat régi ára eltért; 209 900 Ft az élő oldal ára. Egyben érkezik: beviteli út és falrögzítés tisztázandó.*
-- **PAX / TONSTAD gardrób kombináció 595.667.32** – Opcionális fa/furnér referencia; a gardróbhoz a tulajdonos praktikus bútorlapot is elfogadott. Magasabb, bővíthető rendszer valódi fa fronttal; a látható felület illeszkedik az anyagpreferenciához. ⚠️ *A fehér belső lapanyag jelölt kompromisszum. Tartalom: 100+50 cm váz, három ajtó és pántcsomag, egy rúd, nyolc polc, három kosár sínekkel. Rögzítés és a legalább 237 cm-es szerelési magasság ellenőrizendő.*
+  **Döntési státusz:** Méretre vár. **Következő lépés:** Kész szobai belmagasság és falszélesség, ajtónyitás/falanyag mérése; teljes, közel mennyezetig érő önszerelős ajánlat. PAX ár-összehasonlító alternatíva, a 236,4 cm nem elfogadott végmagasság.
+- **PAX / TONSTAD gardrób kombináció 595.667.32** – PAX ár-összehasonlító alternatíva; nem az első választott gardróbrendszer. Opcionális fa/furnér referencia; a gardróbhoz a tulajdonos praktikus bútorlapot is elfogadott. Magasabb, bővíthető rendszer valódi fa fronttal; a látható felület illeszkedik az anyagpreferenciához. ⚠️ *A fehér belső lapanyag jelölt kompromisszum. Tartalom: 100+50 cm váz, három ajtó és pántcsomag, egy rúd, nyolc polc, három kosár sínekkel. Rögzítés és a legalább 237 cm-es szerelési magasság ellenőrizendő.*
+  **Döntési státusz:** Méretre vár. **Következő lépés:** Kész szobai belmagasság és falszélesség, ajtónyitás/falanyag mérése; teljes, közel mennyezetig érő önszerelős ajánlat. PAX ár-összehasonlító alternatíva, a 236,4 cm nem elfogadott végmagasság.
 - **Provence TYP 01 kétajtós ruhásszekrény fehér** – Opcionális fa/furnér referencia; a gardróbhoz a tulajdonos praktikus bútorlapot is elfogadott. Fehér tömörfa irány; egy akasztórúd, egy polc és két alsó fiók. ⚠️ *Díszesebb provence-i front, ezért a letisztult Forest Wood Coastal mellett stíluskompromisszum. Egyben érkezik; beviteli út ellenőrizendő. Látott jelzés: kevesebb mint öt darab, 1–2 hét; címre vállalt határidő nincs.*
+  **Döntési státusz:** Méretre vár. **Következő lépés:** Kész szobai belmagasság és falszélesség, ajtónyitás/falanyag mérése; teljes, közel mennyezetig érő önszerelős ajánlat. PAX ár-összehasonlító alternatíva, a 236,4 cm nem elfogadott végmagasság.
+- **PAX/FORSAND használatra szabott 300 cm-es sor, polcokkal és sárgarézszínű gombokkal** – PAX ár-összehasonlító alternatíva; nem az első választott gardróbrendszer. Fele akasztós és fele polcos névleges modulszélesség. Tételes jelenlegi javaslat, nem a korábbi alapcsomag méretarányos ára. ⚠️ *2×100-as és 2×50-es váz; 6 ajtó, 6 négyes pántcsomag, 6×100-as és 6×50-es polc, 1×100-as és 1×50-es rúd, 6 BAGGANÄS gomb. A színminta, nyitás és falrögzítés még ellenőrizendő.*
+  **Döntési státusz:** Méretre vár. **Következő lépés:** Kész szobai belmagasság és falszélesség, ajtónyitás/falanyag mérése; teljes, közel mennyezetig érő önszerelős ajánlat. PAX ár-összehasonlító alternatíva, a 236,4 cm nem elfogadott végmagasság.
 
 ### Matrac — Prio 1
 
@@ -138,8 +143,11 @@
 > **A beszerzési összegből kizárva:** A két felnőttre megadott terhelhetőség, komfort és alátámasztás nem igazolt; árazott kutatási jelölt. Személyes komfort és az ágy–rács–matrac összeállítás alkalmassága még nyitott; nem kiválasztott csomag. Személyes próba és terhelhetőség még nyitott; a teljes Anikó csomag választásakor nem külön beszerzés.
 
 - **RelaXx Hard Comfort hideghab matrac 180×200** – Illeszkedés: takart funkcionális elem, mosható huzattal. A két árazott matrac közül alacsonyabb termékár; nem igazolt legolcsóbb megfelelő csomag. ⚠️ *Kemény komfort; a 100 kg-os súlykorlát személyenkénti vagy teljes értelmezése tisztázandó. Két felnőttre alkalmasság és rácselőírás nem igazolt.*
+  **Döntési státusz:** Próbára és választásra vár. **Következő lépés:** Közepesnél kissé keményebb, szállodai érzet, jellemzően oldalt/hason alváshoz: két használó személyes próbája. Teherbírás, gyártói rácselőírás és októberi szállítás ellenőrzendő; egy közös 180×200 kell.
 - **VALEVÅG zsákrugós matrac, kemény, 180×200** – Illeszkedés: takart funkcionális elem; a szín az ágynemű alatt nem meghatározó. Zsákrugós alternatíva dokumentált 90 éjszakás próbával. ⚠️ *Kemény kivitel, 5 zóna; nem mosható huzat. Kibontott matrac próba utáni visszavétele jóváírókártyával, feltételekkel. Komfort, terhelhetőség és rácselőírás ellenőrizendő.*
+  **Döntési státusz:** Próbára és választásra vár. **Következő lépés:** Közepesnél kissé keményebb, szállodai érzet, jellemzően oldalt/hason alváshoz: két használó személyes próbája. Teherbírás, gyártói rácselőírás és októberi szállítás ellenőrzendő; egy közös 180×200 kell.
 - **Perfect Fusion közös hideghab matrac 180×200** – A kemény jelöltek mellé másik habos próbaalternatíva, mosható huzattal; tárolós ággyal gyári/kereskedői csomagként is kínálják. ⚠️ *Félkemény/kiegyensúlyozott leírás mellett H3 adat; nem közös keménységi skála. A 120 kg-os súlykorlát értelmezése és a komfort/rácselőírás tisztázandó. A gyártói marketingjelzők nem bizonyított egészségügyi előnyök.*
+  **Döntési státusz:** Próbára és választásra vár. **Következő lépés:** Közepesnél kissé keményebb, szállodai érzet, jellemzően oldalt/hason alváshoz: két használó személyes próbája. Teherbírás, gyártói rácselőírás és októberi szállítás ellenőrzendő; egy közös 180×200 kell.
 
 ### Ágyrács — Prio 1
 
@@ -153,7 +161,9 @@
 > **A beszerzési összegből kizárva:** A választott kerettel és matraccal nem igazolt párosítás. Alguema mellé nem kell külön rács, mert azt tartalmazza.
 
 - **BALKJOSEN ágyrács 90×200 – két darab szükséges** – Illeszkedés: takart faalapú alátámasztás; a szerkezeti alkalmasság fontosabb a színnél. Kedvező páros termékár, még nem igazolt megfelelő megoldás. ⚠️ *Terhelhetőség, lamellaköz, középtámasz és keretbefogadás ellenőrizendő. Rögzítés tisztázandó; a termékoldal értékelései zaj-/stabilitási panaszokat is jeleznek, nem igazolt általános hibát.*
+  **Döntési státusz:** Próbára és választásra vár. **Következő lépés:** A kiválasztott keret felfekvése, középtámasza, matrac lamellaköz-előírása és terhelhetősége együtt ellenőrizendő; saját rácsos ágyhoz nem kell külön pár.
 - **HEMSIL FIX ágyrács 90×200 – két darab szükséges** – Illeszkedés: takart faalapú alátámasztás; a szerkezeti alkalmasság fontosabb a színnél. Keretes alternatíva; felára csak igazolt szerkezeti vagy komfortelőnnyel indokolt. ⚠️ *Terhelhetőség, lamellaköz, középtámasz és keretbefogadás ellenőrizendő. 7,5 cm magassága miatt a befekvési mélység külön ellenőrizendő; szerelendő.*
+  **Döntési státusz:** Próbára és választásra vár. **Következő lépés:** A kiválasztott keret felfekvése, középtámasza, matrac lamellaköz-előírása és terhelhetősége együtt ellenőrizendő; saját rácsos ágyhoz nem kell külön pár.
 
 ### Éjjeliszekrény — Prio 2
 
@@ -166,6 +176,25 @@
 
 - **TONSTAD Éjjeliszekrény, tölgy furnér** – Valódi tölgy furnér, kerek, karcsú lábak – 'kevesebb, de nagyobb' helyett itt a minőség számít: a fiók zárt tárolást ad a babás praktikum miatt.
 - **STORKLINTA 2-fiókos szekrény, tölgyfa hatású** – Alacsony árú, mégis tölgy-hatású, 2 fiókos zárt tárolás – jó ideiglenes vagy költségkímélő megoldás. ⚠️ *Fóliázott forgácslap, nem valódi fa vagy furnér – közelről és élettartamban gyengébb a TONSTAD-nál.*
+
+### Ágyneműhuzat garnitúra — Prio 2
+
+| Prio | | Termék | Bolt – hol kapható | Anyag / szín | Méret | Ár | Db |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Prio 2** | Figyelőlista | [ÄNGSLILJA Paplanhuzat+2 párnahuzat, natúr](https://www.ikea.com/hu/hu/p/aengslilja-paplanhuzat-2-parnahuzat-natur-70591966/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | 100% pamut (min. 50% újrahasznosított), törtfehér/natúr | 200x200 cm paplanhuzat + 2x 50x60 cm párnahuzat | **8 990 Ft** <br>*/garnitúra* | 1 |
+| **Prio 2** | Figyelőlista | [NATTJASMIN Paplanhuzat+2 párnahuzat, világosbézs](https://www.ikea.com/hu/hu/p/nattjasmin-paplanhuzat-2-parnahuzat-vilagosbezs-10442601/) | **IKEA** – online (ikea.com/hu) + áruház (Budaörs) | 60% pamut, 40% lyocell, világosbézs, finom csíkos szatén szövés | 200x200 cm paplanhuzat + 2x 50x60 cm párnahuzat | **12 990 Ft** <br>*akciós, eredeti ár 17 990 Ft* | 1 |
+| **Prio 2** | Figyelőlista | [Kétszemélyes len ágyneműhuzat szett, bézs](https://www2.hm.com/hu_hu/productpage.0188589050.html) | **H&M Home** – online, házhozszállítás; készlet a megadott állapot szerint | 100% len, bézs; 60 °C-on mosható | 200 × 200 cm + 50 × 60 cm párnahuzatok | **59 995 Ft** <br>*/szett* <br>*A kiválasztott 200×200 / 50×60 méret nincs készleten; összesítőből kizárva.* | 1 |
+
+**Prio 2:** Meglévő felnőtt ágynemű mellett új huzat nem beköltözési feladat. A felnőtt ágynemű megvan; új lenhuzat későbbi csere vagy megjelenési extra.
+
+> **A beszerzési összegből kizárva:** A felnőtt ágynemű meglévő; ez csak korábbi termékreferencia. Meglévő felnőtt ágynemű; az új lenhuzat nem szükséges P1 vásárlás.
+
+- **ÄNGSLILJA Paplanhuzat+2 párnahuzat, natúr** – Sima, mintátlan, előmosott pamut natúr színben – matt textúra, pontosan a 'mosott len vagy pamut, törtfehér' irányelvhez illik. ⚠️ *2026-09-20: a tulajdonos az ágynemű meglétét megerősítette. Új vásárlás nem javasolt.*
+  **Döntési státusz:** Hozott-megrendelt. **Következő lépés:** A tulajdonos szerint a felnőtt ágynemű megvan; új huzatot nem kell beszerezni.
+- **NATTJASMIN Paplanhuzat+2 párnahuzat, világosbézs** – Puhább lyocell-pamut keverék, homok/bézs tónus – finomabb fogású felsőkategóriás választás a hálóba. ⚠️ *2026-09-20: a tulajdonos az ágynemű meglétét megerősítette. Új vásárlás nem javasolt.*
+  **Döntési státusz:** Hozott-megrendelt. **Következő lépés:** A tulajdonos szerint a felnőtt ágynemű megvan; új huzatot nem kell beszerezni.
+- **Kétszemélyes len ágyneműhuzat szett, bézs** – Valódi len alternatíva a projekt pamut garnitúrájához. ⚠️ *A 160×200 / 70×80 és 200×220 / 70×80 változat elérhetőnek látszott, de nem azonos a terv méretével. Nem automatikus mérethelyettesítés.*
+  **Döntési státusz:** Meglévővel kiváltott cserejelölt. **Következő lépés:** Beköltözéshez új ágyneműt ne vásárolj; későbbi csere esetén a meglévő paplan és párna méretéhez igazítsd.
 
 ### Szőnyeg — Prio 2
 
@@ -219,7 +248,7 @@
 
 **Prio 2:** A fekhely, alap ágynemű és sötétítés mellett fél évig nélkülözhető vagy átmenetileg helyettesíthető.
 
-- **ANKARUDDEN 4-fiókos szekrény, tölgyfa hatású** – Zárt tárolás, tölgy tónus – a 'nyitott/zárt 30/70' elv szerint ez a szoba fő zárt tárolója, falhoz rögzíthető a babás biztonság miatt. ⚠️ *Fólia bevonatú, nem valódi tölgy furnér; falhoz rögzítő szett használata kötelező jellegű kisgyerekes háztartásban.* *(ár listaoldalról)*
+- **ANKARUDDEN 4-fiókos szekrény, tölgyfa hatású** – Zárt tárolás, tölgy tónus – a 'nyitott/zárt 30/70' elv szerint ez a szoba későbbi kiegészítő zárt tárolója; az alap ruhatárolást az egyedi gardrób biztosítja, falhoz rögzíthető a babás biztonság miatt. ⚠️ *Fólia bevonatú, nem valódi tölgy furnér; falhoz rögzítő szett használata kötelező jellegű kisgyerekes háztartásban.* *(ár listaoldalról)*
 
 ### Fali tükör — Prio 2
 

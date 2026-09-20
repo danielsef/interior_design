@@ -6,6 +6,8 @@
 
 **A legalacsonyabb árazott keret–rács referencia most az Ada; az OLSKER/STUBBERUP marad az első tölgy irány, az Anikó pedig a tárolós alternatíva.** Az Ada szállítási határideje miatt még nem biztos P1 megoldás. A Kave Home Alguema további összevetési pont, érdemi igazolt előny nélkül nem indokolt a felára. Ez előzetes rangsor, nem lezárt csomagajánlás. A két JYSK-modell két eltérő szerkezet, de egy beszerzési forrás.
 
+**Legújabb döntés:** OLSKER/STUBBERUP natúr tölgy/furnér az első ágyirány; tároló opcionális. Egy közös 180×200-as matrac, közepesnél kissé keményebb, szállodai jellegű érzet, jellemzően oldalt/hason alváshoz. A szerelést saját segítséggel oldjátok meg. Ada olcsóbb fenyő árreferencia, Anikó csak tárolós alternatíva; az ársorrend nem írja felül a választott anyagirányt.
+
 ## Ellenőrzött, megfelelő fekvőméretű alternatívák
 
 A terméklinkek a 2026-09-20-án megnyitott konkrét változatokra mutatnak. Az anyag- és méretadatok kereskedői adatok; a stílusbeli értékelés a projekt irányelvéből következő saját mérlegelés.
@@ -55,7 +57,7 @@ Az Ada olcsóbb a 115 000 Ft-os JYSK kereteknél, ráadásul rácsot is tartalma
 - **Alguema:** 443 700 Ft + matrac + szállítás/szükséges szerelés; a benne lévő rácsot nem számoljuk még egyszer.
 - Egy közös matrac alatt lehet két külön ágyrács, **ha a választott keret és matrac gyártói előírásai ezt megengedik**. A középgerenda, terhelhetőség, lamellaköz és befekvési mélység ellenőrizendő.
 - Az ágyneműtartó opcionális: csak kompatibilis megoldás árát szabad hozzáadni; az ágy alatti szabad hely nem bizonyít megfelelő fiókot.
-- A matrac típusát/keménységét nem választjuk ki pusztán a szoba stílusa vagy a „prémium” címke alapján. Szükséges a két használó komfortigénye és próba, valamint az ágyhoz való kompatibilitás. A keretre feltett kérdés az új módszer szerint tárgytalan; a komfortigény és a teljes szállított ár még ellenőrizendő.
+- A matrac típusát/keménységét nem választjuk ki pusztán a szoba stílusa vagy a „prémium” címke alapján. Szükséges a két használó komfortigénye és próba, valamint az ágyhoz való kompatibilitás. A keretre feltett kérdés az új módszer szerint tárgytalan; a komfortcél rögzítve, a próba és a teljes szállított ár még ellenőrizendő.
 
 A [JYSK szállítási tájékoztatója](https://jysk.hu/aszf) a díjat a csomag és cím alapján határozza meg; nincs hozzá automatikusan alkalmazható fix fuvardíjunk. Az Urban Home megnyitott [szállítási oldala](https://urbanhome.hu/en/pages/szallitas) nem adott kinyerhető konkrét díjat. Ezért egyikből sem gyártunk teljes szállított csomagárat.
 

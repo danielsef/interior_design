@@ -17,9 +17,9 @@
 - **Beköltözés: 2026. október 30.** A szeptember 20-i kutatási állapothoz képest 40 nap áll rendelkezésre.
 - **Források:** új bolti termék, hazai gyártó, egyedi készítés, bemutatódarab és jó állapotú használt bútor is bevonható. Ez kutatási lehetőség, nem kapcsolatfelvételi vagy vásárlási megbízás.
 - **Anyag:** a fő bútoroknál tömörfa vagy valódi furnér; másutt praktikus kompromisszum elfogadható. A fa hatású dekor nem nevezhető furnérnak. A kárpitos bútoroknál külön ellenőrizzük a váz és a huzat anyagát.
-- **Étkező:** téglalap alakú asztal, alapállapotban hat kényelmes normál székhellyel. A bővíthetőség nem kötelező; párnázott vagy fonott ülés szükséges. Az induló székdarabszám még nincs rögzítve.
+- **Étkező:** téglalap alakú asztal, alapállapotban hat kényelmes normál székhellyel. A bővíthetőség nem kötelező; párnázott vagy fonott ülés szükséges. Beköltözéskor mind a hat szék szükséges.
 - **Háló:** egy közös 180×200 cm-es matrac. Az ágyneműtartó jó lenne, de nem kötelező.
-- **Kanapé:** kb. 300×200 cm-es, L alakú, ágyazható, inkább puha. A méret célérték; a helyszíni elrendezéssel ellenőrizendő. Árplafon nélküli összevetés, alkalmi vendégágy **két felnőttnek**; levehető/mosható vagy tisztítható fix kárpit egyaránt elfogadható. Az oldalirány még nyitott.
+- **Kanapé:** kb. 300×200 cm-es, L alakú, ágyazható, inkább puha. A méret célérték; a helyszíni elrendezéssel ellenőrizendő. Árplafon nélküli összevetés, alkalmi vendégágy **két felnőttnek**; levehető/mosható vagy tisztítható fix kárpit egyaránt elfogadható. Az oldalirány rögzített: szemből nézve bal oldali hosszabb fekvőrész.
 - **Gyermek:** beköltözéskor 1 éves; a kezdeti alvóhely és a meglévő babafelszerelés kérdését a tulajdonos most kihagyta. Nem kérdezzük újra ebben a körben, és nem feltételezünk választ.
 - A korábban rögzített fehér falak, RAL 1019 grey beige nyílászárók/párkányok, burkolatok és meglévő bútorok változatlan kiindulópontok. A dolgozóasztalt és széket hozzák; a 08-as szoba vendég-/tartalékszoba.
 - Világítás, új konyhabútor, meglévő mosdók és fürdőszobai szekrények beszerzése lezárt. A konyhafront megjelenése, fogantyúk, konyhai kőpult, kandallóburkolat és zuhanyzós fürdőpult továbbra is nyitott tervezési kör.
@@ -94,10 +94,10 @@ A kizárt jelöltekhez egy rövid, konkrét okot mentünk. A megszüntetett vagy
 | Étkező férőhely | megválaszolva: alapállapotban 6 normál szék |
 | Étkező forma / ár | téglalap; keretkérdés tárgytalan, a megfelelő csomagok legalacsonyabb teljes árát keressük |
 | Háló matracméret és ágyneműtartó | egy közös 180×200-as matrac; ágyneműtartó előny, nem kötelező |
-| Kanapé használata | kb. 300×200 cm, L alakú, inkább puha; alkalmi ágy két felnőttnek; árplafon nélküli teljesár-összevetés; fix vagy mosható kárpit elfogadható; oldalirány nyitott |
+| Kanapé használata | kb. 300×200 cm, L alakú, inkább puha; alkalmi ágy két felnőttnek; árplafon nélküli teljesár-összevetés; fix vagy mosható kárpit elfogadható; szemből nézve balos oldalirány rögzítve |
 | Gyermek kora és alvás helye | 1 éves; alvóhely és meglévő felszerelés kérdése tulajdonosi kérésre most kihagyva |
 | Helyszíni méretek | először az alaprajzból előkészítendő; rendeléshez kész méret szükséges |
-| Gépek és alapfelszerelések leltára | későbbi célzott kérdés; a teljes beköltözési összeg a megfelelő jelöltekből áll össze, a jelenlegi bútorlista nem teljes költözési költségvetés |
+| Gépek és alapfelszerelések leltára | interaktív kérdés feltéve, válaszra vár; a teljes beköltözési összeg a megfelelő jelöltekből áll össze, a jelenlegi bútorlista nem teljes költözési költségvetés |
 
 ## Követés
 
@@ -151,14 +151,20 @@ Párnázott vagy fonott ülés szükséges. A [három próbajelölt](03-etkezo/S
 
 ## Függöny, gardrób és hozott háztartási tételek – 2026-09-20
 
-A törölközők és összecsukható ruhaszárító meglévővel kiváltva, új áruk nem szerepel a költségekben. A tulajdonos karnis–függöny–sötétítő rendszert választott, külső árnyékoló nélkül. A [függönyös összevetés](00-altalanos-hangulat/OSSZEHASONLITAS.md) készterméket, méretre varrást és kétpályás sínreferenciát is vizsgál. Mérésig nincs összeadható teljes rendszerár, a régi rolók és feltételezett házcsomagok kizártak.
+A törölközők és összecsukható ruhaszárító meglévővel kiváltva, új áruk nem szerepel a költségekben. A tulajdonos karnis–függöny–sötétítő rendszert választott, külső árnyékoló nélkül. A [függönyös összevetés](00-altalanos-hangulat/OSSZEHASONLITAS.md) készterméket, méretre varrást és kétsoros fa karnist vizsgál; a korábbi alumíniumsín-referenciák az új követelmény miatt kizártak. Mérésig nincs összeadható teljes rendszerár, a régi rolók és feltételezett házcsomagok kizártak.
 
 A [gardrób három lehetséges kialakítása](14-gardrob/OSSZEHASONLITAS.md) a teljes belmagasság kihasználását vizsgálja. Méretre készülő megoldáshoz két forrás szerepel, mellettük ELVARLI és BOAXEL árreferencia; ez még nem azonos kapacitású végleges árverseny. A helyiség 155×180×280 cm-es mérete és átjáró jellege azóta megerősítve; a részletes kiosztás még szükséges, a külön gardrób P2. Külső megkeresés nem történt.
 
-## Két szobai szekrény és mennyezeti sín – megerősítve
+## Két szobai szekrény és fa karnis – frissített döntés
 
 Elsőként **05 háló + 06 babaszoba, ajtós gardróbszekrény, P1**, az alaprajzon berajzolt helyekre. [Elhelyezés és három termékirány](05-halo/GARDROB-OSSZEHASONLITAS.md). A 14-es helyiség kb. 155×180×280 cm-es kétajtós átjáró; nyitott belső elfogadott, teljes kiépítése P2. A teljesmagasság-preferencia eredetileg erre a külön helyiségre vonatkozott.
 
-A függönyrögzítés **fehér mennyezeti sín**; két réteghez két pálya. A látható rúdkarnisok nem beszerzendők. Új árreferencia a Basic sín és a DIEGO Topshade; [rendszerköltség és feltételek](00-altalanos-hangulat/OSSZEHASONLITAS.md).
+A függönyrögzítés **kétsoros valódi fa előlapos/dobozos karnis, két műanyag csúszópálya megengedett; alumínium és rúdkarnis kizárva**. A korábbi fehér mennyezeti sín döntése felülírva; Basic/Topshade alumíniumreferenciák kizártak. A fényszűrő kb. kétszeres bőségű, saját szerelés/varrás, kész méretek mérendők; [rendszerköltség és feltételek](00-altalanos-hangulat/OSSZEHASONLITAS.md).
 
 **Gardróbanyag frissítés:** nem kell tömörfa vagy furnér; a praktikus bútorlapos megoldás a tulajdonos által elfogadott. A helyszínen összeállítható, belül alakítható rendszert keressük. PAX/FORSAND mellett easybútor és budapesti Woodexpress előkészített lapanyag vizsgálandó. A fa jelöltek opcionális referenciák. Az általános főbútor-anyagpreferencia más kategóriákban megmarad.
+
+## Aktuális P1 döntési állapot – a korábbi naplók után
+
+A [teljes P1 állapotlap](P1-KUTATASI-ALLAPOT.md) és helyiségi P1-LEZARAS lapjai a jelenlegi döntési alap. A fenti rekordszámok és vizsgálati lépések történetiek. Mind a 16 helyiségcsoport P1 funkciói áttekintve; végleges beszerzés csak a jelzett választás, méret, próba és ajánlat után zárható le.
+
+Új válaszok: kanapé szemből balos, hat étkezőszék induláskor, közepesnél kissé keményebb szállodai matracérzet. Megvan a hűtő, főzőlap, sütő, mosógép, csap, páraelszívó, edények–étkészlet és felnőtt ágynemű. A mosogató a legutóbbi helyesbítés szerint még hiányzik. A [kérdések és rögzített válaszok](P1-KERDESEK.md) naplója frissítve.
